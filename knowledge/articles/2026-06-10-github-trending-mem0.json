@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-mem0",
+  "title": "AI Agent 通用记忆层：mem0",
+  "source": "github_trending",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "author": "mem0ai",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "mem0 是面向 AI Agent 的通用记忆层，为 LLM 应用提供跨会话的长期记忆管理能力，支持个性化记忆存储、检索与更新。它解决了 LLM 上下文窗口有限、无法跨会话保留用户信息的核心痛点，是构建有记忆的 AI 助手的关键基础设施。58k+ star 与 RAG 结合使用是当前个性化 Agent 的主流技术路线之一。",
+  "highlights": [
+    "AI Agent 通用记忆层，解决长期记忆难题",
+    "跨会话个性化记忆存储与检索",
+    "与 RAG 结合，增强上下文感知能力",
+    "58k star，记忆管理赛道代表项目"
+  ],
+  "tags": ["Agent", "Memory", "RAG", "LLM"],
+  "tags_suggested": ["Long-Term-Memory", "Personalization", "Mem0"],
+  "language": "zh",
+  "score": 0.8,
+  "score_raw": 8,
+  "score_reason": "解决 LLM Agent 长期记忆这一核心痛点，对构建个性化、有状态的 AI 助手有直接实用价值，是 Agent 基础设施层不可或缺的组件。",
+  "status": "draft",
+  "channels": []
+}

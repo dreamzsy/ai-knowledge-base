@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-mcp-servers",
+  "title": "MCP 官方参考服务器集合：modelcontextprotocol/servers",
+  "source": "github_trending",
+  "source_url": "https://github.com/modelcontextprotocol/servers",
+  "author": "modelcontextprotocol",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "modelcontextprotocol/servers 是 MCP（Model Context Protocol）官方维护的参考服务器集合，涵盖文件系统、数据库、浏览器等多种上下文接入能力。它解决了 LLM Agent 与外部工具/数据源标准化集成的问题，是 MCP 生态的基础设施核心。86k+ star 与 10k+ fork 反映出 MCP 协议正快速成为 Agent 工具集成的事实标准。",
+  "highlights": [
+    "MCP 官方参考实现，协议标准制定者",
+    "覆盖文件、数据库、浏览器等多类上下文服务",
+    "Agent 工具集成的事实标准基础设施",
+    "86k star / 10k fork，生态扩张迅速"
+  ],
+  "tags": ["MCP", "Agent", "Framework"],
+  "tags_suggested": ["Protocol", "Tool-Integration", "MCP-Server"],
+  "language": "zh",
+  "score": 0.9,
+  "score_raw": 9,
+  "score_reason": "MCP 协议官方参考实现，正在成为 Agent 与外部工具集成的事实标准，具备范式级生态影响力，是理解 Agent 工具层架构的必读项目。",
+  "status": "draft",
+  "channels": []
+}

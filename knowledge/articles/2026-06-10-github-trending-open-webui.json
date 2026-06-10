@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-open-webui",
+  "title": "自托管本地 LLM 交互前端：Open WebUI",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "author": "open-webui",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "Open WebUI 是一个用户友好的自托管 AI 交互界面，支持 Ollama、OpenAI API 及多种 LLM 后端，内置 RAG、MCP 等功能。它解决了本地/私有部署 LLM 缺乏统一前端界面的问题，让用户无需代码即可与各类模型交互。140k+ star 与 20k+ fork 使其成为本地 LLM 前端工具中最受欢迎的开源项目。",
+  "highlights": [
+    "自托管 LLM 前端，支持 Ollama 与 OpenAI API",
+    "内置 RAG 与 MCP 支持",
+    "无需代码，开箱即用",
+    "140k star / 20k fork，本地 LLM UI 赛道第一"
+  ],
+  "tags": ["LLM", "RAG", "MCP"],
+  "tags_suggested": ["Self-Hosted", "WebUI", "Ollama"],
+  "language": "zh",
+  "score": 0.7,
+  "score_raw": 7,
+  "score_reason": "本地 LLM 交互界面赛道标杆，RAG + MCP 集成完善，对本地部署场景有直接实用价值，但偏 UI 工具属于基础设施层，技术创新性相对有限。",
+  "status": "draft",
+  "channels": []
+}

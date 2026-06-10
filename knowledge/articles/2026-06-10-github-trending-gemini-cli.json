@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-10-gemini-cli",
+  "title": "Google 官方开源终端 AI Agent：gemini-cli",
+  "source": "github_trending",
+  "source_url": "https://github.com/google-gemini/gemini-cli",
+  "author": "google-gemini",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "gemini-cli 是 Google 官方开源的终端 AI Agent，将 Gemini 大模型能力直接嵌入命令行环境，支持 MCP 协议（既可作客户端也可作服务端）。它解决了开发者在终端中无法直接调用 Gemini 进行代码辅助、任务自动化的问题。凭借 Google 官方背书与原生 MCP 集成，有望成为终端 AI 工具的重要参照实现。",
+  "highlights": [
+    "Google 官方出品，Gemini API 原生集成",
+    "MCP 双模式支持（client + server）",
+    "终端原生 AI Agent，面向开发者工作流",
+    "TypeScript 实现，开源可扩展",
+    "上线即破 10 万 star，社区热度极高"
+  ],
+  "tags": ["Agent", "CLI", "MCP", "LLM"],
+  "tags_suggested": ["Gemini", "Terminal-Agent"],
+  "language": "zh",
+  "score": 0.9,
+  "score_raw": 9,
+  "score_reason": "Google 官方开源的终端 AI Agent，原生 MCP 支持具备协议层影响力，10 万+ star 说明市场认可度极高，对终端 AI 工具生态有范式级参考价值。",
+  "status": "draft",
+  "channels": []
+}

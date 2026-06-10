@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-openai-codex",
+  "title": "OpenAI 官方轻量级终端编码 Agent：codex",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/codex",
+  "author": "openai",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "openai/codex 是 OpenAI 发布的轻量级终端编码 Agent，使用 Rust 实现，专注于在命令行中完成代码生成与修改任务。它以轻量、快速为设计目标，解决了开发者在终端中进行 AI 辅助编码的需求，与 claude-code、gemini-cli 共同构成三大厂终端 AI Agent 竞争格局。90k+ star 印证了市场对此类工具的强烈需求。",
+  "highlights": [
+    "OpenAI 官方出品，Rust 实现轻量高效",
+    "终端原生轻量级编码 Agent",
+    "三大厂（OpenAI/Anthropic/Google）同赛道竞争标的",
+    "90k+ star，社区热度极高"
+  ],
+  "tags": ["Agent", "CLI", "LLM"],
+  "tags_suggested": ["Coding-Agent", "Terminal-Agent", "OpenAI"],
+  "language": "zh",
+  "score": 0.8,
+  "score_raw": 8,
+  "score_reason": "OpenAI 官方终端编码 Agent，Rust 实现具备性能优势，与同赛道竞品共同推动终端 AI 工具标准化，直接影响开发者工作流选型。",
+  "status": "draft",
+  "channels": []
+}

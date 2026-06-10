@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-autogen",
+  "title": "微软官方 Multi-Agent 编程框架：AutoGen",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/autogen",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "AutoGen 是微软开源的 Agentic AI 编程框架，提供多 Agent 对话与协作的抽象层，支持异步消息传递、工具调用与人机协同等模式。它解决了构建复杂多 Agent 系统时缺乏统一编程模型的问题，是学术界和工业界研究 Multi-Agent 协作的主流参照框架之一。58k+ star 与近 9k fork 体现出持续稳定的社区影响力。",
+  "highlights": [
+    "微软官方 Multi-Agent 编程框架",
+    "支持异步消息、工具调用与人机协同",
+    "学术与工业界 Multi-Agent 研究标准参照",
+    "58k star，生态文档完善"
+  ],
+  "tags": ["Agent", "Multi-Agent", "Framework", "LLM"],
+  "tags_suggested": ["AutoGen", "Microsoft", "Async-Agent"],
+  "language": "zh",
+  "score": 0.8,
+  "score_raw": 8,
+  "score_reason": "微软官方 Multi-Agent 框架，编程模型成熟、文档完善，对构建复杂 Agent 系统有直接参考价值，在学术与工程两个维度均有较强影响力。",
+  "status": "draft",
+  "channels": []
+}

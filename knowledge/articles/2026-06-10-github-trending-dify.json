@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-10-dify",
+  "title": "生产级 Agentic 工作流开发平台：Dify",
+  "source": "github_trending",
+  "source_url": "https://github.com/langgenius/dify",
+  "author": "langgenius",
+  "published_at": null,
+  "collected_at": "2026-06-10T16:40:00+08:00",
+  "summary": "Dify 是面向生产的 Agentic 工作流开发平台，集成 RAG、MCP、低代码/无代码界面，支持从原型到生产的完整 LLM 应用生命周期管理。它解决了企业级 LLM 应用从开发到部署缺乏统一平台的问题，内置工作流编排、知识库管理、多模型接入等能力。144k+ star 与 22k+ fork 使其成为 LLM 应用平台赛道最具代表性的开源项目。",
+  "highlights": [
+    "生产级 Agentic 工作流平台",
+    "内置 RAG 知识库管理",
+    "MCP 协议原生支持",
+    "低代码/无代码界面，兼顾开发者与业务人员",
+    "144k star / 22k fork，LLM 应用平台赛道标杆"
+  ],
+  "tags": ["Agent", "Workflow", "RAG", "MCP", "LLM", "Framework"],
+  "tags_suggested": ["Low-Code", "Production-Platform", "Dify"],
+  "language": "zh",
+  "score": 0.9,
+  "score_raw": 9,
+  "score_reason": "生产级 LLM 应用平台，RAG + MCP + 工作流全栈覆盖，22k fork 说明大量企业在生产环境使用，生态影响力达到范式级。",
+  "status": "draft",
+  "channels": []
+}
