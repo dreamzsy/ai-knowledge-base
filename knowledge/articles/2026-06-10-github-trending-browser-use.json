@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-10-browser-use",
+  "title": "AI Agent 浏览器自动化工具：Browser-use",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "author": "browser-use",
+  "published_at": null,
+  "collected_at": "2026-06-10T20:30:00+08:00",
+  "summary": "Browser-use 让 AI Agent 能够自动操作浏览器完成在线任务，基于 Playwright 封装，是构建网页自动化 Agent 的轻量级工具。",
+  "highlights": null,
+  "tags": ["Agent", "Browser-Automation", "LLM", "Python"],
+  "language": "Python",
+  "stars": 98165,
+  "score": null,
+  "status": "draft",
+  "channels": []
+}

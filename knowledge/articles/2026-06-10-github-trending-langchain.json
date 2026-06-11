@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-10-langchain",
+  "title": "LLM 应用构建核心框架：LangChain",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "author": "langchain-ai",
+  "published_at": null,
+  "collected_at": "2026-06-10T20:30:00+08:00",
+  "summary": "LangChain 是主流的 Agent 工程平台，提供 RAG、多 Agent 协作、工具调用等全套能力，是构建 LLM 应用最广泛使用的核心框架之一。",
+  "highlights": null,
+  "tags": ["Agent", "RAG", "Framework", "LLM", "Multi-Agent"],
+  "language": "Python",
+  "stars": 138993,
+  "score": null,
+  "status": "draft",
+  "channels": []
+}

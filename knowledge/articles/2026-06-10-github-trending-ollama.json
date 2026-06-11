@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-10-ollama",
+  "title": "本地 LLM 部署事实标准：Ollama",
+  "source": "github_trending",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "published_at": null,
+  "collected_at": "2026-06-10T20:30:00+08:00",
+  "summary": "Ollama 是一个本地运行大语言模型的工具，支持 DeepSeek、Qwen、Gemma、Llama 等主流模型，因其一键启动、跨平台支持而成为本地 LLM 部署的事实标准。",
+  "highlights": null,
+  "tags": ["LLM", "CLI", "Local-Deployment", "Framework"],
+  "language": "Go",
+  "stars": 173803,
+  "score": null,
+  "status": "draft",
+  "channels": []
+}

@@ -1,139 +1,127 @@
 {
   "source": "github_trending",
-  "period": "weekly",
-  "collected_at": "2026-06-10T16:40:00+08:00",
-  "query": "AI / LLM / Agent",
-  "count": 10,
+  "skill": "github-trending",
+  "collected_at": "2026-06-10T20:30:00+08:00",
   "items": [
     {
-      "rank": 1,
-      "repo_name": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "description": "一个开源 AI agent，把 Gemini 的能力直接带入你的终端。",
-      "description_en": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "language": "TypeScript",
-      "stars_total": 105118,
-      "stars_this_week": null,
-      "topics": ["ai", "ai-agents", "cli", "gemini", "gemini-api", "mcp-client", "mcp-server"],
-      "forks": 14023,
-      "collected_at": "2026-06-10T16:40:00+08:00"
-    },
-    {
-      "rank": 2,
-      "repo_name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code 是一款生活在终端里的 agentic 编码工具，能理解你的代码库，通过自然语言命令执行日常任务、解释复杂代码、处理 git 工作流，帮助你更快地编码。",
-      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT 是一个自主 AI Agent 框架，致力于让所有人都能使用和构建 AI，因其作为自主 Agent 先驱项目、持续活跃的生态系统而受到广泛关注。",
+      "stars": 184886,
       "language": "Python",
-      "stars_total": 131447,
-      "stars_this_week": null,
-      "topics": [],
-      "forks": 21295,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "topics": ["agentic-ai", "agents", "ai", "artificial-intelligence", "autonomous-agents", "claude", "gpt", "llama-api", "llm", "openai", "python"]
     },
     {
-      "rank": 3,
-      "repo_name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "运行在终端中的轻量级编码 agent。",
-      "description_en": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars_total": 90082,
-      "stars_this_week": null,
-      "topics": [],
-      "forks": 13270,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "Ollama 是一个本地运行大语言模型的工具，支持 DeepSeek、Qwen、Gemma、Llama 等主流模型，因其一键启动、跨平台支持而成为本地 LLM 部署的事实标准。",
+      "stars": 173803,
+      "language": "Go",
+      "topics": ["deepseek", "gemma", "gemma3", "glm", "go", "golang", "gpt-oss", "llama", "llama3", "llm", "llms", "minimax", "mistral", "ollama", "qwen"]
     },
     {
-      "rank": 4,
-      "repo_name": "langflow-ai/langflow",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Transformers 是 Hugging Face 出品的模型定义框架，覆盖文本、视觉、音频、多模态任务，是当前最主流的预训练模型加载与微调基础库。",
+      "stars": 161486,
+      "language": "Python",
+      "topics": ["audio", "deep-learning", "deepseek", "gemma", "glm", "llm", "machine-learning", "model-hub", "natural-language-processing", "nlp", "pretrained-models", "python", "pytorch", "transformer", "vlm"]
+    },
+    {
+      "name": "langflow-ai/langflow",
       "url": "https://github.com/langflow-ai/langflow",
-      "description": "Langflow 是一款用于构建和部署 AI 驱动的 agent 与工作流的强大工具。",
-      "description_en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "summary": "Langflow 是一个可视化的 AI Agent 与工作流构建平台，基于拖拽式界面快速编排多 Agent 流程，适合快速原型到生产部署。",
+      "stars": 149484,
       "language": "Python",
-      "stars_total": 149484,
-      "stars_this_week": null,
-      "topics": ["agents", "chatgpt", "generative-ai", "large-language-models", "multiagent", "react-flow"],
-      "forks": 9227,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "topics": ["agents", "chatgpt", "generative-ai", "large-language-models", "multiagent", "react-flow"]
     },
     {
-      "rank": 5,
-      "repo_name": "langgenius/dify",
+      "name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "description": "面向生产的 agentic 工作流开发平台。",
-      "description_en": "Production-ready platform for agentic workflow development.",
+      "summary": "Dify 是一个生产就绪的 Agentic 工作流开发平台，集成 RAG、MCP、低代码编排等能力，适合快速构建和部署企业级 AI 应用。",
+      "stars": 144762,
       "language": "TypeScript",
-      "stars_total": 144670,
-      "stars_this_week": null,
-      "topics": ["agent", "agentic-ai", "agentic-framework", "agentic-workflow", "ai", "automation", "llm", "low-code", "mcp", "no-code", "rag", "workflow"],
-      "forks": 22760,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "topics": ["agent", "agentic-ai", "agentic-framework", "agentic-workflow", "ai", "automation", "gemini", "genai", "gpt", "gpt-4", "llm", "low-code", "mcp", "nextjs", "no-code", "openai", "orchestration", "python", "rag", "workflow"]
     },
     {
-      "rank": 6,
-      "repo_name": "open-webui/open-webui",
+      "name": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "description": "用户友好的 AI 交互界面（支持 Ollama、OpenAI API 等）。",
-      "description_en": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "Open WebUI 是一个支持 Ollama 和 OpenAI API 的自托管 AI 交互界面，内置 RAG、MCP 等功能，是本地部署大模型的主流前端方案。",
+      "stars": 141017,
       "language": "Python",
-      "stars_total": 140918,
-      "stars_this_week": null,
-      "topics": ["ai", "llm", "llm-ui", "llm-webui", "llms", "mcp", "ollama", "openai", "rag", "self-hosted", "webui"],
-      "forks": 20219,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "topics": ["ai", "llm", "llm-ui", "llm-webui", "llms", "mcp", "ollama", "ollama-webui", "open-webui", "openai", "openapi", "rag", "self-hosted", "ui", "webui"]
     },
     {
-      "rank": 7,
-      "repo_name": "modelcontextprotocol/servers",
-      "url": "https://github.com/modelcontextprotocol/servers",
-      "description": "Model Context Protocol（模型上下文协议）服务器集合。",
-      "description_en": "Model Context Protocol Servers",
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "LangChain 是主流的 Agent 工程平台，提供 RAG、多 Agent 协作、工具调用等全套能力，是构建 LLM 应用最广泛使用的核心框架之一。",
+      "stars": 138993,
+      "language": "Python",
+      "topics": ["agents", "ai", "ai-agents", "anthropic", "chatgpt", "enterprise", "framework", "gemini", "generative-ai", "langchain", "langgraph", "llm", "multiagent", "open-source", "openai", "pydantic", "python", "rag", "typescript"]
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Claude Code 是 Anthropic 出品的 Agentic 编码工具，运行于终端，能理解代码库并通过自然语言完成日常开发任务、代码解释和 Git 工作流管理。",
+      "stars": 131447,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "Firecrawl 是面向 AI 的网页抓取与搜索 API，支持大规模抓取并将网页转为 Markdown，是 RAG 和 AI Agent 数据采集的热门基础设施。",
+      "stars": 131182,
       "language": "TypeScript",
-      "stars_total": 86990,
-      "stars_this_week": null,
-      "topics": [],
-      "forks": 10968,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "topics": ["ai", "ai-agents", "ai-crawler", "ai-scraping", "ai-search", "crawler", "data-extraction", "html-to-markdown", "llm", "markdown", "scraper", "scraping", "web-crawler", "web-data-extraction", "web-scraper", "web-scraping"]
     },
     {
-      "rank": 8,
-      "repo_name": "TauricResearch/TradingAgents",
+      "name": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "summary": "Gemini CLI 是 Google 开源的终端 AI Agent，将 Gemini 模型能力直接带入命令行，支持 MCP 客户端与服务端，是 Google 官方的开发者工具 Agent。",
+      "stars": 105118,
+      "language": "TypeScript",
+      "topics": ["ai", "ai-agents", "cli", "gemini", "gemini-api", "mcp-client", "mcp-server"]
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "summary": "Browser-use 让 AI Agent 能够自动操作浏览器完成在线任务，基于 Playwright 封装，是构建网页自动化 Agent 的轻量级工具。",
+      "stars": 98165,
+      "language": "Python",
+      "topics": ["ai-agents", "ai-tools", "browser-automation", "browser-use", "llm", "playwright", "python"]
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "summary": "LLMs-from-scratch 通过 PyTorch 从零实现 ChatGPT 类大语言模型，逐步讲解预训练、微调、指令对齐全流程，是深入理解 LLM 原理的实践教程。",
+      "stars": 96979,
+      "language": "Jupyter Notebook",
+      "topics": ["ai", "artificial-intelligence", "attention-mechanism", "deep-learning", "finetuning", "generative-ai", "gpt", "instruction-tuning", "language-model", "large-language-models", "llm", "machine-learning", "nlp", "pretraining", "python", "pytorch", "transformers"]
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "summary": "OpenAI Codex CLI 是运行于终端的轻量级编码 Agent，可在本地执行代码生成和修改任务，是 OpenAI 官方推出的命令行 AI 编程助手。",
+      "stars": 90082,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "summary": "MCP Servers 是 Model Context Protocol 的官方服务器集合，提供标准化的工具与上下文接口，是 AI Agent 生态中工具调用互联互通的基础协议实现。",
+      "stars": 86990,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents：多智能体 LLM 金融交易框架。",
-      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "summary": "TradingAgents 是基于多 Agent LLM 的金融交易框架，通过多个协作 Agent 模拟交易决策流程，是 LLM 在量化金融领域应用的代表性开源项目。",
+      "stars": 85030,
       "language": "Python",
-      "stars_total": 84870,
-      "stars_this_week": null,
-      "topics": ["agent", "finance", "llm", "multiagent", "trading"],
-      "forks": 16422,
-      "collected_at": "2026-06-10T16:40:00+08:00"
-    },
-    {
-      "rank": 9,
-      "repo_name": "microsoft/autogen",
-      "url": "https://github.com/microsoft/autogen",
-      "description": "一个面向 agentic AI 的编程框架。",
-      "description_en": "A programming framework for agentic AI",
-      "language": "Python",
-      "stars_total": 58830,
-      "stars_this_week": null,
-      "topics": ["agentic", "agents", "ai", "autogen", "framework", "llm-agent", "llm-framework"],
-      "forks": 8876,
-      "collected_at": "2026-06-10T16:40:00+08:00"
-    },
-    {
-      "rank": 10,
-      "repo_name": "mem0ai/mem0",
-      "url": "https://github.com/mem0ai/mem0",
-      "description": "面向 AI Agent 的通用记忆层。",
-      "description_en": "Universal memory layer for AI Agents",
-      "language": "Python",
-      "stars_total": 58238,
-      "stars_this_week": null,
-      "topics": ["agents", "ai", "ai-agents", "chatgpt", "llm", "long-term-memory", "memory", "memory-management", "python", "rag"],
-      "forks": 6687,
-      "collected_at": "2026-06-10T16:40:00+08:00"
+      "topics": ["agent", "finance", "llm", "multiagent", "trading"]
     }
   ]
 }

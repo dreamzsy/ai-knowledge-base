@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-10-llms-from-scratch",
+  "title": "从零实现 GPT 类大语言模型实践教程：LLMs-from-scratch",
+  "source": "github_trending",
+  "source_url": "https://github.com/rasbt/LLMs-from-scratch",
+  "author": "rasbt",
+  "published_at": null,
+  "collected_at": "2026-06-10T20:30:00+08:00",
+  "summary": "LLMs-from-scratch 通过 PyTorch 从零实现 ChatGPT 类大语言模型，逐步讲解预训练、微调、指令对齐全流程，是深入理解 LLM 原理的实践教程。",
+  "highlights": null,
+  "tags": ["LLM", "Education", "Fine-Tuning", "PyTorch", "NLP"],
+  "language": "Jupyter Notebook",
+  "stars": 96979,
+  "score": null,
+  "status": "draft",
+  "channels": []
+}

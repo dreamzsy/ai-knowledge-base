@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-10-firecrawl",
+  "title": "面向 AI 的网页抓取与搜索 API：Firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": null,
+  "collected_at": "2026-06-10T20:30:00+08:00",
+  "summary": "Firecrawl 是面向 AI 的网页抓取与搜索 API，支持大规模抓取并将网页转为 Markdown，是 RAG 和 AI Agent 数据采集的热门基础设施。",
+  "highlights": null,
+  "tags": ["RAG", "Agent", "Crawler", "Data-Extraction", "LLM"],
+  "language": "TypeScript",
+  "stars": 131182,
+  "score": null,
+  "status": "draft",
+  "channels": []
+}
