@@ -1,0 +1,38 @@
+[
+  {
+    "source": "rss",
+    "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+    "url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 20:33:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "published_at": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 12 Jun 2026 15:56:10 GMT",
+    "extra": {}
+  }
+]

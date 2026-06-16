@@ -1,0 +1,62 @@
+[
+  {
+    "source": "github_trending",
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "author": "openclaw",
+    "summary_raw": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "published_at": "2025-11-24T10:16:47Z",
+    "extra": {
+      "stars": 378913,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "author": "obra",
+    "summary_raw": "An agentic skills framework & software development methodology that works.",
+    "published_at": "2025-10-09T19:45:18Z",
+    "extra": {
+      "stars": 228962,
+      "language": "Shell"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "author": "affaan-m",
+    "summary_raw": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "published_at": "2026-01-18T00:51:51Z",
+    "extra": {
+      "stars": 216252,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "author": "NousResearch",
+    "summary_raw": "The agent that grows with you",
+    "published_at": "2025-07-22T22:22:28Z",
+    "extra": {
+      "stars": 194592,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "author": "ultraworkers",
+    "summary_raw": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "published_at": "2026-03-31T08:58:08Z",
+    "extra": {
+      "stars": 193864,
+      "language": "Rust"
+    }
+  }
+]

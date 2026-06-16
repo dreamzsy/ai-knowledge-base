@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-16-olmo-eval-an-evaluation-workbench-for-the-model-development-loop",
+  "title": "olmo-eval: An evaluation workbench for the model development loop",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 12 Jun 2026 15:56:10 GMT",
+  "collected_at": "2026-06-16T11:57:40.138644+08:00",
+  "summary": "olmo-eval 是一个为模型开发循环设计的评估工作台，旨在简化语言模型的评估流程，支持快速迭代和实验跟踪。它提供了标准化评估套件和可视化工具，帮助研究人员高效评估模型性能。",
+  "highlights": [
+    "专为模型开发循环设计的评估工作台，支持快速迭代",
+    "提供标准化评估套件和可视化工具",
+    "简化语言模型评估流程，提升研究效率"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Framework",
+    "Tool"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该工具针对模型开发中的评估痛点，实用性强，但创新性一般，适合作为辅助工具。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
