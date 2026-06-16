@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "knowledge-base": {
+      "command": "/Users/xxx/.local/bin/python3.11",
+      "args": [
+        "/Users/xxx/Documents/ai-knowledge-base/mcp_knowledge_server.py"
+      ]
+    }
+  }
+}

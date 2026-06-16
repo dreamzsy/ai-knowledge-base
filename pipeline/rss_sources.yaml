@@ -1,0 +1,60 @@
+# RSS 数据源配置
+# 用途: 供采集层读取, 决定哪些 RSS 源进入 knowledge/raw/
+# 字段:
+#   name     源名称, 用于日志与归档目录
+#   url      RSS / Atom 订阅地址
+#   category 源分类, 与 knowledge/tags.yaml 解耦
+#   enabled  是否启用采集 (false 表示暂不抓取)
+# 红线: 必须遵守目标站点 robots.txt 与速率限制 (CLAUDE.md §7.8)
+
+sources:
+  # === 综合技术 ===
+  - name: hacker_news_best
+    url: https://hnrss.org/best?q=AI+OR+LLM+OR+agent
+    category: 综合技术
+    enabled: true
+
+  - name: lobsters_ai
+    url: https://lobste.rs/t/ai.rss
+    category: 综合技术
+    enabled: true
+
+  - name: lobsters_ml
+    url: https://lobste.rs/t/ml.rss
+    category: 综合技术
+    enabled: true
+
+  # === AI 研究 ===
+  # arXiv cs.AI 日均 50+ 篇, 量大默认关闭, 启用前需配合关键词过滤
+  - name: arxiv_cs_ai
+    url: http://export.arxiv.org/rss/cs.AI
+    category: AI 研究
+    enabled: false
+
+  # === 公司博客 ===
+  - name: openai_blog
+    url: https://openai.com/blog/rss.xml
+    category: 公司博客
+    enabled: true
+
+  - name: anthropic_research
+    url: https://www.anthropic.com/news/rss.xml
+    category: 公司博客
+    enabled: true
+
+  - name: huggingface_blog
+    url: https://huggingface.co/blog/feed.xml
+    category: 公司博客
+    enabled: true
+
+  # === 中文社区 ===
+  # 以下中文源 RSS 可用性待确认, 启用前需人工验证 feed 是否仍在更新
+  - name: jiqizhixin
+    url: https://www.jiqizhixin.com/rss
+    category: 中文社区
+    enabled: false
+
+  - name: qbitai
+    url: https://www.qbitai.com/feed
+    category: 中文社区
+    enabled: false

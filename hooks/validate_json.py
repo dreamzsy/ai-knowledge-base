@@ -38,14 +38,15 @@ VALID_AUDIENCES: frozenset[str] = frozenset(
     {"beginner", "intermediate", "advanced"}
 )
 
-# ID 形如 {source}-{YYYYMMDD}-{NNN}，例如 github-20260317-001。
-ID_PATTERN: re.Pattern[str] = re.compile(r"^[a-z0-9_]+-\d{8}-\d{3}$")
+# ID 形如 YYYY-MM-DD-<slug>，例如 2026-06-10-langgraph-state-machine（见 CLAUDE.md §5）。
+ID_PATTERN: re.Pattern[str] = re.compile(r"^\d{4}-\d{2}-\d{2}-[a-z0-9][a-z0-9-]*$")
 URL_PATTERN: re.Pattern[str] = re.compile(r"^https?://\S+$", re.IGNORECASE)
 
 MIN_SUMMARY_LEN: int = 20
 MIN_TAGS: int = 1
-SCORE_MIN: int = 1
-SCORE_MAX: int = 10
+# score 为模型价值评分，区间 0–1（见 CLAUDE.md §5）。
+SCORE_MIN: float = 0.0
+SCORE_MAX: float = 1.0
 
 
 def validate_entry(data: dict[str, object]) -> list[str]:
@@ -76,7 +77,7 @@ def validate_entry(data: dict[str, object]) -> list[str]:
     entry_id = data.get("id")
     if isinstance(entry_id, str) and not ID_PATTERN.match(entry_id):
         errors.append(
-            f"id 格式错误: {entry_id!r} 不符合 {{source}}-{{YYYYMMDD}}-{{NNN}}"
+            f"id 格式错误: {entry_id!r} 不符合 YYYY-MM-DD-<slug>"
         )
 
     status = data.get("status")
