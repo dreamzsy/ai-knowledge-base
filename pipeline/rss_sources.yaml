@@ -33,14 +33,16 @@ sources:
 
   # === 公司博客 ===
   - name: openai_blog
-    url: https://openai.com/blog/rss.xml
+    url: https://openai.com/news/rss.xml
     category: 公司博客
     enabled: true
 
+  # Anthropic 官方未提供公开新闻 RSS（原 /news/rss.xml 已 404），暂停用。
+  # 待官方上线 feed 或改用第三方聚合源后再启用。
   - name: anthropic_research
     url: https://www.anthropic.com/news/rss.xml
     category: 公司博客
-    enabled: true
+    enabled: false
 
   - name: huggingface_blog
     url: https://huggingface.co/blog/feed.xml

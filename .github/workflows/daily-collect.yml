@@ -1,0 +1,74 @@
+name: 每日知识采集
+
+# 触发：每天 UTC 08:00（北京时间 16:00）定时 + 手动触发
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+# 授予写权限：流水线产出需自动 commit + push 回仓库
+permissions:
+  contents: write
+
+# 同一时刻只跑一份，避免定时与手动触发并发推送冲突
+concurrency:
+  group: daily-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python 3.11（启用 pip 缓存）
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行采集流水线
+        env:
+          # LLM 凭据由仓库 Secrets 注入，绝不写入代码或日志
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'deepseek' }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+
+      - name: 校验文章 JSON 合法性（不合法则失败）
+        run: |
+          shopt -s nullglob
+          files=(knowledge/articles/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "无文章文件，跳过校验"
+            exit 0
+          fi
+          python hooks/validate_json.py "${files[@]}"
+
+      - name: 质量评分（仅报告，不阻断）
+        continue-on-error: true
+        run: |
+          shopt -s nullglob
+          files=(knowledge/articles/*.json)
+          [ ${#files[@]} -gt 0 ] && python hooks/check_quality.py "${files[@]}" || true
+
+      - name: 提交并推送新增数据（无变更则跳过）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add knowledge/
+          if git diff --cached --quiet; then
+            echo "无新增数据，跳过提交"
+            exit 0
+          fi
+          count=$(git diff --cached --name-only --diff-filter=A -- 'knowledge/articles/*.json' | wc -l | tr -d ' ')
+          today=$(date -u +%Y-%m-%d)
+          git commit -m "chore(daily): 采集 ${count} 篇新文章 (${today})"
+          git push

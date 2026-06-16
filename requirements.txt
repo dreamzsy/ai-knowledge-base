@@ -1,0 +1,8 @@
+# 知识库流水线运行时依赖
+# 安装：pip install -r requirements.txt
+
+# HTTP 客户端：采集层抓取 + LLM OpenAI 兼容 API 调用
+httpx>=0.28,<0.29
+
+# 读取 .env 中的 LLM_PROVIDER / *_API_KEY（CI 环境用 Secrets 注入，本地用 .env）
+python-dotenv>=1.0,<2.0

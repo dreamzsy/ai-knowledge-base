@@ -272,6 +272,10 @@ def build_provider(
     )
 
 
+# 兼容别名：流水线等调用方使用 create_provider 这一命名。
+create_provider = build_provider
+
+
 def chat_with_retry(
     provider: LLMProvider,
     messages: List[Message],
