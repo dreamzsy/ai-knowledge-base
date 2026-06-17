@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-17-profiling-in-pytorch-part-2-from-nn-linear-to-a-fused-mlp",
+  "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-17T12:12:48.049008+00:00",
+  "summary": "本文是PyTorch性能分析系列的第二部分，深入探讨如何从基本的nn.Linear层出发，通过算子融合技术优化多层感知机（MLP）。文章详细介绍了使用PyTorch Profiler识别性能瓶颈，并演示如何将多个线性层融合为一个更高效的实现，从而减少内核启动开销和内存带宽消耗。",
+  "highlights": [
+    "通过PyTorch Profiler识别MLP中nn.Linear层的性能瓶颈",
+    "展示算子融合技术如何减少内核启动次数和内存访问",
+    "提供从标准MLP到融合MLP的代码实现对比",
+    "量化分析融合后的性能提升，包括延迟和吞吐量改进"
+  ],
+  "tags": [
+    "PyTorch",
+    "Profiling",
+    "MLP",
+    "Kernel Fusion",
+    "Performance Optimization"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章提供了实用的PyTorch性能优化技巧，结合具体代码和Profiler工具，对深度学习模型部署有直接指导价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-17-from-the-hugging-face-hub-to-robot-hardware-with-strands-agents-and-lerobot",
+  "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 17 Jun 2026 10:18:05 GMT",
+  "collected_at": "2026-06-17T12:12:37.762576+00:00",
+  "summary": "本文介绍了如何通过Strands Agents和LeRobot将Hugging Face Hub上的机器人模型部署到实际硬件上。Strands Agents是一个开源框架，用于连接AI模型与机器人硬件，而LeRobot则提供了机器人学习的数据集和工具。文章详细说明了从模型选择、环境配置到硬件集成的完整流程，展示了从虚拟仿真到真实机器人操作的端到端解决方案，降低了机器人AI应用的门槛。",
+  "highlights": [
+    "Strands Agents框架实现了从Hugging Face Hub到机器人硬件的无缝部署",
+    "LeRobot提供了丰富的机器人学习数据集和预训练模型",
+    "详细介绍了模型选择、环境配置和硬件集成的步骤",
+    "展示了从仿真到真实机器人的端到端工作流程"
+  ],
+  "tags": [
+    "Robotics",
+    "LLM",
+    "Agent",
+    "Framework",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该方案将LLM与机器人硬件结合，提供了实用的开源工具和清晰的部署路径，对机器人AI应用有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

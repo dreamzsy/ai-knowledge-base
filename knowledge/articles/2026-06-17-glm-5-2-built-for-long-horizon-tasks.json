@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-17-glm-5-2-built-for-long-horizon-tasks",
+  "title": "GLM-5.2: Built for Long-Horizon Tasks",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 17 Jun 2026 09:01:25 GMT",
+  "collected_at": "2026-06-17T12:12:40.920648+00:00",
+  "summary": "GLM-5.2 是一个专为长周期任务设计的大语言模型，通过改进的架构和训练策略，在需要长期记忆和复杂推理的场景中表现出色，适用于多步骤规划、持续对话和长时间任务执行。",
+  "highlights": [
+    "专为长周期任务优化，支持长时间记忆和复杂推理",
+    "改进的架构设计，提升多步骤规划能力",
+    "在持续对话和长时间任务执行中表现优异",
+    "适用于需要长期依赖和上下文管理的场景"
+  ],
+  "tags": [
+    "LLM",
+    "Long-Horizon",
+    "Memory",
+    "Reasoning",
+    "Framework"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "针对长周期任务的专门优化填补了现有模型在长时间依赖场景的空白，具有较高实用价值",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

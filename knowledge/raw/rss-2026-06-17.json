@@ -1,15 +1,6 @@
 [
   {
     "source": "rss",
-    "title": "My Homelab AI Dev Platform",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "author": "hacker_news_best",
-    "summary_raw": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 357 # Comments: 56",
-    "published_at": "Mon, 15 Jun 2026 15:09:40 +0000",
-    "extra": {}
-  },
-  {
-    "source": "rss",
     "title": "Can gzip be a language model?",
     "url": "https://nathan.rs/posts/gzip-lm/",
     "author": "lobsters_ai",
@@ -114,6 +105,42 @@
     "author": "openai_blog",
     "summary_raw": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
     "published_at": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 10:18:05 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 09:01:25 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 12 Jun 2026 15:56:10 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
     "extra": {}
   }
 ]
