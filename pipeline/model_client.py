@@ -69,6 +69,14 @@ PRICING_USD_PER_1K: Dict[str, Dict[str, float]] = {
     "gpt-4o-mini": {"input": 0.00015, "output": 0.0006},
 }
 
+# 人民币计价表：元 / 百万 tokens，按「提供商」维度区分输入与输出。
+# 供 CostTracker 估算累计成本，价格随官方调整，仅作预算参考。
+PRICING_CNY_PER_MILLION: Dict[str, Dict[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "qwen": {"input": 4.0, "output": 12.0},
+    "openai": {"input": 150.0, "output": 600.0},  # gpt-4o-mini
+}
+
 
 @dataclass
 class Usage:
@@ -204,7 +212,10 @@ class OpenAICompatibleProvider(LLMProvider):
         response = httpx.post(url, json=payload, headers=headers, timeout=self.timeout)
         response.raise_for_status()
         data = response.json()
-        return self._parse_response(data, used_model)
+        result = self._parse_response(data, used_model)
+        # 调用成功后自动累计用量到全局成本追踪器（覆盖所有上层调用路径）。
+        tracker.record(result.usage, self.name)
+        return result
 
     def _parse_response(self, data: Dict[str, Any], used_model: str) -> LLMResponse:
         """把原始 JSON 解析为 :class:`LLMResponse`。
@@ -370,6 +381,106 @@ def estimate_cost_usd(model: str, prompt_tokens: int, completion_tokens: int) ->
         + completion_tokens / 1000.0 * pricing["output"]
     )
     return round(cost, 6)
+
+
+@dataclass
+class _ProviderCost:
+    """单个提供商的累计用量与调用次数（CostTracker 内部使用）。
+
+    Attributes:
+        calls: 已记录的成功调用次数。
+        prompt_tokens: 累计输入 token 数。
+        completion_tokens: 累计输出 token 数。
+    """
+
+    calls: int = 0
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
+
+
+class CostTracker:
+    """累计 LLM 调用的 token 用量并按人民币估算成本。
+
+    以「提供商」为维度聚合，价格取自 :data:`PRICING_CNY_PER_MILLION`
+    （元 / 百万 tokens）。线程不安全，适用于单进程串行的流水线场景。
+
+    Attributes:
+        costs: 提供商标识到其累计用量 :class:`_ProviderCost` 的映射。
+    """
+
+    def __init__(self) -> None:
+        """初始化空的成本追踪器。"""
+        self.costs: Dict[str, _ProviderCost] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """记录一次成功调用的 token 用量。
+
+        Args:
+            usage: 本次调用的 :class:`Usage` 用量统计。
+            provider: 提供商标识（如 ``deepseek`` / ``qwen`` / ``openai``）。
+        """
+        entry = self.costs.setdefault(provider, _ProviderCost())
+        entry.calls += 1
+        entry.prompt_tokens += usage.prompt_tokens
+        entry.completion_tokens += usage.completion_tokens
+
+    def estimated_cost(self, provider: str) -> float:
+        """估算某提供商的累计成本（人民币元）。
+
+        Args:
+            provider: 提供商标识。
+
+        Returns:
+            估算成本（元，保留 4 位小数）；无记录或无计价数据时返回 ``0.0``。
+        """
+        entry = self.costs.get(provider)
+        if entry is None:
+            return 0.0
+        pricing = PRICING_CNY_PER_MILLION.get(provider)
+        if pricing is None:
+            logger.warning("提供商 %s 无人民币计价数据，成本按 0 计", provider)
+            return 0.0
+        cost = (
+            entry.prompt_tokens / 1_000_000 * pricing["input"]
+            + entry.completion_tokens / 1_000_000 * pricing["output"]
+        )
+        return round(cost, 4)
+
+    def total_cost(self) -> float:
+        """汇总所有提供商的估算成本（元）。
+
+        Returns:
+            各提供商成本之和，保留 4 位小数。
+        """
+        return round(sum(self.estimated_cost(p) for p in self.costs), 4)
+
+    def report(self, provider: Optional[str] = None) -> None:
+        """以日志形式打印成本报告。
+
+        Args:
+            provider: 指定提供商则只报告该项；为 ``None`` 时报告全部并汇总。
+        """
+        targets = [provider] if provider else sorted(self.costs)
+        if not targets:
+            logger.info("成本报告：暂无 LLM 调用记录。")
+            return
+        logger.info("===== LLM 成本报告（估算，单位：元）=====")
+        for name in targets:
+            entry = self.costs.get(name)
+            if entry is None:
+                logger.info("  %s：无调用记录", name)
+                continue
+            logger.info(
+                "  %s：调用 %d 次，输入 %d / 输出 %d tokens，约 ¥%.4f",
+                name, entry.calls, entry.prompt_tokens,
+                entry.completion_tokens, self.estimated_cost(name),
+            )
+        if provider is None and len(targets) > 1:
+            logger.info("  合计：约 ¥%.4f", self.total_cost())
+
+
+# 全局成本追踪器：chat 成功后自动记录，流水线结束时调 report()。
+tracker = CostTracker()
 
 
 def quick_chat(

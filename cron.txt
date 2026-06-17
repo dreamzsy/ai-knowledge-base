@@ -1,0 +1,7 @@
+PATH=/usr/local/bin:/usr/bin:/bin
+
+# 每天 08:00 免费采集(只抓取归档,不调用大模型)
+0 8 * * * cd ~/Documents/ai-knowledge-base && /usr/bin/python3 pipeline/pipeline.py --steps collect >> logs/collect.log 2>&1
+
+# 每周日 10:00 付费分析(回读近7天原始数据,调用大模型生成条目)
+0 10 * * 0 cd ~/Documents/ai-knowledge-base && /usr/bin/python3 pipeline/pipeline.py --steps analyze,organize,save >> logs/analyze.log 2>&1

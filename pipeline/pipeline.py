@@ -28,16 +28,17 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import re
 import sys
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import httpx
 
-from model_client import chat_with_retry, create_provider
+from model_client import chat_with_retry, create_provider, tracker
 
 logger = logging.getLogger("pipeline")
 
@@ -55,6 +56,12 @@ HTTP_TIMEOUT = 30.0
 SCORE_THRESHOLD = 0.6
 
 VALID_STATUSES = ("draft", "reviewed", "published", "archived")
+
+# 可独立调度的流水线步骤（用于 --steps：每日仅 collect，每周 analyze,organize,save）。
+VALID_STEPS = ("collect", "analyze", "organize", "save")
+
+# analyze 步骤独立运行时，回看 knowledge/raw/ 多少天内的归档作为输入。
+RAW_LOOKBACK_DAYS = 7
 
 
 @dataclass
@@ -520,66 +527,130 @@ def archive_raw(items: List[RawItem], source_label: str, today: str, dry_run: bo
     logger.info("原始数据归档至 %s（%d 条）", path.name, len(items))
 
 
+def load_recent_raw(lookback_days: int = RAW_LOOKBACK_DAYS) -> List[RawItem]:
+    """从 ``knowledge/raw/`` 回读近 N 天归档的原始记录。
+
+    供 analyze 步骤独立运行时使用：每日采集与每周分析相隔数天，分析阶段
+    需把这段时间内 collect 落盘的原始数据重新装载回内存。按文件名末尾的
+    ``YYYY-MM-DD`` 过滤日期窗口（解析失败的文件一律纳入，从宽不漏数据）。
+
+    Args:
+        lookback_days: 回看天数（含今天），早于该窗口的归档忽略。
+
+    Returns:
+        窗口内全部原始记录；目录不存在或无匹配时返回空列表。
+    """
+    if not RAW_DIR.exists():
+        logger.warning("原始归档目录不存在：%s", RAW_DIR)
+        return []
+    cutoff = datetime.now().date() - timedelta(days=lookback_days - 1)
+    items: List[RawItem] = []
+    for path in sorted(RAW_DIR.glob("*.json")):
+        m = re.search(r"(\d{4}-\d{2}-\d{2})", path.stem)
+        if m:
+            try:
+                if datetime.strptime(m.group(1), "%Y-%m-%d").date() < cutoff:
+                    continue
+            except ValueError:
+                pass  # 文件名日期异常时不丢弃，交由后续按内容处理。
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            logger.warning("跳过无法读取的归档 %s：%s", path.name, exc)
+            continue
+        for rec in payload:
+            known = {f for f in RawItem.__dataclass_fields__}
+            items.append(RawItem(**{k: v for k, v in rec.items() if k in known}))
+    logger.info("回读 %d 天内原始记录共 %d 条", lookback_days, len(items))
+    return items
+
+
 # --------------------------------------------------------------------------- #
 # 编排（Orchestration）
 # --------------------------------------------------------------------------- #
-def run_pipeline(sources: List[str], limit: int, dry_run: bool) -> PipelineStats:
-    """按 采集 → 分析 → 整理 → 保存 顺序执行整条流水线。
+def run_pipeline(
+    sources: List[str],
+    limit: int,
+    dry_run: bool,
+    steps: Optional[List[str]] = None,
+) -> PipelineStats:
+    """按 采集 → 分析 → 整理 → 保存 顺序执行流水线，支持只跑其中部分步骤。
+
+    步骤可拆开调度（每日仅 ``collect``，每周 ``analyze,organize,save``）。当
+    ``analyze`` 在没有 ``collect`` 的情况下运行时，自动从 ``knowledge/raw/``
+    回读近 :data:`RAW_LOOKBACK_DAYS` 天的归档作为输入。
 
     Args:
         sources: 启用的数据源列表（``github`` / ``rss`` 的子集）。
         limit: 每个数据源的采集条数上限。
         dry_run: 干跑模式，不写任何文件，且跳过需要 API Key 的真实分析。
+        steps: 要执行的步骤子集；``None`` 表示全部四步。
 
     Returns:
         本次运行的 :class:`PipelineStats`。
     """
+    active = list(steps) if steps else list(VALID_STEPS)
     stats = PipelineStats()
     today = datetime.now().strftime("%Y-%m-%d")
 
     # Step 1: 采集
     raw_items: List[RawItem] = []
-    if "github" in sources:
-        gh = collect_github(limit)
-        archive_raw(gh, "github", today, dry_run)
-        raw_items.extend(gh)
-    if "rss" in sources:
-        rss = collect_rss(limit)
-        archive_raw(rss, "rss", today, dry_run)
-        raw_items.extend(rss)
-    stats.collected = len(raw_items)
-    logger.info("Step 1 采集完成：共 %d 条", stats.collected)
-
-    if not raw_items:
-        logger.warning("无采集结果，流水线结束")
-        return stats
+    if "collect" in active:
+        if "github" in sources:
+            gh = collect_github(limit)
+            archive_raw(gh, "github", today, dry_run)
+            raw_items.extend(gh)
+        if "rss" in sources:
+            rss = collect_rss(limit)
+            archive_raw(rss, "rss", today, dry_run)
+            raw_items.extend(rss)
+        stats.collected = len(raw_items)
+        logger.info("Step 1 采集完成：共 %d 条", stats.collected)
+    elif "analyze" in active:
+        # 分析独立调度：采集发生在数天前，从归档回读原始数据。
+        raw_items = load_recent_raw()
 
     # Step 2: 分析（干跑不消耗 API 额度）
     articles: List[Dict[str, Any]] = []
-    if dry_run:
-        logger.info("[dry-run] 跳过 LLM 分析，仅预演 %d 条", len(raw_items))
-        for raw in raw_items:
-            stub = {"summary": raw.summary_raw or raw.title, "highlights": [],
-                    "tags": [], "score": None, "score_reason": "dry-run"}
-            articles.append(build_article(raw, stub, today))
-    else:
-        provider = create_provider()
-        for raw in raw_items:
-            analysis = analyze_item(provider, raw)
-            if analysis is None:
-                stats.skipped += 1
-                continue
-            stats.analyzed += 1
-            articles.append(build_article(raw, analysis, today))
-    logger.info("Step 2 分析完成：成功 %d 条", stats.analyzed if not dry_run else len(articles))
+    if "analyze" in active:
+        if not raw_items:
+            logger.warning("无原始数据可分析，流水线结束")
+            return stats
+        if dry_run:
+            logger.info("[dry-run] 跳过 LLM 分析，仅预演 %d 条", len(raw_items))
+            for raw in raw_items:
+                stub = {"summary": raw.summary_raw or raw.title, "highlights": [],
+                        "tags": [], "score": None, "score_reason": "dry-run"}
+                articles.append(build_article(raw, stub, today))
+        else:
+            provider = create_provider()
+            for raw in raw_items:
+                analysis = analyze_item(provider, raw)
+                if analysis is None:
+                    stats.skipped += 1
+                    continue
+                stats.analyzed += 1
+                articles.append(build_article(raw, analysis, today))
+        logger.info("Step 2 分析完成：成功 %d 条",
+                    stats.analyzed if not dry_run else len(articles))
+    elif "collect" in active:
+        # 只采集不分析：原始数据已归档，本次到此为止。
+        logger.info("仅执行采集，原始数据已归档，跳过后续步骤")
+        return stats
 
     # Step 3: 整理
-    organized = organize(articles, stats)
-    logger.info("Step 3 整理完成：保留 %d 条", stats.organized)
+    organized = articles
+    if "organize" in active:
+        organized = organize(articles, stats)
+        logger.info("Step 3 整理完成：保留 %d 条", stats.organized)
 
     # Step 4: 保存
-    save_articles(organized, stats, dry_run)
-    logger.info("Step 4 保存完成：写入 %d 条", stats.saved)
+    if "save" in active:
+        save_articles(organized, stats, dry_run)
+        logger.info("Step 4 保存完成：写入 %d 条", stats.saved)
+
+    # 运行结束：输出本次 LLM 成本估算（按当前 provider；纯采集时为空报告）。
+    tracker.report(provider=os.getenv("LLM_PROVIDER", "deepseek").lower())
     return stats
 
 
@@ -609,6 +680,15 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     parser.add_argument(
         "--verbose", action="store_true", help="输出 DEBUG 级详细日志。"
     )
+    parser.add_argument(
+        "--steps",
+        default="collect,analyze,organize,save",
+        help=(
+            "逗号分隔的执行步骤，可选 collect / analyze / organize / save"
+            "（默认全部）。每日仅采集用 --steps collect；"
+            "每周分析用 --steps analyze,organize,save。"
+        ),
+    )
     return parser.parse_args(argv)
 
 
@@ -633,10 +713,18 @@ def main(argv: Optional[List[str]] = None) -> int:
         logger.error("无效的 --sources：%s（可选 github / rss）", invalid or "空")
         return 2
 
+    steps = [s.strip().lower() for s in args.steps.split(",") if s.strip()]
+    bad_steps = [s for s in steps if s not in VALID_STEPS]
+    if bad_steps or not steps:
+        logger.error("无效的 --steps：%s（可选 %s）",
+                     bad_steps or "空", " / ".join(VALID_STEPS))
+        return 2
+
     logger.info(
-        "启动流水线 sources=%s limit=%d dry_run=%s", sources, args.limit, args.dry_run
+        "启动流水线 sources=%s limit=%d dry_run=%s steps=%s",
+        sources, args.limit, args.dry_run, steps,
     )
-    stats = run_pipeline(sources, args.limit, args.dry_run)
+    stats = run_pipeline(sources, args.limit, args.dry_run, steps)
     logger.info(
         "运行汇总：采集 %d / 分析 %d / 整理 %d / 保存 %d / 跳过 %d",
         stats.collected, stats.analyzed, stats.organized, stats.saved, stats.skipped,
