@@ -1,0 +1,119 @@
+[
+  {
+    "source": "rss",
+    "title": "My Homelab AI Dev Platform",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 357 # Comments: 56",
+    "published_at": "Mon, 15 Jun 2026 15:09:40 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Can gzip be a language model?",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/j11pew/can_gzip_be_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 17:17:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+    "url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 20:33:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "June Framework Memory and storage pricing updates",
+    "url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;The 128GB Framework Desktop appreciates a whopping $1,660 today, pricing it at a total of $4,839 now. It was $2,000 at launch.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/uicwti/june_framework_memory_storage_pricing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 17:04:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Building llm-driven “ai” still requires domain knowledge",
+    "url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;I’m in the process of building an llm driven tool to take user questions and answer them using our customer api at $work.&lt;/p&gt; &lt;p&gt;A big part of the work is capturing the domain knowledge and writing it down. It’s easier than previous generations of “ai” because the knowledge doesn’t strictly have to be rendered into a structured format, but this is what previous generations of “ai” foundered on.&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 09:46:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+    "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 03:29:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 08 Jun 2026 16:47:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "published_at": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "author": "openai_blog",
+    "summary_raw": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "published_at": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

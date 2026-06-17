@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-17-my-homelab-ai-dev-platform",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 15 Jun 2026 15:09:40 +0000",
+  "collected_at": "2026-06-17T02:50:38.630491+00:00",
+  "summary": "本文介绍了作者如何利用家庭实验室搭建AI开发平台，涵盖硬件配置、软件工具链及工作流程优化，旨在为个人开发者提供低成本、高效率的AI实验环境。",
+  "highlights": [
+    "详细描述了家庭实验室的硬件选择与配置方案",
+    "分享了AI开发工具链的搭建与集成经验",
+    "提供了优化工作流程以提升开发效率的实用建议",
+    "强调了低成本实现AI实验环境的可行性"
+  ],
+  "tags": [
+    "Homelab",
+    "AI",
+    "DevOps",
+    "Infrastructure",
+    "Self-Hosted"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容实用性强，为个人开发者提供了可复现的AI开发环境搭建指南，但缺乏创新性技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

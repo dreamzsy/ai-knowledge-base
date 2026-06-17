@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-17-new-openai-academy-courses-for-the-next-era-of-work",
+  "title": "New OpenAI Academy courses for the next era of work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "author": "openai_blog",
+  "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
+  "collected_at": "2026-06-17T02:51:11.411600+00:00",
+  "summary": "OpenAI 推出三门学院课程，旨在帮助人们掌握实用 AI 技能、创建可重复的工作流程，并将智能体应用于日常工作，以适应新的工作时代。",
+  "highlights": [
+    "课程聚焦于构建实用 AI 技能，提升工作效率",
+    "教授如何创建可重复的 AI 工作流程，实现自动化",
+    "引入智能体在日常工作中的应用，拓展 AI 使用场景"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Workflow",
+    "Education",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该课程体系实用性强，覆盖 AI 技能、工作流和智能体应用，对提升工作效率有直接帮助，但缺乏技术深度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

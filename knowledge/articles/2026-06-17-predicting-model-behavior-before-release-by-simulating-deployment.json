@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-17-predicting-model-behavior-before-release-by-simulating-deployment",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/deployment-simulation",
+  "author": "openai_blog",
+  "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-17T02:51:05.924044+00:00",
+  "summary": "OpenAI 提出部署模拟方法，利用真实对话数据在模型发布前预测其行为，旨在提升安全性和评估准确性。",
+  "highlights": [
+    "通过模拟部署环境预测模型行为",
+    "使用真实对话数据增强评估准确性",
+    "旨在提升AI模型发布前的安全性"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Evaluation",
+    "Simulation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "方法创新且实用，直接针对AI部署前的安全评估痛点，但尚未公开详细效果数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

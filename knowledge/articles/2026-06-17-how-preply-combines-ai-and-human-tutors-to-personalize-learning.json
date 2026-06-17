@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-17-how-preply-combines-ai-and-human-tutors-to-personalize-learning",
+  "title": "How Preply combines AI and human tutors to personalize learning",
+  "source": "rss",
+  "source_url": "https://openai.com/index/preply",
+  "author": "openai_blog",
+  "published_at": "Fri, 12 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-17T02:51:13.819926+00:00",
+  "summary": "Preply 利用 OpenAI 技术推出 AI 生成的课程摘要，结合人类导师提供个性化反馈和语言学习练习，实现 AI 与真人教学的融合，提升学习效果。",
+  "highlights": [
+    "AI 生成课程摘要，辅助个性化学习",
+    "结合人类导师提供精准反馈",
+    "通过 OpenAI 技术增强语言练习体验"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "EdTech",
+    "Personalization"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目展示了 AI 在教育领域的实际应用，结合人类导师提升个性化学习，具有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
