@@ -101,7 +101,9 @@ def validate_entry(data: dict[str, object]) -> list[str]:
         errors.append(f"tags 至少需要 {MIN_TAGS} 个")
 
     # 2. 可选字段：存在时才校验。
-    if "score" in data:
+    # score 允许为 null（表示尚未评分的合法中间态，见 CLAUDE.md §5 “可选”）；
+    # 仅当给出非 null 值时，才要求是 0–1 区间的数值。
+    if data.get("score") is not None:
         score = data["score"]
         if not isinstance(score, (int, float)) or isinstance(score, bool):
             errors.append(f"score 类型错误: 期望数值, 实际 {type(score).__name__}")

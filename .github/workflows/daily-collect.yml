@@ -42,22 +42,31 @@ jobs:
         run: |
           python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
 
-      - name: 校验文章 JSON 合法性（不合法则失败）
+      - name: 校验本次新增文章的 JSON 合法性（仅报告，不阻断）
+        continue-on-error: true
         run: |
-          shopt -s nullglob
-          files=(knowledge/articles/*.json)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "无文章文件，跳过校验"
+          # 只校验本次采集新增/改动的文章，不扫全库历史数据。
+          # 用 --porcelain=v1 的固定列宽截取路径（避免 rename 的 "old -> new" 干扰），
+          # 仅保留 articles 下的 .json，再交给校验脚本。
+          git status --porcelain=v1 knowledge/articles/ \
+            | grep '\.json$' \
+            | cut -c4- > /tmp/changed_articles.txt || true
+          if [ ! -s /tmp/changed_articles.txt ]; then
+            echo "本次无新增文章，跳过校验"
             exit 0
           fi
-          python hooks/validate_json.py "${files[@]}"
+          echo "校验本次新增 $(wc -l < /tmp/changed_articles.txt) 篇文章"
+          xargs python hooks/validate_json.py < /tmp/changed_articles.txt
 
       - name: 质量评分（仅报告，不阻断）
         continue-on-error: true
         run: |
-          shopt -s nullglob
-          files=(knowledge/articles/*.json)
-          [ ${#files[@]} -gt 0 ] && python hooks/check_quality.py "${files[@]}" || true
+          git status --porcelain=v1 knowledge/articles/ \
+            | grep '\.json$' \
+            | cut -c4- > /tmp/changed_articles.txt || true
+          if [ -s /tmp/changed_articles.txt ]; then
+            xargs python hooks/check_quality.py < /tmp/changed_articles.txt
+          fi
 
       - name: 提交并推送新增数据（无变更则跳过）
         run: |
