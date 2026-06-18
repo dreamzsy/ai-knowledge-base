@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-18-molmomotion-language-guided-3d-motion-forecasting",
+  "title": "MolmoMotion: Language-guided 3D motion forecasting",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/molmomotion",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 17 Jun 2026 15:26:44 GMT",
+  "collected_at": "2026-06-18T11:47:22.497322+00:00",
+  "summary": "MolmoMotion 是一个语言引导的3D运动预测框架，结合多模态大模型与运动预测技术，能够根据自然语言指令生成或预测3D人体运动序列，在机器人、虚拟现实和动画领域具有应用潜力。",
+  "highlights": [
+    "利用多模态大模型理解自然语言指令并生成3D运动预测",
+    "支持复杂动作序列的连续预测与交互式控制",
+    "在多个基准数据集上达到领先性能",
+    "开源模型与代码，便于社区复现与扩展"
+  ],
+  "tags": [
+    "LLM",
+    "3D Motion Prediction",
+    "Multimodal",
+    "Robotics",
+    "Animation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地将语言引导与3D运动预测结合，开源且性能领先，但应用场景尚需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

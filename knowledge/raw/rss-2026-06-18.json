@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/ Comments URL: https://news.ycombinator.com/item?id=48573332 Points: 380 # Comments: 460",
+    "published_at": "Wed, 17 Jun 2026 17:07:32 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI demands more engineering discipline. Not less",
+    "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48570948 Points: 386 # Comments: 190",
+    "published_at": "Wed, 17 Jun 2026 14:20:44 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "url": "https://wpvip.com/future-of-the-web-2026/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://wpvip.com/future-of-the-web-2026/ Comments URL: https://news.ycombinator.com/item?id=48569278 Points: 1046 # Comments: 555",
+    "published_at": "Wed, 17 Jun 2026 12:11:27 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Has AI already killed self-help nonfiction books?",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 401 # Comments: 473",
+    "published_at": "Tue, 16 Jun 2026 17:11:05 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Can gzip be a language model?",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/j11pew/can_gzip_be_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 17:17:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+    "url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 20:33:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "June Framework Memory and storage pricing updates",
+    "url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;The 128GB Framework Desktop appreciates a whopping $1,660 today, pricing it at a total of $4,839 now. It was $2,000 at launch.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/uicwti/june_framework_memory_storage_pricing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 17:04:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Building llm-driven “ai” still requires domain knowledge",
+    "url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;I’m in the process of building an llm driven tool to take user questions and answer them using our customer api at $work.&lt;/p&gt; &lt;p&gt;A big part of the work is capturing the domain knowledge and writing it down. It’s easier than previous generations of “ai” because the knowledge doesn’t strictly have to be rendered into a structured format, but this is what previous generations of “ai” foundered on.&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 09:46:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+    "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 03:29:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 08 Jun 2026 16:47:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "author": "openai_blog",
+    "summary_raw": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "published_at": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "published_at": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 15:26:44 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 10:18:05 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 09:01:25 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

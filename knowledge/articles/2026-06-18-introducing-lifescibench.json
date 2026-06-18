@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-18-introducing-lifescibench",
+  "title": "Introducing LifeSciBench",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-life-sci-bench",
+  "author": "openai_blog",
+  "published_at": "Wed, 17 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-18T11:47:15.309582+00:00",
+  "summary": "OpenAI 推出 LifeSciBench，这是一个由专家编写和审查的基准测试，用于评估 AI 系统处理真实世界生命科学研究任务和决策的能力。",
+  "highlights": [
+    "LifeSciBench 由领域专家编写和审查，确保基准测试的专业性和可靠性。",
+    "该基准测试专注于评估 AI 在真实生命科学研究任务中的表现。",
+    "旨在推动 AI 在生命科学领域的应用和发展。"
+  ],
+  "tags": [
+    "LLM",
+    "Benchmark",
+    "Life Science",
+    "AI Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该基准测试由 OpenAI 推出，具有专家背书，针对生命科学这一重要领域，对 AI 评估有显著价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

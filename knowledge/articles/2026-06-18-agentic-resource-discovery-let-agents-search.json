@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-18-agentic-resource-discovery-let-agents-search",
+  "title": "Agentic Resource Discovery: Let agents search",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 17 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-18T11:47:30.895102+00:00",
+  "summary": "Hugging Face 推出 Agentic Resource Discovery 功能，允许 AI 代理通过自然语言搜索和发现资源，如模型、数据集和 Spaces。该功能旨在简化代理与 Hugging Face 生态的交互，提升资源发现的效率和智能化水平。",
+  "highlights": [
+    "AI 代理可通过自然语言搜索 Hugging Face 资源，如模型和数据集。",
+    "该功能增强了代理的自主性和交互性，无需手动浏览。",
+    "支持动态发现和集成资源，适用于自动化工作流。",
+    "基于 Hugging Face 生态，扩展了代理的应用场景。"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Search",
+    "HuggingFace",
+    "Resource Discovery"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该功能创新性地将代理与资源发现结合，提升了自动化效率，但尚处于早期阶段，应用范围有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

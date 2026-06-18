@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-18-ai-demands-more-engineering-discipline-not-less",
+  "title": "AI demands more engineering discipline. Not less",
+  "source": "rss",
+  "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 17 Jun 2026 14:20:44 +0000",
+  "collected_at": "2026-06-18T11:46:42.275617+00:00",
+  "summary": "文章指出，随着AI系统日益复杂，工程纪律反而变得更加重要，而非减少。作者强调，AI开发需要更严格的测试、版本控制、可重复性和模块化设计，以避免混乱和不可预测的结果。",
+  "highlights": [
+    "AI系统复杂性增加，要求更严格的工程纪律来确保可靠性和可维护性。",
+    "缺乏工程纪律会导致AI项目难以调试、复现和扩展。",
+    "建议采用测试驱动开发、持续集成和模块化设计等传统工程实践。",
+    "强调团队协作和文档化在AI开发中的关键作用。"
+  ],
+  "tags": [
+    "AI",
+    "Engineering",
+    "Best Practices",
+    "Software Development"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "观点鲜明且具有实践指导意义，但缺乏具体案例或数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
