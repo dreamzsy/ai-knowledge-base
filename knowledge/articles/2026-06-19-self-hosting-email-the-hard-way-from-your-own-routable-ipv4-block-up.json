@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-19-self-hosting-email-the-hard-way-from-your-own-routable-ipv4-block-up",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 08 Jun 2026 16:47:00 -0500",
+  "collected_at": "2026-06-19T12:01:29.872067+00:00",
+  "summary": "本文详细介绍了从拥有自己的可路由IPv4地址块开始，自托管电子邮件的完整过程，包括DNS配置、邮件服务器搭建、反垃圾邮件措施等，适合技术爱好者挑战。",
+  "highlights": [
+    "从获取IPv4地址块到配置邮件服务器的全流程指南",
+    "强调自托管电子邮件的技术难度和复杂性",
+    "包含DNS、SPF、DKIM、DMARC等反垃圾邮件配置",
+    "适合有网络基础设施经验的技术用户"
+  ],
+  "tags": [
+    "Self-hosting",
+    "Email",
+    "IPv4",
+    "DNS",
+    "Security"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容深入且实用，但受众较窄，适合有网络基础的技术用户",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-19-a-near-autonomous-ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry",
+  "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ai-chemist-improves-reaction",
+  "author": "openai_blog",
+  "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
+  "collected_at": "2026-06-19T12:01:41.331866+00:00",
+  "summary": "OpenAI与Molecule.one合作，利用GPT-5.4驱动的近自主AI化学家，成功优化了药物化学中的关键反应，显著提升了反应效率与选择性，展示了AI在加速药物研发中的潜力。",
+  "highlights": [
+    "AI化学家使用GPT-5.4自主设计并优化药物合成反应",
+    "该反应在药物化学中具有挑战性，传统方法效率低",
+    "合作展示了AI在实验室自动化与科研加速中的应用",
+    "成果有望缩短新药研发周期，降低研发成本"
+  ],
+  "tags": [
+    "LLM",
+    "AI Agent",
+    "Drug Discovery",
+    "Automation",
+    "Chemistry"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "结合前沿AI与药物化学，实际优化了关键反应，具有高应用价值与创新性，但依赖特定模型与场景，通用性待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

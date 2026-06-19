@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-19-is-it-agentic-enough-benchmarking-open-models-on-your-own-tooling",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-19T12:01:52.201793+00:00",
+  "summary": "本文探讨了如何评估开源模型在自主工具使用方面的能力，提出了一个基准测试框架，允许用户在自己的工具集上测试模型的代理性能。作者强调了当前模型在工具调用、任务规划和错误恢复等方面的局限性，并提供了具体评估方法和结果分析。",
+  "highlights": [
+    "提出了一种评估开源模型代理能力的新基准方法，支持自定义工具集。",
+    "发现当前开源模型在复杂工具调用和任务规划上仍存在明显不足。",
+    "强调了错误恢复和上下文理解在代理任务中的关键作用。",
+    "提供了详细的评估结果和对比分析，帮助用户选择适合的模型。"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Benchmark",
+    "Tool-Use",
+    "Open-Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该文提供了实用的代理能力评估框架，对开源模型选型和优化有重要参考价值，但缺乏对大规模部署场景的深入讨论。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
