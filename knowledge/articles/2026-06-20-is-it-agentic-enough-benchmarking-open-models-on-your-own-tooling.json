@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-20-is-it-agentic-enough-benchmarking-open-models-on-your-own-tooling",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-20T10:29:30.488087+00:00",
+  "summary": "Hugging Face 博客文章探讨如何评估开源模型在自定义工具调用中的智能体能力，提出通过构建基准测试来检验模型是否足够“智能体化”，并分享实践方法与结果。",
+  "highlights": [
+    "提出评估开源模型在自定义工具调用中的智能体能力的重要性",
+    "介绍构建基准测试的方法，包括工具定义和任务设计",
+    "对比不同开源模型在工具使用场景下的表现差异",
+    "强调社区协作对提升模型智能体能力的关键作用"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Benchmark",
+    "Tool-Use",
+    "Open-Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章聚焦开源模型智能体能力评估，提供实用基准测试方法，对社区有较高参考价值，但缺乏具体实验数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

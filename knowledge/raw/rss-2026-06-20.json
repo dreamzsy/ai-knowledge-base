@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "Is AI ruining our skills? Early results are in – and they're not good",
+    "url": "https://www.nature.com/articles/d41586-026-01947-1",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 224 # Comments: 287",
+    "published_at": "Fri, 19 Jun 2026 18:00:48 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI Engineer Claims to Have Cracked Linear A",
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 426 # Comments: 166",
+    "published_at": "Fri, 19 Jun 2026 16:04:42 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Norway imposes near ban on AI in elementary school",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48600093 Points: 673 # Comments: 472",
+    "published_at": "Fri, 19 Jun 2026 16:03:15 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/inzoi4/agent_memory_on_elasticsearch_hybrid\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 18 Jun 2026 14:36:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 18 Jun 2026 11:25:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Can gzip be a language model?",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/j11pew/can_gzip_be_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 17:17:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+    "url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 15 Jun 2026 20:33:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+    "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 03:29:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 08 Jun 2026 16:47:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "published_at": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "author": "openai_blog",
+    "summary_raw": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "published_at": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "author": "openai_blog",
+    "summary_raw": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 18 Jun 2026 18:13:13 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 17 Jun 2026 15:26:44 GMT",
+    "extra": {}
+  }
+]

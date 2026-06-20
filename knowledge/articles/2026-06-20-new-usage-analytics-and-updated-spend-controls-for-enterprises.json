@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-20-new-usage-analytics-and-updated-spend-controls-for-enterprises",
+  "title": "New usage analytics and updated spend controls for enterprises",
+  "source": "rss",
+  "source_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+  "author": "openai_blog",
+  "published_at": "Thu, 18 Jun 2026 17:00:00 GMT",
+  "collected_at": "2026-06-20T10:29:12.832606+00:00",
+  "summary": "OpenAI 为 ChatGPT Enterprise 推出新的支出控制和用量分析功能，帮助企业管理成本并自信地扩展 AI 应用。",
+  "highlights": [
+    "新增支出控制功能，允许企业设置预算和限制",
+    "提供详细的用量分析，帮助监控和优化 AI 使用",
+    "支持企业更有效地管理成本并扩展 AI 部署"
+  ],
+  "tags": [
+    "OpenAI",
+    "Enterprise",
+    "Cost Management",
+    "Analytics"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该功能对企业管理 AI 成本有实际价值，但属于增量更新，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-20-debootstrapping-without-archeology-stacked-implementations-in-camlboot",
+  "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2202.09231",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+  "collected_at": "2026-06-20T10:29:05.088500+00:00",
+  "summary": "本文提出一种无需考古学方法的去引导技术，通过堆叠实现（Stacked Implementations）在Camlboot中实现编译器自举。该方法利用多层编译器实现，逐步减少对底层系统的依赖，最终实现完全自举。研究展示了如何在不依赖历史代码或逆向工程的情况下，构建一个可自举的编译器，为编译器设计和软件考古学提供了新思路。",
+  "highlights": [
+    "提出堆叠实现方法，无需考古学即可实现编译器自举",
+    "在Camlboot中验证了多层编译器实现的有效性",
+    "逐步减少对底层系统的依赖，最终实现完全自举",
+    "为编译器设计和软件考古学提供了新视角"
+  ],
+  "tags": [
+    "Compiler",
+    "Bootstrapping",
+    "Programming Languages",
+    "Formal Methods"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地解决了编译器自举中的考古学依赖问题，方法实用且验证充分，但应用范围可能限于特定语言环境。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
