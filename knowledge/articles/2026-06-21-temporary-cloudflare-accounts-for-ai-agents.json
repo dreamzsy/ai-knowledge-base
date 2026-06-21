@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-21-temporary-cloudflare-accounts-for-ai-agents",
+  "title": "Temporary Cloudflare accounts for AI agents",
+  "source": "rss",
+  "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 20 Jun 2026 11:19:05 +0000",
+  "collected_at": "2026-06-21T11:12:15.238579+00:00",
+  "summary": "Cloudflare 推出临时账户功能，专为 AI 代理设计，允许代理在无需长期凭证的情况下安全访问资源。该功能通过自动创建和销毁临时账户，增强了安全性并简化了管理，适用于需要短暂、可撤销访问权限的 AI 工作流。",
+  "highlights": [
+    "临时账户为 AI 代理提供安全、短暂的资源访问，减少凭证泄露风险。",
+    "自动创建和销毁机制简化了账户管理，提升运维效率。",
+    "适用于需要临时权限的 AI 工作流，如数据抓取或自动化任务。"
+  ],
+  "tags": [
+    "AI Agent",
+    "Security",
+    "Cloudflare",
+    "Access Control"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该方案创新性地解决了 AI 代理的临时访问安全问题，实用性强，但依赖特定平台，通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

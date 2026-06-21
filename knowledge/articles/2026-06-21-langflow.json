@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-21-langflow",
+  "title": "langflow-ai/langflow",
+  "source": "github_trending",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "author": "langflow-ai",
+  "published_at": "2023-02-08T22:28:03Z",
+  "collected_at": "2026-06-21T11:12:01.771628+00:00",
+  "summary": "Langflow 是一个用于构建和部署 AI 驱动的智能体与工作流的强大工具，提供可视化界面和低代码开发能力，支持快速集成 LLM、RAG 等组件。",
+  "highlights": [
+    "可视化构建 AI 工作流，降低开发门槛",
+    "支持多种 AI 组件集成，如 LLM、Agent、RAG",
+    "提供低代码部署能力，加速应用落地"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "RAG",
+    "Framework",
+    "Low-Code"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目成熟度高，社区活跃，功能覆盖 AI 工作流核心需求，但竞争激烈需持续迭代",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 149897,
+    "language": "Python"
+  }
+}

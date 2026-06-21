@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-21-agent-memory-on-elasticsearch-hybrid-retrieval-and-dls",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source": "rss",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 18 Jun 2026 14:36:59 -0500",
+  "collected_at": "2026-06-21T11:12:30.814785+00:00",
+  "summary": "本文介绍了在Elasticsearch上实现Agent记忆的混合检索与DLS（动态学习系统）方法，通过结合向量搜索和关键词搜索提升记忆召回效果，并利用DLS动态调整记忆权重，适用于AI Agent的长期记忆管理。",
+  "highlights": [
+    "混合检索结合向量与关键词搜索，提升Agent记忆召回准确率",
+    "DLS动态学习系统可自适应调整记忆权重，优化长期记忆效果",
+    "基于Elasticsearch实现，具备高扩展性和实时性",
+    "适用于AI Agent的上下文记忆与知识管理场景"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Elasticsearch",
+    "Hybrid Retrieval",
+    "DLS"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地将混合检索与动态学习应用于Agent记忆，技术方案实用且扩展性强，但缺乏具体性能对比数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
