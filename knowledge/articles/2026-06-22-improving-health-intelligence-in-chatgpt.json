@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-22-improving-health-intelligence-in-chatgpt",
+  "title": "Improving health intelligence in ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+  "author": "openai_blog",
+  "published_at": "Thu, 18 Jun 2026 11:00:00 GMT",
+  "collected_at": "2026-06-22T13:29:57.847113+00:00",
+  "summary": "OpenAI 发布 GPT-5.5 Instant，显著提升 ChatGPT 在健康和 wellness 领域的响应质量。该模型通过更强的推理能力、更好的上下文理解、更清晰的沟通风格以及基于医生反馈的评估体系，改善了健康智能水平。",
+  "highlights": [
+    "GPT-5.5 Instant 增强了健康与 wellness 领域的推理能力",
+    "模型改进了上下文理解，能更精准地回应用户健康问题",
+    "沟通风格更清晰，减少歧义，提升用户体验",
+    "引入医生参与的评估机制，确保回答的专业性和安全性"
+  ],
+  "tags": [
+    "LLM",
+    "Healthcare",
+    "GPT",
+    "AI Safety",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该项目针对医疗健康这一高价值领域进行模型优化，结合专业评估，实用性强且具有行业影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

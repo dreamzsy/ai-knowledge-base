@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-22-reverse-engineering-the-qualcomm-npu-compiler",
+  "title": "Reverse Engineering the Qualcomm NPU Compiler",
+  "source": "rss",
+  "source_url": "https://datavorous.github.io/writing/qairt/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 20 Jun 2026 06:49:16 -0500",
+  "collected_at": "2026-06-22T13:29:30.488631+00:00",
+  "summary": "本文深入逆向工程了高通NPU编译器，揭示了其内部工作原理、优化策略和与AI框架的集成方式，为开发者提供了在骁龙平台上高效部署模型的实用见解。",
+  "highlights": [
+    "详细分析了高通NPU编译器的架构和编译流程",
+    "揭示了编译器如何优化神经网络模型以利用NPU硬件特性",
+    "讨论了与TensorFlow、PyTorch等主流框架的集成方法",
+    "提供了实际部署中的性能调优建议和常见陷阱"
+  ],
+  "tags": [
+    "NPU",
+    "Compiler",
+    "Qualcomm",
+    "Reverse Engineering",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容技术深度高，对硬件编译器逆向工程有独特价值，但受众较窄，实用性略受限于特定平台。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

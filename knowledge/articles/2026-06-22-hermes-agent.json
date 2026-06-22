@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-22-hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2025-07-22T22:22:28Z",
+  "collected_at": "2026-06-22T13:28:36.542989+00:00",
+  "summary": "Hermes Agent 是一个由 NousResearch 开发的智能代理项目，旨在提供能够随着用户需求增长而演化的代理系统。该项目目前处于早期阶段，专注于构建灵活、可扩展的代理框架，支持多种任务自动化与交互。",
+  "highlights": [
+    "代理系统设计为可随用户需求动态扩展",
+    "基于 NousResearch 的研究成果，强调灵活性与适应性",
+    "开源项目，社区驱动开发",
+    "面向未来智能代理应用的实验性框架"
+  ],
+  "tags": [
+    "Agent",
+    "Framework",
+    "LLM",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "项目处于早期阶段，描述简单且缺乏具体技术细节，价值有限但具备潜在发展空间。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 199596,
+    "language": "Python"
+  }
+}

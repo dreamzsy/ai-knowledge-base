@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-22-munich-1991-the-roots-of-the-current-ai-boom",
+  "title": "Munich 1991: the Roots of the Current AI Boom",
+  "source": "rss",
+  "source_url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 22 Jun 2026 07:09:39 -0500",
+  "collected_at": "2026-06-22T13:29:27.119009+00:00",
+  "summary": "本文回顾了1991年在慕尼黑举办的神经网络夏季课程，该课程被认为是当前AI热潮的起源之一。文章指出，这次活动汇聚了早期神经网络研究的先驱，为深度学习的发展奠定了基础，并影响了后续AI技术的突破。",
+  "highlights": [
+    "1991年慕尼黑夏季课程被视为AI热潮的早期催化剂",
+    "活动聚集了神经网络研究的先驱，推动了深度学习发展",
+    "该课程对后续AI技术突破产生了深远影响"
+  ],
+  "tags": [
+    "Deep Learning",
+    "Neural Networks",
+    "AI History",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供了AI发展史的重要视角，但内容偏重历史回顾，对当前技术实践的直接价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

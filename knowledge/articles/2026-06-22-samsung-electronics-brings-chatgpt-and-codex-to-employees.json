@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-22-samsung-electronics-brings-chatgpt-and-codex-to-employees",
+  "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+  "source": "rss",
+  "source_url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+  "author": "openai_blog",
+  "published_at": "Sun, 21 Jun 2026 23:00:00 GMT",
+  "collected_at": "2026-06-22T13:29:51.781574+00:00",
+  "summary": "三星电子在全球范围内为员工部署ChatGPT Enterprise和Codex，这是OpenAI迄今为止最大规模的企业级AI部署之一。",
+  "highlights": [
+    "三星电子全球员工将使用ChatGPT Enterprise和Codex。",
+    "这是OpenAI最大规模的企业AI部署之一。",
+    "部署旨在提升员工生产力和创新能力。"
+  ],
+  "tags": [
+    "LLM",
+    "Enterprise",
+    "Deployment",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该部署展示了大型语言模型在企业级应用中的实际落地，具有重要的行业示范意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

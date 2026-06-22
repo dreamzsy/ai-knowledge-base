@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-22-lighthouse-agentic-browsing-scoring",
+  "title": "Lighthouse agentic browsing scoring",
+  "source": "rss",
+  "source_url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 20 Jun 2026 06:44:00 -0500",
+  "collected_at": "2026-06-22T13:29:33.616140+00:00",
+  "summary": "Chrome Lighthouse 引入代理浏览评分机制，用于评估 AI 代理在网页上的自主浏览表现。该机制通过多项指标衡量代理的导航效率、任务完成度和交互准确性，为开发者优化 AI 浏览行为提供量化标准。",
+  "highlights": [
+    "Lighthouse 新增代理浏览评分功能，评估 AI 代理的网页自主浏览能力",
+    "评分基于导航效率、任务完成度和交互准确性等多维度指标",
+    "为开发者提供量化标准，助力优化 AI 代理的浏览行为"
+  ],
+  "tags": [
+    "Agent",
+    "Web Browsing",
+    "Lighthouse",
+    "Scoring",
+    "AI Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该机制为 AI 代理的网页交互提供了标准化评估方法，实用性强，但具体指标细节未充分展开。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

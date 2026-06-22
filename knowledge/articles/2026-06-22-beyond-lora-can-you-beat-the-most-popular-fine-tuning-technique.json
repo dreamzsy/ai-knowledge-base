@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-22-beyond-lora-can-you-beat-the-most-popular-fine-tuning-technique",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-22T13:30:10.481873+00:00",
+  "summary": "本文探讨了超越LoRA的微调方法，比较了LoRA与其他参数高效微调技术（如IA3、AdaLoRA、DoRA等）的性能和适用场景，旨在帮助用户选择最佳微调策略。",
+  "highlights": [
+    "LoRA是目前最流行的参数高效微调技术，但并非在所有场景下最优。",
+    "文章比较了多种微调方法，包括IA3、AdaLoRA、DoRA等，分析了各自的优缺点。",
+    "实验结果表明，在某些任务中，其他方法（如DoRA）可能超越LoRA。",
+    "提供了选择微调技术的实用建议，基于任务类型和资源限制。"
+  ],
+  "tags": [
+    "LoRA",
+    "Fine-tuning",
+    "PEFT",
+    "Parameter-Efficient",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容实用，对比全面，对模型微调实践有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

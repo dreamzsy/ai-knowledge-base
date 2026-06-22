@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-22-a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust",
+  "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+  "source": "rss",
+  "source_url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 10 Jun 2026 03:29:48 -0500",
+  "collected_at": "2026-06-22T13:29:49.268465+00:00",
+  "summary": "该项目将 OCaml 运行时从 C 语言逐行翻译为 Rust，旨在利用 Rust 的内存安全特性提升运行时稳定性和安全性，同时保持与 OCaml 的兼容性。",
+  "highlights": [
+    "逐行翻译 OCaml 运行时，确保功能等价性",
+    "利用 Rust 的内存安全特性减少潜在漏洞",
+    "保持与现有 OCaml 生态的兼容性",
+    "为 OCaml 运行时提供更安全的实现基础"
+  ],
+  "tags": [
+    "OCaml",
+    "Rust",
+    "Runtime",
+    "Memory Safety",
+    "Translation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "项目具有创新性和实用性，但尚处于早期阶段，需验证性能与兼容性",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

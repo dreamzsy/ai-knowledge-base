@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Munich 1991: the Roots of the Current AI Boom",
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 22 Jun 2026 07:09:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Reverse Engineering the Qualcomm NPU Compiler",
+    "url": "https://datavorous.github.io/writing/qairt/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 06:49:16 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lighthouse agentic browsing scoring",
+    "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 06:44:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/inzoi4/agent_memory_on_elasticsearch_hybrid\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 18 Jun 2026 14:36:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+    "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 03:29:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "author": "openai_blog",
+    "summary_raw": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "published_at": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "published_at": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "author": "openai_blog",
+    "summary_raw": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "published_at": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "author": "openai_blog",
+    "summary_raw": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 22 Jun 2026 13:18:56 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 18 Jun 2026 18:13:13 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]
