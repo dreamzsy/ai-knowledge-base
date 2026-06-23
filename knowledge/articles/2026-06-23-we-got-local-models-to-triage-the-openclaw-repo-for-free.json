@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-23-we-got-local-models-to-triage-the-openclaw-repo-for-free",
+  "title": "We got local models to triage the OpenClaw repo for FREE!*",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 22 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-23T10:58:00.355575+00:00",
+  "summary": "本文介绍了如何利用本地开源模型（如Llama 3.1、Qwen2.5等）对OpenClaw仓库的Issue和PR进行自动分类和优先级排序，无需依赖付费API。作者通过构建一个基于LangChain和Ollama的轻量级流水线，实现了低成本、高效率的仓库维护辅助工具。",
+  "highlights": [
+    "使用本地模型替代付费API进行PR/Issue分类，大幅降低成本",
+    "基于LangChain和Ollama构建自动化流水线",
+    "支持多种开源模型（Llama 3.1、Qwen2.5等）灵活切换",
+    "为开源项目维护者提供可复用的免费解决方案"
+  ],
+  "tags": [
+    "LLM",
+    "Local Model",
+    "LangChain",
+    "Ollama",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "实用性强，展示了本地模型在开源协作中的创新应用，且方案可复现，但技术深度一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

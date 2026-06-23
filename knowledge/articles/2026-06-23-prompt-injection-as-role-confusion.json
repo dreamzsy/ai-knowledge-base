@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-23-prompt-injection-as-role-confusion",
+  "title": "Prompt Injection as Role Confusion",
+  "source": "rss",
+  "source_url": "https://role-confusion.github.io",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 22 Jun 2026 12:22:07 -0500",
+  "collected_at": "2026-06-23T10:57:29.452653+00:00",
+  "summary": "该网站探讨了提示注入（Prompt Injection）作为一种角色混淆（Role Confusion）攻击形式，分析了攻击者如何通过操纵提示词使AI模型混淆其角色，从而执行非预期操作。文章提供了技术细节、示例和防御建议，强调了在AI安全中理解角色边界的重要性。",
+  "highlights": [
+    "将提示注入重新定义为角色混淆攻击，突出AI模型角色认知的脆弱性",
+    "提供实际攻击示例，展示如何通过提示词操纵使模型执行恶意指令",
+    "讨论防御策略，包括输入验证、角色限制和上下文隔离"
+  ],
+  "tags": [
+    "Prompt Injection",
+    "AI Security",
+    "Role Confusion",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该资源深入分析了提示注入的新视角，提供了实用的安全见解，但缺乏实证数据和广泛验证，评分较高但非满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

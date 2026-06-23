@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-23-codex-maxxing-for-long-running-work",
+  "title": "Codex-maxxing for long-running work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/codex-maxxing-long-running-work",
+  "author": "openai_blog",
+  "published_at": "Mon, 22 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-23T10:57:51.778712+00:00",
+  "summary": "本文介绍了Jason Liu如何利用OpenAI的Codex工具在长时间运行的工作中保持上下文、管理复杂项目，并支持工作超越单次提示的限制。通过实际案例，展示了Codex在提升开发效率和项目连续性方面的应用。",
+  "highlights": [
+    "Jason Liu展示了Codex在长时间运行工作中保持上下文的能力",
+    "Codex帮助管理复杂项目，支持工作超越单次提示",
+    "通过实际案例说明Codex提升开发效率和项目连续性"
+  ],
+  "tags": [
+    "Codex",
+    "LLM",
+    "Context Management",
+    "Project Management",
+    "AI-Assisted Development"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容实用，展示了Codex在复杂项目中的实际应用，但缺乏技术细节和可复现性，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

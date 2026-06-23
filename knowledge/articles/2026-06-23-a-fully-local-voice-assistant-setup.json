@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-23-a-fully-local-voice-assistant-setup",
+  "title": "A fully local voice assistant setup",
+  "source": "rss",
+  "source_url": "https://blog.platypush.tech/article/Local-voice-assistant",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 22 Jun 2026 17:25:06 -0500",
+  "collected_at": "2026-06-23T10:57:26.060038+00:00",
+  "summary": "本文介绍了一个完全本地的语音助手搭建方案，无需依赖云端服务，使用开源工具实现语音识别、自然语言处理和语音合成，保护用户隐私。",
+  "highlights": [
+    "完全本地运行，无需联网或云服务",
+    "使用开源组件实现语音识别与合成",
+    "强调隐私保护和数据安全",
+    "提供详细的配置步骤和代码示例"
+  ],
+  "tags": [
+    "Voice Assistant",
+    "Privacy",
+    "Open Source",
+    "Local AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "方案实用且注重隐私，但技术细节和性能评估略显不足",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

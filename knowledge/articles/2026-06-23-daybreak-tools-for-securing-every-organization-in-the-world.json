@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-23-daybreak-tools-for-securing-every-organization-in-the-world",
+  "title": "Daybreak: Tools for securing every organization in the world",
+  "source": "rss",
+  "source_url": "https://openai.com/index/daybreak-securing-the-world",
+  "author": "openai_blog",
+  "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+  "collected_at": "2026-06-23T10:57:46.326642+00:00",
+  "summary": "OpenAI 发布 Daybreak 工具集，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修补安全漏洞，提升全球网络安全防护能力。",
+  "highlights": [
+    "Daybreak 工具集包含 Codex Security 和 GPT-5.5-Cyber 两大核心组件",
+    "专注于大规模漏洞发现、验证和修补流程",
+    "旨在为全球各类组织提供全面的安全保障"
+  ],
+  "tags": [
+    "Security",
+    "LLM",
+    "Vulnerability",
+    "OpenAI",
+    "Tool"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该工具集结合前沿AI技术解决实际安全痛点，具有广泛的应用前景和较高的创新价值",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

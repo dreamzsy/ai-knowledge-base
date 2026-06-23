@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-23-shipping-huggingface-hub-every-week-with-ai-open-tools-and-a-human-in-the-loop",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-23T10:57:54.575888+00:00",
+  "summary": "Hugging Face 团队分享了其每周发布 huggingface_hub 库的 CI/CD 流程，结合 AI 自动化、开源工具和人工审核，确保快速迭代与质量稳定。",
+  "highlights": [
+    "每周发布 huggingface_hub，保持快速迭代节奏",
+    "AI 辅助自动化测试和代码审查，提升效率",
+    "开源工具链支撑整个 CI/CD 流程",
+    "人工审核作为关键环节，保障发布质量"
+  ],
+  "tags": [
+    "LLM",
+    "CI/CD",
+    "Open Source",
+    "Automation",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "展示了高效的 AI+人工协作发布流程，对开源社区有实用参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
