@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-24-pp-ocrv6-on-hugging-face-50-language-ocr-from-1-5m-to-34-5m-parameters",
+  "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 22 Jun 2026 13:18:56 GMT",
+  "collected_at": "2026-06-24T10:43:46.957137+00:00",
+  "summary": "PP-OCRv6 是 PaddleOCR 的最新版本，支持 50 种语言的 OCR，模型参数从 1.5M 到 34.5M 不等，已在 Hugging Face 上发布。该版本在精度和效率上进行了优化，适用于多语言场景。",
+  "highlights": [
+    "支持 50 种语言的 OCR 识别，覆盖广泛的多语言需求",
+    "模型参数范围从 1.5M 到 34.5M，提供灵活部署选择",
+    "在 Hugging Face 上发布，便于集成和使用",
+    "基于 PaddleOCR 的持续优化，提升识别精度和速度"
+  ],
+  "tags": [
+    "OCR",
+    "Multilingual",
+    "PaddleOCR",
+    "HuggingFace",
+    "Deep Learning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "多语言 OCR 模型实用性强，参数范围灵活，但创新性一般，属于已有技术的优化发布",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

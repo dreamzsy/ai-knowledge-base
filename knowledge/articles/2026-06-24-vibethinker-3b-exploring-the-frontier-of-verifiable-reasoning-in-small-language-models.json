@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-24-vibethinker-3b-exploring-the-frontier-of-verifiable-reasoning-in-small-language-models",
+  "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 23 Jun 2026 09:17:13 -0500",
+  "collected_at": "2026-06-24T10:43:02.959292+00:00",
+  "summary": "VibeThinker-3B 探索小型语言模型在可验证推理方面的前沿，提出了一种新方法，使 3B 参数模型在推理任务上达到更高性能，验证了小型模型在特定场景下的推理能力。",
+  "highlights": [
+    "提出 VibeThinker-3B 模型，专注于可验证推理任务",
+    "在 3B 参数规模下实现推理能力突破",
+    "探索小型语言模型在推理领域的应用潜力"
+  ],
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Small Language Model",
+    "Verifiable Reasoning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究在小型模型推理领域具有创新性，验证了参数规模与推理能力的关系，但实际应用效果需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

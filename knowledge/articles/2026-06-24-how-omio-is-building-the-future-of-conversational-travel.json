@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-24-how-omio-is-building-the-future-of-conversational-travel",
+  "title": "How Omio is building the future of conversational travel",
+  "source": "rss",
+  "source_url": "https://openai.com/index/omio",
+  "author": "openai_blog",
+  "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-06-24T10:43:31.265634+00:00",
+  "summary": "Omio 利用 OpenAI 技术构建对话式旅行体验，加速产品开发并转型为 AI 原生公司。通过集成 AI，Omio 提升了用户交互效率，优化了旅行规划流程，展示了 AI 在旅行行业的实际应用价值。",
+  "highlights": [
+    "Omio 使用 OpenAI 实现对话式旅行规划，提升用户体验",
+    "AI 加速了 Omio 的产品开发周期，推动公司向 AI 原生转型",
+    "案例展示了 AI 在旅行行业的实际应用，优化了旅行搜索和预订流程"
+  ],
+  "tags": [
+    "LLM",
+    "Conversational AI",
+    "Travel Tech",
+    "AI Transformation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例展示了 AI 在旅行行业的实际落地，具有较高参考价值，但缺乏技术细节和创新性",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

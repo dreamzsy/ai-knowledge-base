@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/5ej4m6/unlimited_ocr_one_shot_long_horizon_ocr\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 05:35:51 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jrj4o3/vibethinker_3b_exploring_frontier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 23 Jun 2026 09:17:13 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+    "url": "https://arxiv.org/abs/2604.13327",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lpn1cr/event_tensor_unified_abstraction_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+    "url": "https://tvm.apache.org/2026/06/22/tirx",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/j04tzc/tirx_open_compiler_stack_for_evolving\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 22 Jun 2026 17:49:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+    "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 03:29:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "published_at": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "author": "openai_blog",
+    "summary_raw": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "published_at": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "author": "openai_blog",
+    "summary_raw": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 23 Jun 2026 12:51:55 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 22 Jun 2026 13:18:56 GMT",
+    "extra": {}
+  }
+]

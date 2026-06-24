@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-24-tirx-an-open-compiler-stack-for-evolving-frontier-ml-kernels",
+  "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+  "source": "rss",
+  "source_url": "https://tvm.apache.org/2026/06/22/tirx",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 22 Jun 2026 17:49:28 -0500",
+  "collected_at": "2026-06-24T10:43:09.842634+00:00",
+  "summary": "TIRx 是 Apache TVM 社区推出的开源编译器栈，专注于为不断演进的前沿机器学习内核提供高效编译支持。它通过模块化设计和可扩展的中间表示，简化了新型算子的开发与优化流程，旨在降低 AI 模型部署中自定义内核的编译门槛，提升硬件适配效率。",
+  "highlights": [
+    "TIRx 基于 Apache TVM 构建，提供开放的编译器栈以支持前沿 ML 内核的快速迭代",
+    "采用模块化中间表示，便于开发者扩展和定制新型算子编译流程",
+    "旨在降低自定义内核的编译复杂度，提升跨硬件平台的部署效率"
+  ],
+  "tags": [
+    "Compiler",
+    "ML",
+    "TVM",
+    "Kernel",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目聚焦编译器栈创新，解决前沿 ML 内核编译痛点，技术价值高且开源生态成熟",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

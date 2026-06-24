@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-24-event-tensor-a-unified-abstraction-for-compiling-dynamic-megakernel",
+  "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.13327",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+  "collected_at": "2026-06-24T10:43:06.187547+00:00",
+  "summary": "Event Tensor 提出了一种统一抽象，用于编译动态 Megakernel，旨在优化深度学习计算中的动态图执行效率。通过将事件作为核心抽象，该方法简化了动态计算图的编译过程，提升了性能。",
+  "highlights": [
+    "提出 Event Tensor 作为统一抽象，用于动态 Megakernel 编译",
+    "优化动态计算图执行效率，减少编译开销",
+    "适用于深度学习中的动态图场景，提升性能表现"
+  ],
+  "tags": [
+    "LLM",
+    "Deep Learning",
+    "Compiler",
+    "Dynamic Graph"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "创新性强，针对动态图编译痛点，但尚处理论阶段，实际应用效果待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
