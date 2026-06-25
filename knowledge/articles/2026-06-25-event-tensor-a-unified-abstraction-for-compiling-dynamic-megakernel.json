@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-25-event-tensor-a-unified-abstraction-for-compiling-dynamic-megakernel",
+  "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.13327",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+  "collected_at": "2026-06-25T10:37:17.229494+00:00",
+  "summary": "Event Tensor 提出了一种统一抽象，用于编译动态巨型内核（Megakernel），旨在简化高性能计算中复杂内核的编译过程。该抽象通过事件驱动机制，支持动态调度和优化，提升计算效率与灵活性。",
+  "highlights": [
+    "提出 Event Tensor 统一抽象，简化动态 Megakernel 编译",
+    "支持事件驱动调度，增强计算灵活性与性能",
+    "适用于高性能计算与深度学习场景",
+    "提供编译优化，降低动态内核开发复杂度"
+  ],
+  "tags": [
+    "Megakernel",
+    "Compiler",
+    "HPC",
+    "Event-Driven",
+    "Abstraction"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "创新性高，针对动态内核编译痛点，但实际应用效果需进一步验证",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

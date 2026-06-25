@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-25-build-real-agentic-apps-using-cuga-two-dozen-working-examples-on-a-lightweight-harness",
+  "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 23 Jun 2026 12:51:55 GMT",
+  "collected_at": "2026-06-25T10:37:50.118807+00:00",
+  "summary": "IBM Research 发布 CUGA 轻量级框架，提供二十多个真实智能体应用示例，展示如何构建可运行的 agentic 应用，强调简洁性和实用性。",
+  "highlights": [
+    "CUGA 是一个轻量级智能体框架，支持快速构建 agentic 应用",
+    "提供了二十多个可直接运行的示例，覆盖多种实际场景",
+    "由 IBM Research 开发，注重实用性和可扩展性"
+  ],
+  "tags": [
+    "Agent",
+    "Framework",
+    "LLM",
+    "IBM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "提供了丰富的实际应用示例和轻量级框架，对开发者有较高参考价值，但缺乏详细技术文档和性能评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

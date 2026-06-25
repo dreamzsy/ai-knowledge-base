@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-25-unlimited-ocr-one-shot-long-horizon-ocr",
+  "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+  "source": "rss",
+  "source_url": "https://github.com/baidu/Unlimited-OCR",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 24 Jun 2026 05:35:51 -0500",
+  "collected_at": "2026-06-25T10:37:11.993036+00:00",
+  "summary": "Unlimited-OCR 是百度推出的开源项目，旨在实现一次性长视野 OCR，即通过单次处理完成对长文本或复杂文档的识别，提升 OCR 的效率和准确性。",
+  "highlights": [
+    "支持一次性处理长文本或复杂文档，减少多次扫描需求",
+    "基于深度学习模型，优化长视野场景下的识别精度",
+    "开源项目，便于社区使用和二次开发"
+  ],
+  "tags": [
+    "OCR",
+    "Deep Learning",
+    "Document Analysis",
+    "Computer Vision"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目针对长视野OCR这一实际需求提出创新方案，开源且来自百度，具有较高实用价值和潜在影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

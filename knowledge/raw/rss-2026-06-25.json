@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 434 # Comments: 761",
+    "published_at": "Wed, 24 Jun 2026 19:48:01 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 392 # Comments: 68",
+    "published_at": "Wed, 24 Jun 2026 14:41:41 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI's Affordability Crisis",
+    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 325 # Comments: 411",
+    "published_at": "Tue, 23 Jun 2026 15:11:17 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Using the Gini Coefficient to Plan Edge Capacity",
+    "url": "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 12:08:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/5ej4m6/unlimited_ocr_one_shot_long_horizon_ocr\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 05:35:51 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jrj4o3/vibethinker_3b_exploring_frontier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 23 Jun 2026 09:17:13 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+    "url": "https://arxiv.org/abs/2604.13327",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lpn1cr/event_tensor_unified_abstraction_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+    "url": "https://arxiv.org/abs/2202.09231",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lws1qc/debootstrapping_without_archeology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 10 Jun 2026 13:26:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "author": "openai_blog",
+    "summary_raw": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "published_at": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "author": "openai_blog",
+    "summary_raw": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "published_at": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 24 Jun 2026 16:00:13 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 23 Jun 2026 12:51:55 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-25-ai-s-affordability-crisis",
+  "title": "AI's Affordability Crisis",
+  "source": "rss",
+  "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 23 Jun 2026 15:11:17 +0000",
+  "collected_at": "2026-06-25T10:37:06.261600+00:00",
+  "summary": "文章探讨了AI领域日益严峻的 affordability（可负担性）危机，指出随着模型规模和计算成本急剧上升，只有少数巨头能负担前沿研发，导致创新集中化、市场垄断和生态失衡。作者呼吁关注成本下降路径与开放协作，避免AI技术沦为少数人的特权。",
+  "highlights": [
+    "前沿AI模型训练成本已达数亿美元，且每年翻倍增长，远超多数机构承受能力",
+    "可负担性危机导致AI创新从分散竞争转向巨头垄断，威胁技术多样性与公平性",
+    "开源模型与高效算法（如蒸馏、量化）是缓解成本压力的关键路径",
+    "政策制定者需干预，防止AI基础设施成为新的数字鸿沟"
+  ],
+  "tags": [
+    "AI",
+    "Cost",
+    "Monopoly",
+    "Open Source",
+    "Policy"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "深刻揭示AI行业结构性成本问题，兼具技术洞察与社会影响分析，但缺乏具体解决方案数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
