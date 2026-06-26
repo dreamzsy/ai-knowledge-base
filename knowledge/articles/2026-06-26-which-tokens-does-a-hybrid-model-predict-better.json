@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-26-which-tokens-does-a-hybrid-model-predict-better",
+  "title": "Which tokens does a hybrid model predict better?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 25 Jun 2026 16:11:42 GMT",
+  "collected_at": "2026-06-26T10:46:37.105299+00:00",
+  "summary": "该博客探讨了混合模型（如结合自回归与掩码建模）在预测不同令牌时的表现差异，分析了哪些类型的令牌（如高频词、实体、语法结构）预测更准确，并提供了实验数据和见解，以优化混合模型的训练策略。",
+  "highlights": [
+    "混合模型在预测高频词和命名实体时表现更优，准确率提升显著。",
+    "语法结构（如动词、名词）的预测精度高于虚词，尤其在长文本中。",
+    "实验表明，掩码比例和自回归权重影响令牌预测的分布特性。",
+    "研究为混合模型的设计提供了数据驱动的优化方向。"
+  ],
+  "tags": [
+    "Hybrid Model",
+    "Token Prediction",
+    "NLP",
+    "Masked Language Model",
+    "Autoregressive"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该研究提供了混合模型令牌预测的实证分析，对模型优化有实际指导意义，但缺乏大规模基准测试验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

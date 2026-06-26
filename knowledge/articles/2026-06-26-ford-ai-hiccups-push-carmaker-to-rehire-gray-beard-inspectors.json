@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-26-ford-ai-hiccups-push-carmaker-to-rehire-gray-beard-inspectors",
+  "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 25 Jun 2026 14:58:50 +0000",
+  "collected_at": "2026-06-26T10:45:49.030852+00:00",
+  "summary": "福特汽车在尝试用AI替代资深质检员后，因AI系统频繁出错导致质量问题，被迫重新雇佣经验丰富的“灰胡子”质检员。这一事件凸显了AI在复杂工业质检中的局限性，以及人类经验在关键环节的不可替代性。",
+  "highlights": [
+    "福特AI质检系统未能达到预期效果，导致质量问题频发",
+    "公司重新雇佣资深质检员以弥补AI的不足",
+    "事件反映了AI在工业应用中仍需人类监督和经验补充"
+  ],
+  "tags": [
+    "AI",
+    "Quality Control",
+    "Automotive",
+    "Human-in-the-loop"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例真实且有警示意义，揭示了AI落地中的关键挑战，但缺乏具体技术细节和解决方案",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-26-how-agents-are-transforming-work",
+  "title": "How agents are transforming work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-agents-are-transforming-work",
+  "author": "openai_blog",
+  "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
+  "collected_at": "2026-06-26T10:46:21.247639+00:00",
+  "summary": "OpenAI 最新研究论文揭示了 AI 智能体如何通过执行更长时间、更复杂的任务，显著提升各岗位的生产力，从而改变工作方式。",
+  "highlights": [
+    "AI 智能体能够处理更长时间、更复杂的任务，扩展了工作范围。",
+    "研究展示了智能体在多个角色中提升生产力的具体案例。",
+    "该论文为 AI 在工作场景中的实际应用提供了新见解。"
+  ],
+  "tags": [
+    "AI Agents",
+    "Productivity",
+    "Research",
+    "Work Transformation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究来自 OpenAI，具有权威性，且直接聚焦 AI 智能体对生产力的实际影响，实用价值高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-26-anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities",
+  "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 24 Jun 2026 19:48:01 +0000",
+  "collected_at": "2026-06-26T10:45:52.054369+00:00",
+  "summary": "Anthropic 指控阿里巴巴非法提取其 Claude AI 模型能力，涉及知识产权争议。该事件引发行业对模型安全与合规的关注，Hacker News 上讨论热烈，反映 AI 领域竞争加剧。",
+  "highlights": [
+    "Anthropic 公开指责阿里巴巴未经授权提取 Claude 模型能力",
+    "事件凸显 AI 模型知识产权保护与安全风险",
+    "Hacker News 上获得 761 分和 1244 条评论，引发广泛讨论"
+  ],
+  "tags": [
+    "AI",
+    "Security",
+    "IP",
+    "Model Extraction",
+    "Competition"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "事件具有行业警示意义，但缺乏技术细节，评分中等偏上",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
