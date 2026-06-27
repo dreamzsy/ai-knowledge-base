@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-27-what-happened-after-2k-people-tried-to-hack-my-ai-assistant",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "source": "rss",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 26 Jun 2026 02:29:23 +0000",
+  "collected_at": "2026-06-27T09:58:24.918180+00:00",
+  "summary": "作者在Claude Code中构建了一个AI助手，并公开邀请2000多人尝试破解。文章详细记录了各种攻击手段，如提示注入、越狱尝试、数据泄露等，以及作者采取的防御措施和从中获得的经验教训。",
+  "highlights": [
+    "公开邀请2000多人尝试破解AI助手，暴露了多种攻击向量",
+    "记录了提示注入、越狱、数据泄露等实际攻击案例",
+    "总结了针对AI助手的安全防御策略和最佳实践",
+    "强调了AI系统安全设计的重要性，尤其是在开放环境中"
+  ],
+  "tags": [
+    "AI Security",
+    "Prompt Injection",
+    "LLM",
+    "Red Teaming",
+    "Adversarial Attacks"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "文章提供了真实世界的AI安全攻防案例，具有很高的实践参考价值和警示意义，但缺乏量化数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

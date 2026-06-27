@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-27-notion",
+  "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+  "source": "rss",
+  "source_url": "https://github.com/inkeep/open-knowledge",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 25 Jun 2026 16:04:46 +0000",
+  "collected_at": "2026-06-27T09:58:32.240690+00:00",
+  "summary": "OpenKnowledge 是一款开源的 AI 优先 Markdown 编辑器，可作为 Obsidian/Notion 的替代品。它提供所见即所得的编辑体验，原生集成 Claude、Codex 等 AI 代理，支持本地/云端协作、CRDT 同步、版本历史与 Git 后端。项目采用 Tiptap、CodeMirror、yjs 等技术栈，并内置 MCPs、技能和 RAG 功能，适合构建 AI 第二大脑或团队知识库。",
+  "highlights": [
+    "所见即所得 Markdown 编辑器，原生集成 Claude、Codex 等 AI 代理，支持侧边栏协作",
+    "基于 CRDT 和 Git 的双向同步机制，实现无损 ProseMirror 与 Markdown 互转",
+    "内置 RAG、MCPs 和技能系统，支持 AI 第二大脑场景与规范编写",
+    "完全开源、本地优先，支持 MacOS 应用、Web UI 和 CLI，数据隐私可控"
+  ],
+  "tags": [
+    "LLM",
+    "RAG",
+    "CRDT",
+    "Markdown",
+    "Editor"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "创新性地结合 AI 代理集成与所见即所得编辑，解决 Obsidian 生态痛点，技术架构扎实且开源，但生态成熟度尚需验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
