@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-28-which-tokens-does-a-hybrid-model-predict-better",
+  "title": "Which tokens does a hybrid model predict better?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 25 Jun 2026 16:11:42 GMT",
+  "collected_at": "2026-06-28T10:23:38.536064+00:00",
+  "summary": "该博客探讨了混合模型（hybrid model）在预测不同token时的表现差异。通过分析，发现混合模型在预测低频词、罕见实体和特定领域术语时表现更好，而在高频常见词上与传统模型差异不大。文章还讨论了混合模型如何结合不同架构优势来提升预测准确性。",
+  "highlights": [
+    "混合模型在低频token预测上显著优于传统模型",
+    "罕见实体和领域术语的预测准确率提升明显",
+    "高频常见词的预测表现与传统模型接近",
+    "混合模型通过结合不同架构优势实现性能提升"
+  ],
+  "tags": [
+    "Hybrid Model",
+    "Token Prediction",
+    "NLP",
+    "Language Model",
+    "Performance Analysis"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该研究提供了混合模型在token预测上的具体性能分析，具有实际应用价值，但缺乏更广泛的实验验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

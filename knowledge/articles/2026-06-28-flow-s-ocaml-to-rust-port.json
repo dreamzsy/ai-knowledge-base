@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-28-flow-s-ocaml-to-rust-port",
+  "title": "Flow’s OCaml to Rust Port",
+  "source": "rss",
+  "source_url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+  "collected_at": "2026-06-28T10:23:16.577966+00:00",
+  "summary": "Flow 团队分享了将 OCaml 代码库移植到 Rust 的经验，包括动机、迁移策略、性能提升和未来计划。该移植旨在利用 Rust 的内存安全性和性能优势，同时保持与现有系统的兼容性。",
+  "highlights": [
+    "移植动机：利用 Rust 的内存安全性和性能优势，减少运行时错误。",
+    "迁移策略：逐步替换 OCaml 模块，保持与现有系统的兼容性。",
+    "性能提升：Rust 版本在类型检查速度上显著提升。",
+    "未来计划：继续优化并扩展 Rust 代码库的覆盖范围。"
+  ],
+  "tags": [
+    "Rust",
+    "OCaml",
+    "TypeScript",
+    "Performance",
+    "Migration"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该移植案例展示了从 OCaml 到 Rust 的实际迁移经验，对大型代码库重构有重要参考价值，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

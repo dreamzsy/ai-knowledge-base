@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-28-gpt2-basic-portable-machine-intelligence-in-basic",
+  "title": "GPT2-BASIC: Portable Machine Intelligence in BASIC",
+  "source": "rss",
+  "source_url": "https://github.com/tsotchke/gpt2-basic",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 27 Jun 2026 10:15:46 -0500",
+  "collected_at": "2026-06-28T10:23:10.818909+00:00",
+  "summary": "GPT2-BASIC 是一个用 BASIC 语言实现的 GPT-2 模型，旨在展示在极简环境中运行机器学习模型的可能性。该项目将 GPT-2 的推理逻辑移植到 BASIC 中，支持文本生成，具有高度可移植性，可在老旧或资源受限的系统上运行。",
+  "highlights": [
+    "用 BASIC 语言完整实现 GPT-2 推理，支持文本生成",
+    "强调可移植性，能在老旧或资源受限系统上运行",
+    "代码简洁，适合教学和演示机器学习基本原理",
+    "展示了在非传统编程环境中部署 AI 模型的可行性"
+  ],
+  "tags": [
+    "GPT-2",
+    "BASIC",
+    "Machine Learning",
+    "Portability",
+    "Retro Computing"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目创意独特，展示了极简环境下的 AI 部署，但实用性有限，适合教育和演示场景。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

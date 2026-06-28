@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-28-how-agents-are-transforming-work",
+  "title": "How agents are transforming work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-agents-are-transforming-work",
+  "author": "openai_blog",
+  "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
+  "collected_at": "2026-06-28T10:23:27.657626+00:00",
+  "summary": "OpenAI 发布新研究论文，探讨 AI 代理如何通过处理更长、更复杂的任务来改变工作方式，提升各角色的生产力。",
+  "highlights": [
+    "AI 代理能够处理更长时间和更复杂的任务",
+    "代理技术正在扩展不同角色的生产力",
+    "研究展示了代理在工作流程中的实际应用"
+  ],
+  "tags": [
+    "AI Agents",
+    "Productivity",
+    "LLM",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究由 OpenAI 发布，具有权威性，且聚焦于 AI 代理的实际应用，对工作转型有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

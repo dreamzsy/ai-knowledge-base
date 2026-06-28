@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-28-openai-and-broadcom-unveil-llm-optimized-inference-chip",
+  "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+  "author": "openai_blog",
+  "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
+  "collected_at": "2026-06-28T10:23:30.137790+00:00",
+  "summary": "OpenAI与Broadcom联合推出名为Jalapeño的定制AI芯片，专为LLM推理优化，旨在提升AI系统的性能、效率和扩展能力。",
+  "highlights": [
+    "定制芯片Jalapeño由OpenAI与Broadcom合作开发",
+    "专为LLM推理任务优化，提升性能与效率",
+    "旨在支持大规模AI系统的扩展需求"
+  ],
+  "tags": [
+    "LLM",
+    "Inference",
+    "Chip",
+    "Hardware",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该芯片针对LLM推理优化，结合OpenAI的算法与Broadcom的硬件能力，具有显著的技术创新和实际应用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

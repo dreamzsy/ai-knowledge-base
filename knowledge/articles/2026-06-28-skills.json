@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-28-skills",
+  "title": "anthropics/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "published_at": "2025-09-22T15:53:31Z",
+  "collected_at": "2026-06-28T10:22:32.472857+00:00",
+  "summary": "Anthropics 发布的 Agent Skills 公共仓库，旨在提供构建智能代理所需的核心技能模块与最佳实践。",
+  "highlights": [
+    "专注于 Agent 技能模块化开发与共享",
+    "提供可复用的代理能力组件",
+    "由 Anthropics 官方维护，质量有保障",
+    "面向开发者社区开放，促进协作"
+  ],
+  "tags": [
+    "Agent",
+    "Skills",
+    "Framework",
+    "LLM",
+    "Anthropic"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "项目聚焦 Agent 技能标准化，具有较高实用价值和社区潜力，但尚处早期阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 156046,
+    "language": "Python"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-28-language-integrated-llms-as-an-ocaml-function",
+  "title": "Language integrated LLMs as an OCaml function",
+  "source": "rss",
+  "source_url": "https://anil.recoil.org/notes/language-integrated-llms",
+  "author": "lobsters_ml",
+  "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+  "collected_at": "2026-06-28T10:23:22.700288+00:00",
+  "summary": "该文章探讨了将大型语言模型（LLMs）作为OCaml函数进行语言集成的方法，旨在通过类型安全和编译时检查来简化LLM调用，提升代码可靠性和开发效率。",
+  "highlights": [
+    "提出将LLM调用封装为OCaml函数，利用类型系统保证输入输出正确性",
+    "通过编译时检查减少运行时错误，增强代码健壮性",
+    "展示了语言集成LLM在函数式编程中的实际应用案例"
+  ],
+  "tags": [
+    "LLM",
+    "OCaml",
+    "Language Integration",
+    "Functional Programming",
+    "Type Safety"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地将LLM与OCaml类型系统结合，具有实用价值，但概念尚处早期阶段，需更多实践验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

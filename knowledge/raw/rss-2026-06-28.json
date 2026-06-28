@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 205 # Comments: 137",
+    "published_at": "Sun, 28 Jun 2026 03:09:13 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The best response to AI slop and online noise is from Robin Williams",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 229 # Comments: 129",
+    "published_at": "Sun, 28 Jun 2026 01:28:10 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Asian AI startups launch Mythos-like models",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 234 # Comments: 175",
+    "published_at": "Sat, 27 Jun 2026 13:10:21 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 762 # Comments: 323",
+    "published_at": "Sat, 27 Jun 2026 09:18:52 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 28 Jun 2026 04:21:19 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 13:03:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Comparing Transformers and Hybrid Models at the Token Level",
+    "url": "https://arxiv.org/pdf/2606.20936",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 10:16:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPT2-BASIC: Portable Machine Intelligence in BASIC",
+    "url": "https://github.com/tsotchke/gpt2-basic",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mhjlia/gpt2_basic_portable_machine\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 10:15:46 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Language integrated LLMs as an OCaml function",
+    "url": "https://anil.recoil.org/notes/language-integrated-llms",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/savxgn/language_integrated_llms_as_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 16 Jun 2026 01:15:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "author": "openai_blog",
+    "summary_raw": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "published_at": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Which tokens does a hybrid model predict better?",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 25 Jun 2026 16:11:42 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 24 Jun 2026 16:00:13 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]
