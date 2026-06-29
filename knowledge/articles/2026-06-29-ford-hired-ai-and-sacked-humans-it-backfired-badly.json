@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-29-ford-hired-ai-and-sacked-humans-it-backfired-badly",
+  "title": "Ford hired AI and sacked humans. It backfired badly",
+  "source": "rss",
+  "source_url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 28 Jun 2026 03:09:13 +0000",
+  "collected_at": "2026-06-29T12:25:32.822602+00:00",
+  "summary": "福特公司尝试用AI替代人类员工，但这一策略严重适得其反，导致运营问题。文章探讨了自动化在企业管理中的风险，强调完全依赖AI可能带来的负面后果。",
+  "highlights": [
+    "福特公司用AI替代人类员工，结果导致运营问题",
+    "自动化策略未能达到预期效果，反而引发新问题",
+    "案例表明AI在复杂管理场景中仍需人类监督",
+    "文章警示企业应谨慎平衡AI与人力资源"
+  ],
+  "tags": [
+    "AI",
+    "Automation",
+    "Enterprise",
+    "Risk Management"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "案例具有警示意义，但缺乏技术细节和通用性，评分中等偏上",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

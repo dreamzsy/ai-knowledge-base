@@ -1,0 +1,27 @@
+{
+  "id": "2026-06-29-hp-inc-launches-frontier-strategic-partnership-with-openai",
+  "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/hp-frontier-partnership",
+  "author": "openai_blog",
+  "published_at": "Sun, 28 Jun 2026 17:00:00 GMT",
+  "collected_at": "2026-06-29T12:26:07.854225+00:00",
+  "summary": "惠普公司与OpenAI扩大前沿合作伙伴关系，旨在将人工智能部署到客户体验、软件开发和企业运营中，以提升业务效率和创新能力。",
+  "highlights": [
+    "惠普与OpenAI建立战略合作，加速AI在企业级应用中的落地。",
+    "合作聚焦于客户体验优化、软件开发流程改进和企业运营效率提升。",
+    "惠普计划利用OpenAI的技术推动数字化转型，增强市场竞争力。"
+  ],
+  "tags": [
+    "LLM",
+    "Enterprise",
+    "Partnership",
+    "AI Deployment"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该合作展示了大型企业与AI领先者的深度整合，具有实际应用价值，但具体技术细节和影响尚未明确。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

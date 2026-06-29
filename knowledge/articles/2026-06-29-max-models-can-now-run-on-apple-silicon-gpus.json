@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-29-max-models-can-now-run-on-apple-silicon-gpus",
+  "title": "MAX models can now run on Apple silicon GPUs",
+  "source": "rss",
+  "source_url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 28 Jun 2026 04:21:19 -0500",
+  "collected_at": "2026-06-29T12:25:44.558328+00:00",
+  "summary": "Modular 宣布其 MAX 模型现在可以在 Apple Silicon GPU 上运行，利用 Metal 后端实现高效推理。这一更新使得开发者能够在 Mac 设备上本地部署和运行 AI 模型，无需依赖外部 GPU 或云服务，提升了易用性和性能。",
+  "highlights": [
+    "MAX 模型新增对 Apple Silicon GPU 的支持，通过 Metal 后端加速推理。",
+    "开发者可在 Mac 设备上本地运行 AI 模型，降低硬件依赖。",
+    "该更新提升了模型部署的便捷性和性能，尤其适合 Apple 生态用户。"
+  ],
+  "tags": [
+    "Apple Silicon",
+    "GPU",
+    "Inference",
+    "Metal",
+    "Modular"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该更新增强了 Apple 生态的 AI 部署能力，但仅针对特定硬件和框架，通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

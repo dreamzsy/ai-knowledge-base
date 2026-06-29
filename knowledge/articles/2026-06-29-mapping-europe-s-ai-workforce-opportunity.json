@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-29-mapping-europe-s-ai-workforce-opportunity",
+  "title": "Mapping Europe’s AI Workforce Opportunity",
+  "source": "rss",
+  "source_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+  "author": "openai_blog",
+  "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+  "collected_at": "2026-06-29T12:26:05.438551+00:00",
+  "summary": "OpenAI 发布新报告，分析 AI 对欧盟就业市场的影响，指出哪些职业可能面临自动化、增长或工作流程变化，为政策制定和劳动力转型提供参考。",
+  "highlights": [
+    "报告详细绘制了欧盟各国 AI 对职业影响的地图，区分自动化、增长和变化三类职业。",
+    "指出行政、客服等重复性工作自动化风险高，而技术、创意类岗位可能增长。",
+    "强调 AI 将改变工作流程而非完全取代人类，需关注技能再培训。",
+    "为政策制定者提供数据支持，以应对劳动力市场转型挑战。"
+  ],
+  "tags": [
+    "AI",
+    "Labor Market",
+    "Automation",
+    "Policy",
+    "EU"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "报告基于 OpenAI 研究，数据详实，对理解 AI 对就业影响有实际参考价值，但缺乏具体解决方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

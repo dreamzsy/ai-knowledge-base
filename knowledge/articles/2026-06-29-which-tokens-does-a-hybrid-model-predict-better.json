@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-29-which-tokens-does-a-hybrid-model-predict-better",
+  "title": "Which tokens does a hybrid model predict better?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 25 Jun 2026 16:11:42 GMT",
+  "collected_at": "2026-06-29T12:26:17.779677+00:00",
+  "summary": "该博客探讨了混合模型在预测不同令牌时的表现差异，分析了哪些令牌类型（如常见词、罕见词、标点等）在混合架构下预测更准确，并提供了实验数据和见解，以优化模型设计。",
+  "highlights": [
+    "混合模型在预测罕见令牌时表现优于纯稠密或稀疏模型",
+    "常见令牌的预测准确性在混合模型中提升有限",
+    "标点符号和特殊令牌的预测效果受模型架构影响显著",
+    "实验结果表明混合模型能更好地平衡不同令牌类型的预测能力"
+  ],
+  "tags": [
+    "LLM",
+    "Hybrid Model",
+    "Token Prediction",
+    "Model Architecture"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "提供了有价值的令牌预测分析，但缺乏具体应用场景和代码实现，实用性略有限制。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
