@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-30-previewing-gpt-5-6-sol-a-next-generation-model",
+  "title": "Previewing GPT-5.6 Sol: a next-generation model",
+  "source": "rss",
+  "source_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+  "author": "openai_blog",
+  "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
+  "collected_at": "2026-06-30T10:51:08.905244+00:00",
+  "summary": "OpenAI 预览了下一代模型 GPT-5.6 Sol，该模型在编程、科学和网络安全方面能力更强，并配备了最先进的安全堆栈。",
+  "highlights": [
+    "GPT-5.6 Sol 在编程、科学和网络安全领域展现出更强的能力。",
+    "该模型配备了 OpenAI 最先进的安全堆栈。",
+    "这是一次下一代模型的预览，预示着 AI 能力的进一步提升。"
+  ],
+  "tags": [
+    "LLM",
+    "GPT",
+    "Cybersecurity",
+    "Coding",
+    "Safety"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "作为下一代模型预览，展示了显著的能力提升和安全性进步，但尚未正式发布，评分略低于满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

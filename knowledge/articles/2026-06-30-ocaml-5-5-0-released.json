@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-30-ocaml-5-5-0-released",
+  "title": "OCaml 5.5.0 released",
+  "source": "rss",
+  "source_url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+  "author": "lobsters_ml",
+  "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+  "collected_at": "2026-06-30T10:51:01.330397+00:00",
+  "summary": "OCaml 5.5.0 版本发布，带来了多项改进和修复，包括性能优化、新特性支持以及更好的工具链集成，旨在提升开发体验和语言稳定性。",
+  "highlights": [
+    "性能优化：改进了运行时和编译器的效率",
+    "新特性：增加了对多线程和并行计算的支持",
+    "工具链增强：更新了包管理器和调试工具",
+    "错误修复：解决了多个已知问题，提升了稳定性"
+  ],
+  "tags": [
+    "OCaml",
+    "Programming Language",
+    "Release",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "作为主流函数式编程语言的版本更新，具有实用价值，但创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
