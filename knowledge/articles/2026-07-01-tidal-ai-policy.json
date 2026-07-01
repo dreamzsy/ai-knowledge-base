@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-01-tidal-ai-policy",
+  "title": "Tidal AI Policy",
+  "source": "rss",
+  "source_url": "https://tidal.com/ai-policy",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 29 Jun 2026 13:09:03 +0000",
+  "collected_at": "2026-07-01T11:19:10.775384+00:00",
+  "summary": "Tidal 发布了其 AI 政策，明确了在音乐平台上使用人工智能技术的规则和限制，旨在保护艺术家权益并规范 AI 生成内容的使用。该政策引发了社区广泛讨论，涉及版权、创作伦理和技术应用边界。",
+  "highlights": [
+    "Tidal 明确禁止未经授权的 AI 生成内容用于商业用途",
+    "政策强调保护艺术家原创作品的版权和收益",
+    "要求 AI 工具在平台上使用时需透明标注",
+    "社区讨论热烈，反映对 AI 在音乐领域影响的关注"
+  ],
+  "tags": [
+    "AI Policy",
+    "Music",
+    "Copyright",
+    "Ethics",
+    "Platform"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "政策及时回应了 AI 在音乐领域的争议，但缺乏具体执行细节，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

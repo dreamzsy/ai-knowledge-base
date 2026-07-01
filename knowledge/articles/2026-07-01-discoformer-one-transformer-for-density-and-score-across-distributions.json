@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-01-discoformer-one-transformer-for-density-and-score-across-distributions",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/discoformer",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 29 Jun 2026 18:02:48 GMT",
+  "collected_at": "2026-07-01T11:19:54.961405+00:00",
+  "summary": "DiScoFormer 是一种新型 Transformer 架构，能够同时学习密度估计和分数函数，适用于多种分布。它通过共享表示实现高效训练，在密度估计和生成任务上表现优异，为概率建模提供了统一框架。",
+  "highlights": [
+    "DiScoFormer 统一了密度估计和分数函数的学习，减少模型冗余。",
+    "该架构在多种分布上表现出色，具备跨分布泛化能力。",
+    "通过共享 Transformer 表示，提升了训练效率和任务性能。"
+  ],
+  "tags": [
+    "Transformer",
+    "Density Estimation",
+    "Score Function",
+    "Probabilistic Modeling",
+    "Generative Model"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地结合密度与分数学习，跨分布泛化能力强，但实际应用验证尚需更多实验。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

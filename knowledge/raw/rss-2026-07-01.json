@@ -1,0 +1,155 @@
+[
+  {
+    "source": "rss",
+    "title": "Tidal AI Policy",
+    "url": "https://tidal.com/ai-policy",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 307 # Comments: 343",
+    "published_at": "Mon, 29 Jun 2026 13:09:03 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+    "url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d6tl13/teaching_digikam_understand_you_natural\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 01 Jul 2026 05:22:01 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "url": "https://ieeexplore.ieee.org/document/11475847/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\"&gt;NIST article&lt;/a&gt; covers this paper well&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/7exvix/robust_ai_security_alignment_sisyphean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 29 Jun 2026 15:56:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Convolutional Neural Networks in APL (2019)",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 28 Jun 2026 14:43:34 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 28 Jun 2026 04:21:19 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "author": "openai_blog",
+    "summary_raw": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "published_at": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "author": "openai_blog",
+    "summary_raw": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "author": "openai_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Specialization Is Inevitable",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 29 Jun 2026 18:02:48 GMT",
+    "extra": {}
+  }
+]

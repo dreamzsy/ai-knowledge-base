@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-01-inside-genebench-pro",
+  "title": "Inside Genebench-Pro",
+  "source": "rss",
+  "source_url": "https://openai.com/index/genebench-pro/case-studies",
+  "author": "openai_blog",
+  "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-07-01T11:19:42.835874+00:00",
+  "summary": "OpenAI 发布 Genebench-Pro，一个用于评估基因基础模型在真实世界任务中表现的基准测试，涵盖基因表达预测、变异效应分析等关键应用场景。",
+  "highlights": [
+    "Genebench-Pro 专注于评估基因基础模型在真实生物任务中的性能",
+    "包含基因表达预测、变异效应分析等多样化任务",
+    "提供标准化评估框架，推动基因 AI 模型的可比性和实用性"
+  ],
+  "tags": [
+    "Genomics",
+    "Benchmark",
+    "AI",
+    "Foundation Model"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该基准测试填补了基因 AI 模型评估的空白，具有较高的实用价值和行业影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

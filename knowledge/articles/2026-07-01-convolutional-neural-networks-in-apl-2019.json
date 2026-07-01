@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-01-convolutional-neural-networks-in-apl-2019",
+  "title": "Convolutional Neural Networks in APL (2019)",
+  "source": "rss",
+  "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 28 Jun 2026 14:43:34 -0500",
+  "collected_at": "2026-07-01T11:19:19.240812+00:00",
+  "summary": "该论文展示了如何在APL语言中实现卷积神经网络（CNN），利用APL的数组操作特性简化CNN的数学表达和实现过程。通过具体代码示例，证明了APL在深度学习领域的潜力，尤其适合快速原型开发。",
+  "highlights": [
+    "利用APL的数组操作特性简化CNN的数学表达",
+    "提供了完整的CNN实现代码示例",
+    "展示了APL在深度学习快速原型开发中的潜力"
+  ],
+  "tags": [
+    "APL",
+    "CNN",
+    "Deep Learning",
+    "Array Programming"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "虽然展示了APL实现CNN的创新性，但实用性有限，且缺乏与现代深度学习框架的对比",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
