@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-02-robust-ai-security-and-alignment-a-sisyphean-endeavor",
+  "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+  "source": "rss",
+  "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 29 Jun 2026 15:56:52 -0500",
+  "collected_at": "2026-07-02T10:31:06.034315+00:00",
+  "summary": "本文探讨了AI安全与对齐的挑战，引用NIST文章，指出持续监控和更新是应对AI系统安全问题的关键。作者认为这一过程如同西西弗斯式任务，永无止境，强调了在AI发展中平衡安全与进步的困难。",
+  "highlights": [
+    "AI安全与对齐是持续挑战，需要不断监控和更新",
+    "NIST支持从静态安全转向动态监控的数学证明",
+    "类比西西弗斯神话，强调AI安全任务的永续性"
+  ],
+  "tags": [
+    "AI Security",
+    "Alignment",
+    "NIST",
+    "Continuous Monitoring"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章提出了AI安全领域的核心困境，但缺乏具体解决方案，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

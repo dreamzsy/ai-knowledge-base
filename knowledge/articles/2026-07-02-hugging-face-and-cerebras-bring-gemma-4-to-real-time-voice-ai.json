@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-02-hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai",
+  "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 01 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-02T10:31:26.385946+00:00",
+  "summary": "Hugging Face 与 Cerebras 合作，将 Google 的 Gemma 4 模型集成到实时语音 AI 应用中，利用 Cerebras 的硬件加速实现低延迟推理，推动语音交互技术的实时性发展。",
+  "highlights": [
+    "Hugging Face 与 Cerebras 合作，将 Gemma 4 模型用于实时语音 AI",
+    "利用 Cerebras 硬件加速实现低延迟推理",
+    "推动语音交互技术的实时性发展"
+  ],
+  "tags": [
+    "LLM",
+    "Voice AI",
+    "Hardware Acceleration",
+    "Real-time"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "结合前沿模型与专用硬件，解决实时语音 AI 的关键延迟问题，具有较高技术价值和应用前景",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

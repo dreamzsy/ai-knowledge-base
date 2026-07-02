@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-02-introducing-genebench-pro",
+  "title": "Introducing GeneBench-Pro",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-genebench-pro",
+  "author": "openai_blog",
+  "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-07-02T10:31:21.934807+00:00",
+  "summary": "OpenAI 推出 GeneBench-Pro，这是一个新的基准测试，用于评估 AI 在基因组学、生物学和科学研究中的表现，使用复杂且真实世界的数据集。",
+  "highlights": [
+    "GeneBench-Pro 专注于基因组学和生物学领域的 AI 性能评估。",
+    "该基准测试使用复杂、真实世界的数据集。",
+    "旨在推动 AI 在科学研究中的应用。"
+  ],
+  "tags": [
+    "LLM",
+    "Benchmark",
+    "Genomics",
+    "Biology",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该基准测试针对前沿科学领域，具有实际应用价值，但具体细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
