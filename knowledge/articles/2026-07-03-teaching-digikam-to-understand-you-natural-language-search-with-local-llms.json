@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-03-teaching-digikam-to-understand-you-natural-language-search-with-local-llms",
+  "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+  "source": "rss",
+  "source_url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 01 Jul 2026 05:22:01 -0500",
+  "collected_at": "2026-07-03T10:28:57.997899+00:00",
+  "summary": "本文介绍了在开源照片管理软件 digiKam 中集成本地大语言模型（LLM）实现自然语言搜索功能。作者通过调用本地运行的 LLM 将用户自然语言查询转换为结构化搜索条件，从而在不依赖云服务的情况下提升照片检索的智能性和隐私性。",
+  "highlights": [
+    "在 digiKam 中集成本地 LLM 实现自然语言搜索",
+    "用户查询被转换为结构化搜索条件，提升检索准确性",
+    "完全本地运行，保护用户隐私，无需联网",
+    "展示了开源软件与本地 AI 模型结合的实际应用案例"
+  ],
+  "tags": [
+    "LLM",
+    "Local AI",
+    "Natural Language Search",
+    "Open Source",
+    "digiKam"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "项目实用性强，结合了本地 LLM 与开源软件，但技术细节和性能评估不足，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

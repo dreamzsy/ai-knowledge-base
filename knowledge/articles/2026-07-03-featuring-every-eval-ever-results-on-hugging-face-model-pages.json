@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-03-featuring-every-eval-ever-results-on-hugging-face-model-pages",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/eee-community-evals",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-07-03T10:29:32.627469+00:00",
+  "summary": "Hugging Face 模型页面现在可以展示来自社区的各种评估结果，包括 Open LLM Leaderboard、Chatbot Arena 等，用户可以直接在模型页面上查看性能数据，无需跳转外部站点。",
+  "highlights": [
+    "模型页面集成多个社区评估结果，提升信息获取效率",
+    "支持 Open LLM Leaderboard、Chatbot Arena 等主流评估",
+    "用户可直接在模型页面查看性能数据，无需跳转外部站点"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Hugging Face",
+    "Model Hub"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该功能显著提升了模型评估的便捷性和透明度，对社区生态有积极影响。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "source": "rss",
+    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 378 # Comments: 198",
+    "published_at": "Thu, 02 Jul 2026 13:43:41 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Investigating idiosyncrasies in AI fiction",
+    "url": "https://arxiv.org/abs/2604.03136",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 02 Jul 2026 07:02:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+    "url": "https://yfu.tw/blog/en/autofz-revisited/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gwxqmh/control_plane_was_point_revisiting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 02 Jul 2026 00:19:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 01 Jul 2026 08:04:01 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+    "url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d6tl13/teaching_digikam_understand_you_natural\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 01 Jul 2026 05:22:01 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "author": "openai_blog",
+    "summary_raw": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "published_at": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "author": "openai_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "author": "openai_blog",
+    "summary_raw": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Specialization Is Inevitable",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

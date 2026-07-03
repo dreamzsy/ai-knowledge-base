@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-03-matrix-orthogonalization-improves-memory-in-recurrent-models",
+  "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+  "source": "rss",
+  "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 01 Jul 2026 08:04:01 -0500",
+  "collected_at": "2026-07-03T10:28:54.887604+00:00",
+  "summary": "本文探讨了矩阵正交化如何提升循环模型（如RNN、LSTM）的记忆能力。通过保持权重矩阵的正交性，模型能更有效地捕捉长期依赖，缓解梯度消失或爆炸问题，从而在序列任务中表现更优。",
+  "highlights": [
+    "矩阵正交化可显著增强循环模型的长期记忆能力",
+    "正交权重有助于缓解梯度消失和爆炸问题",
+    "该方法在多种序列建模任务中验证了有效性"
+  ],
+  "tags": [
+    "RNN",
+    "Matrix Orthogonalization",
+    "Memory",
+    "Gradient Stability",
+    "Sequence Modeling"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "方法创新且实用，对循环模型优化有明确价值，但缺乏大规模实验对比",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

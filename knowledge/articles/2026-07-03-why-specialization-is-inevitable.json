@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-03-why-specialization-is-inevitable",
+  "title": "Why Specialization Is Inevitable",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 30 Jun 2026 14:39:11 GMT",
+  "collected_at": "2026-07-03T10:29:29.735063+00:00",
+  "summary": "文章探讨了在AI领域，随着技术发展，专业化分工不可避免的趋势。作者认为通用模型虽强大，但特定任务需要定制化解决方案，未来将出现大量垂直领域的专业AI系统。",
+  "highlights": [
+    "通用AI模型无法在所有场景中达到最优性能，专业化是必然选择。",
+    "垂直领域的专业AI系统将更高效、更精准地解决特定问题。",
+    "专业化分工将推动AI生态系统的多样化和协作。",
+    "未来AI发展需平衡通用能力与专业定制。"
+  ],
+  "tags": [
+    "AI",
+    "Specialization",
+    "Vertical AI",
+    "General AI",
+    "Future Trends"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "观点清晰，逻辑严谨，对AI行业趋势有深刻洞察，具有前瞻性和实践指导意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
