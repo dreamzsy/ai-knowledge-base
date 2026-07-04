@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-04-scarfbench-benchmarking-ai-agents-for-enterprise-java-framework-migration",
+  "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 30 Jun 2026 18:32:50 GMT",
+  "collected_at": "2026-07-04T10:02:57.904473+00:00",
+  "summary": "ScarfBench 是一个用于评估 AI 代理在企业级 Java 框架迁移任务中性能的基准测试平台，旨在衡量 AI 在复杂代码迁移场景中的能力。",
+  "highlights": [
+    "ScarfBench 专注于企业 Java 框架迁移，如从传统框架迁移到现代框架。",
+    "该基准测试评估 AI 代理在代码重构和迁移中的准确性和效率。",
+    "提供标准化的评估指标，帮助比较不同 AI 代理的性能。",
+    "由 IBM 研究团队开发，旨在推动 AI 在软件工程中的应用。"
+  ],
+  "tags": [
+    "AI Agent",
+    "Benchmark",
+    "Java",
+    "Code Migration",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "针对企业级 Java 迁移的专门基准测试，填补了 AI 代理在代码迁移评估中的空白，具有实际应用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
