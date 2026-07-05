@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-05-investigating-idiosyncrasies-in-ai-fiction",
+  "title": "Investigating idiosyncrasies in AI fiction",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.03136",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 02 Jul 2026 07:02:29 -0500",
+  "collected_at": "2026-07-05T10:05:07.489420+00:00",
+  "summary": "该论文研究了AI生成小说中的独特风格特征，通过分析大量文本，识别出AI在叙事结构、语言模式和主题选择上的常见偏差，为理解AI创作特性提供了新视角。",
+  "highlights": [
+    "系统分析了AI生成小说的语言和结构特征",
+    "发现了AI在叙事连贯性和情感表达上的特有模式",
+    "为区分人类与AI创作提供了可量化的指标"
+  ],
+  "tags": [
+    "LLM",
+    "NLP",
+    "Text Generation",
+    "AI Fiction"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "研究视角新颖，对AI文本生成领域有参考价值，但应用范围相对有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

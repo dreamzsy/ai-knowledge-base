@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-05-the-feature-in-oxcaml-that-more-languages-should-steal",
+  "title": "The feature in OxCaml that more languages should steal",
+  "source": "rss",
+  "source_url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+  "author": "lobsters_ml",
+  "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+  "collected_at": "2026-07-05T10:05:21.700388+00:00",
+  "summary": "本文探讨了OxCaml语言中一个独特功能，认为其他编程语言应借鉴该设计，以提升代码安全性和开发效率。",
+  "highlights": [
+    "OxCaml的该功能通过编译时检查减少运行时错误",
+    "该设计平衡了表达性与安全性，优于现有语言方案",
+    "作者呼吁主流语言采纳此模式以改进类型系统"
+  ],
+  "tags": [
+    "OxCaml",
+    "Programming Languages",
+    "Type System",
+    "Compiler Design"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "观点新颖但缺乏具体实现细节，对语言设计有启发但实用性待验证",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

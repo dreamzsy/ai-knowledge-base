@@ -1,0 +1,30 @@
+{
+  "id": "2026-07-05-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": "2024-04-15T21:02:29Z",
+  "collected_at": "2026-07-05T10:04:59.623185+00:00",
+  "summary": "Firecrawl 是一个用于大规模搜索、抓取和与网页交互的 API 工具，支持高效的数据采集和自动化操作。",
+  "highlights": [
+    "提供强大的网页搜索和抓取 API，支持大规模数据采集",
+    "支持与网页的交互操作，如表单填写和点击",
+    "易于集成，适合开发者和企业使用"
+  ],
+  "tags": [
+    "API",
+    "Web Scraping",
+    "Automation",
+    "Data Collection"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该项目解决了大规模网页数据采集和交互的痛点，API 设计简洁实用，具有较高的实用价值和扩展性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 144705,
+    "language": "TypeScript"
+  }
+}

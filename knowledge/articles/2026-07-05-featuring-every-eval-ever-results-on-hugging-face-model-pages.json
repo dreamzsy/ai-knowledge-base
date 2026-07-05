@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-05-featuring-every-eval-ever-results-on-hugging-face-model-pages",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/eee-community-evals",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-07-05T10:05:49.871816+00:00",
+  "summary": "Hugging Face 模型页面新增了“Every Eval Ever”功能，汇总并展示了社区对模型的各种评估结果，使用户能更直观地比较模型性能。该功能整合了来自不同基准测试的评分，提升了模型选择的透明度和效率。",
+  "highlights": [
+    "Hugging Face 模型页面集成社区评估结果，方便用户快速查看模型性能。",
+    "汇总多个基准测试的评分，提供更全面的模型比较视角。",
+    "提升模型选择的透明度，帮助开发者做出更明智的决策。"
+  ],
+  "tags": [
+    "Hugging Face",
+    "Model Evaluation",
+    "Benchmark",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该功能显著提升了模型评估的便捷性和透明度，对社区有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

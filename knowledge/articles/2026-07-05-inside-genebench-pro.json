@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-05-inside-genebench-pro",
+  "title": "Inside Genebench-Pro",
+  "source": "rss",
+  "source_url": "https://openai.com/index/genebench-pro/case-studies",
+  "author": "openai_blog",
+  "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "collected_at": "2026-07-05T10:05:33.030312+00:00",
+  "summary": "OpenAI 发布了 Genebench-Pro，这是一个用于评估基因模型性能的基准测试平台，通过一系列案例研究展示了其在基因序列分析、变异解读和功能预测等任务上的能力。",
+  "highlights": [
+    "Genebench-Pro 提供了标准化的基因模型评估框架",
+    "包含多个真实世界基因分析案例研究",
+    "支持变异解读和功能预测等关键任务",
+    "旨在推动基因AI模型的透明度和可重复性"
+  ],
+  "tags": [
+    "LLM",
+    "Benchmark",
+    "Genomics",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该基准测试填补了基因AI评估领域的空白，案例研究具有实际应用价值，但具体技术细节和性能数据尚未公开。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

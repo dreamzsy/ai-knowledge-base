@@ -1,0 +1,30 @@
+{
+  "id": "2026-07-05-openclaw",
+  "title": "openclaw/openclaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "author": "openclaw",
+  "published_at": "2025-11-24T10:16:47Z",
+  "collected_at": "2026-07-05T10:04:08.825215+00:00",
+  "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，采用“龙虾方式”设计，旨在为用户提供灵活、自托管的智能助手体验。",
+  "highlights": [
+    "支持任何操作系统和平台，实现真正的跨平台兼容",
+    "以“龙虾方式”为设计理念，强调个性化和自主性",
+    "开源项目，允许用户自托管和定制 AI 助手"
+  ],
+  "tags": [
+    "AI Assistant",
+    "Cross-Platform",
+    "Open Source",
+    "Self-Hosted"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目概念清晰，跨平台和自托管特性有实用价值，但描述较简略，缺乏技术细节和社区活跃度支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 381794,
+    "language": "TypeScript"
+  }
+}
