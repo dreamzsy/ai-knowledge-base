@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-06-kernels-major-updates",
+  "title": "🤗 Kernels: Major Updates",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 06 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-06T11:57:41.760344+00:00",
+  "summary": "Hugging Face 发布了 Kernels 的重大更新，旨在提升模型训练和推理的性能与效率。更新包括优化内核、支持更多硬件加速、改进内存管理，并简化用户集成流程，为开发者提供更强大的底层计算支持。",
+  "highlights": [
+    "优化了多个核心内核，显著提升计算速度",
+    "新增对多种硬件加速器的支持，扩展兼容性",
+    "改进内存管理，降低资源消耗",
+    "简化 API 和集成流程，降低使用门槛"
+  ],
+  "tags": [
+    "Kernels",
+    "Performance",
+    "Hardware Acceleration",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "重大更新对模型训练和推理性能有显著提升，但具体效果需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
