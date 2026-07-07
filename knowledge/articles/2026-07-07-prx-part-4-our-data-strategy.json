@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-07-prx-part-4-our-data-strategy",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 06 Jul 2026 15:30:55 GMT",
+  "collected_at": "2026-07-07T10:49:17.432940+00:00",
+  "summary": "Photoroom 在 PRX 系列第四部分中详细介绍了其数据策略，包括如何收集、处理和利用数据来训练和改进其 AI 模型。文章强调了数据质量、多样性和隐私保护的重要性，并分享了他们在数据标注、合成数据生成以及数据增强方面的实践经验。",
+  "highlights": [
+    "Photoroom 采用混合数据策略，结合真实用户数据和合成数据来提升模型性能。",
+    "他们开发了内部工具来自动化数据标注和清洗流程，确保数据质量。",
+    "文章强调了数据隐私合规性，通过匿名化和差分隐私技术保护用户信息。",
+    "数据策略的核心是持续迭代，通过反馈循环不断优化数据采集和处理方法。"
+  ],
+  "tags": [
+    "Data Strategy",
+    "AI Training",
+    "Data Privacy",
+    "Synthetic Data",
+    "Data Augmentation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该文章提供了实用的数据策略框架，结合了技术细节和隐私考量，对 AI 从业者具有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

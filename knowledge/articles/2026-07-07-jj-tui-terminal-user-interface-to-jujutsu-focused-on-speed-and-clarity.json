@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-07-jj-tui-terminal-user-interface-to-jujutsu-focused-on-speed-and-clarity",
+  "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+  "source": "rss",
+  "source_url": "https://tangled.org/elidowling.com/jj_tui",
+  "author": "lobsters_ml",
+  "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+  "collected_at": "2026-07-07T10:48:54.584847+00:00",
+  "summary": "jj_tui 是一个为 jujutsu 版本控制系统设计的终端用户界面，专注于提升操作速度和界面清晰度，帮助开发者更高效地管理代码变更。",
+  "highlights": [
+    "专为 jujutsu 设计，提供快速响应的终端界面",
+    "强调速度与清晰度，优化开发者体验",
+    "基于开源项目，可集成到现有工作流"
+  ],
+  "tags": [
+    "TUI",
+    "Version Control",
+    "Jujutsu",
+    "Developer Tools"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目针对特定工具优化，实用性强但受众有限，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

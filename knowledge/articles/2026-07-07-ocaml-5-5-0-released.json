@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-07-ocaml-5-5-0-released",
+  "title": "OCaml 5.5.0 released",
+  "source": "rss",
+  "source_url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+  "author": "lobsters_ml",
+  "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+  "collected_at": "2026-07-07T10:49:02.160715+00:00",
+  "summary": "OCaml 5.5.0 版本发布，带来了性能改进、新特性和错误修复，包括对多核支持的增强、编译优化以及标准库的更新。",
+  "highlights": [
+    "多核支持进一步优化，提升并行计算性能",
+    "编译器性能改进，加快编译速度",
+    "标准库新增功能和错误修复",
+    "更好的跨平台兼容性"
+  ],
+  "tags": [
+    "OCaml",
+    "Programming Language",
+    "Compiler",
+    "Multicore"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "作为主流函数式语言的重大版本更新，对开发者社区有实际价值，但非突破性创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

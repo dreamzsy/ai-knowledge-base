@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-07-glm-5-2-and-the-coming-ai-margin-collapse",
+  "title": "GLM 5.2 and the coming AI margin collapse",
+  "source": "rss",
+  "source_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 06 Jul 2026 20:14:55 +0000",
+  "collected_at": "2026-07-07T10:48:37.349958+00:00",
+  "summary": "文章探讨了GLM 5.2模型发布对AI行业利润率的影响，认为开源模型性能接近闭源模型将导致利润率下降，引发AI市场结构变化。",
+  "highlights": [
+    "GLM 5.2模型性能接近GPT-4，但成本更低，可能压缩商业AI利润空间。",
+    "开源模型崛起将迫使闭源厂商降价，导致行业利润率整体下滑。",
+    "AI市场可能从高利润垄断转向低利润竞争，类似云计算市场演变。"
+  ],
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Economics",
+    "GLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "观点新颖，对AI行业趋势有深刻洞察，但缺乏具体数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

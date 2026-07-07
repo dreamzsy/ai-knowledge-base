@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-07-kernels-major-updates",
+  "title": "🤗 Kernels: Major Updates",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 06 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-07T10:49:20.211153+00:00",
+  "summary": "Hugging Face 发布了 Kernels 的重大更新，旨在提升模型训练和推理的性能与效率。新版本优化了内核计算，支持更多硬件加速，并简化了集成流程，为开发者提供更强大的底层工具。",
+  "highlights": [
+    "性能显著提升：新内核优化了计算效率，加速模型训练与推理。",
+    "硬件支持扩展：新增对多种 GPU 和加速器的兼容性。",
+    "集成更简便：API 和文档改进，降低使用门槛。",
+    "社区驱动：基于用户反馈迭代，增强稳定性和灵活性。"
+  ],
+  "tags": [
+    "LLM",
+    "Performance",
+    "GPU",
+    "HuggingFace",
+    "Kernel"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "重大更新提升了核心性能，对 LLM 开发和部署有直接价值，但需进一步验证实际效果。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
