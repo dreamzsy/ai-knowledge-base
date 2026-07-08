@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-08-flow-s-ocaml-to-rust-port",
+  "title": "Flow’s OCaml to Rust Port",
+  "source": "rss",
+  "source_url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+  "collected_at": "2026-07-08T10:10:51.490696+00:00",
+  "summary": "Flow 团队分享了将其类型检查器从 OCaml 移植到 Rust 的经验，重点介绍了性能提升、内存管理改进以及 Rust 在静态分析中的优势。该移植旨在解决 OCaml 的 GC 暂停和并发限制，同时保持类型系统的完整性。",
+  "highlights": [
+    "Rust 移植显著提升了 Flow 类型检查器的性能，减少了 GC 暂停时间。",
+    "利用 Rust 的所有权模型和零成本抽象，优化了内存使用和并发处理。",
+    "移植过程保留了 Flow 原有的类型系统语义，确保向后兼容。",
+    "该案例展示了 Rust 在静态分析工具开发中的潜力，尤其是对性能敏感的应用。"
+  ],
+  "tags": [
+    "Rust",
+    "OCaml",
+    "Type Checker",
+    "Performance",
+    "Static Analysis"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该移植项目展示了 Rust 在替代 OCaml 进行高性能静态分析工具开发中的实际价值，具有技术深度和工程参考意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

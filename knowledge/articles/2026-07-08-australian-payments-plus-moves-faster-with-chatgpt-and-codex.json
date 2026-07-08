@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-08-australian-payments-plus-moves-faster-with-chatgpt-and-codex",
+  "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/australian-payments-plus",
+  "author": "openai_blog",
+  "published_at": "Tue, 07 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-08T10:10:57.361312+00:00",
+  "summary": "澳大利亚支付公司Australian Payments Plus通过采用ChatGPT Enterprise和Codex，加速处理支付复杂性，节省时间、提升质量，并保持人类判断的核心地位。",
+  "highlights": [
+    "利用ChatGPT Enterprise和Codex应对支付领域的复杂性",
+    "显著节省时间并提高工作质量",
+    "强调人类判断在自动化流程中的核心作用"
+  ],
+  "tags": [
+    "LLM",
+    "Codex",
+    "Enterprise",
+    "FinTech",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例展示了LLM在金融支付领域的实际应用价值，兼顾效率提升与人类监督，但缺乏具体量化指标。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-08-hugging-face-models-on-foundry-managed-compute",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 07 Jul 2026 15:20:06 GMT",
+  "collected_at": "2026-07-08T10:11:12.516334+00:00",
+  "summary": "微软在 Hugging Face 上推出 Foundry Managed Compute 服务，允许用户直接在 Hugging Face 模型页面一键部署模型到 Azure 托管计算环境，简化了模型部署和推理流程。",
+  "highlights": [
+    "Foundry Managed Compute 与 Hugging Face 深度集成，支持一键部署模型到 Azure。",
+    "用户无需手动配置基础设施，即可在托管环境中运行模型推理。",
+    "该服务面向开发者，旨在降低模型部署门槛并提升效率。"
+  ],
+  "tags": [
+    "Hugging Face",
+    "Azure",
+    "Model Deployment",
+    "Managed Compute",
+    "MLOps"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该服务显著简化了模型部署流程，提升了开发者体验，但创新性有限，属于现有生态的集成优化。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

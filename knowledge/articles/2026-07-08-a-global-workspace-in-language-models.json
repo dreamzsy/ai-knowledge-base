@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-08-a-global-workspace-in-language-models",
+  "title": "A global workspace in language models",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+  "collected_at": "2026-07-08T10:10:28.974710+00:00",
+  "summary": "Anthropic 研究提出在语言模型中引入全局工作空间（Global Workspace）概念，旨在增强模型对长上下文信息的整合与推理能力，通过模拟人类认知中的全局工作记忆机制，提升模型在复杂任务中的表现。",
+  "highlights": [
+    "提出全局工作空间机制，模拟人类认知中的工作记忆",
+    "增强语言模型对长上下文信息的整合与推理能力",
+    "通过注意力机制实现全局信息的动态访问与更新",
+    "在复杂推理任务中展现出显著性能提升"
+  ],
+  "tags": [
+    "LLM",
+    "Cognitive Architecture",
+    "Attention Mechanism",
+    "Reasoning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究创新性地将认知科学中的全局工作空间理论引入语言模型，具有理论深度和实用潜力，但尚需更多实验验证其泛化能力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

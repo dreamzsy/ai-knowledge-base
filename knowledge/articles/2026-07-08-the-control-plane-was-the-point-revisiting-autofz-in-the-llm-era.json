@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-08-the-control-plane-was-the-point-revisiting-autofz-in-the-llm-era",
+  "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+  "source": "rss",
+  "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 02 Jul 2026 00:19:10 -0500",
+  "collected_at": "2026-07-08T10:10:40.386891+00:00",
+  "summary": "本文回顾了autofz工具在LLM时代的意义，强调控制平面（control plane）才是关键。作者认为，LLM的出现并未改变fuzzing的核心挑战，即如何高效地引导搜索过程，而控制平面的设计比数据生成更重要。文章通过重新审视autofz，探讨了LLM在fuzzing中的实际作用，并指出控制平面仍是提升fuzzing效率的核心。",
+  "highlights": [
+    "控制平面是fuzzing的核心，LLM并未改变这一本质。",
+    "autofz工具的设计理念在LLM时代仍具有重要参考价值。",
+    "LLM在fuzzing中主要辅助数据生成，但控制平面决定搜索效率。",
+    "重新审视autofz有助于理解LLM在fuzzing中的实际应用边界。"
+  ],
+  "tags": [
+    "Fuzzing",
+    "LLM",
+    "Control Plane",
+    "Software Testing",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章深入分析了LLM时代fuzzing的核心挑战，观点清晰且具有实践指导意义，但内容较为专业，受众有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
