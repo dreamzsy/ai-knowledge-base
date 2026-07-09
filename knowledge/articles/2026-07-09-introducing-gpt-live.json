@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-09-introducing-gpt-live",
+  "title": "Introducing GPT-Live",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-live",
+  "author": "openai_blog",
+  "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-09T10:58:35.978874+00:00",
+  "summary": "OpenAI 推出 GPT-Live，新一代语音模型，旨在实现更自然的人机交互，现已为 ChatGPT Voice 提供支持。",
+  "highlights": [
+    "新一代语音模型，提升自然交互体验",
+    "为 ChatGPT Voice 提供核心技术支持",
+    "专注于人机对话的流畅性和真实性"
+  ],
+  "tags": [
+    "LLM",
+    "Voice",
+    "AI",
+    "ChatGPT"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该模型显著提升了语音交互的自然度，具有广泛的应用前景，但具体技术细节和性能数据尚未公开。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-09-hugging-face-models-on-foundry-managed-compute",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 07 Jul 2026 15:20:06 GMT",
+  "collected_at": "2026-07-09T10:58:48.296479+00:00",
+  "summary": "微软与Hugging Face合作，在Azure Foundry托管计算平台上集成Hugging Face模型，提供一键部署、自动扩展和成本优化的企业级AI推理服务。",
+  "highlights": [
+    "Azure Foundry托管计算支持Hugging Face模型的一键部署与自动扩展",
+    "提供企业级安全、合规和成本优化功能",
+    "简化从模型选择到生产部署的端到端流程"
+  ],
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Cloud",
+    "Azure",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该合作降低了企业部署开源模型的门槛，结合云原生优势，实用性强且具有行业影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-09-our-approach-to-government-and-national-security-partnerships",
+  "title": "Our approach to government and national security partnerships",
+  "source": "rss",
+  "source_url": "https://openai.com/index/government-national-security-partnerships",
+  "author": "openai_blog",
+  "published_at": "Wed, 08 Jul 2026 13:30:00 GMT",
+  "collected_at": "2026-07-09T10:58:28.704034+00:00",
+  "summary": "OpenAI 阐述了其与政府和国家安全机构合作的方法，强调负责任地使用人工智能、民主问责制和公共安全的原则。该文旨在建立信任，确保AI技术服务于公共利益，同时防范潜在风险。",
+  "highlights": [
+    "OpenAI 明确与政府和国家安全机构合作的原则，包括负责任使用、民主问责和公共安全。",
+    "强调AI技术应服务于公共利益，并建立信任机制。",
+    "提出防范AI滥用风险的具体措施，确保技术发展符合伦理标准。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Government",
+    "National Security",
+    "Responsible AI",
+    "Public Policy"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该文提供了AI在敏感领域应用的重要原则框架，具有政策指导价值，但缺乏具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

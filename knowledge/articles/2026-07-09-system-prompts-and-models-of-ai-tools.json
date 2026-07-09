@@ -1,0 +1,31 @@
+{
+  "id": "2026-07-09-system-prompts-and-models-of-ai-tools",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github_trending",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "author": "x1xhlol",
+  "published_at": "2025-03-05T16:38:29Z",
+  "collected_at": "2026-07-09T10:57:54.890769+00:00",
+  "summary": "该项目收集了多种AI工具的系统提示词、内部工具和模型信息，涵盖Augment Code、Claude Code、Cursor、Devin AI等知名工具，旨在为开发者提供参考和对比资源。",
+  "highlights": [
+    "收录了超过25种AI工具的系统提示词和内部模型信息",
+    "涵盖代码助手、AI代理、开发环境等多种类型工具",
+    "提供开源和闭源工具的对比参考资源"
+  ],
+  "tags": [
+    "AI Tools",
+    "System Prompts",
+    "LLM",
+    "Agent",
+    "Developer Tools"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "资源全面且实用，但部分信息可能过时或未及时更新",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 141729,
+    "language": null
+  }
+}

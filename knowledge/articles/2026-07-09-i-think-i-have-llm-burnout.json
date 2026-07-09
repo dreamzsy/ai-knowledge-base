@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-09-i-think-i-have-llm-burnout",
+  "title": "I think I have LLM burnout",
+  "source": "rss",
+  "source_url": "https://www.alecscollon.com/blog/llm-burnout/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 09 Jul 2026 01:56:28 +0000",
+  "collected_at": "2026-07-09T10:57:58.114036+00:00",
+  "summary": "作者反思了在AI领域过度关注LLM（大语言模型）导致的职业倦怠现象，指出持续追踪模型更新、技术炒作和行业焦虑消耗了创造力和热情，建议回归技术本质与个人兴趣。",
+  "highlights": [
+    "LLM领域的信息过载和快速迭代导致从业者普遍感到疲惫和焦虑",
+    "过度关注模型基准和行业新闻会削弱技术探索的乐趣",
+    "作者建议减少对LLM的被动消费，重新聚焦于解决实际问题和创造性工作"
+  ],
+  "tags": [
+    "LLM",
+    "Burnout",
+    "AI Industry",
+    "Developer Experience"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章切中当前AI从业者的普遍痛点，反思深刻且具有现实指导意义，但缺乏具体解决方案，评分略高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

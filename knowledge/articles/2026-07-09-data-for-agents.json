@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-09-data-for-agents",
+  "title": "Data for Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 08 Jul 2026 17:16:05 GMT",
+  "collected_at": "2026-07-09T10:58:39.446007+00:00",
+  "summary": "NVIDIA 发布 Data for Agents 博客，探讨如何为 AI 代理（Agent）准备高质量数据，包括数据收集、清洗、标注和增强策略，以提升代理在复杂任务中的表现。文章强调数据多样性、真实性和结构化对代理学习的重要性，并提供了实践指南和开源工具支持。",
+  "highlights": [
+    "提出为 AI 代理构建专用数据集的系统性方法，涵盖数据来源、清洗和标注流程。",
+    "强调数据多样性和真实性对代理泛化能力的提升作用。",
+    "提供开源工具和最佳实践，降低开发者构建代理数据的门槛。",
+    "结合 NVIDIA 技术栈，展示数据驱动代理优化的实际案例。"
+  ],
+  "tags": [
+    "Agent",
+    "Data Engineering",
+    "NVIDIA",
+    "AI Training",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该内容聚焦 AI 代理数据这一关键但常被忽视的环节，提供实用方法论和工具，对开发者和研究者有较高参考价值，但缺乏具体性能对比或量化评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

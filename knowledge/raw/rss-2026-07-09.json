@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "I think I have LLM burnout",
+    "url": "https://www.alecscollon.com/blog/llm-burnout/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 341 # Comments: 281",
+    "published_at": "Thu, 09 Jul 2026 01:56:28 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 521 # Comments: 196",
+    "published_at": "Wed, 08 Jul 2026 05:25:35 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 08 Jul 2026 11:30:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 07 Jul 2026 02:33:16 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Investigating idiosyncrasies in AI fiction",
+    "url": "https://arxiv.org/abs/2604.03136",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 02 Jul 2026 07:02:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OCaml 5.5.0 released",
+    "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/watrw9/ocaml_5_5_0_released\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 20 Jun 2026 12:11:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "author": "openai_blog",
+    "summary_raw": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "published_at": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "author": "openai_blog",
+    "summary_raw": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "published_at": "Wed, 08 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "author": "openai_blog",
+    "summary_raw": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 07 Jul 2026 21:15:33 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 07 Jul 2026 15:20:06 GMT",
+    "extra": {}
+  }
+]

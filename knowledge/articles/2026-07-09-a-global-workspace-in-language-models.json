@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-09-a-global-workspace-in-language-models",
+  "title": "A global workspace in language models",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+  "collected_at": "2026-07-09T10:58:07.884452+00:00",
+  "summary": "Anthropic 研究提出语言模型中的全局工作空间概念，通过分析模型内部表示，发现其能整合多模态信息并支持复杂推理，为理解模型认知架构提供新视角。",
+  "highlights": [
+    "提出语言模型内部存在类似认知科学的全局工作空间机制",
+    "通过实验验证模型能整合多模态信息进行推理",
+    "为解释模型涌现能力提供理论框架"
+  ],
+  "tags": [
+    "LLM",
+    "Cognitive Architecture",
+    "Interpretability",
+    "Reasoning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究深入探索语言模型内部机制，理论创新性强，对可解释性和模型设计有重要启发。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

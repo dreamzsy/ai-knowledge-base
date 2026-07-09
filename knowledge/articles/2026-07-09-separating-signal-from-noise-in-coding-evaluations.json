@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-09-separating-signal-from-noise-in-coding-evaluations",
+  "title": "Separating signal from noise in coding evaluations",
+  "source": "rss",
+  "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "author": "openai_blog",
+  "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
+  "collected_at": "2026-07-09T10:58:31.323820+00:00",
+  "summary": "OpenAI 发布新分析，指出流行编码基准 SWE-Bench Pro 存在可靠性问题，影响 AI 模型评估的准确性。该研究强调需区分信号与噪声，以改进编码评估方法。",
+  "highlights": [
+    "SWE-Bench Pro 基准存在可靠性问题，影响评估准确性",
+    "OpenAI 提出区分信号与噪声的方法以改进编码评估",
+    "分析揭示当前基准可能高估或低估 AI 模型性能",
+    "研究呼吁社区关注评估标准的严谨性"
+  ],
+  "tags": [
+    "LLM",
+    "Benchmark",
+    "Evaluation",
+    "Coding",
+    "Reliability"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该分析对 AI 编码评估领域有重要启示，但未提供具体解决方案，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
