@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-10-a-global-workspace-in-language-models",
+  "title": "A global workspace in language models",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+  "collected_at": "2026-07-10T10:46:44.304757+00:00",
+  "summary": "Anthropic 研究提出在语言模型中引入全局工作空间（global workspace）概念，旨在提升模型处理复杂任务时的信息整合与推理能力。该工作空间作为共享缓冲区，允许不同模块间高效通信，从而增强模型的认知架构。",
+  "highlights": [
+    "提出全局工作空间概念，作为模型内部信息共享与整合的核心机制",
+    "旨在提升语言模型在复杂推理和多步骤任务中的表现",
+    "借鉴认知科学中的全局工作空间理论，增强模型架构的模块化与可解释性"
+  ],
+  "tags": [
+    "LLM",
+    "Cognitive Architecture",
+    "Reasoning",
+    "Model Architecture"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究结合认知科学理论创新性地改进语言模型架构，具有较高学术与应用价值，但尚处于早期探索阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-10-flow-s-ocaml-to-rust-port",
+  "title": "Flow’s OCaml to Rust Port",
+  "source": "rss",
+  "source_url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+  "collected_at": "2026-07-10T10:46:57.083270+00:00",
+  "summary": "Flow 团队将其类型检查器从 OCaml 移植到 Rust，以提升性能和可维护性。文章详细介绍了移植动机、过程、挑战及成果，包括性能提升和社区反馈。",
+  "highlights": [
+    "Flow 从 OCaml 迁移到 Rust 以解决性能瓶颈和代码维护问题。",
+    "移植过程涉及重写核心类型检查算法，并利用 Rust 的内存安全特性。",
+    "新版本在大型代码库上实现了显著的性能提升，如更快的类型检查速度。",
+    "团队分享了移植中的技术挑战，如处理 OCaml 的不可变数据结构和 Rust 的所有权模型。"
+  ],
+  "tags": [
+    "Rust",
+    "OCaml",
+    "TypeScript",
+    "Compiler",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该文章深入探讨了语言迁移的实践，对编译器开发和性能优化有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

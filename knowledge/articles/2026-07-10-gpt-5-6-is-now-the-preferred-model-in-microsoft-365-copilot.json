@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-10-gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot",
+  "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+  "author": "openai_blog",
+  "published_at": "Thu, 09 Jul 2026 13:00:00 GMT",
+  "collected_at": "2026-07-10T10:47:05.749346+00:00",
+  "summary": "OpenAI 宣布 GPT-5.6 成为 Microsoft 365 Copilot 的首选模型，为 Word、Excel、PowerPoint、Chat 和 Cowork 等应用提供更强的 AI 能力，助力用户更快速、高质量地完成工作。",
+  "highlights": [
+    "GPT-5.6 成为 Microsoft 365 Copilot 的默认首选模型",
+    "覆盖 Word、Excel、PowerPoint 等多个办公场景",
+    "提升 AI 能力以支持更快、更高质量的工作产出"
+  ],
+  "tags": [
+    "LLM",
+    "GPT",
+    "Microsoft 365",
+    "Copilot",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该更新直接提升了主流办公套件的 AI 能力，具有广泛的实际应用价值，但缺乏具体性能数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
