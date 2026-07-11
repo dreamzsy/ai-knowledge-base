@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-11-chatgpt-is-now-a-partner-for-your-most-ambitious-work",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+  "author": "openai_blog",
+  "published_at": "Thu, 09 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-11T09:20:20.114446+00:00",
+  "summary": "OpenAI 推出 ChatGPT Work，一个能够跨应用和文件执行操作、持续数小时专注于项目、将目标转化为完成工作的智能代理。",
+  "highlights": [
+    "ChatGPT Work 可跨应用和文件执行操作",
+    "能够持续数小时专注于项目",
+    "将目标转化为完成的工作"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Productivity",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该产品展示了AI代理在复杂工作流中的实际应用，具有较高创新性和实用性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

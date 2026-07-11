@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-11-a-global-workspace-in-language-models",
+  "title": "A global workspace in language models",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+  "collected_at": "2026-07-11T09:19:58.851570+00:00",
+  "summary": "Anthropic 研究提出一种在语言模型中实现全局工作空间的方法，通过引入共享的中间表示层，使模型能够更有效地整合和协调不同模块的信息，从而提升推理和生成能力。该工作探索了认知科学中的全局工作空间理论在 AI 中的应用，为构建更强大、更可解释的语言模型提供了新思路。",
+  "highlights": [
+    "提出在语言模型中引入全局工作空间架构，以促进信息整合与协调",
+    "借鉴认知科学中的全局工作空间理论，增强模型推理能力",
+    "通过共享中间表示层实现模块间高效通信",
+    "为构建更可解释和强大的语言模型提供新方向"
+  ],
+  "tags": [
+    "LLM",
+    "Architecture",
+    "Cognitive Science",
+    "Interpretability"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究结合认知科学理论创新语言模型架构，具有较高学术价值和潜在应用前景，但尚处于探索阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
