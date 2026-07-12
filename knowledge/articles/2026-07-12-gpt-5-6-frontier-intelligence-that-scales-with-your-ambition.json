@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-12-gpt-5-6-frontier-intelligence-that-scales-with-your-ambition",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-5-6",
+  "author": "openai_blog",
+  "published_at": "Thu, 09 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-12T09:45:40.205845+00:00",
+  "summary": "OpenAI 发布 GPT-5.6，强调每 token 的智能提升、每美元性能更强，以及按需提供更多能力，旨在应对最困难的工作。",
+  "highlights": [
+    "每 token 智能更高，提升推理效率",
+    "性能成本比显著优化，性价比更强",
+    "按需扩展能力，支持复杂任务",
+    "面向前沿研究和企业级应用"
+  ],
+  "tags": [
+    "LLM",
+    "GPT",
+    "AI Scaling",
+    "Performance Optimization"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "作为前沿模型更新，性能与性价比提升显著，但缺乏具体技术细节和基准测试，评分略保守。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

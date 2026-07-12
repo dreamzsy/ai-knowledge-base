@@ -1,0 +1,31 @@
+{
+  "id": "2026-07-12-librecode",
+  "title": "re4/LibreCode",
+  "source": "github_trending",
+  "source_url": "https://github.com/re4/LibreCode",
+  "author": "re4",
+  "published_at": "2026-04-10T04:55:01Z",
+  "collected_at": "2026-07-12T09:44:09.837337+00:00",
+  "summary": "LibreCode 是一个基于 Ollama 的类 Cursor 编码与逆向工程界面，提供轻量级、开源的代码辅助工具，支持本地模型运行，专注于提升开发效率和逆向分析体验。",
+  "highlights": [
+    "基于 Ollama 实现本地化代码辅助，无需依赖云端服务",
+    "界面设计类似 Cursor，提供编码与逆向工程一体化操作",
+    "开源项目，支持自定义模型和扩展功能"
+  ],
+  "tags": [
+    "LLM",
+    "Ollama",
+    "Coding",
+    "Reverse Engineering",
+    "Framework"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目结合本地 LLM 与逆向工程，实用性强，但尚处于早期阶段，生态和文档有待完善。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 489992,
+    "language": "C#"
+  }
+}

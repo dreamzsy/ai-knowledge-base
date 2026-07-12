@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-12-an-agent-in-100-lines-of-lisp",
+  "title": "An Agent in 100 Lines of Lisp",
+  "source": "rss",
+  "source_url": "https://thebeach.dev/posts/lisp-agent/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 11 Jul 2026 22:36:08 -0500",
+  "collected_at": "2026-07-12T09:45:11.390982+00:00",
+  "summary": "本文展示了如何用约100行Lisp代码构建一个智能体，通过简洁的函数式编程实现基本的感知、推理和行动循环，体现了Lisp在AI原型开发中的表达力。",
+  "highlights": [
+    "用100行Lisp代码实现了一个完整的智能体框架",
+    "展示了感知-推理-行动循环的简洁实现",
+    "利用Lisp的宏和函数式特性降低代码复杂度",
+    "适合快速原型验证AI Agent概念"
+  ],
+  "tags": [
+    "Lisp",
+    "Agent",
+    "AI",
+    "Functional Programming",
+    "Prototyping"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "代码简洁且具教育意义，但缺乏实际应用场景和性能验证，适合学习参考而非生产使用。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

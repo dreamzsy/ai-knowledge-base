@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-12-tau-an-educational-coding-agent",
+  "title": "Tau: An Educational Coding Agent",
+  "source": "rss",
+  "source_url": "https://twotimespi.dev/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 09 Jul 2026 16:53:03 -0500",
+  "collected_at": "2026-07-12T09:45:19.701012+00:00",
+  "summary": "Tau 是一个教育编程代理，旨在通过交互式学习帮助用户掌握编程技能。它提供实时反馈和指导，适合初学者和进阶学习者。",
+  "highlights": [
+    "交互式编程学习代理",
+    "实时反馈和指导",
+    "适合初学者和进阶学习者"
+  ],
+  "tags": [
+    "Agent",
+    "Education",
+    "Coding",
+    "Interactive Learning"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目聚焦教育场景，实用性强，但缺乏具体技术细节和创新性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
