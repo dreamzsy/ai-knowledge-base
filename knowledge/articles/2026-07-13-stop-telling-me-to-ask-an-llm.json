@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-13-stop-telling-me-to-ask-an-llm",
+  "title": "Stop Telling Me to Ask an LLM",
+  "source": "rss",
+  "source_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 11 Jul 2026 22:28:48 +0000",
+  "collected_at": "2026-07-13T10:52:39.184274+00:00",
+  "summary": "文章批评当前技术社区过度依赖LLM作为万能解决方案，指出这种倾向忽视了实际问题的复杂性和用户的真实需求，呼吁更审慎地评估AI工具的适用场景。",
+  "highlights": [
+    "LLM被过度推荐为通用问题解决工具，但实际效果常被夸大",
+    "用户需要的是针对性解决方案，而非盲目依赖AI",
+    "技术社区应反思如何更负责任地推广AI应用"
+  ],
+  "tags": [
+    "LLM",
+    "AI Ethics",
+    "User Experience",
+    "Technology Criticism"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章切中当前AI应用中的关键问题，具有重要反思价值，但缺乏具体案例支撑",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

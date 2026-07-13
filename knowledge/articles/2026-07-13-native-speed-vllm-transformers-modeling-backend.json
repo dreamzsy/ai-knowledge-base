@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-13-native-speed-vllm-transformers-modeling-backend",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-13T10:53:24.052757+00:00",
+  "summary": "Hugging Face 博客介绍了 vLLM 的原生速度 transformers 建模后端，通过优化推理引擎实现高性能 LLM 部署，支持动态批处理和高效内存管理，显著提升推理速度。",
+  "highlights": [
+    "vLLM 后端利用 PagedAttention 技术优化 KV 缓存管理，减少内存碎片。",
+    "支持动态批处理，提高 GPU 利用率和吞吐量。",
+    "与 Hugging Face Transformers 无缝集成，简化模型部署流程。",
+    "在多种 LLM 上实现接近原生速度的推理性能。"
+  ],
+  "tags": [
+    "LLM",
+    "vLLM",
+    "Inference",
+    "Optimization",
+    "Transformers"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该技术显著提升 LLM 推理效率，实用性强且与主流框架兼容，具有较高工程价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

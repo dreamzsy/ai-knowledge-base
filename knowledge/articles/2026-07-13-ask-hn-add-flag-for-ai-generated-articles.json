@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-13-ask-hn-add-flag-for-ai-generated-articles",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48886741",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 13 Jul 2026 01:24:20 +0000",
+  "collected_at": "2026-07-13T10:52:29.300426+00:00",
+  "summary": "Hacker News 用户提议增加 AI 生成文章标记功能，不改变排名，仅作为标识供不喜欢 AI 文本的用户跳过。讨论围绕现有投票系统是否足够、HN 是否应因生成式 AI 时代而改变展开。",
+  "highlights": [
+    "提议新增 AI 生成文章标记，不降权仅作标识",
+    "用户可据此跳过不喜欢的 AI 生成内容",
+    "引发对现有投票系统充分性的质疑",
+    "讨论 HN 是否应因生成式 AI 时代调整基础规则"
+  ],
+  "tags": [
+    "AI",
+    "Content Moderation",
+    "Hacker News",
+    "Flagging"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "讨论具有现实意义和社区参与度，但尚未形成明确解决方案，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

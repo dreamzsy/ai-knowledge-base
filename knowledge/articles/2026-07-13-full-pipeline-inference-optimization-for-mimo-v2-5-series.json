@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-13-full-pipeline-inference-optimization-for-mimo-v2-5-series",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source": "rss",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 11 Jul 2026 18:22:20 -0500",
+  "collected_at": "2026-07-13T10:52:42.515218+00:00",
+  "summary": "小米MiMo-V2.5系列模型的全流水线推理优化方案，涵盖模型压缩、量化、算子融合和内存管理等技术，显著提升推理速度和降低资源消耗，适用于大规模部署场景。",
+  "highlights": [
+    "提出全流水线推理优化策略，覆盖模型加载、计算和输出阶段",
+    "采用混合精度量化和算子融合技术，减少计算延迟",
+    "优化内存访问模式，降低显存占用和带宽需求",
+    "在保持模型精度前提下，实现推理速度数倍提升"
+  ],
+  "tags": [
+    "LLM",
+    "Inference Optimization",
+    "Quantization",
+    "Model Compression",
+    "Deployment"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "技术方案系统全面，实用性强，但缺乏与其他方法的对比数据，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
