@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-14-gpt-5-5-bio-bug-bounty",
+  "title": "GPT-5.5 Bio Bug Bounty",
+  "source": "rss",
+  "source_url": "https://openai.com/index/bio-bug-bounty",
+  "author": "openai_blog",
+  "published_at": "Thu, 09 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-14T09:50:05.214711+00:00",
+  "summary": "OpenAI 推出 GPT-5.5 生物漏洞赏金计划，旨在通过安全研究社区的力量，发现并修复模型在生物相关任务中的潜在风险，提升 AI 安全性。",
+  "highlights": [
+    "OpenAI 启动针对 GPT-5.5 的生物安全漏洞赏金计划",
+    "鼓励安全研究人员发现模型在生物领域的潜在误用风险",
+    "通过社区协作增强 AI 系统的安全性和可靠性"
+  ],
+  "tags": [
+    "LLM",
+    "Security",
+    "Bounty",
+    "BioSafety",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该项目聚焦前沿 AI 安全与生物风险，具有重要社会价值，但具体细节有限，评分略高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

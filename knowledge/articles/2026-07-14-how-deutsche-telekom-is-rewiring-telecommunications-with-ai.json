@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-14-how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
+  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/deutsche-telekom",
+  "author": "openai_blog",
+  "published_at": "Fri, 10 Jul 2026 07:00:00 GMT",
+  "collected_at": "2026-07-14T09:49:58.338045+00:00",
+  "summary": "德国电信正借助OpenAI技术转型为AI原生电信公司，通过AI改造客户服务、员工工作流、网络运营及语音未来，实现电信行业智能化升级。",
+  "highlights": [
+    "利用OpenAI技术重塑客户服务，提升响应效率与用户体验",
+    "AI优化员工工作流，自动化重复任务，提高运营效率",
+    "AI驱动网络运营，实现智能监控与故障预测",
+    "探索AI在语音领域的未来应用，推动通信创新"
+  ],
+  "tags": [
+    "AI",
+    "Telecommunications",
+    "Customer Service",
+    "Network Operations",
+    "Voice"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例展示了AI在传统电信行业的深度应用，具有实际落地价值和行业示范意义，但缺乏具体技术细节和量化成果。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

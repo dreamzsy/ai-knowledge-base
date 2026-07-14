@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-14-getting-started-with-chatgpt",
+  "title": "Getting started with ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/academy/getting-started",
+  "author": "openai_blog",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-14T09:50:00.479824+00:00",
+  "summary": "OpenAI 官方推出的 ChatGPT 入门指南，帮助用户快速上手，包括首次对话、写作、头脑风暴和问题解决等基本用法。",
+  "highlights": [
+    "官方入门教程，权威可靠",
+    "涵盖对话、写作、头脑风暴等实用场景",
+    "适合零基础用户快速上手"
+  ],
+  "tags": [
+    "ChatGPT",
+    "LLM",
+    "Tutorial",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "内容基础，适合新手入门，但缺乏深度技术细节和高级应用。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

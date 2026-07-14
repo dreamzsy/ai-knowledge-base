@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-14-ai-surveillance-and-social-progress",
+  "title": "AI Surveillance and Social Progress",
+  "source": "rss",
+  "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 11 Jul 2026 04:40:40 -0500",
+  "collected_at": "2026-07-14T09:49:38.252407+00:00",
+  "summary": "文章探讨了AI监控技术对社会进步的双重影响，指出其在提升安全与效率的同时，可能加剧隐私侵犯和社会控制，呼吁平衡发展与伦理。",
+  "highlights": [
+    "AI监控在公共安全领域应用广泛，但存在隐私风险",
+    "技术可能被用于社会控制，阻碍自由与创新",
+    "需要制定伦理框架以平衡监控与社会进步"
+  ],
+  "tags": [
+    "AI",
+    "Surveillance",
+    "Ethics",
+    "Privacy",
+    "Social Progress"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "观点深刻且具现实意义，但缺乏具体案例和技术细节，实用性稍弱",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

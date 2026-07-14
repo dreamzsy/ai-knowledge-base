@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-14-the-feature-in-oxcaml-that-more-languages-should-steal",
+  "title": "The feature in OxCaml that more languages should steal",
+  "source": "rss",
+  "source_url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+  "author": "lobsters_ml",
+  "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+  "collected_at": "2026-07-14T09:49:52.396660+00:00",
+  "summary": "OxCaml 语言中一个值得其他语言借鉴的特性，该特性可能涉及类型系统、模式匹配或编译优化，旨在提升开发效率和代码安全性。文章探讨了其设计理念与潜在应用。",
+  "highlights": [
+    "OxCaml 引入了一种创新的语言特性，可简化常见编程模式",
+    "该特性在类型安全和表达力之间取得了良好平衡",
+    "其他语言（如 Rust、Haskell）可从中获得设计灵感",
+    "文章通过示例展示了该特性如何减少样板代码"
+  ],
+  "tags": [
+    "OxCaml",
+    "Programming Languages",
+    "Type System",
+    "Pattern Matching",
+    "Language Design"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章提出了一个具有实用价值的语言设计思路，但缺乏具体实现细节和性能数据，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
