@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-15-how-sales-teams-use-chatgpt-work",
+  "title": "How sales teams use ChatGPT Work",
+  "source": "rss",
+  "source_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+  "author": "openai_blog",
+  "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-15T09:54:03.804267+00:00",
+  "summary": "本文展示了销售团队如何利用ChatGPT Work从实际工作输入中生成管道简报、会议准备包、预测回顾、客户计划和停滞交易诊断，提升销售效率与决策质量。",
+  "highlights": [
+    "ChatGPT Work能自动生成管道简报，帮助销售团队快速掌握商机状态。",
+    "通过会议准备包功能，销售代表可提前获取客户背景与关键议题。",
+    "预测回顾和客户计划功能支持数据驱动的销售策略调整。",
+    "停滞交易诊断功能可识别销售瓶颈并提供改进建议。"
+  ],
+  "tags": [
+    "LLM",
+    "Sales",
+    "Productivity",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "实用性强，聚焦销售场景的AI应用，但内容偏案例介绍，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

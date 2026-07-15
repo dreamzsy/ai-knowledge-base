@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-15-how-data-science-teams-use-chatgpt-work",
+  "title": "How data science teams use ChatGPT Work",
+  "source": "rss",
+  "source_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+  "author": "openai_blog",
+  "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-15T09:54:01.243874+00:00",
+  "summary": "本文介绍了数据科学团队如何利用ChatGPT Work从实际工作输入中构建根本原因简报、影响报告、KPI备忘录、范围分析和仪表板规范，展示了AI在数据工作流中的实用价值。",
+  "highlights": [
+    "ChatGPT Work可自动生成根本原因分析简报，提升故障排查效率",
+    "支持从原始数据输入直接创建KPI备忘录和影响报告",
+    "提供范围分析和仪表板规范生成功能，简化数据团队协作流程"
+  ],
+  "tags": [
+    "LLM",
+    "Data Science",
+    "Productivity",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容聚焦具体应用场景，实用性强，但缺乏技术深度和创新性，适合数据团队参考",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

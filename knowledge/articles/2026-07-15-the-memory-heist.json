@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-15-the-memory-heist",
+  "title": "The Memory Heist",
+  "source": "rss",
+  "source_url": "https://ayush.digital/blog/the-memory-heist",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 14 Jul 2026 19:11:45 -0500",
+  "collected_at": "2026-07-15T09:53:37.739808+00:00",
+  "summary": "《The Memory Heist》是一篇探讨计算机内存安全与攻击技术的文章，通过比喻手法分析内存窃取漏洞（如缓冲区溢出、use-after-free）的原理与防御方法，强调现代系统安全设计的重要性。",
+  "highlights": [
+    "深入解析内存攻击技术如缓冲区溢出和use-after-free漏洞",
+    "以“记忆劫案”比喻生动说明内存安全风险",
+    "提出防御策略包括ASLR、堆栈保护等现代安全机制"
+  ],
+  "tags": [
+    "Memory Safety",
+    "Security",
+    "Exploit",
+    "Buffer Overflow"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "技术内容扎实，比喻生动，但缺乏新颖突破，适合安全入门与复习。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

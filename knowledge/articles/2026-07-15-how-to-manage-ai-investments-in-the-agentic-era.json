@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-15-how-to-manage-ai-investments-in-the-agentic-era",
+  "title": "How to manage AI investments in the agentic era",
+  "source": "rss",
+  "source_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "author": "openai_blog",
+  "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-15T09:53:58.651757+00:00",
+  "summary": "本文探讨企业在代理时代如何管理AI投资，提出通过衡量每美元的有用工作量、提升效率并扩展高价值工作流来优化AI投资回报。",
+  "highlights": [
+    "引入‘每美元有用工作量’指标评估AI投资效率",
+    "强调通过优化工作流提升AI应用的经济效益",
+    "建议企业聚焦高价值工作流进行规模化部署"
+  ],
+  "tags": [
+    "AI Investment",
+    "Agent",
+    "Workflow Optimization",
+    "Enterprise AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "提供了实用的AI投资管理框架，但缺乏具体案例或数据支撑，适合企业决策者参考。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

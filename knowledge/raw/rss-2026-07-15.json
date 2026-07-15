@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "Are we offloading too much of our thinking to AI?",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 470 # Comments: 431",
+    "published_at": "Tue, 14 Jul 2026 15:18:13 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Codex starts encrypting sub-agent prompts",
+    "url": "https://github.com/openai/codex/issues/28058",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://github.com/openai/codex/issues/28058 Comments URL: https://news.ycombinator.com/item?id=48905028 Points: 418 # Comments: 248",
+    "published_at": "Tue, 14 Jul 2026 11:21:32 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
+    "url": "https://neow.in/cWsyMTV3",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 346 # Comments: 97",
+    "published_at": "Mon, 13 Jul 2026 20:01:43 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Memory Heist",
+    "url": "https://ayush.digital/blog/the-memory-heist",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lelroo/memory_heist\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 14 Jul 2026 19:11:45 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Verifiable AI inference",
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Tensor is the might",
+    "url": "https://zserge.com/posts/tensor/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 14 Jul 2026 07:56:11 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 11 Jul 2026 18:22:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Syntax with Purpose in a Programming Language",
+    "url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bovmc5/syntax_with_purpose_programming\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 13 Jul 2026 05:58:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "author": "openai_blog",
+    "summary_raw": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "author": "openai_blog",
+    "summary_raw": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "author": "openai_blog",
+    "summary_raw": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "author": "openai_blog",
+    "summary_raw": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "published_at": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 07 Jul 2026 21:15:33 GMT",
+    "extra": {}
+  }
+]

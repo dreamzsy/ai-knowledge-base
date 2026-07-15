@@ -1,0 +1,30 @@
+{
+  "id": "2026-07-15-skills",
+  "title": "anthropics/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "author": "anthropics",
+  "published_at": "2025-09-22T15:53:31Z",
+  "collected_at": "2026-07-15T09:53:10.129344+00:00",
+  "summary": "Anthropics 官方发布的 Agent Skills 公共仓库，旨在提供可复用的智能体技能模块，帮助开发者快速构建和扩展 AI 代理能力。",
+  "highlights": [
+    "由 Anthropic 官方维护，提供高质量 Agent 技能实现",
+    "技能模块化设计，便于组合与复用",
+    "降低 AI 代理开发门槛，加速原型验证"
+  ],
+  "tags": [
+    "Agent",
+    "Skills",
+    "Anthropic",
+    "Framework"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "官方出品，聚焦 Agent 技能标准化，对 AI 代理开发有直接实用价值，但项目尚处早期阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 161293,
+    "language": "Python"
+  }
+}
