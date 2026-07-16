@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "Are we offloading too much of our thinking to AI?",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 515 # Comments: 474",
+    "published_at": "Tue, 14 Jul 2026 15:18:13 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Codex starts encrypting sub-agent prompts",
+    "url": "https://github.com/openai/codex/issues/28058",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://github.com/openai/codex/issues/28058 Comments URL: https://news.ycombinator.com/item?id=48905028 Points: 424 # Comments: 250",
+    "published_at": "Tue, 14 Jul 2026 11:21:32 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI Data Centers and the Concentration of Wealth",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 15 Jul 2026 16:06:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\". It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf\" rel=\"ugc\"&gt;here&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The book has a companion &lt;a href=\"findingeliza.org\" rel=\"ugc\"&gt;site&lt;/a&gt; - I was monitoring this since I first heard the &lt;a href=\"https://corecursive.com/eliza-with-jeff-shrager/\" rel=\"ugc\"&gt;episode&lt;/a&gt; on CoRecursive.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 15 Jul 2026 09:12:05 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Verifiable AI inference",
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Tensor is the might",
+    "url": "https://zserge.com/posts/tensor/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 14 Jul 2026 07:56:11 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Syntax with Purpose in a Programming Language",
+    "url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bovmc5/syntax_with_purpose_programming\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 13 Jul 2026 05:58:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flow’s OCaml to Rust Port",
+    "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 24 Jun 2026 21:25:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "published_at": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "author": "openai_blog",
+    "summary_raw": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "published_at": "Wed, 15 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "author": "openai_blog",
+    "summary_raw": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "author": "openai_blog",
+    "summary_raw": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "What building Shippy taught us about building agents",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 15 Jul 2026 17:29:41 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 15 Jul 2026 17:27:01 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Welcome Inkling by Thinking Machines",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

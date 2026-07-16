@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-16-what-building-shippy-taught-us-about-building-agents",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 15 Jul 2026 17:29:41 GMT",
+  "collected_at": "2026-07-16T10:00:33.315282+00:00",
+  "summary": "本文分享了构建 Shippy 智能体过程中的经验教训，探讨了如何设计可靠、可扩展的 AI 代理系统，包括任务分解、错误处理、工具使用和用户交互等方面的实践心得。",
+  "highlights": [
+    "强调任务分解和模块化设计对智能体可靠性的重要性",
+    "讨论了错误处理机制在智能体系统中的关键作用",
+    "分享了工具使用和外部 API 集成的实际经验",
+    "提出了用户交互反馈循环对智能体优化的价值"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Framework",
+    "Tool-Use",
+    "Error-Handling"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "提供了构建智能体的实战经验，对开发者有较高参考价值，但缺乏具体技术细节和量化评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-16-welcome-inkling-by-thinking-machines",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 15 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-16T10:00:37.888907+00:00",
+  "summary": "Thinking Machines 发布了 Inkling 项目，旨在通过创新的方法提升机器学习模型的效率和可解释性，为开发者提供更强大的工具来构建智能应用。",
+  "highlights": [
+    "Inkling 项目由 Thinking Machines 团队推出，专注于优化模型性能。",
+    "该项目强调模型的可解释性，帮助开发者理解决策过程。",
+    "提供了新的技术框架，简化了复杂模型的部署流程。"
+  ],
+  "tags": [
+    "LLM",
+    "Framework",
+    "Explainability",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "项目具有创新性和实用性，但缺乏具体技术细节和实际应用案例，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

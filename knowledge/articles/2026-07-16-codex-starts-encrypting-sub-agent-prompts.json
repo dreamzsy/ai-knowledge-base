@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-16-codex-starts-encrypting-sub-agent-prompts",
+  "title": "Codex starts encrypting sub-agent prompts",
+  "source": "rss",
+  "source_url": "https://github.com/openai/codex/issues/28058",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 14 Jul 2026 11:21:32 +0000",
+  "collected_at": "2026-07-16T10:00:01.943757+00:00",
+  "summary": "OpenAI 的 Codex 项目开始对子代理提示进行加密，以增强安全性和隐私保护。该举措旨在防止提示泄露或未经授权的访问，特别是在多代理协作场景中。此举引发了社区关于加密对性能影响和实用性的讨论。",
+  "highlights": [
+    "Codex 引入子代理提示加密机制，提升多代理系统的安全性。",
+    "加密旨在防止提示内容泄露，保护敏感信息。",
+    "社区讨论聚焦于加密对延迟和资源消耗的潜在影响。",
+    "该更新可能影响 Codex 在复杂任务中的实际应用效率。"
+  ],
+  "tags": [
+    "LLM",
+    "Security",
+    "Encryption",
+    "Multi-Agent",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该更新解决了多代理系统中的关键安全问题，但加密可能带来性能开销，且社区反馈存在争议，因此评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

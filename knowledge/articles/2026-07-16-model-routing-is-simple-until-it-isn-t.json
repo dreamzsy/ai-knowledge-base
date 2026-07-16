@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-16-model-routing-is-simple-until-it-isn-t",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 15 Jul 2026 17:27:01 GMT",
+  "collected_at": "2026-07-16T10:00:35.787793+00:00",
+  "summary": "本文探讨了模型路由的复杂性，指出虽然概念简单，但在实际应用中面临诸多挑战，如延迟、成本、模型性能差异和动态负载均衡等。文章分析了不同路由策略的优劣，并提出了优化建议。",
+  "highlights": [
+    "模型路由在简单概念背后隐藏着复杂的工程挑战。",
+    "延迟、成本和模型性能差异是路由决策的关键因素。",
+    "动态负载均衡和自适应路由策略能显著提升系统效率。",
+    "实际部署中需权衡路由精度与计算开销。"
+  ],
+  "tags": [
+    "Model Routing",
+    "LLM",
+    "Latency",
+    "Load Balancing",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "深入剖析了模型路由的实践难点，对系统设计有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
