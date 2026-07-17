@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-17-verifiable-ai-inference",
+  "title": "Verifiable AI inference",
+  "source": "rss",
+  "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+  "collected_at": "2026-07-17T09:50:21.664601+00:00",
+  "summary": "本文探讨了可验证AI推理的概念，旨在确保AI模型输出结果的完整性和可信度，通过加密证明和区块链等技术实现推理过程的透明与可审计，以应对AI黑箱问题。",
+  "highlights": [
+    "提出可验证AI推理框架，结合零知识证明确保推理正确性",
+    "利用区块链记录推理过程，实现不可篡改的审计追踪",
+    "解决AI模型输出可信度问题，适用于金融、医疗等高风险领域"
+  ],
+  "tags": [
+    "AI",
+    "Inference",
+    "Verification",
+    "Blockchain",
+    "Zero-Knowledge Proof"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该方案针对AI可信度痛点，技术路线清晰，但实际部署复杂度与性能开销需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

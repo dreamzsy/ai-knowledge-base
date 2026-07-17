@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-17-nvidia-nemotron-3-embed-ranks-1-overall-on-rteb-advancing-agentic-retrieval",
+  "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 16 Jul 2026 16:01:21 GMT",
+  "collected_at": "2026-07-17T09:50:47.980868+00:00",
+  "summary": "NVIDIA 发布 Nemotron-3-Embed 模型，在 RTEB 基准测试中排名第一，显著提升智能体检索性能。该模型通过改进嵌入表示和检索策略，为 AI Agent 提供更精准的信息检索能力，推动检索增强生成（RAG）技术发展。",
+  "highlights": [
+    "Nemotron-3-Embed 在 RTEB 基准测试中取得整体第一的成绩",
+    "模型专门针对智能体检索场景优化，提升检索准确率",
+    "采用先进的嵌入技术，增强对复杂查询的理解能力",
+    "为 RAG 和 Agent 系统提供更可靠的检索基础"
+  ],
+  "tags": [
+    "LLM",
+    "RAG",
+    "Agent",
+    "Embedding",
+    "NVIDIA"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该模型在权威基准测试中取得领先成绩，对 Agent 和 RAG 领域有显著实用价值，技术成熟度高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

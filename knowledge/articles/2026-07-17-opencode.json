@@ -1,0 +1,30 @@
+{
+  "id": "2026-07-17-opencode",
+  "title": "anomalyco/opencode",
+  "source": "github_trending",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "published_at": "2025-04-30T20:08:00Z",
+  "collected_at": "2026-07-17T09:49:24.230719+00:00",
+  "summary": "OpenCode 是一个开源的编码代理，旨在帮助开发者自动化代码生成、审查和优化任务，提升开发效率。它支持多种编程语言，并集成到现有工作流中。",
+  "highlights": [
+    "开源编码代理，可自动化代码生成与审查",
+    "支持多种编程语言，易于集成",
+    "提升开发效率，减少重复性工作"
+  ],
+  "tags": [
+    "Agent",
+    "Code Generation",
+    "Open Source",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "项目定位清晰，实用性强，但尚需社区验证成熟度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 186734,
+    "language": "TypeScript"
+  }
+}

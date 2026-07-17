@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-17-the-us-is-advancing-ai-safety-through-state-and-federal-action",
+  "title": "The US is advancing AI safety through state and federal action",
+  "source": "rss",
+  "source_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+  "author": "openai_blog",
+  "published_at": "Wed, 15 Jul 2026 12:00:00 GMT",
+  "collected_at": "2026-07-17T09:50:41.424325+00:00",
+  "summary": "OpenAI提出“反向联邦制”AI治理策略，主张通过州级立法逐步构建全国性AI安全框架，强调民主参与和灵活监管，以平衡创新与风险。",
+  "highlights": [
+    "OpenAI提出“反向联邦制”AI治理方法，州法律先行推动全国框架",
+    "强调民主参与和灵活监管，平衡AI创新与安全风险",
+    "主张通过州级实验积累经验，为联邦立法提供参考"
+  ],
+  "tags": [
+    "AI Safety",
+    "Governance",
+    "Policy",
+    "Regulation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该提案创新性地结合了联邦与州级治理，为AI安全政策提供了务实路径，但实施效果尚待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

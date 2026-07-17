@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-17-the-llm-critics-are-right-i-use-llms-anyway",
+  "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+  "source": "rss",
+  "source_url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 16 Jul 2026 11:59:01 +0000",
+  "collected_at": "2026-07-17T09:50:06.337297+00:00",
+  "summary": "作者承认LLM批评者的观点（如幻觉、成本、可靠性问题）有道理，但依然坚持使用LLM，因为其在实际应用中的效率提升和创造力激发价值远超缺陷。文章探讨了如何理性、批判性地使用LLM，并强调工具本身无好坏，关键在于使用方式。",
+  "highlights": [
+    "批评者指出的LLM问题（幻觉、成本、可靠性）确实存在，但不应因此全盘否定其价值。",
+    "LLM在编程辅助、创意生成等场景中能显著提升效率，关键在于合理使用。",
+    "作者建议将LLM视为‘增强工具’而非‘替代品’，保持批判性思维。",
+    "技术发展早期的不完美不应阻碍探索其实际应用潜力。"
+  ],
+  "tags": [
+    "LLM",
+    "Criticism",
+    "Productivity",
+    "Tool-Use",
+    "Practical-AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章平衡了批评与实用主义视角，提供了有深度的反思，但缺乏具体技术细节或创新方法。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
