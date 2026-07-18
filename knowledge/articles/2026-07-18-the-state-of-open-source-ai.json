@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-18-the-state-of-open-source-ai",
+  "title": "The state of open source AI",
+  "source": "rss",
+  "source_url": "https://stateofopensource.ai/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 17 Jul 2026 14:31:10 +0000",
+  "collected_at": "2026-07-18T09:17:27.576216+00:00",
+  "summary": "该文章分析了当前开源人工智能的现状，涵盖模型、框架、工具和社区的发展趋势，探讨了开源AI在创新、可访问性和商业化方面的机遇与挑战。",
+  "highlights": [
+    "开源AI模型和工具的数量快速增长，降低了AI开发门槛。",
+    "社区驱动的创新在AI领域发挥关键作用，推动技术民主化。",
+    "商业化与开源许可的平衡成为重要议题。",
+    "开源AI在伦理、安全性和治理方面面临新挑战。"
+  ],
+  "tags": [
+    "Open Source",
+    "AI",
+    "LLM",
+    "Community",
+    "Governance"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容全面且具有时效性，深入分析了开源AI生态的关键动态，对从业者和研究者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

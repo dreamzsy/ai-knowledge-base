@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 505 # Comments: 324",
+    "published_at": "Fri, 17 Jul 2026 22:26:30 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The state of open source AI",
+    "url": "https://stateofopensource.ai/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 435 # Comments: 313",
+    "published_at": "Fri, 17 Jul 2026 14:31:10 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 323 # Comments: 127",
+    "published_at": "Thu, 16 Jul 2026 20:18:15 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 389 # Comments: 524",
+    "published_at": "Thu, 16 Jul 2026 20:03:23 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How does Pangram work?",
+    "url": "https://pangram.substack.com/p/how-does-pangram-work",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/femw5f/how_does_pangram_work\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 18 Jul 2026 01:17:08 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 16 Jul 2026 10:29:48 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\". It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf\" rel=\"ugc\"&gt;here&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The book has a companion &lt;a href=\"findingeliza.org\" rel=\"ugc\"&gt;site&lt;/a&gt; - I was monitoring this since I first heard the &lt;a href=\"https://corecursive.com/eliza-with-jeff-shrager/\" rel=\"ugc\"&gt;episode&lt;/a&gt; on CoRecursive.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 15 Jul 2026 09:12:05 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Verifiable AI inference",
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why ML/OCaml are good for writing compilers (1998)",
+    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 16 Jul 2026 07:48:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Syntax with Purpose in a Programming Language",
+    "url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bovmc5/syntax_with_purpose_programming\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 13 Jul 2026 05:58:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 30 Jun 2026 03:47:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The feature in OxCaml that more languages should steal",
+    "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 27 Jun 2026 16:07:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "author": "openai_blog",
+    "summary_raw": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "published_at": "Fri, 17 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "author": "openai_blog",
+    "summary_raw": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "published_at": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "url": "https://openai.com/index/cars24",
+    "author": "openai_blog",
+    "summary_raw": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "published_at": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 17 Jul 2026 15:57:54 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Security incident disclosure — July 2026",
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "What building Shippy taught us about building agents",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 15 Jul 2026 17:29:41 GMT",
+    "extra": {}
+  }
+]
