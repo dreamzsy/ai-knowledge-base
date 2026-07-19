@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-19-what-ai-did-to-stackoverflow-in-a-graph",
+  "title": "What AI did to stackoverflow in a graph",
+  "source": "rss",
+  "source_url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 18 Jul 2026 11:12:46 +0000",
+  "collected_at": "2026-07-19T09:46:45.698716+00:00",
+  "summary": "该链接通过 Stack Exchange Data Explorer 查询展示了 AI 对 Stack Overflow 的影响，以图表形式呈现了 AI 相关讨论或活动在平台上的变化趋势。",
+  "highlights": [
+    "利用 Stack Exchange Data Explorer 进行数据查询和可视化",
+    "图表直观展示 AI 对 Stack Overflow 社区的影响",
+    "包含来自 Hacker News 的讨论链接，反映社区关注度"
+  ],
+  "tags": [
+    "AI",
+    "Stack Overflow",
+    "Data Analysis",
+    "Community Impact"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "提供了有趣的数据视角，但缺乏具体分析结论，价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

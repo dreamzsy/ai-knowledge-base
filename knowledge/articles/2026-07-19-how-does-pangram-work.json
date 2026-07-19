@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-19-how-does-pangram-work",
+  "title": "How does Pangram work?",
+  "source": "rss",
+  "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 18 Jul 2026 01:17:08 -0500",
+  "collected_at": "2026-07-19T09:46:55.608437+00:00",
+  "summary": "Pangram 是一个基于 AI 的写作助手，通过分析用户输入和上下文，自动生成连贯、自然的文本。它利用大型语言模型和实时反馈机制，帮助用户提高写作效率和质量。",
+  "highlights": [
+    "Pangram 利用大型语言模型生成文本，支持多种写作场景。",
+    "系统通过上下文分析提供实时建议，提升写作流畅性。",
+    "用户反馈机制优化模型输出，实现个性化辅助。"
+  ],
+  "tags": [
+    "LLM",
+    "Writing Assistant",
+    "NLP",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "项目实用性强，但缺乏技术细节和创新性，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-19-why-teens-deserve-access-to-safe-ai",
+  "title": "Why teens deserve access to safe AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+  "author": "openai_blog",
+  "published_at": "Thu, 16 Jul 2026 16:00:00 GMT",
+  "collected_at": "2026-07-19T09:47:19.188807+00:00",
+  "summary": "OpenAI 致力于为青少年打造更安全的 ChatGPT 体验，通过年龄适配保护、学习工具、家长控制和专家合作，确保青少年在安全环境中使用 AI。",
+  "highlights": [
+    "OpenAI 为青少年提供年龄适配的安全保护措施",
+    "引入学习工具和专家合作以增强 AI 教育价值",
+    "家长控制功能让监护人能管理青少年使用 AI",
+    "强调安全使用 AI 对青少年发展的重要性"
+  ],
+  "tags": [
+    "AI Safety",
+    "Youth Protection",
+    "Parental Controls",
+    "Education",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该项目聚焦青少年 AI 安全，具有社会责任感和实用价值，但缺乏具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
