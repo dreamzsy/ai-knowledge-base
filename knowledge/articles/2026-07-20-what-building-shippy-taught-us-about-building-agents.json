@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-20-what-building-shippy-taught-us-about-building-agents",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 15 Jul 2026 17:29:41 GMT",
+  "collected_at": "2026-07-20T10:44:31.070267+00:00",
+  "summary": "本文分享了构建 Shippy 智能体过程中的经验教训，包括设计原则、技术挑战和解决方案，强调了模块化、可扩展性和用户反馈在智能体开发中的重要性。",
+  "highlights": [
+    "Shippy 智能体采用模块化架构，便于功能扩展和维护。",
+    "开发过程中注重用户反馈循环，持续优化智能体行为。",
+    "解决了多步骤任务中的状态管理和错误恢复问题。",
+    "强调了可观测性和日志记录在调试智能体中的关键作用。"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Framework",
+    "Modular Design"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "提供了实用的智能体构建经验，对开发者有较高参考价值，但缺乏具体技术细节和性能数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-20-ocaml-are-good-for-writing-compilers-1998",
+  "title": "Why ML/OCaml are good for writing compilers (1998)",
+  "source": "rss",
+  "source_url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 16 Jul 2026 07:48:52 -0500",
+  "collected_at": "2026-07-20T10:44:00.262253+00:00",
+  "summary": "1998年文章论证ML/OCaml在编译器开发中的优势：强类型系统、模式匹配、高阶函数和代数数据类型使编译器代码更简洁、安全且易于维护。",
+  "highlights": [
+    "ML/OCaml的代数数据类型和模式匹配天然适合抽象语法树处理",
+    "强类型系统在编译时捕获大量错误，减少调试时间",
+    "高阶函数和模块系统支持编译器组件的灵活组合与复用"
+  ],
+  "tags": [
+    "Compiler",
+    "ML",
+    "OCaml",
+    "Programming Languages"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "经典观点但时效性有限，对现代编译器设计仍有参考价值",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

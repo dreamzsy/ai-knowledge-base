@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-20-fine-tune-video-and-image-models-at-scale-with-nvidia-nemo-automodel-and-diffusers",
+  "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 17 Jul 2026 15:57:54 GMT",
+  "collected_at": "2026-07-20T10:44:22.276917+00:00",
+  "summary": "本文介绍了如何利用NVIDIA NeMo Automodel与Hugging Face Diffusers库，大规模微调视频和图像模型。通过结合NeMo的分布式训练能力和Diffusers的灵活接口，用户能够高效地处理大规模数据集，优化生成式AI模型性能。文章提供了技术细节和实际案例，展示了在多个GPU上并行微调的方法，显著提升了训练速度和模型质量。",
+  "highlights": [
+    "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持大规模微调视频和图像模型。",
+    "利用分布式训练技术，在多个GPU上并行处理，显著提升训练效率。",
+    "提供实际案例和代码示例，帮助用户快速上手微调生成式AI模型。",
+    "适用于需要优化模型性能的大规模数据集场景，降低计算成本。"
+  ],
+  "tags": [
+    "NVIDIA",
+    "NeMo",
+    "Diffusers",
+    "Fine-tuning",
+    "Distributed Training"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该内容结合了主流框架和分布式训练技术，实用性强，但缺乏具体性能数据对比，评分略高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-20-a-scorecard-for-the-ai-age",
+  "title": "A scorecard for the AI age",
+  "source": "rss",
+  "source_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "author": "openai_blog",
+  "published_at": "Fri, 17 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-20T10:44:11.153394+00:00",
+  "summary": "OpenAI 首席财务官 Sarah Friar 提出一个实用 AI 记分卡，通过有用工作、每成功任务成本、可靠性和计算回报四个维度衡量 AI 投资回报率，帮助企业评估 AI 项目的实际价值。",
+  "highlights": [
+    "记分卡从有用工作、每成功任务成本、可靠性和计算回报四个维度评估 AI 投资回报率",
+    "强调以实际任务完成情况而非技术指标衡量 AI 价值",
+    "提供可量化的框架帮助企业决策 AI 投入与产出",
+    "由 OpenAI 高管提出，具有行业权威性和实践指导意义"
+  ],
+  "tags": [
+    "AI",
+    "ROI",
+    "Metrics",
+    "Enterprise",
+    "Strategy"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "提出了一个实用且可量化的 AI 评估框架，对企业决策有直接参考价值，但缺乏具体案例验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
