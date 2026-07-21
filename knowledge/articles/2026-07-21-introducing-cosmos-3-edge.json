@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-21-introducing-cosmos-3-edge",
+  "title": "Introducing Cosmos 3 Edge",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 20 Jul 2026 15:58:51 GMT",
+  "collected_at": "2026-07-21T10:19:03.136969+00:00",
+  "summary": "NVIDIA 发布了 Cosmos 3 Edge，一个面向边缘设备优化的轻量级 AI 模型，旨在在资源受限的环境中实现高效推理，支持多种视觉任务。",
+  "highlights": [
+    "Cosmos 3 Edge 是专为边缘计算设计的轻量级模型，降低了对硬件的要求。",
+    "该模型在保持高精度的同时，显著减少了计算和内存消耗。",
+    "支持图像分类、目标检测等常见视觉任务，适用于物联网和嵌入式设备。"
+  ],
+  "tags": [
+    "Edge AI",
+    "Computer Vision",
+    "Model Optimization",
+    "NVIDIA"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该模型针对边缘场景优化，实用性强，但创新性相对有限，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

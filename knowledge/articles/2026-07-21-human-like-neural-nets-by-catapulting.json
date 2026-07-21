@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-21-human-like-neural-nets-by-catapulting",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source": "rss",
+  "source_url": "https://gwern.net/llm-catapult",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 18 Jul 2026 18:32:44 -0500",
+  "collected_at": "2026-07-21T10:18:29.813648+00:00",
+  "summary": "本文探讨了一种名为“Catapulting”的技术，旨在使神经网络的行为更接近人类。该方法通过调整训练过程中的某些参数或结构，让模型在特定任务上展现出类似人类的认知特性，如泛化能力和鲁棒性。文章可能涉及对现有深度学习模型的改进，以缩小与人类智能的差距。",
+  "highlights": [
+    "提出Catapulting技术以增强神经网络的类人特性",
+    "关注模型的泛化能力和鲁棒性提升",
+    "可能涉及训练过程的创新调整",
+    "旨在缩小AI与人类认知的差距"
+  ],
+  "tags": [
+    "Neural Networks",
+    "Human-like AI",
+    "Generalization",
+    "Robustness",
+    "Training Techniques"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该技术具有创新性，但缺乏具体实验验证和广泛认可，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

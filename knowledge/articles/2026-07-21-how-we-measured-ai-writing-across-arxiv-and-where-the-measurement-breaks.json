@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-21-how-we-measured-ai-writing-across-arxiv-and-where-the-measurement-breaks",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "source": "rss",
+  "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 20 Jul 2026 16:36:36 +0000",
+  "collected_at": "2026-07-21T10:18:17.236255+00:00",
+  "summary": "本文探讨了如何测量arXiv上AI生成写作的比例，分析了测量方法的有效性及其局限性。作者指出，尽管某些指标能检测AI文本，但存在误判风险，尤其是在技术文档中。文章还讨论了AI写作对学术诚信的影响，并提出了改进测量方法的建议。",
+  "highlights": [
+    "提出了一种基于文本特征统计的AI写作检测方法，并应用于arXiv论文分析",
+    "发现测量方法在技术性强的论文中容易产生误判，尤其是数学和计算机科学领域",
+    "讨论了AI写作检测的伦理问题，包括对非英语母语作者的潜在偏见",
+    "建议结合多种指标和人工审核来提高检测准确性"
+  ],
+  "tags": [
+    "AI Writing",
+    "arXiv",
+    "Detection",
+    "Academic Integrity",
+    "NLP"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "方法创新且实用，但局限性和伦理讨论不够深入，整体价值较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-21-a-novel-computer-scrabble-engine-based-on-probability-that-performs-at-championship-level-2021",
+  "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+  "source": "rss",
+  "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 16 Jul 2026 10:29:48 -0500",
+  "collected_at": "2026-07-21T10:18:35.299899+00:00",
+  "summary": "该论文提出了一种基于概率的新型计算机Scrabble引擎，能够在冠军级别水平上运行。引擎利用概率模型评估单词和棋盘状态，优化出牌策略，在比赛中表现出色。",
+  "highlights": [
+    "基于概率的Scrabble引擎设计，提升决策准确性",
+    "在冠军级别比赛中验证了引擎性能",
+    "概率模型有效处理了单词选择和棋盘布局的不确定性"
+  ],
+  "tags": [
+    "NLP",
+    "Game AI",
+    "Probability",
+    "Search Algorithm"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "创新性地将概率方法应用于Scrabble引擎，在游戏AI领域有实用价值，但应用场景相对专一。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-21-autogpt",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github_trending",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "author": "Significant-Gravitas",
+  "published_at": "2023-03-16T09:21:07Z",
+  "collected_at": "2026-07-21T10:17:44.347992+00:00",
+  "summary": "AutoGPT 是一个开源项目，旨在让每个人都能轻松访问和使用 AI。它提供工具和平台，使用户能够专注于重要事务，通过自主 AI 代理执行复杂任务。",
+  "highlights": [
+    "提供自主 AI 代理，能自动分解和执行复杂任务",
+    "支持多种 AI 模型和工具集成，扩展性强",
+    "开源社区活跃，持续更新和优化",
+    "降低 AI 使用门槛，适合开发者和非技术人员"
+  ],
+  "tags": [
+    "AutoGPT",
+    "Agent",
+    "LLM",
+    "Open Source",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "AutoGPT 作为自主 AI 代理的先锋项目，概念创新且社区活跃，但实际应用稳定性和性能仍有提升空间。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 185634,
+    "language": "Python"
+  }
+}

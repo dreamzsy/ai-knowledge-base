@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-21-how-cars24-scales-conversations-and-builds-faster-with-openai",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/cars24",
+  "author": "openai_blog",
+  "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-21T10:18:57.926032+00:00",
+  "summary": "Cars24 利用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，挽回 12% 的流失线索，并将代理工作流推广至公司各团队，显著提升了客户互动效率与业务转化。",
+  "highlights": [
+    "每月处理超过 100 万分钟的对话，显著提升客户服务规模",
+    "通过 AI 代理挽回 12% 的流失线索，直接增加销售机会",
+    "将代理工作流推广至全公司，实现跨团队自动化协作"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Voice AI",
+    "Customer Service",
+    "Scalability"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "案例展示了 AI 代理在真实商业场景中的显著成效，具备高可复制性和业务价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-21-newer-models-same-advantage",
+  "title": "Newer Models, Same Advantage",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 16 Jul 2026 11:49:48 GMT",
+  "collected_at": "2026-07-21T10:19:05.530263+00:00",
+  "summary": "文章探讨了新一代AI模型在保持原有优势的同时，如何通过改进架构和训练方法实现性能提升，强调模型迭代中持续优化的重要性。",
+  "highlights": [
+    "新一代模型在保持原有优势基础上实现性能提升",
+    "架构改进和训练方法优化是关键驱动因素",
+    "模型迭代过程中持续优化的重要性被强调"
+  ],
+  "tags": [
+    "LLM",
+    "Model Optimization",
+    "Architecture",
+    "Training"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章提供了有价值的模型演进洞察，但缺乏具体技术细节和实验数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
