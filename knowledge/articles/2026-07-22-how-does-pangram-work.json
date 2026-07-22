@@ -1,0 +1,26 @@
+{
+  "id": "2026-07-22-how-does-pangram-work",
+  "title": "How does Pangram work?",
+  "source": "rss",
+  "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 18 Jul 2026 01:17:08 -0500",
+  "collected_at": "2026-07-22T10:17:47.442491+00:00",
+  "summary": "Pangram是一个基于Substack的博客，文章探讨了其工作原理，可能涉及自然语言处理或文本生成技术。",
+  "highlights": [
+    "文章标题直接询问Pangram的工作原理",
+    "内容可能涉及技术实现细节",
+    "来自Substack平台，有评论链接"
+  ],
+  "tags": [
+    "NLP",
+    "Text Generation",
+    "Substack"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "信息有限，仅标题和链接，缺乏具体技术内容，价值较低。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-22-syntax-with-purpose-in-a-programming-language",
+  "title": "Syntax with Purpose in a Programming Language",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 13 Jul 2026 05:58:00 -0500",
+  "collected_at": "2026-07-22T10:17:55.554441+00:00",
+  "summary": "该视频探讨了编程语言中语法设计的目的性，强调语法应服务于可读性、表达力和开发效率，而非仅为美观。通过实例分析，展示了如何通过有意图的语法结构减少错误并提升代码清晰度。",
+  "highlights": [
+    "语法设计应优先考虑可读性和开发效率",
+    "有目的的语法能减少常见编程错误",
+    "通过实例对比展示不同语法设计的优劣"
+  ],
+  "tags": [
+    "Programming Language",
+    "Syntax Design",
+    "Code Readability",
+    "Software Engineering"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容聚焦于编程语言设计原则，对开发者有启发，但缺乏具体技术实现细节，实用性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

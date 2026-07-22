@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-22-safety-and-alignment-in-an-era-of-long-horizon-models",
+  "title": "Safety and alignment in an era of long-horizon models",
+  "source": "rss",
+  "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "author": "openai_blog",
+  "published_at": "Mon, 20 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-22T10:18:07.401999+00:00",
+  "summary": "OpenAI 分享了部署长时间运行 AI 模型的经验教训，重点指出了新的安全风险、观察到的故障案例，以及通过迭代部署改进的安全防护措施。",
+  "highlights": [
+    "长时间运行模型面临新的安全风险，如目标漂移和累积错误。",
+    "通过实际部署观察到了多种故障模式，包括意外行为和系统退化。",
+    "迭代部署方法有效提升了安全防护措施，降低了风险。",
+    "强调了持续监控和调整对齐策略的重要性。"
+  ],
+  "tags": [
+    "Safety",
+    "Alignment",
+    "Long-Horizon",
+    "Deployment",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.88,
+  "score_reason": "该内容针对前沿AI安全挑战提供了实用见解和部署经验，具有较高的实践价值和前瞻性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

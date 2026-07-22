@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-22-introducing-the-chatgpt-for-small-business-program",
+  "title": "Introducing the ChatGPT for small business program",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+  "author": "openai_blog",
+  "published_at": "Tue, 21 Jul 2026 17:00:00 GMT",
+  "collected_at": "2026-07-22T10:17:59.590590+00:00",
+  "summary": "OpenAI 推出面向小企业的 ChatGPT 计划，帮助创业者掌握 AI 技能、自动化工作流程，并利用 ChatGPT Work 实现业务增长。",
+  "highlights": [
+    "专为小企业设计，降低 AI 使用门槛",
+    "提供 AI 技能培训和工作自动化支持",
+    "助力创业者利用 ChatGPT 实现业务增长"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "Business",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该计划实用性强，但缺乏技术细节，主要面向商业应用而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-22-security-incident-disclosure-july-2026",
+  "title": "Security incident disclosure — July 2026",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/security-incident-july-2026",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-22T10:18:18.154952+00:00",
+  "summary": "Hugging Face 披露了 2026 年 7 月发生的一起安全事件，涉及用户数据泄露。公司已采取措施修复漏洞并通知受影响用户，同时建议用户更新密码和启用双因素认证。",
+  "highlights": [
+    "2026 年 7 月 Hugging Face 遭遇安全事件，部分用户数据被未授权访问。",
+    "公司已修复漏洞并通知受影响用户，建议重置 API 令牌和密码。",
+    "Hugging Face 强调将加强安全措施，包括引入双因素认证。"
+  ],
+  "tags": [
+    "Security",
+    "Data Breach",
+    "Hugging Face",
+    "Incident Response"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "安全事件披露及时，但缺乏具体技术细节和影响范围，对开发者参考价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

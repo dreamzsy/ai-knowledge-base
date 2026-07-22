@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-22-10th-cost",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source": "rss",
+  "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 22 Jul 2026 05:09:50 -0500",
+  "collected_at": "2026-07-22T10:17:40.211199+00:00",
+  "summary": "Notion 分享了两年来向量搜索的演进历程：从最初使用 Pinecone 到自建向量引擎，实现了 10 倍规模扩展和 90% 成本降低。文章详细介绍了架构设计、索引优化、分片策略以及混合搜索的实现，展示了在真实生产环境中大规模向量搜索的工程实践。",
+  "highlights": [
+    "从 Pinecone 迁移到自建向量引擎，成本降低 90% 同时支持 10 倍数据规模",
+    "采用 HNSW 索引和 IVF 结合的分层检索策略，平衡召回率和延迟",
+    "实现向量搜索与关键词搜索的混合检索，提升搜索质量",
+    "通过分片和副本机制保障高可用性和水平扩展能力"
+  ],
+  "tags": [
+    "Vector Search",
+    "Infrastructure",
+    "Scalability",
+    "Search Engine",
+    "Notion"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "提供了大规模向量搜索在生产环境中的真实工程实践和优化经验，具有很高的参考价值",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

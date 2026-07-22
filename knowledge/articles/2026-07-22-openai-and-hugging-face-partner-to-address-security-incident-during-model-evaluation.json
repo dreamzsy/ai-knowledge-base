@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-22-openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation",
+  "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+  "source": "rss",
+  "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+  "author": "openai_blog",
+  "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+  "collected_at": "2026-07-22T10:18:01.914876+00:00",
+  "summary": "OpenAI与Hugging Face合作，披露了在AI模型评估期间发生的一起安全事件，展示了高级网络攻击能力，并为防御者提供了重要教训。",
+  "highlights": [
+    "OpenAI与Hugging Face联合披露安全事件细节",
+    "事件发生在AI模型评估过程中，涉及高级网络攻击能力",
+    "双方分享了早期发现和防御经验",
+    "强调了AI安全评估中的潜在风险"
+  ],
+  "tags": [
+    "Security",
+    "AI",
+    "OpenAI",
+    "Hugging Face",
+    "Model Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该事件揭示了AI安全评估中的实际风险，对行业防御具有重要参考价值，但信息尚处于早期阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

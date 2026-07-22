@@ -1,0 +1,30 @@
+{
+  "id": "2026-07-22-skills",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "author": "mattpocock",
+  "published_at": "2026-02-03T11:15:53Z",
+  "collected_at": "2026-07-22T10:17:13.543312+00:00",
+  "summary": "mattpocock/skills 是一个为真实工程师设计的技能集合，直接来自作者的 .agents 目录，旨在提供实用的技术能力。",
+  "highlights": [
+    "直接来自作者的 .agents 目录，强调实战经验",
+    "面向真实工程师的技能集合",
+    "可能包含多种技术领域的实用技能"
+  ],
+  "tags": [
+    "Skills",
+    "Engineering",
+    "Practical",
+    "Developer"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目描述简洁但缺乏具体内容，实用性有待验证，评分中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 181381,
+    "language": "Shell"
+  }
+}
