@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-23-triton-language-for-alibaba-sail",
+  "title": "Triton language for Alibaba SAIL",
+  "source": "rss",
+  "source_url": "https://github.com/t-head/triton-for-sail",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 19 Jul 2026 06:43:23 -0500",
+  "collected_at": "2026-07-23T10:13:51.870889+00:00",
+  "summary": "Triton language for Alibaba SAIL 是阿里巴巴为 SAIL 处理器定制的 Triton 语言分支，旨在优化 AI 推理性能。该项目基于 Triton 编译器框架，支持高效生成 SAIL 架构的 GPU 代码，提升深度学习模型在阿里硬件上的运行效率。",
+  "highlights": [
+    "专为阿里巴巴 SAIL 处理器优化 Triton 语言",
+    "基于 Triton 编译器框架，支持高效 GPU 代码生成",
+    "提升深度学习模型在阿里硬件上的推理性能"
+  ],
+  "tags": [
+    "Triton",
+    "Compiler",
+    "GPU",
+    "AI Inference",
+    "Alibaba"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目针对特定硬件优化，技术价值高，但适用范围有限，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

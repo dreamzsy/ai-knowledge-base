@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-23-introducing-openai-presence",
+  "title": "Introducing OpenAI Presence",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-openai-presence",
+  "author": "openai_blog",
+  "published_at": "Wed, 22 Jul 2026 05:30:00 GMT",
+  "collected_at": "2026-07-23T10:14:14.826625+00:00",
+  "summary": "OpenAI 推出 Presence，一个经过验证的企业级 AI 代理平台，帮助组织部署可信的语音和聊天代理，用于客户和内部工作流程。",
+  "highlights": [
+    "Presence 是一个企业级 AI 代理平台，专注于语音和聊天代理的部署。",
+    "该平台旨在提升客户服务和内部工作流程的效率和可信度。",
+    "OpenAI 强调 Presence 已经过验证，适合企业环境使用。"
+  ],
+  "tags": [
+    "AI Agent",
+    "Enterprise",
+    "Voice",
+    "Chat",
+    "Platform"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该产品由 OpenAI 推出，专注于企业级 AI 代理部署，具有实际应用价值，但缺乏具体技术细节和性能数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

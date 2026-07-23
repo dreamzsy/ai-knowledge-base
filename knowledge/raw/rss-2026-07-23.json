@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Are AI labs pelicanmaxxing?",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 541 # Comments: 209",
+    "published_at": "Wed, 22 Jul 2026 17:17:54 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "author": "hacker_news_best",
+    "summary_raw": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 366 # Comments: 123",
+    "published_at": "Wed, 22 Jul 2026 14:18:05 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Businesses with ugly AI menu redesigns",
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 304 # Comments: 204",
+    "published_at": "Wed, 22 Jul 2026 12:49:45 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "author": "hacker_news_best",
+    "summary_raw": "https://x.com/jack/status/2079605800998146171, https://xcancel.com/jack/status/2079605800998146171https://buzz.xyz/ Comments URL: https://news.ycombinator.com/item?id=48995213 Points: 371 # Comments: 326",
+    "published_at": "Tue, 21 Jul 2026 17:14:06 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 23:02:57 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xbtlo/two_years_vector_search_at_notion_10x\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 05:09:50 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Triton language for Alibaba SAIL",
+    "url": "https://github.com/t-head/triton-for-sail",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/y8okbv/triton_language_for_alibaba_sail\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 19 Jul 2026 06:43:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 18 Jul 2026 18:32:44 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Taking OCaml and Eio for a spin",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mush3s/taking_ocaml_eio_for_spin\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 20 Jul 2026 08:58:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why ML/OCaml are good for writing compilers (1998)",
+    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 16 Jul 2026 07:48:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Syntax with Purpose in a Programming Language",
+    "url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bovmc5/syntax_with_purpose_programming\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 13 Jul 2026 05:58:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "author": "openai_blog",
+    "summary_raw": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "published_at": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "author": "openai_blog",
+    "summary_raw": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "published_at": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 21 Jul 2026 20:00:27 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "url": "https://huggingface.co/blog/grabette",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "extra": {}
+  }
+]

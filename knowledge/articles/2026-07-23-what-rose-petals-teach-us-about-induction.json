@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-23-what-rose-petals-teach-us-about-induction",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source": "rss",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 22 Jul 2026 23:02:57 -0500",
+  "collected_at": "2026-07-23T10:13:46.273886+00:00",
+  "summary": "本文通过玫瑰花瓣的案例，探讨归纳推理在机器学习中的局限性，强调数据分布和先验知识对模型泛化能力的影响，并指出过度依赖归纳可能导致错误结论。",
+  "highlights": [
+    "玫瑰花瓣案例展示了归纳推理在现实数据中的陷阱",
+    "强调数据分布和先验知识对模型泛化的关键作用",
+    "过度依赖归纳可能导致模型在未见数据上失败",
+    "为机器学习实践者提供关于归纳推理的深刻反思"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Induction",
+    "Generalization",
+    "Data Distribution"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章以生动案例揭示归纳推理的局限性，对机器学习实践有启发意义，但缺乏具体技术解决方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

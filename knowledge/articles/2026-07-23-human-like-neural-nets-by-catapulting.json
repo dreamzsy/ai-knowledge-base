@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-23-human-like-neural-nets-by-catapulting",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source": "rss",
+  "source_url": "https://gwern.net/llm-catapult",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 18 Jul 2026 18:32:44 -0500",
+  "collected_at": "2026-07-23T10:13:54.639935+00:00",
+  "summary": "本文探讨了一种名为“Catapulting”的技术，通过模拟人类认知中的“跳跃”机制来改进神经网络，使其行为更接近人类。该方法在特定任务上提升了模型的泛化能力和效率，为神经网络的类人化提供了新思路。",
+  "highlights": [
+    "Catapulting技术模拟人类认知中的跳跃机制，提升神经网络类人表现",
+    "该方法在多个任务上显著改善了模型的泛化能力",
+    "为神经网络设计提供了新的生物启发式方向"
+  ],
+  "tags": [
+    "Neural Networks",
+    "Cognitive Science",
+    "Generalization",
+    "Bio-inspired AI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "创新性高且具有生物启发价值，但实际应用范围和效果验证尚有限",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
