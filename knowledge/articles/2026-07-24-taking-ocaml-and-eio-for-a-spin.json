@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-24-taking-ocaml-and-eio-for-a-spin",
+  "title": "Taking OCaml and Eio for a spin",
+  "source": "rss",
+  "source_url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+  "collected_at": "2026-07-24T10:09:48.890608+00:00",
+  "summary": "本文介绍了作者对OCaml语言及其并发库Eio的实践体验，包括安装、基本语法、异步编程模型和性能测试。文章展示了Eio如何简化并发任务，并对比了与其他语言的差异，适合对函数式编程和系统编程感兴趣的开发者。",
+  "highlights": [
+    "OCaml的Eio库提供了简洁的异步编程接口，降低了并发编程复杂度。",
+    "作者通过实际代码示例展示了Eio在I/O密集型任务中的性能优势。",
+    "文章对比了OCaml与Rust、Go等语言在并发模型上的设计差异。",
+    "安装和配置过程相对简单，适合快速上手实验。"
+  ],
+  "tags": [
+    "OCaml",
+    "Eio",
+    "Concurrency",
+    "Functional Programming",
+    "Systems Programming"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容实用且技术细节丰富，但受众范围较窄，仅对OCaml或函数式并发感兴趣的开发者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

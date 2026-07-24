@@ -1,0 +1,32 @@
+{
+  "id": "2026-07-24-dify",
+  "title": "langgenius/dify",
+  "source": "github_trending",
+  "source_url": "https://github.com/langgenius/dify",
+  "author": "langgenius",
+  "published_at": "2023-04-12T07:40:24Z",
+  "collected_at": "2026-07-24T10:09:30.209612+00:00",
+  "summary": "Dify 是一个开源平台，用于构建智能体工作流和 RAG 管道，支持多种 AI 模型和工具。它提供协作工作空间，可部署在云端、VPC 或自托管，帮助团队从原型快速过渡到生产环境，无需重建技术栈。",
+  "highlights": [
+    "支持构建智能体工作流和 RAG 管道",
+    "集成丰富的 AI 模型和工具",
+    "提供云端、VPC 或自托管多种部署方式",
+    "支持团队协作，从原型到生产无需重建"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "RAG",
+    "Framework",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该项目功能全面，覆盖当前 AI 应用开发的核心需求，且部署灵活，实用价值高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 150081,
+    "language": "TypeScript"
+  }
+}

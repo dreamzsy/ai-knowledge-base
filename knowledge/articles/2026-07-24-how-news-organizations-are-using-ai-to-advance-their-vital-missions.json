@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-24-how-news-organizations-are-using-ai-to-advance-their-vital-missions",
+  "title": "How news organizations are using AI to advance their vital missions",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-news-organizations-are-using-ai",
+  "author": "openai_blog",
+  "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+  "collected_at": "2026-07-24T10:10:05.967485+00:00",
+  "summary": "新闻机构正借助AI强化报道、扩大受众并优化业务运营，OpenAI工具为全球记者和出版商提供支持，助力其完成关键使命。",
+  "highlights": [
+    "AI用于增强新闻报道的真实性和深度，辅助事实核查与数据分析",
+    "通过个性化推荐和自动化内容分发，帮助新闻机构扩大受众覆盖",
+    "优化业务流程，如自动化转录、翻译和内容管理，提升效率",
+    "OpenAI工具与新闻机构合作，确保AI应用符合伦理标准"
+  ],
+  "tags": [
+    "AI",
+    "Journalism",
+    "OpenAI",
+    "Media",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "展示了AI在新闻领域的实际应用价值，结合行业合作与伦理考量，具有较强参考意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

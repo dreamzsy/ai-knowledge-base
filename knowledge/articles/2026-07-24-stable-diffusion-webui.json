@@ -1,0 +1,31 @@
+{
+  "id": "2026-07-24-stable-diffusion-webui",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "published_at": "2022-08-22T14:05:26Z",
+  "collected_at": "2026-07-24T10:09:13.577071+00:00",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 模型 Web 界面，支持文本生成图像、图像修复、超分辨率等多种功能，提供直观的交互式操作。",
+  "highlights": [
+    "提供文本到图像、图像到图像、图像修复等核心功能",
+    "支持多种采样方法和模型优化选项",
+    "拥有活跃的社区和丰富的扩展生态"
+  ],
+  "tags": [
+    "Stable Diffusion",
+    "Web UI",
+    "Image Generation",
+    "Gradio",
+    "Deep Learning"
+  ],
+  "language": "zh",
+  "score": 0.95,
+  "score_reason": "该项目是 Stable Diffusion 最流行的 Web 界面之一，功能全面且社区活跃，对 AI 图像生成领域有重大影响。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 164248,
+    "language": "Python"
+  }
+}

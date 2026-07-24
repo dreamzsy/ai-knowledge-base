@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-24-the-state-of-simulation-for-physical-ai-an-overview",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 21 Jul 2026 20:00:27 GMT",
+  "collected_at": "2026-07-24T10:10:14.044106+00:00",
+  "summary": "本文概述了物理AI模拟的现状，强调模拟在训练和测试物理AI系统中的关键作用，涵盖从机器人到自动驾驶等应用，并讨论了模拟技术的挑战与未来方向。",
+  "highlights": [
+    "物理AI模拟是连接虚拟训练与现实世界部署的桥梁。",
+    "模拟环境可加速机器人、自动驾驶等系统的开发与验证。",
+    "当前挑战包括模拟与现实之间的差距（sim-to-real gap）及计算资源需求。",
+    "未来趋势包括更逼真的物理引擎和集成学习框架。"
+  ],
+  "tags": [
+    "Simulation",
+    "Physical AI",
+    "Robotics",
+    "Autonomous Driving",
+    "Sim-to-Real"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容全面覆盖物理AI模拟的核心概念、应用与挑战，具有较高技术参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
