@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 488 # Comments: 281",
+    "published_at": "Fri, 24 Jul 2026 16:33:31 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The arguments against open source AI are bad",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 211",
+    "published_at": "Thu, 23 Jul 2026 16:49:57 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "author": "hacker_news_best",
+    "summary_raw": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1044 # Comments: 862",
+    "published_at": "Thu, 23 Jul 2026 15:18:40 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 272 # Comments: 282",
+    "published_at": "Thu, 23 Jul 2026 13:10:02 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 24 Jul 2026 09:01:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 23 Jul 2026 23:54:16 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Not just development, distribution of software may change as well",
+    "url": "https://antirez.com/news/170",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wfural/not_just_development_distribution\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 23 Jul 2026 09:16:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "What Rose Petals Teach Us about Induction",
+    "url": "https://www.oranlooney.com/post/rose-petals/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 23:02:57 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Taking OCaml and Eio for a spin",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mush3s/taking_ocaml_eio_for_spin\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 20 Jul 2026 08:58:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why ML/OCaml are good for writing compilers (1998)",
+    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 16 Jul 2026 07:48:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Syntax with Purpose in a Programming Language",
+    "url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bovmc5/syntax_with_purpose_programming\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 13 Jul 2026 05:58:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "author": "openai_blog",
+    "summary_raw": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "published_at": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "author": "openai_blog",
+    "summary_raw": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "published_at": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 21 Jul 2026 20:00:27 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "url": "https://huggingface.co/blog/grabette",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "extra": {}
+  }
+]
