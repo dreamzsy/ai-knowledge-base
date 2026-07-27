@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-27-running-a-28-9m-parameter-llm-on-an-8-microcontroller",
+  "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "source": "rss",
+  "source_url": "https://github.com/slvDev/esp32-ai",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 25 Jul 2026 18:59:50 +0000",
+  "collected_at": "2026-07-27T11:12:49.450227+00:00",
+  "summary": "该项目展示了如何在仅8美元的ESP32微控制器上运行一个2890万参数的小型语言模型，通过模型量化、内存优化和高效推理技术，实现了在资源受限设备上的AI推理。",
+  "highlights": [
+    "在低成本ESP32上成功运行28.9M参数LLM",
+    "采用模型量化和内存优化技术适应微控制器",
+    "实现高效推理，展示了边缘AI的可行性"
+  ],
+  "tags": [
+    "LLM",
+    "Edge AI",
+    "Microcontroller",
+    "Quantization",
+    "ESP32"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目极具创新性，展示了在极低成本硬件上部署LLM的可行性，对边缘AI和嵌入式系统有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

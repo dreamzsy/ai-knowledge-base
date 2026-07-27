@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-27-taking-ocaml-and-eio-for-a-spin",
+  "title": "Taking OCaml and Eio for a spin",
+  "source": "rss",
+  "source_url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+  "collected_at": "2026-07-27T11:13:09.266745+00:00",
+  "summary": "本文作者分享了使用 OCaml 语言及其 Eio 并发库的实践体验，探讨了 Eio 的异步 I/O 模型、资源管理以及与传统 OCaml 并发方式的对比，展示了 Eio 在构建高效、可维护并发程序方面的优势。",
+  "highlights": [
+    "Eio 提供了基于效果处理器的轻量级并发模型，简化了异步编程。",
+    "作者通过实际示例展示了 Eio 在 I/O 密集型任务中的性能表现。",
+    "Eio 的资源管理机制（如 fibers 和 switches）有助于避免资源泄漏。",
+    "与 Lwt 和 Async 相比，Eio 的语法更简洁，学习曲线更平缓。"
+  ],
+  "tags": [
+    "OCaml",
+    "Eio",
+    "Concurrency",
+    "Functional Programming"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章提供了 OCaml 生态中新兴并发库 Eio 的实用见解，但内容偏重个人体验，缺乏系统性基准测试。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

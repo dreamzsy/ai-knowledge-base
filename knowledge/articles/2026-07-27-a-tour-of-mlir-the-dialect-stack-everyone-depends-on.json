@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-27-a-tour-of-mlir-the-dialect-stack-everyone-depends-on",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source": "rss",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 23 Jul 2026 23:54:16 -0500",
+  "collected_at": "2026-07-27T11:13:00.034539+00:00",
+  "summary": "本文介绍了MLIR（多级中间表示）的方言栈结构，解释了其如何通过分层方言（如Linalg、Affine、SCF等）支持从高层到低层的编译优化，并强调MLIR已成为现代编译器基础设施的核心依赖。",
+  "highlights": [
+    "MLIR通过方言栈实现多层次抽象，支持渐进式降级和优化。",
+    "Linalg、Affine、SCF等方言分别处理线性代数、循环优化和控制流。",
+    "MLIR被广泛应用于TensorFlow、PyTorch等框架的编译器后端。"
+  ],
+  "tags": [
+    "MLIR",
+    "Compiler",
+    "Dialect",
+    "LLVM",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章清晰阐述了MLIR方言栈的设计理念和实际应用，对编译器开发者有较高参考价值，但缺乏具体代码示例或性能数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

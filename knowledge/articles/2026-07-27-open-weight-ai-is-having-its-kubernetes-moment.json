@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-27-open-weight-ai-is-having-its-kubernetes-moment",
+  "title": "Open-weight AI is having its Kubernetes moment",
+  "source": "rss",
+  "source_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 25 Jul 2026 14:49:49 +0000",
+  "collected_at": "2026-07-27T11:12:51.919961+00:00",
+  "summary": "文章将开源权重AI与Kubernetes的发展历程类比，指出开源权重模型正经历类似Kubernetes的爆发式增长和标准化过程，推动AI基础设施的开放与普及。",
+  "highlights": [
+    "开源权重AI正经历类似Kubernetes的标准化和生态爆发阶段",
+    "开放权重模型降低了AI部署门槛，促进企业级应用",
+    "类比Kubernetes对容器编排的影响，开源权重将重塑AI基础设施"
+  ],
+  "tags": [
+    "Open-Weight",
+    "AI",
+    "Kubernetes",
+    "Infrastructure",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "观点新颖且类比恰当，对AI开源趋势有深刻洞察，但缺乏具体数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

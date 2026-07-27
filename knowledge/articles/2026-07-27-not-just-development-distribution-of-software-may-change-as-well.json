@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-27-not-just-development-distribution-of-software-may-change-as-well",
+  "title": "Not just development, distribution of software may change as well",
+  "source": "rss",
+  "source_url": "https://antirez.com/news/170",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 23 Jul 2026 09:16:07 -0500",
+  "collected_at": "2026-07-27T11:13:02.870026+00:00",
+  "summary": "文章探讨了软件开发与分发模式的潜在变革，指出AI和自动化工具可能不仅改变代码编写方式，还会影响软件的分发、部署和消费模式，引发对传统流程的重新思考。",
+  "highlights": [
+    "AI可能重塑软件分发流程，从开发到部署的链条将更自动化",
+    "传统软件包管理和安装方式面临效率与安全挑战",
+    "未来软件可能以更动态、按需的方式交付，减少人工干预"
+  ],
+  "tags": [
+    "AI",
+    "Software Distribution",
+    "DevOps",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "观点前瞻但缺乏具体技术细节或案例支撑，适合引发讨论而非直接应用。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
