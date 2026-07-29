@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-29-how-ai-is-expanding-what-people-do-at-work",
+  "title": "How AI is expanding what people do at work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+  "author": "openai_blog",
+  "published_at": "Mon, 27 Jul 2026 03:30:00 GMT",
+  "collected_at": "2026-07-29T10:32:45.808451+00:00",
+  "summary": "OpenAI 最新研究显示，AI 正在扩展工作者的能力范围，ChatGPT 用户能够跨角色承担更多任务，从而重塑传统职业边界。",
+  "highlights": [
+    "AI 帮助工作者突破单一角色限制，承担更多样化的任务",
+    "ChatGPT 用户在工作中展现出跨职能的能力提升",
+    "研究揭示了 AI 对职业边界和岗位定义的深远影响"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "Workplace",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该研究提供了 AI 对实际工作影响的实证分析，具有较高的实践指导价值，但缺乏具体数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

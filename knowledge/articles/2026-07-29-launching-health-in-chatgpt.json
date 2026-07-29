@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-29-launching-health-in-chatgpt",
+  "title": "Launching Health in ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/health-in-chatgpt",
+  "author": "openai_blog",
+  "published_at": "Thu, 23 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-29T10:32:48.164469+00:00",
+  "summary": "OpenAI 推出 ChatGPT 健康功能，允许符合条件的美国用户安全连接医疗记录和 Apple Health 数据，以获得更个性化的健康洞察和更好的健康理解。",
+  "highlights": [
+    "ChatGPT 新增健康功能，支持连接医疗记录和 Apple Health。",
+    "仅限符合条件的美国用户使用，强调数据安全。",
+    "提供个性化健康洞察，帮助用户更好地理解自身健康状况。"
+  ],
+  "tags": [
+    "LLM",
+    "Health",
+    "Apple Health",
+    "Personalization",
+    "Data Security"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该功能将 LLM 应用于医疗健康领域，具有实际应用价值，但仅限美国用户且依赖第三方数据，通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
