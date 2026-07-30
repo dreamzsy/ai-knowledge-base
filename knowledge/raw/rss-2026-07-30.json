@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "AI's top startups are barely publishing their research",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 476 # Comments: 245",
+    "published_at": "Wed, 29 Jul 2026 21:25:40 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 368 # Comments: 282",
+    "published_at": "Wed, 29 Jul 2026 11:44:33 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://huggingface.co/blog/agent-intrusion-technical-timeline Comments URL: https://news.ycombinator.com/item?id=49089500 Points: 386 # Comments: 212",
+    "published_at": "Tue, 28 Jul 2026 20:28:33 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 25 Jul 2026 10:13:27 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 24 Jul 2026 09:01:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 23 Jul 2026 23:54:16 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Not just development, distribution of software may change as well",
+    "url": "https://antirez.com/news/170",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wfural/not_just_development_distribution\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 23 Jul 2026 09:16:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Xavier Leroy on programming, languages and formal verification",
+    "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 26 Jul 2026 09:59:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Taking OCaml and Eio for a spin",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mush3s/taking_ocaml_eio_for_spin\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 20 Jul 2026 08:58:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why ML/OCaml are good for writing compilers (1998)",
+    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 16 Jul 2026 07:48:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "author": "openai_blog",
+    "summary_raw": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "published_at": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "published_at": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "author": "openai_blog",
+    "summary_raw": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "author": "openai_blog",
+    "summary_raw": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "published_at": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 27 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

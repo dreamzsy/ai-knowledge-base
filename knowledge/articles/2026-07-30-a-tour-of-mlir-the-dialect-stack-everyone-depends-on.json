@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-30-a-tour-of-mlir-the-dialect-stack-everyone-depends-on",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source": "rss",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 23 Jul 2026 23:54:16 -0500",
+  "collected_at": "2026-07-30T10:15:31.959496+00:00",
+  "summary": "本文深入介绍了MLIR（多级中间表示）的方言栈架构，展示了其如何通过分层方言设计支持多种硬件和框架的编译优化。文章从基础方言开始，逐步扩展到高级方言，解释了MLIR在机器学习编译器生态中的核心作用，以及它如何成为现代编译基础设施的关键依赖。",
+  "highlights": [
+    "MLIR通过分层方言栈实现跨硬件和框架的编译优化",
+    "基础方言提供底层IR，高级方言支持领域特定抽象",
+    "MLIR已成为机器学习编译器生态的核心依赖",
+    "文章详细展示了方言之间的转换和组合机制"
+  ],
+  "tags": [
+    "MLIR",
+    "Compiler",
+    "Dialect",
+    "Machine Learning",
+    "Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.88,
+  "score_reason": "内容深入且实用，清晰阐述了MLIR方言栈的设计与价值，对编译器开发者有较高参考意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

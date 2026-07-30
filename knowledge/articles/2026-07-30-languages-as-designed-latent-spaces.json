@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-30-languages-as-designed-latent-spaces",
+  "title": "Languages as designed latent spaces",
+  "source": "rss",
+  "source_url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 25 Jul 2026 10:13:27 -0500",
+  "collected_at": "2026-07-30T10:15:26.774584+00:00",
+  "summary": "本文探讨将编程语言视为精心设计的潜在空间，类比机器学习中的潜在表示，强调语言设计如何通过抽象和约束引导开发者高效表达意图，并讨论其对代码理解与生成的启示。",
+  "highlights": [
+    "编程语言可类比为潜在空间，其设计影响开发者思维与表达效率",
+    "语言抽象与约束类似机器学习中的潜在表示，引导有效问题解决",
+    "探讨语言设计对代码理解、生成及AI辅助编程的潜在影响"
+  ],
+  "tags": [
+    "Programming Language",
+    "Latent Space",
+    "Language Design",
+    "Abstraction",
+    "Code Generation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "观点新颖，将语言设计与潜在空间类比，但缺乏具体案例或实证支持，实用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

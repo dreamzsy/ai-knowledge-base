@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-30-the-olmoearth-platform-geospatial-inference-at-planetary-scale",
+  "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 28 Jul 2026 16:27:42 GMT",
+  "collected_at": "2026-07-30T10:15:55.563216+00:00",
+  "summary": "OlmoEarth 是一个开源地理空间推理平台，旨在实现行星尺度的地理空间数据分析和推理。它结合了大型语言模型和地理空间技术，支持从卫星图像、地图等多源数据中提取信息，进行环境监测、城市规划等应用。该平台强调可扩展性和易用性，为研究人员和开发者提供了强大的工具。",
+  "highlights": [
+    "OlmoEarth 实现了行星尺度的地理空间推理，支持大规模数据处理。",
+    "平台整合了大型语言模型与地理空间技术，提升信息提取能力。",
+    "开源设计便于社区贡献和定制化应用开发。",
+    "适用于环境监测、城市规划等实际场景。"
+  ],
+  "tags": [
+    "LLM",
+    "Geospatial",
+    "Open Source",
+    "Platform",
+    "Inference"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该项目创新性地将LLM与地理空间推理结合，具有高实用价值和开源生态潜力，但尚需验证实际性能。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

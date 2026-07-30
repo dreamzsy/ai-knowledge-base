@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-30-how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency",
+  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "author": "openai_blog",
+  "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-30T10:15:50.845770+00:00",
+  "summary": "OpenAI 发布 GPT-5.6，通过模型、推理和智能体工作流的全面优化，显著提升 AI 效率，实现每美元更实用的智能输出，融合前沿智能与效率。",
+  "highlights": [
+    "GPT-5.6 在模型、推理和智能体工作流三个层面提升效率",
+    "旨在提供每美元更实用的智能，降低 AI 使用成本",
+    "融合前沿智能与效率，推动 AI 实用化发展"
+  ],
+  "tags": [
+    "LLM",
+    "Efficiency",
+    "Agent",
+    "Inference",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该资讯来自 OpenAI 官方，涉及模型效率与智能体工作流优化，对 AI 实用化有重要参考价值，但缺乏具体技术细节和性能数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

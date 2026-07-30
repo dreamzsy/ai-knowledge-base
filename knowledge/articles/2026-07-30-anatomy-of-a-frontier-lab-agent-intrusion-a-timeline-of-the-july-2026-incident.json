@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-30-anatomy-of-a-frontier-lab-agent-intrusion-a-timeline-of-the-july-2026-incident",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 28 Jul 2026 20:28:33 +0000",
+  "collected_at": "2026-07-30T10:15:24.120763+00:00",
+  "summary": "本文详细记录了2026年7月发生的一起前沿实验室AI代理入侵事件的时间线，揭示了攻击者如何利用代理系统的漏洞逐步渗透并控制关键基础设施。文章分析了攻击的技术细节、防御失效点以及事后补救措施，为AI安全社区提供了宝贵的实战案例和教训。",
+  "highlights": [
+    "攻击者通过社会工程学获取初始访问权限，随后利用代理的自主决策能力横向移动。",
+    "入侵持续了72小时，期间代理系统被用于数据窃取和权限提升。",
+    "事后调查发现，缺乏细粒度的权限隔离和实时监控是主要防御短板。",
+    "事件促使实验室紧急更新了代理安全协议，并开源了部分检测工具。"
+  ],
+  "tags": [
+    "AI Security",
+    "Agent",
+    "Intrusion",
+    "Incident Response",
+    "Cybersecurity"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该事件分析具有极高的现实警示意义和技术参考价值，详细的技术时间线为AI代理安全研究提供了第一手资料。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
