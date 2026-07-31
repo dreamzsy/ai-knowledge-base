@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-31-why-every-wikimedian-should-be-a-toolmaker",
+  "title": "Why every Wikimedian should be a toolmaker",
+  "source": "rss",
+  "source_url": "https://www.haykranen.nl/2026/07/30/wikimania-2026-every-wikimedian-toolmaker/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 30 Jul 2026 07:14:59 -0500",
+  "collected_at": "2026-07-31T10:31:04.042531+00:00",
+  "summary": "本文呼吁维基媒体社区的每位成员都应成为工具制造者，强调通过编写脚本、机器人或小工具来提升编辑效率与内容质量。作者认为，工具开发不仅是技术工作，更是社区参与和知识共享的重要方式，鼓励非程序员也能利用现有API和模板参与创新。",
+  "highlights": [
+    "强调工具制造对维基媒体社区的价值，能显著提升编辑效率与内容质量。",
+    "鼓励非技术背景的维基人通过简单脚本或模板参与工具开发。",
+    "指出工具开发是知识共享和社区协作的延伸，而非孤立的技术活动。",
+    "提供实际案例或方法，帮助新手入门工具制造。"
+  ],
+  "tags": [
+    "Community",
+    "Open Source",
+    "Tooling",
+    "Knowledge Management"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章观点新颖且具实践指导意义，但面向特定社区，通用性有限，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

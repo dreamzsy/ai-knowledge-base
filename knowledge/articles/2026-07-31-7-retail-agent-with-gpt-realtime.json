@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-31-7-retail-agent-with-gpt-realtime",
+  "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+  "source": "rss",
+  "source_url": "https://openai.com/index/avatarin",
+  "author": "openai_blog",
+  "published_at": "Thu, 30 Jul 2026 00:00:00 GMT",
+  "collected_at": "2026-07-31T10:31:40.969765+00:00",
+  "summary": "avatarin 利用 OpenAI 的 GPT-Realtime 技术，为日本山田电机（Yamada Denki）的顾客提供 24/7 多语言零售支持。该智能体在两周内吸引了 3 万名用户，92% 的调研反馈为正面，展示了实时语音 AI 在零售场景中的高效应用。",
+  "highlights": [
+    "基于 GPT-Realtime 构建的零售智能体，支持多语言实时交互。",
+    "两周内吸引 3 万用户，92% 的正面反馈验证了用户接受度。",
+    "实现 24/7 全天候服务，显著提升零售客户支持效率。",
+    "案例展示了实时语音 AI 在实体零售中的落地潜力。"
+  ],
+  "tags": [
+    "GPT-Realtime",
+    "Retail",
+    "Multilingual",
+    "Customer Support",
+    "AI Agent"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例真实且数据积极，展示了实时语音 AI 在零售业的实际价值，但缺乏技术细节和长期效果评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "The AI Aesthetic",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 309 # Comments: 134",
+    "published_at": "Thu, 30 Jul 2026 23:22:16 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "url": "https://github.com/AminBlg/SimpleEnglish",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://github.com/AminBlg/SimpleEnglish Comments URL: https://news.ycombinator.com/item?id=49114639 Points: 302 # Comments: 110",
+    "published_at": "Thu, 30 Jul 2026 19:34:27 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GCC steering committee announces AI policy",
+    "url": "https://lwn.net/Articles/1086041/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 298 # Comments: 326",
+    "published_at": "Thu, 30 Jul 2026 11:45:44 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LLM Honeypot",
+    "url": "https://llm2human.pages.dev/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 380 # Comments: 105",
+    "published_at": "Wed, 29 Jul 2026 22:51:03 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why every Wikimedian should be a toolmaker",
+    "url": "https://www.haykranen.nl/2026/07/30/wikimania-2026-every-wikimedian-toolmaker/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vamsks/why_every_wikimedian_should_be_toolmaker\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 30 Jul 2026 07:14:59 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+    "url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hbtqfe/writing_php_virtual_machine_rust_with_lot\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 29 Jul 2026 09:02:35 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Dark Night of Mathematics",
+    "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hrhb42/dark_night_mathematics\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 29 Jul 2026 07:35:26 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+    "url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bouq9b/large_language_models_future\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 29 Jul 2026 01:00:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Xavier Leroy on programming, languages and formal verification",
+    "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 26 Jul 2026 09:59:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Taking OCaml and Eio for a spin",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mush3s/taking_ocaml_eio_for_spin\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 20 Jul 2026 08:58:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why ML/OCaml are good for writing compilers (1998)",
+    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kzo2fe/why_ml_ocaml_are_good_for_writing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 16 Jul 2026 07:48:52 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "published_at": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Univé builds an AI-ready workforce",
+    "url": "https://openai.com/index/unive",
+    "author": "openai_blog",
+    "summary_raw": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "published_at": "Fri, 31 Jul 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "author": "openai_blog",
+    "summary_raw": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "published_at": "Thu, 30 Jul 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "url": "https://openai.com/index/avatarin",
+    "author": "openai_blog",
+    "summary_raw": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "extra": {}
+  }
+]

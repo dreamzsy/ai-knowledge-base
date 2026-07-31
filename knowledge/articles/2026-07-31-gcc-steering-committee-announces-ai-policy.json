@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-31-gcc-steering-committee-announces-ai-policy",
+  "title": "GCC steering committee announces AI policy",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 30 Jul 2026 11:45:44 +0000",
+  "collected_at": "2026-07-31T10:30:56.835402+00:00",
+  "summary": "GCC指导委员会宣布了关于AI的政策，旨在规范AI在编译器开发中的使用。该政策涉及AI生成代码的审查、版权和许可问题，以及开发者责任。社区对此反应热烈，讨论集中在AI对开源项目的影响和潜在风险上。",
+  "highlights": [
+    "GCC指导委员会正式发布AI使用政策，明确AI生成代码的审查流程。",
+    "政策要求开发者对AI贡献的代码负责，确保符合GPL许可。",
+    "社区讨论聚焦于AI在编译器开发中的利弊，以及开源协作的未来。",
+    "该政策可能成为其他开源项目制定AI规则的参考模板。"
+  ],
+  "tags": [
+    "AI Policy",
+    "Open Source",
+    "Compiler",
+    "GCC",
+    "Licensing"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该政策对开源社区具有指导意义，但具体影响尚待观察，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

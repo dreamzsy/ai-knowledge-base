@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-31-univ-builds-an-ai-ready-workforce",
+  "title": "Univé builds an AI-ready workforce",
+  "source": "rss",
+  "source_url": "https://openai.com/index/unive",
+  "author": "openai_blog",
+  "published_at": "Fri, 31 Jul 2026 07:00:00 GMT",
+  "collected_at": "2026-07-31T10:31:35.094088+00:00",
+  "summary": "Univé 通过 ChatGPT Enterprise 构建了一支具备 AI 能力的工作团队，结合领导力、负责任治理和员工主导的创新，实现了工作的大规模转型。",
+  "highlights": [
+    "Univé 采用 ChatGPT Enterprise 推动工作流程转型，提升员工效率。",
+    "强调领导层支持与负责任治理在 AI 落地中的关键作用。",
+    "鼓励员工主导创新，形成自下而上的 AI 应用文化。",
+    "展示了企业级 AI 工具在组织变革中的实际价值。"
+  ],
+  "tags": [
+    "Enterprise AI",
+    "Workforce",
+    "Governance",
+    "Innovation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "案例具有实践参考价值，但缺乏技术细节和量化成果，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

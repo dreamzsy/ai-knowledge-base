@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-31-taking-ocaml-and-eio-for-a-spin",
+  "title": "Taking OCaml and Eio for a spin",
+  "source": "rss",
+  "source_url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 22 Jul 2026 16:33:17 -0500",
+  "collected_at": "2026-07-31T10:31:21.874769+00:00",
+  "summary": "本文作者尝试使用OCaml和Eio并发库进行开发，分享了初步体验。Eio作为OCaml的新一代并发框架，提供了基于效果（effects）的轻量级线程和资源管理。作者通过实际项目测试了其性能、易用性及与现有生态的集成，并对比了传统线程模型。文章总结了Eio的优势与不足，为OCaml并发编程提供了实践参考。",
+  "highlights": [
+    "Eio利用OCaml 5的效果处理器实现高效并发，简化了异步代码编写。",
+    "作者通过实际项目验证了Eio的性能和资源管理能力，表现出色。",
+    "文章指出了Eio在生态成熟度和学习曲线上的挑战。",
+    "对比传统线程模型，Eio提供了更安全、更可扩展的并发方案。"
+  ],
+  "tags": [
+    "OCaml",
+    "Concurrency",
+    "Eio",
+    "Effects",
+    "Programming"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供了OCaml新并发框架的实践洞察，对相关开发者有参考价值，但受众较窄且深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

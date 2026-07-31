@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-31-large-language-models-and-the-future-of-programming-by-peter-norvig-2023",
+  "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 29 Jul 2026 01:00:21 -0500",
+  "collected_at": "2026-07-31T10:31:14.398421+00:00",
+  "summary": "Peter Norvig 在2023年的演讲中探讨了大型语言模型对编程未来的影响。他回顾了编程范式的演变，指出LLM将改变程序员的工作方式，从编写代码转向指导AI生成代码。他强调批判性思维、代码审查和验证的重要性，并预测编程将更加注重问题定义和结果评估，而非语法细节。",
+  "highlights": [
+    "LLM将编程从手写代码转向指导AI，强调问题定义和结果验证。",
+    "程序员需培养批判性思维，以审查和验证AI生成的代码。",
+    "编程教育应适应LLM，注重更高层次的抽象和系统设计。",
+    "LLM可能降低编程门槛，但专业程序员的价值在于复杂决策和伦理判断。"
+  ],
+  "tags": [
+    "LLM",
+    "Programming",
+    "Future",
+    "AI",
+    "Education"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容由权威专家提供，深刻洞察LLM对编程实践的变革，具有前瞻性和教育价值，但缺乏具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

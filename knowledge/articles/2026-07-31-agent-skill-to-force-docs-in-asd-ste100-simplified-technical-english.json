@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-31-agent-skill-to-force-docs-in-asd-ste100-simplified-technical-english",
+  "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+  "source": "rss",
+  "source_url": "https://github.com/AminBlg/SimpleEnglish",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 30 Jul 2026 19:34:27 +0000",
+  "collected_at": "2026-07-31T10:30:53.359417+00:00",
+  "summary": "该项目提供一种Agent技能，用于将技术文档强制转换为ASD-STE100简化技术英语，以提高文档的清晰度和可读性。它基于开源工具，通过自动化规则和AI辅助，帮助作者生成符合STE100标准的文本，适用于航空航天、国防等领域的技术写作。",
+  "highlights": [
+    "实现ASD-STE100标准自动化转换，提升技术文档一致性",
+    "作为Agent技能，可集成到现有AI工作流中",
+    "针对航空航天等专业领域，降低非母语读者的理解难度",
+    "开源项目，社区活跃，有302点关注和110条评论"
+  ],
+  "tags": [
+    "Agent",
+    "Technical Writing",
+    "NLP",
+    "Automation",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "项目针对特定行业标准，实用性强，但适用范围有限，且依赖外部工具，综合价值较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

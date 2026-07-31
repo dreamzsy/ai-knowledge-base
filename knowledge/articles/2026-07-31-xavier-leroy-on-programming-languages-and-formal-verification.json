@@ -1,0 +1,29 @@
+{
+  "id": "2026-07-31-xavier-leroy-on-programming-languages-and-formal-verification",
+  "title": "Xavier Leroy on programming, languages and formal verification",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 26 Jul 2026 09:59:29 -0500",
+  "collected_at": "2026-07-31T10:31:17.848977+00:00",
+  "summary": "Xavier Leroy，OCaml 语言的主要设计者之一，在访谈中深入探讨了编程语言设计、形式化验证以及编译器验证等话题。他分享了自己在 OCaml 和 Coq 方面的经验，强调了形式化方法在确保软件正确性中的重要性，并讨论了编程语言未来发展的趋势与挑战。",
+  "highlights": [
+    "Xavier Leroy 作为 OCaml 核心开发者，分享了语言设计中的权衡与哲学。",
+    "深入讨论了形式化验证（如 Coq）在编译器验证中的应用，如 CompCert 项目。",
+    "探讨了编程语言的发展趋势，包括类型系统、内存安全等前沿话题。",
+    "强调了形式化方法在提升软件可靠性方面的实际价值与挑战。"
+  ],
+  "tags": [
+    "OCaml",
+    "Formal Verification",
+    "Compiler",
+    "Programming Languages",
+    "Coq"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容涉及编程语言与形式化验证的深度见解，对开发者有较高启发性，但受众相对专业，普及性略低。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-07-31-llm-honeypot",
+  "title": "LLM Honeypot",
+  "source": "rss",
+  "source_url": "https://llm2human.pages.dev/",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 29 Jul 2026 22:51:03 +0000",
+  "collected_at": "2026-07-31T10:31:00.258694+00:00",
+  "summary": "LLM Honeypot 是一个针对大语言模型（LLM）的蜜罐项目，旨在通过设计诱饵内容来检测和追踪AI爬虫或滥用行为。该项目在Hacker News上获得380分和105条评论，引发社区对AI安全与数据采集伦理的讨论。它提供了一种主动防御思路，帮助网站识别并应对自动化代理的访问。",
+  "highlights": [
+    "利用蜜罐技术诱捕并识别LLM驱动的爬虫，增强网站对AI代理的监控能力。",
+    "在Hacker News上获得380分和105条评论，表明社区对AI安全话题的高度关注。",
+    "提供了一种主动防御策略，可能有助于研究AI行为模式和数据采集边界。",
+    "项目页面简洁，可能包含部署指南或演示，便于开发者快速上手。"
+  ],
+  "tags": [
+    "LLM",
+    "Security",
+    "Honeypot",
+    "AI Safety"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该项目创意新颖且切中AI安全痛点，但实际应用范围和效果尚待验证，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

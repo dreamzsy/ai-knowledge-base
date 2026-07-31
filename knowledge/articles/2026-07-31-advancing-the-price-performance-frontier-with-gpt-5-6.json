@@ -1,0 +1,27 @@
+{
+  "id": "2026-07-31-advancing-the-price-performance-frontier-with-gpt-5-6",
+  "title": "Advancing the price-performance frontier with GPT-5.6",
+  "source": "rss",
+  "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+  "author": "openai_blog",
+  "published_at": "Thu, 30 Jul 2026 10:00:00 GMT",
+  "collected_at": "2026-07-31T10:31:37.778801+00:00",
+  "summary": "OpenAI 发布 GPT-5.6，针对 Luna 和 Terra 版本降低定价，旨在提升性价比，帮助企业以更低成本大规模部署 AI 工作流。文章强调模型效率提升，推动价格-性能前沿发展。",
+  "highlights": [
+    "GPT-5.6 提供 Luna 和 Terra 两个版本，定价更低。",
+    "模型效率显著提升，降低企业部署 AI 工作流的成本。",
+    "OpenAI 持续优化价格-性能比，推动 AI 规模化应用。"
+  ],
+  "tags": [
+    "LLM",
+    "Pricing",
+    "Efficiency",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "信息实用，但缺乏技术细节，对开发者价值中等，评分0.82。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
