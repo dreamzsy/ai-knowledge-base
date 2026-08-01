@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-01-the-ai-aesthetic",
+  "title": "The AI Aesthetic",
+  "source": "rss",
+  "source_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 30 Jul 2026 23:22:16 +0000",
+  "collected_at": "2026-08-01T09:53:12.672729+00:00",
+  "summary": "本文探讨了AI生成内容在视觉设计上的美学特征，分析了当前AI工具输出作品所呈现的独特风格及其背后的技术原因，并讨论了这种美学对设计师和用户感知的影响。",
+  "highlights": [
+    "AI生成内容具有可识别的视觉风格，如过度平滑、高对比和特定色彩倾向。",
+    "这种美学源于训练数据与生成算法的偏差，而非有意设计。",
+    "设计师需警惕AI美学的同质化风险，保持人类创意独特性。",
+    "文章引发对AI工具在创意产业中角色与价值的反思。"
+  ],
+  "tags": [
+    "AI",
+    "Aesthetics",
+    "Design",
+    "Generative Art"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章从技术角度切入美学讨论，视角新颖且具启发性，但缺乏实证数据，深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

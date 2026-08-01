@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-01-advancing-responsible-ai-across-europe",
+  "title": "Advancing responsible AI across Europe",
+  "source": "rss",
+  "source_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+  "author": "openai_blog",
+  "published_at": "Fri, 31 Jul 2026 15:00:00 GMT",
+  "collected_at": "2026-08-01T09:53:49.565805+00:00",
+  "summary": "OpenAI 发布文章，阐述其在欧洲推进负责任 AI 的实践，涵盖安全、安保、透明度和来源标注等方面，并强调随着欧盟 AI 法案的推进，将持续支持负责任的 AI 治理。",
+  "highlights": [
+    "OpenAI 强调安全、安保、透明度和来源标注是负责任 AI 的核心实践。",
+    "公司支持欧盟 AI 法案，并致力于在法规框架下持续改进。",
+    "文章展示了 OpenAI 在欧洲的合规努力和治理承诺。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Governance",
+    "EU AI Act",
+    "Transparency"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容聚焦政策与合规，技术深度有限，但对行业治理有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
