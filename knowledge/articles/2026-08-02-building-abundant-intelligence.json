@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-02-building-abundant-intelligence",
+  "title": "Building abundant intelligence",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-abundant-intelligence",
+  "author": "openai_blog",
+  "published_at": "Fri, 31 Jul 2026 15:00:00 GMT",
+  "collected_at": "2026-08-02T09:51:05.810130+00:00",
+  "summary": "OpenAI 提出“全栈”方法，旨在让先进 AI 更强大、更经济、更广泛可用。文章强调通过系统级优化、模型效率提升和基础设施创新，实现“富足智能”，使 AI 能力普及化，并推动其在各行业的实际应用。",
+  "highlights": [
+    "OpenAI 采用全栈策略，从芯片到模型再到应用层全面优化，以提升 AI 性能并降低成本。",
+    "强调“富足智能”愿景，即让高级 AI 能力变得普遍可及，惠及更多用户和场景。",
+    "通过技术创新和基础设施投入，推动 AI 从实验室走向大规模实用化。",
+    "文章可能涉及模型压缩、推理加速等关键技术，以实现更高效的 AI 部署。"
+  ],
+  "tags": [
+    "AI",
+    "Full-Stack",
+    "Efficiency",
+    "Infrastructure",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章反映了 OpenAI 的战略方向，对 AI 产业有重要启示，但具体技术细节有限，价值较高但非顶尖。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

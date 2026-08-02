@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-02-nvidia-cosmos-h-dreams-bringing-real-time-generative-simulation-to-surgical-robotics",
+  "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 27 Jul 2026 09:32:20 GMT",
+  "collected_at": "2026-08-02T09:51:20.455354+00:00",
+  "summary": "NVIDIA 推出 Cosmos-H-Dreams，将实时生成式仿真引入手术机器人领域。该系统利用生成式 AI 合成高保真手术场景，支持机器人训练与验证，降低对真实数据依赖，提升安全性与效率。",
+  "highlights": [
+    "实时生成式仿真，加速手术机器人开发",
+    "合成高保真手术场景，减少真实数据需求",
+    "支持安全验证与泛化能力提升",
+    "集成 NVIDIA Cosmos 平台，扩展机器人仿真生态"
+  ],
+  "tags": [
+    "Generative AI",
+    "Robotics",
+    "Simulation",
+    "Surgical",
+    "NVIDIA"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "结合生成式 AI 与手术机器人，创新性强且实用价值高，但尚处早期阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

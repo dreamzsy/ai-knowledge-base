@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-02-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": "2024-04-15T21:02:29Z",
+  "collected_at": "2026-08-02T09:50:05.489708+00:00",
+  "summary": "Firecrawl 是一个开源 API 服务，用于大规模搜索、抓取和与网页交互。它提供简单统一的接口，支持将网站内容转换为干净的 Markdown 或结构化数据，便于 LLM 应用使用。项目旨在简化网页数据提取流程，适合构建 RAG 应用、AI 代理和数据分析工具。",
+  "highlights": [
+    "提供搜索、抓取和网页交互的一体化 API，支持大规模数据采集。",
+    "可将网页内容转换为干净的 Markdown 或结构化数据，优化 LLM 输入。",
+    "支持多种抓取方式，包括爬取整个网站、提取特定元素等。",
+    "易于集成，适用于 AI 代理、RAG 应用和数据分析场景。"
+  ],
+  "tags": [
+    "Web Scraping",
+    "API",
+    "LLM",
+    "RAG",
+    "Data Extraction"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该项目解决了 LLM 应用中网页数据获取的痛点，功能实用且开源，具有很高的应用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 159246,
+    "language": "TypeScript"
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "source": "github_trending",
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "author": "openclaw",
+    "summary_raw": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "published_at": "2025-11-24T10:16:47Z",
+    "extra": {
+      "stars": 384881,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "author": "obra",
+    "summary_raw": "An agentic skills framework & software development methodology that works.",
+    "published_at": "2025-10-09T19:45:18Z",
+    "extra": {
+      "stars": 264923,
+      "language": "Shell"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "author": "affaan-m",
+    "summary_raw": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "published_at": "2026-01-18T00:51:51Z",
+    "extra": {
+      "stars": 236899,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "author": "NousResearch",
+    "summary_raw": "The agent that grows with you",
+    "published_at": "2025-07-22T22:22:28Z",
+    "extra": {
+      "stars": 224013,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "author": "mattpocock",
+    "summary_raw": "Skills for Real Engineers. Straight from my .agents directory.",
+    "published_at": "2026-02-03T11:15:53Z",
+    "extra": {
+      "stars": 199331,
+      "language": "Shell"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "author": "n8n-io",
+    "summary_raw": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "published_at": "2019-06-22T09:24:21Z",
+    "extra": {
+      "stars": 199024,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "author": "multica-ai",
+    "summary_raw": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "published_at": "2026-01-27T03:53:13Z",
+    "extra": {
+      "stars": 198620,
+      "language": null
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "author": "ultraworkers",
+    "summary_raw": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "published_at": "2026-03-31T08:58:08Z",
+    "extra": {
+      "stars": 194957,
+      "language": "Rust"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "author": "anomalyco",
+    "summary_raw": "The open source coding agent.",
+    "published_at": "2025-04-30T20:08:00Z",
+    "extra": {
+      "stars": 192207,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "author": "Significant-Gravitas",
+    "summary_raw": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "published_at": "2023-03-16T09:21:07Z",
+    "extra": {
+      "stars": 185762,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "author": "ollama",
+    "summary_raw": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "published_at": "2023-06-26T19:39:32Z",
+    "extra": {
+      "stars": 177546,
+      "language": "Go"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "author": "f",
+    "summary_raw": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "published_at": "2022-12-05T13:54:13Z",
+    "extra": {
+      "stars": 166617,
+      "language": "HTML"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "author": "anthropics",
+    "summary_raw": "Public repository for Agent Skills",
+    "published_at": "2025-09-22T15:53:31Z",
+    "extra": {
+      "stars": 165710,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "author": "AUTOMATIC1111",
+    "summary_raw": "Stable Diffusion web UI",
+    "published_at": "2022-08-22T14:05:26Z",
+    "extra": {
+      "stars": 164341,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "author": "huggingface",
+    "summary_raw": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "published_at": "2018-10-29T13:56:00Z",
+    "extra": {
+      "stars": 163244,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "author": "firecrawl",
+    "summary_raw": "The API to search, scrape, and interact with the web at scale. 🔥",
+    "published_at": "2024-04-15T21:02:29Z",
+    "extra": {
+      "stars": 159246,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "author": "Snailclimb",
+    "summary_raw": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "published_at": "2018-05-07T13:27:00Z",
+    "extra": {
+      "stars": 157461,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "author": "langflow-ai",
+    "summary_raw": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "published_at": "2023-02-08T22:28:03Z",
+    "extra": {
+      "stars": 152741,
+      "language": "Python"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "author": "langgenius",
+    "summary_raw": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "published_at": "2023-04-12T07:40:24Z",
+    "extra": {
+      "stars": 151047,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "source": "github_trending",
+    "title": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "author": "open-webui",
+    "summary_raw": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "published_at": "2023-10-06T22:08:27Z",
+    "extra": {
+      "stars": 147577,
+      "language": "Python"
+    }
+  }
+]

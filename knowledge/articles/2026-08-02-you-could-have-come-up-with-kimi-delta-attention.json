@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-02-you-could-have-come-up-with-kimi-delta-attention",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source": "rss",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 28 Jul 2026 12:01:39 -0500",
+  "collected_at": "2026-08-02T09:50:36.402168+00:00",
+  "summary": "本文介绍Kimi Delta Attention，一种新型注意力机制，旨在提升长文本处理效率。作者通过逐步推导，展示如何从标准注意力出发，设计出Delta Attention，以降低计算和内存开销，同时保持模型性能。文章强调该方法的创新性和实用性，适合对高效Transformer架构感兴趣的读者。",
+  "highlights": [
+    "提出Delta Attention，通过增量更新减少重复计算，显著提升长序列处理速度。",
+    "从标准注意力机制出发，逐步推导，使读者能理解设计思路。",
+    "在保持模型性能的同时，降低内存占用，适合资源受限场景。",
+    "文章以教学式风格呈现，鼓励读者自行探索类似创新。"
+  ],
+  "tags": [
+    "Attention",
+    "Efficiency",
+    "Transformer",
+    "Long Context"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章提供了一种新颖且实用的注意力优化思路，对长文本处理有实际价值，但缺乏实验数据支撑，评分略低。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

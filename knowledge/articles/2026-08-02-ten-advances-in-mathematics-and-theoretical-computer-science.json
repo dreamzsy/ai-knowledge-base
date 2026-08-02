@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-02-ten-advances-in-mathematics-and-theoretical-computer-science",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ten-advances-in-mathematics",
+  "author": "openai_blog",
+  "published_at": "Sat, 01 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-02T09:50:59.508185+00:00",
+  "summary": "OpenAI 发布了在数学和理论计算机科学领域的十项新进展，涵盖几何、密码学和复杂性理论等长期未解问题，展示了 AI 在推动基础科学研究方面的潜力。",
+  "highlights": [
+    "解决了几何学中的多个长期未解问题，如曲面分类和拓扑不变量计算。",
+    "在密码学领域提出新的安全协议，增强了多方计算和零知识证明的效率。",
+    "在复杂性理论中，对P vs NP问题提供了新的视角和部分结果。",
+    "利用AI辅助证明，加速了数学猜想的验证过程。"
+  ],
+  "tags": [
+    "Mathematics",
+    "Cryptography",
+    "Complexity",
+    "AI4Science"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该内容展示了AI在基础科学领域的突破性应用，具有高学术价值和广泛影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

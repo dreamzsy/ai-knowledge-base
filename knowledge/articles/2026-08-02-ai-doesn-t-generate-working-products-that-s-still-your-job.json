@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-02-ai-doesn-t-generate-working-products-that-s-still-your-job",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source": "rss",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 01 Aug 2026 07:52:10 +0000",
+  "collected_at": "2026-08-02T09:50:23.671868+00:00",
+  "summary": "本文指出AI虽能快速生成原型，但无法直接产出可工作的产品，产品化仍需工程师的深度参与。作者强调原型与产品之间的鸿沟，包括可靠性、安全性、可维护性等工程实践，并警示过度依赖AI生成代码的风险。文章呼吁开发者将AI视为辅助工具，而非替代品，核心价值在于人的判断与工程能力。",
+  "highlights": [
+    "AI生成的原型距离可交付产品仍有巨大差距，需大量工程化打磨。",
+    "产品化涉及测试、安全、性能、可维护性等AI难以自动化的维度。",
+    "过度依赖AI可能导致代码质量下降和团队技能退化。",
+    "开发者应聚焦于架构设计、需求分析和质量保障，AI仅作效率提升工具。"
+  ],
+  "tags": [
+    "AI",
+    "Software Engineering",
+    "Product Development",
+    "Code Quality"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "观点务实且具警示性，对AI辅助开发实践有指导价值，但内容深度一般，缺乏具体案例或数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

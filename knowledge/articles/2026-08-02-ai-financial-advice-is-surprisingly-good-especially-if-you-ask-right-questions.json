@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-02-ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "source": "rss",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 01 Aug 2026 22:25:12 +0000",
+  "collected_at": "2026-08-02T09:50:20.230762+00:00",
+  "summary": "麻省理工斯隆管理学院的研究表明，AI 提供的财务建议质量出乎意料地高，尤其当用户提出正确问题时。研究对比了 AI 与人类财务顾问的建议，发现 AI 在信息完整和问题明确时表现优异，但需注意其局限性，如缺乏情感理解和个性化。文章强调提问技巧对获取有效建议的重要性，并提醒用户结合自身情况审慎使用。",
+  "highlights": [
+    "AI 财务建议在特定条件下可与人类专家媲美，甚至更优。",
+    "提问质量直接影响 AI 建议的准确性和实用性。",
+    "AI 缺乏情感理解，无法完全替代人类顾问的个性化服务。",
+    "研究建议用户应明确目标、提供完整信息，并交叉验证 AI 输出。"
+  ],
+  "tags": [
+    "LLM",
+    "Finance",
+    "Prompting",
+    "AI Ethics"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "研究具有实证价值，对 AI 应用实践有指导意义，但内容偏重应用层面，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
