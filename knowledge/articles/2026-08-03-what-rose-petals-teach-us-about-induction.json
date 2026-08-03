@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-03-what-rose-petals-teach-us-about-induction",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source": "rss",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 22 Jul 2026 23:02:57 -0500",
+  "collected_at": "2026-08-03T11:15:00.970798+00:00",
+  "summary": "本文通过玫瑰花瓣的排列规律，探讨归纳推理的本质与局限。作者以自然现象为例，说明归纳法在科学发现中的重要作用，同时指出其无法保证绝对真理，强调经验观察与理论修正的循环过程。文章旨在启发读者对知识获取方法的哲学思考。",
+  "highlights": [
+    "以玫瑰花瓣为引，生动阐述归纳推理的直观原理",
+    "对比演绎与归纳，凸显归纳在经验科学中的核心地位",
+    "讨论归纳问题的哲学争议，如休谟的怀疑论",
+    "强调归纳法作为工具的价值，但需警惕过度概括"
+  ],
+  "tags": [
+    "Induction",
+    "Philosophy",
+    "Epistemology",
+    "Reasoning"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "文章内容偏哲学思辨，对AI技术实践的直接价值有限，但可启发算法设计中的归纳思维。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

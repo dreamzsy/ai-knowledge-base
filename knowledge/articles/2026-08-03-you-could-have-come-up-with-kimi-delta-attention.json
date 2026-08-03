@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-03-you-could-have-come-up-with-kimi-delta-attention",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source": "rss",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 28 Jul 2026 12:01:39 -0500",
+  "collected_at": "2026-08-03T11:14:54.085748+00:00",
+  "summary": "本文探讨了Kimi Delta Attention机制，指出其核心思想是动态调整注意力权重，以提升长文本处理效率。作者通过逐步推导，展示该机制并非高不可攀，而是基于现有技术可自然演进的产物，并分析了其潜在应用场景。",
+  "highlights": [
+    "Kimi Delta Attention通过动态调整注意力权重，优化长文本处理。",
+    "文章强调该机制是现有技术的自然延伸，而非全新突破。",
+    "作者提供了逐步推导过程，降低理解门槛。",
+    "该机制在长文本场景下具有效率优势，但需权衡计算复杂度。"
+  ],
+  "tags": [
+    "Attention",
+    "Long Context",
+    "Efficiency",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章以教学视角解析前沿注意力机制，兼具启发性和实用性，但缺乏实验数据支撑，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
