@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-04-xavier-leroy-on-programming-languages-and-formal-verification",
+  "title": "Xavier Leroy on programming, languages and formal verification",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 26 Jul 2026 09:59:29 -0500",
+  "collected_at": "2026-08-04T10:32:43.715086+00:00",
+  "summary": "这是一段关于Xavier Leroy的访谈视频，他讨论了编程语言设计和形式化验证。Leroy是OCaml语言的主要开发者之一，也是CompCert形式化验证编译器的创建者。视频中他分享了对编程语言、编译器验证以及形式化方法在实际软件开发中应用的见解。",
+  "highlights": [
+    "Xavier Leroy是OCaml和CompCert的关键人物，访谈深入探讨了他的工作背景和动机。",
+    "讨论了形式化验证在编译器正确性中的重要性，以及CompCert如何通过机器证明确保编译器的可靠性。",
+    "Leroy分享了对编程语言设计哲学的看法，包括类型系统、模块系统和函数式编程的优势。",
+    "访谈还涉及形式化方法在工业界的应用现状和挑战，以及未来发展方向。"
+  ],
+  "tags": [
+    "Formal Verification",
+    "Compiler",
+    "OCaml",
+    "Programming Languages"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容涉及编程语言和形式化验证的核心主题，由领域权威分享，对技术社区具有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

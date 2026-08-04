@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-04-circles-powers-telco-personalization-with-openai-technology",
+  "title": "Circles powers telco personalization with OpenAI technology",
+  "source": "rss",
+  "source_url": "https://openai.com/index/circles",
+  "author": "openai_blog",
+  "published_at": "Mon, 03 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-04T10:32:50.717179+00:00",
+  "summary": "Circles 是一家电信公司，利用 OpenAI API 和 Codex 构建 AI 原生电信体验，显著提升了业务指标：ARPU 增长 22%，客户流失率降低 9%，并提高了开发效率。该案例展示了 AI 在传统电信行业中的应用价值。",
+  "highlights": [
+    "Circles 使用 OpenAI API 和 Codex 实现 AI 驱动的个性化电信服务。",
+    "业务成果显著：ARPU 提升 22%，客户流失率降低 9%。",
+    "AI 技术显著提升了开发效率，加速产品迭代。",
+    "该案例为电信行业 AI 转型提供了实践参考。"
+  ],
+  "tags": [
+    "LLM",
+    "API",
+    "Codex",
+    "Telecom",
+    "AI-Native"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例数据具体且成果显著，展示了 AI 在垂直行业的落地价值，但缺乏技术细节和可复现性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
