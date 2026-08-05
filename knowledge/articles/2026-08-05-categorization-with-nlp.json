@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-05-categorization-with-nlp",
+  "title": "Categorization with NLP",
+  "source": "rss",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+  "collected_at": "2026-08-05T10:28:13.031887+00:00",
+  "summary": "本文探讨了使用自然语言处理技术进行文本分类的方法，涵盖了从传统机器学习到现代深度学习的技术演进，并讨论了实际应用中的挑战与解决方案。",
+  "highlights": [
+    "系统介绍了NLP分类任务的常见流程与工具选择",
+    "对比了不同算法在分类准确率与效率上的表现",
+    "提供了实际案例与代码示例，便于实践参考"
+  ],
+  "tags": [
+    "NLP",
+    "Text Classification",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "内容实用且覆盖全面，但缺乏创新性，适合入门与中级开发者参考。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

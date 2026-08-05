@@ -1,0 +1,31 @@
+{
+  "id": "2026-08-05-opencode",
+  "title": "anomalyco/opencode",
+  "source": "github_trending",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "published_at": "2025-04-30T20:08:00Z",
+  "collected_at": "2026-08-05T10:27:29.731566+00:00",
+  "summary": "opencode 是一个开源的编码智能体项目，旨在提供自主编程能力，帮助开发者自动完成代码编写、修改和调试等任务。它可能集成了大语言模型，支持多种编程语言和开发环境，强调开放性和可扩展性。",
+  "highlights": [
+    "开源编码智能体，提供自主编程能力",
+    "可能集成 LLM，支持代码生成与修改",
+    "强调开放性和可扩展性，适合开发者定制",
+    "面向提升开发效率，自动化常见编程任务"
+  ],
+  "tags": [
+    "Coding Agent",
+    "LLM",
+    "Open Source",
+    "Developer Tools"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "项目定位清晰，紧跟 AI 编程趋势，但描述简略，需进一步评估实际功能与成熟度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 193591,
+    "language": "TypeScript"
+  }
+}

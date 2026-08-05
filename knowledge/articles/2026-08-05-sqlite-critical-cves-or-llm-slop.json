@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-05-sqlite-critical-cves-or-llm-slop",
+  "title": "SQLite Critical CVEs or LLM Slop?",
+  "source": "rss",
+  "source_url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 03 Aug 2026 11:28:54 +0000",
+  "collected_at": "2026-08-05T10:28:07.081286+00:00",
+  "summary": "JFrog研究团队对SQLite近期被标记为“严重”的CVE进行了深入分析，发现这些漏洞的实际影响被夸大，并非真正的远程代码执行风险。文章批评了AI辅助漏洞评估可能产生的“LLM垃圾”现象，即过度依赖大语言模型生成报告而缺乏人工验证，导致误报和恐慌。研究强调需结合上下文和真实利用场景评估漏洞严重性，并呼吁社区警惕自动化工具带来的噪音。",
+  "highlights": [
+    "JFrog分析指出SQLite的所谓“严重”CVE实为本地攻击或需特定条件，远程利用可能性极低。",
+    "文章揭示AI生成的漏洞报告可能包含不准确或误导性信息，加剧安全社区的混乱。",
+    "研究强调人工验证和上下文分析在漏洞评估中的不可替代性。",
+    "案例展示了如何通过技术细节和PoC验证来纠正过度夸大的漏洞评级。"
+  ],
+  "tags": [
+    "Security",
+    "CVE",
+    "SQLite",
+    "LLM",
+    "Vulnerability Assessment"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章提供了对AI在安全领域误用的批判性视角，并给出具体技术分析，对安全从业者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

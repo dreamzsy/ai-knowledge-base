@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-05-new-ways-to-learn-and-teach-with-chatgpt-work-and-codex",
+  "title": "New ways to learn and teach with ChatGPT Work and Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+  "author": "openai_blog",
+  "published_at": "Tue, 04 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-05T10:28:38.659789+00:00",
+  "summary": "OpenAI 发布了面向教育领域的新插件，旨在通过 ChatGPT Work 和 Codex 帮助 K-12 教师、大学教育者和学生进行学习、教学、研究和构建。这些插件提供了新的方式，将 AI 融入教育场景，提升教学效率和学生的学习体验。",
+  "highlights": [
+    "推出针对 K-12 和大学教育者的专用教育插件。",
+    "支持教师利用 AI 进行课程设计、备课和评估。",
+    "学生可通过 Codex 进行编程实践和项目构建。",
+    "强调 AI 在教育中的实际应用，促进互动式学习。"
+  ],
+  "tags": [
+    "Education",
+    "ChatGPT",
+    "Codex",
+    "Plugin",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该资讯展示了 AI 在教育领域的实际落地，具有应用价值，但具体技术细节有限，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

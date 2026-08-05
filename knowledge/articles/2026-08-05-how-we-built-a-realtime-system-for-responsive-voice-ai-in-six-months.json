@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-05-how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months",
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "source": "rss",
+  "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "author": "openai_blog",
+  "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+  "collected_at": "2026-08-05T10:28:44.051351+00:00",
+  "summary": "OpenAI 在六个月内构建了 GPT-Live 实时语音 AI 系统，采用无轮次语音模型和低延迟架构，实现了连续、自然的语音交互。该系统通过优化音频流处理和推理速度，显著减少了对话延迟，提升了用户体验。文章分享了技术选型、工程挑战和解决方案，为实时语音 AI 的开发提供了宝贵经验。",
+  "highlights": [
+    "GPT-Live 采用无轮次（turnless）语音模型，支持连续对话，无需等待用户结束发言。",
+    "低延迟架构通过优化音频流处理和推理速度，实现了接近实时的响应。",
+    "团队在六个月内从零构建系统，克服了工程和模型层面的多重挑战。",
+    "该技术为语音 AI 应用（如助手、客服）提供了更自然、流畅的交互体验。"
+  ],
+  "tags": [
+    "Voice AI",
+    "Realtime",
+    "Low-latency",
+    "Speech Model",
+    "Architecture"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "内容展示了前沿的实时语音 AI 系统构建实践，技术深度和工程价值高，对开发者有较强参考意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
