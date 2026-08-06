@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Anthropic AI created fake profiles to deceive people in attempted hack",
+    "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfiyoy/anthropic_ai_created_fake_profiles\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 06 Aug 2026 04:07:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "After the AI Hype – What’s Real, and What’s Next",
+    "url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lbqtuf/after_ai_hype_what_s_real_what_s_next\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 05 Aug 2026 18:25:44 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Categorization with NLP",
+    "url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Xavier Leroy on programming, languages and formal verification",
+    "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 26 Jul 2026 09:59:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "published_at": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "author": "openai_blog",
+    "summary_raw": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "published_at": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "published_at": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "author": "openai_blog",
+    "summary_raw": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "extra": {}
+  }
+]

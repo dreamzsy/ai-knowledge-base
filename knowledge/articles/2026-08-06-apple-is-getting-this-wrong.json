@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-06-apple-is-getting-this-wrong",
+  "title": "Apple is getting this wrong",
+  "source": "rss",
+  "source_url": "https://openai.com/index/apple-is-getting-this-wrong",
+  "author": "openai_blog",
+  "published_at": "Mon, 03 Aug 2026 22:00:00 GMT",
+  "collected_at": "2026-08-06T10:31:40.648279+00:00",
+  "summary": "OpenAI 针对苹果公司提起的毫无根据的诉讼进行回应，澄清关于其员工的错误指控，并公开相关消息记录以还原事实真相。",
+  "highlights": [
+    "OpenAI 否认苹果的诉讼指控，称其毫无根据。",
+    "OpenAI 纠正了苹果关于其员工的不实说法。",
+    "OpenAI 分享了消息记录以证明自身立场。"
+  ],
+  "tags": [
+    "Legal",
+    "AI",
+    "OpenAI",
+    "Apple"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "内容涉及法律纠纷，对技术社区参考价值有限，但有助于了解行业动态。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

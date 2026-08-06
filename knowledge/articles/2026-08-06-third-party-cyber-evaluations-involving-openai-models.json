@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-06-third-party-cyber-evaluations-involving-openai-models",
+  "title": "Third-party cyber evaluations involving OpenAI models",
+  "source": "rss",
+  "source_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+  "author": "openai_blog",
+  "published_at": "Tue, 04 Aug 2026 19:00:00 GMT",
+  "collected_at": "2026-08-06T10:31:35.298109+00:00",
+  "summary": "OpenAI 针对近期涉及第三方网络安全评估的事件进行说明，并宣布新的防护措施，以加强 AI 模型测试与评估的安全性。",
+  "highlights": [
+    "OpenAI 澄清了第三方网络安全评估中的具体事件细节。",
+    "提出了新的安全防护措施，旨在强化 AI 模型测试流程。",
+    "强调与第三方合作时确保评估安全性的重要性。",
+    "展示了 OpenAI 对 AI 安全性和透明度的持续承诺。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "Evaluation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该内容涉及 AI 安全评估的关键实践，对行业具有参考价值，但信息较为具体，普适性稍弱。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
