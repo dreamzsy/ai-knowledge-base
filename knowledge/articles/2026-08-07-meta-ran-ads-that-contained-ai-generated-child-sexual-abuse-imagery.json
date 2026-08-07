@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-07-meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
+  "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+  "source": "rss",
+  "source_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 05 Aug 2026 19:47:26 +0000",
+  "collected_at": "2026-08-07T08:48:40.550131+00:00",
+  "summary": "据Wired报道，Meta在其广告系统中运行了包含AI生成的儿童性虐待素材（CSAM）的广告，这一事件揭示了平台在内容审核和AI生成内容监管方面的严重漏洞。报道指出，尽管Meta有相关政策和技术手段，但AI生成的非法内容仍能绕过检测，在广告中传播。该事件引发了对科技公司责任和AI滥用风险的广泛讨论，并凸显了加强内容审核和AI安全措施的必要性。",
+  "highlights": [
+    "Meta的广告系统未能有效拦截AI生成的儿童性虐待素材，导致此类广告被投放。",
+    "该事件暴露了现有内容审核机制在应对AI生成内容时的不足。",
+    "报道引发了对科技公司社会责任和AI技术滥用的公众关注。",
+    "事件可能推动更严格的AI内容监管和平台审核政策改革。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Content Moderation",
+    "Ethics",
+    "Regulation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该事件具有重要的社会警示意义，但技术分析价值有限，主要涉及政策与伦理层面。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

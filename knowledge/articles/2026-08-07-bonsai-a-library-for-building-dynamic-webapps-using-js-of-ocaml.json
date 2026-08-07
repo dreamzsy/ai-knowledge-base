@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-07-bonsai-a-library-for-building-dynamic-webapps-using-js-of-ocaml",
+  "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+  "source": "rss",
+  "source_url": "https://github.com/janestreet/bonsai",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+  "collected_at": "2026-08-07T08:48:54.389142+00:00",
+  "summary": "bonsai 是 Jane Street 推出的 OCaml 库，基于 Js_of_ocaml 构建动态 Web 应用。它提供声明式 UI 组件、状态管理和增量计算，支持函数式编程风格，旨在提高前端开发的安全性和可维护性。该库适合 OCaml 开发者构建复杂交互界面，并利用现有 OCaml 生态。",
+  "highlights": [
+    "基于 OCaml 和 Js_of_ocaml，实现类型安全的 Web 开发",
+    "采用声明式组件模型，支持状态管理和增量更新",
+    "由 Jane Street 开发，具有工业级可靠性和性能",
+    "适合构建复杂动态界面，并复用 OCaml 后端逻辑"
+  ],
+  "tags": [
+    "OCaml",
+    "Web",
+    "Functional",
+    "UI",
+    "Js_of_ocaml"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该库为 OCaml 生态带来类型安全的 Web 开发方案，但受众有限，且非主流技术，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

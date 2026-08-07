@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-07-the-olmoearth-platform-geospatial-inference-at-planetary-scale",
+  "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 28 Jul 2026 16:27:42 GMT",
+  "collected_at": "2026-08-07T08:49:25.315347+00:00",
+  "summary": "OlmoEarth 是艾伦人工智能研究所推出的地理空间推理平台，旨在实现行星尺度的地理空间推断。该平台结合了大规模基础模型与地理空间数据，支持从卫星影像中提取信息、进行环境监测和灾害响应等应用。其基础设施设计注重高效处理海量地理数据，为研究人员和开发者提供可扩展的推理能力。",
+  "highlights": [
+    "OlmoEarth 平台支持行星尺度的地理空间推理，整合了大规模基础模型。",
+    "该平台能够处理卫星影像等地理空间数据，应用于环境监测和灾害响应。",
+    "基础设施设计强调高效性和可扩展性，以应对海量地理数据。",
+    "由艾伦人工智能研究所开发，面向研究人员和开发者开放。"
+  ],
+  "tags": [
+    "Geospatial",
+    "Foundation Model",
+    "Inference",
+    "Platform",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该平台创新性地将基础模型应用于地理空间领域，具有实际应用价值，但具体技术细节和生态成熟度尚待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

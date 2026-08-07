@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-07-from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work",
+  "title": "From asking to doing: How the world is putting ChatGPT to work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+  "author": "openai_blog",
+  "published_at": "Thu, 06 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-07T08:49:12.232372+00:00",
+  "summary": "OpenAI发布最新Signals数据，揭示全球用户如何将ChatGPT从问答工具转变为实际生产力工具。报告涵盖各国采用率、使用趋势及行为演变，展示了ChatGPT在编程、写作、教育、商业等领域的广泛应用，并指出用户正从简单提问转向复杂任务执行，体现了AI从对话助手向行动助手的转变。",
+  "highlights": [
+    "全球用户正从简单问答转向利用ChatGPT完成实际工作，如编程、写作和数据分析。",
+    "报告提供国家层面的采用率和使用趋势，显示不同地区的使用模式差异。",
+    "ChatGPT的应用场景扩展至教育、商业和创意领域，成为多用途生产力工具。",
+    "用户行为演变表明，AI工具正从信息检索向任务执行和自动化方向发展。"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "Adoption",
+    "Productivity",
+    "Analytics"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "提供了全球采用趋势的实证数据，对理解AI应用市场有较高参考价值，但缺乏技术细节，适合行业观察而非技术开发者。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands-across-40k-game-runs",
+  "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "source": "rss",
+  "source_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 06 Aug 2026 11:58:07 +0000",
+  "collected_at": "2026-08-07T08:48:33.993418+00:00",
+  "summary": "一项针对AI代理权限批准的大规模研究显示，人类在4万次游戏运行中批准AI代理命令时，漏掉了三分之一的潜在威胁。该研究揭示了人类监督AI代理的局限性，强调了在代理执行关键操作时，需要更有效的权限管理和安全机制。",
+  "highlights": [
+    "人类在批准AI代理命令时，漏掉了约三分之一的威胁，表明人工监督存在显著盲点。",
+    "研究基于4万次游戏运行，提供了大规模实证数据，揭示了AI代理权限管理的现实挑战。",
+    "结果强调需要自动化安全过滤和更细粒度的权限控制，以辅助人类决策。",
+    "该研究对AI代理的安全部署和权限设计具有重要参考价值。"
+  ],
+  "tags": [
+    "AI Agent",
+    "Security",
+    "Permissions",
+    "Human Oversight",
+    "Empirical Study"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "研究数据详实，直击AI代理安全核心问题，对权限管理设计有实际指导意义，但应用场景局限于游戏环境。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

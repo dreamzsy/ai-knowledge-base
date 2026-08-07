@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-07-software-development-with-ai-is-starting-to-feel-like-cooking-steak",
+  "title": "Software development with AI is starting to feel like cooking steak",
+  "source": "rss",
+  "source_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 06 Aug 2026 15:30:48 +0000",
+  "collected_at": "2026-08-07T08:48:30.572968+00:00",
+  "summary": "文章将AI辅助软件开发类比为烹饪牛排，指出如今AI工具大幅降低了编程门槛，开发者无需深厚经验即可生成代码，但这也带来了对代码质量、安全性和可维护性的担忧。作者认为，AI让开发更像“调味”而非“烹饪”，真正的挑战在于理解业务需求、架构设计和代码审查，而非单纯编写代码。文章引发关于AI时代开发者角色转变的讨论。",
+  "highlights": [
+    "AI工具让生成代码变得简单，如同烹饪牛排不再需要高超厨艺，但最终品质仍取决于对火候（需求）和调味（架构）的理解。",
+    "开发者从“写代码”转向“指导AI”，需要更强的抽象思维、问题拆解和结果验证能力。",
+    "过度依赖AI可能导致代码同质化、隐藏缺陷和技能退化，强调人工审查和测试的重要性。",
+    "文章在Hacker News引发热议，反映社区对AI改变软件开发本质的复杂态度。"
+  ],
+  "tags": [
+    "AI-Assisted Development",
+    "Software Engineering",
+    "Developer Experience",
+    "Code Quality"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "观点新颖且引发广泛共鸣，对AI时代开发者角色有深刻洞察，但缺乏具体技术方案或实证数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
