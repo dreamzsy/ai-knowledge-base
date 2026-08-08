@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-08-managing-ai-coding-costs-at-scale",
+  "title": "Managing AI Coding Costs at Scale",
+  "source": "rss",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 07 Aug 2026 18:25:17 +0000",
+  "collected_at": "2026-08-08T08:30:44.989470+00:00",
+  "summary": "Databricks 博客文章探讨了在大规模场景下管理 AI 编程成本的方法，涵盖成本驱动因素、优化策略（如模型选择、缓存、路由）以及工程实践，旨在帮助团队在保持代码质量的同时控制 AI 辅助开发的支出。",
+  "highlights": [
+    "分析 AI 编程成本的主要驱动因素，包括模型调用频率、token 消耗和基础设施开销。",
+    "提出多种成本优化策略，如智能模型路由、结果缓存和按需降级。",
+    "强调在成本与代码质量之间取得平衡，避免过度优化影响开发效率。",
+    "结合 Databricks 自身实践，提供可落地的成本管理框架和工具建议。"
+  ],
+  "tags": [
+    "LLM",
+    "Cost Optimization",
+    "AI Coding",
+    "Engineering",
+    "Databricks"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容实用且聚焦于企业级 AI 编程成本管理，但缺乏具体数据支撑，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

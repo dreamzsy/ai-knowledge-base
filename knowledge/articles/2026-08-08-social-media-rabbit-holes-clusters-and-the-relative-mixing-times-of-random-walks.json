@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-08-social-media-rabbit-holes-clusters-and-the-relative-mixing-times-of-random-walks",
+  "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+  "source": "rss",
+  "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+  "collected_at": "2026-08-08T08:30:58.893060+00:00",
+  "summary": "本文探讨社交媒体中的信息茧房现象，通过随机游走的混合时间概念，分析不同社交平台（如Twitter）上用户行为的聚类特性。作者将社交媒体比作高中食堂而非城镇广场，强调其碎片化和群体隔离的本质，并讨论算法推荐如何加剧这一现象。",
+  "highlights": [
+    "提出用随机游走混合时间量化社交媒体的信息传播效率",
+    "将社交媒体结构类比为高中食堂，突出其群体隔离特性",
+    "分析算法推荐对用户陷入信息茧房的影响",
+    "提供跨学科视角，结合网络科学与社交行为研究"
+  ],
+  "tags": [
+    "Social Media",
+    "Random Walk",
+    "Network Science",
+    "Algorithm"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "观点新颖且具跨学科深度，但缺乏实证数据支撑，适合理论探讨而非实践指导。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

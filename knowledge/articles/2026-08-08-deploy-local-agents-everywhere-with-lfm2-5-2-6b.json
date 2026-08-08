@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-08-deploy-local-agents-everywhere-with-lfm2-5-2-6b",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 04 Aug 2026 13:58:29 GMT",
+  "collected_at": "2026-08-08T08:31:38.656750+00:00",
+  "summary": "Liquid AI 发布了 LFM2.5-2.6B 模型，旨在支持本地智能体部署。该模型在保持高性能的同时，优化了资源占用，使开发者能够在边缘设备上运行复杂的 AI 代理。它强调了效率与能力的平衡，为本地化 AI 应用提供了新的可能性。",
+  "highlights": [
+    "LFM2.5-2.6B 专为本地智能体设计，降低部署门槛。",
+    "模型在性能与资源消耗之间取得优化，适合边缘计算。",
+    "支持多种本地应用场景，推动 AI 代理的普及。",
+    "Liquid AI 持续迭代，展现对高效模型架构的专注。"
+  ],
+  "tags": [
+    "LLM",
+    "Edge AI",
+    "Agent",
+    "Efficiency"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "模型针对本地部署优化，实用性强，但创新性有限，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-08-improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users",
+  "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+  "source": "rss",
+  "source_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+  "author": "openai_blog",
+  "published_at": "Thu, 06 Aug 2026 10:00:00 GMT",
+  "collected_at": "2026-08-08T08:31:26.353852+00:00",
+  "summary": "OpenAI 宣布在 ChatGPT 中改进 GPT-5.6 Sol，提升准确性和一致性，并扩大免费用户对 GPT-5.6 Luna 的访问权限，提供无限日常聊天。",
+  "highlights": [
+    "改进 GPT-5.6 Sol，提升准确性和一致性",
+    "免费用户可访问 GPT-5.6 Luna",
+    "提供无限日常聊天",
+    "扩大 AI 助手的使用范围"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "OpenAI",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "模型改进和免费访问扩大，对用户和开发者有较高实用价值，但缺乏技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

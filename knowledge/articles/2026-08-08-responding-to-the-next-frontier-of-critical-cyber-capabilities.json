@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-08-responding-to-the-next-frontier-of-critical-cyber-capabilities",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "source": "rss",
+  "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "author": "openai_blog",
+  "published_at": "Fri, 07 Aug 2026 15:20:00 GMT",
+  "collected_at": "2026-08-08T08:31:21.961683+00:00",
+  "summary": "OpenAI 发布了针对其新一代 AI 模型 Astra 的初步网络安全评估，并阐述了为加强安全防护和控制措施所采取的步骤。该报告旨在应对关键网络能力的前沿挑战，强调在提升 AI 能力的同时，确保其不被恶意利用，并推动负责任的 AI 发展。",
+  "highlights": [
+    "OpenAI 公开了 Astra 模型的初步网络安全评估结果。",
+    "报告详细说明了为强化安全防护和控制措施所采取的具体步骤。",
+    "旨在应对 AI 在关键网络能力领域带来的前沿挑战。",
+    "强调在提升 AI 能力的同时，确保其安全性和负责任的使用。"
+  ],
+  "tags": [
+    "AI Security",
+    "Cybersecurity",
+    "OpenAI",
+    "Safety",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该报告提供了前沿 AI 模型的安全评估细节，对安全社区具有较高参考价值，但内容偏向策略性声明，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
