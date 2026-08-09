@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-09-baseten-on-hugging-face-inference-providers",
+  "title": "Baseten on Hugging Face Inference Providers 🔥",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/baseten",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 06 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-09T08:33:17.467615+00:00",
+  "summary": "Baseten 与 Hugging Face 合作，成为推理提供商，用户可直接在 Hugging Face 上使用 Baseten 的 GPU 基础设施运行模型，简化部署流程，提升推理性能与可扩展性。",
+  "highlights": [
+    "Baseten 作为推理提供商集成到 Hugging Face，实现一键部署。",
+    "利用 Baseten 的 GPU 集群，提供低延迟、高吞吐的推理服务。",
+    "支持多种模型架构，并自动扩展以应对流量变化。",
+    "简化了从模型到生产的路径，降低运维复杂度。"
+  ],
+  "tags": [
+    "Inference",
+    "GPU",
+    "Deployment",
+    "HuggingFace",
+    "MLOps"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该合作提升了模型部署的便捷性和性能，对开发者有实用价值，但创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

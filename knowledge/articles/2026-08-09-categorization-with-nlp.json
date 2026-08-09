@@ -1,0 +1,26 @@
+{
+  "id": "2026-08-09-categorization-with-nlp",
+  "title": "Categorization with NLP",
+  "source": "rss",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+  "collected_at": "2026-08-09T08:32:46.335055+00:00",
+  "summary": "本文探讨了使用自然语言处理（NLP）技术进行文本分类的方法，可能涉及特征提取、模型选择或实际应用案例，旨在帮助开发者理解如何利用NLP实现自动分类。",
+  "highlights": [
+    "介绍了NLP在文本分类中的核心概念和应用场景",
+    "讨论了常见的特征工程方法，如词袋模型或TF-IDF",
+    "可能提供了模型评估或优化策略的实用建议"
+  ],
+  "tags": [
+    "NLP",
+    "Text Classification",
+    "Machine Learning"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "内容实用但缺乏具体细节，对初学者有一定参考价值，但深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
