@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-10-how-do-programming-languages-impact-token-efficiency-and-correctness",
+  "title": "How do programming languages impact token efficiency and correctness?",
+  "source": "rss",
+  "source_url": "https://danluu.com/pl-tokens/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 10 Aug 2026 02:47:36 -0500",
+  "collected_at": "2026-08-10T09:09:22.689589+00:00",
+  "summary": "本文探讨了不同编程语言对LLM生成代码的token效率与正确性的影响。作者通过实验比较了多种语言在相同任务下的token消耗和代码正确率，发现语言选择显著影响token使用量，且与模型性能相关。文章提供了实证数据，并讨论了优化token效率的策略，对开发者和AI工具设计有参考价值。",
+  "highlights": [
+    "编程语言选择显著影响LLM的token消耗，某些语言可节省高达50%的token。",
+    "token效率与代码正确性并非简单正相关，需权衡语言表达力与模型熟悉度。",
+    "实验基于多种主流语言，结果对提示工程和模型微调有实际指导意义。",
+    "作者建议根据任务类型选择语言，以平衡成本和准确性。"
+  ],
+  "tags": [
+    "LLM",
+    "Token Efficiency",
+    "Programming Languages",
+    "Code Generation",
+    "Empirical Study"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "实证数据丰富，对AI代码生成优化有直接参考价值，但缺乏深度理论分析，评分略高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
