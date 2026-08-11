@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-11-tutormoments-do-ai-tutors-know-when-to-help-and-when-to-hold-back",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/tutormoments",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 07 Aug 2026 17:53:32 GMT",
+  "collected_at": "2026-08-11T08:45:53.243250+00:00",
+  "summary": "TutorMoments 是艾伦人工智能研究所发布的一个数据集，旨在评估 AI 辅导系统在何时提供帮助、何时保持沉默方面的判断能力。该数据集包含大量真实教学场景，用于训练和测试模型识别教学干预的时机。文章介绍了数据集的构建方法、规模以及其在教育 AI 领域的潜在应用，强调了对教学时机把握的重要性，为开发更智能、更人性化的 AI 导师提供了基准。",
+  "highlights": [
+    "TutorMoments 数据集专注于 AI 辅导中的教学时机判断，填补了该领域的空白。",
+    "数据集基于真实教学互动构建，包含丰富的场景和标注，用于训练和评估模型。",
+    "该研究旨在提升 AI 导师的交互质量，使其能像人类教师一样适时干预或保持沉默。",
+    "项目由艾伦人工智能研究所发布，为教育 AI 社区提供了公开基准资源。"
+  ],
+  "tags": [
+    "AI Tutor",
+    "Education",
+    "Dataset",
+    "LLM",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该数据集针对教育 AI 的关键问题提供了稀缺资源和基准，具有较高的研究与应用价值，但尚需验证其实际效果。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

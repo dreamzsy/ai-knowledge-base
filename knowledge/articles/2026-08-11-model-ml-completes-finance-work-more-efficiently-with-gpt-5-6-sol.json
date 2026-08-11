@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-11-model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol",
+  "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+  "source": "rss",
+  "source_url": "https://openai.com/index/model-ml",
+  "author": "openai_blog",
+  "published_at": "Mon, 10 Aug 2026 12:00:00 GMT",
+  "collected_at": "2026-08-11T08:45:38.278497+00:00",
+  "summary": "OpenAI 发布案例，展示 Model ML 公司利用 GPT-5.6 Sol 完成金融工作流程，从研究和分析到生成可编辑、可追溯的 PowerPoint 演示文稿和 Excel 工作簿，显著提升效率。",
+  "highlights": [
+    "GPT-5.6 Sol 支持从金融研究到交付物的端到端自动化。",
+    "生成的 PPT 和 Excel 文件可编辑且可追溯，确保合规性。",
+    "Model ML 在金融领域实现更高的工作效率。"
+  ],
+  "tags": [
+    "LLM",
+    "Finance",
+    "Automation",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "案例展示了 LLM 在金融垂直场景的落地价值，但缺乏技术细节和通用性，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

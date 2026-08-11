@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-11-social-media-rabbit-holes-clusters-and-the-relative-mixing-times-of-random-walks",
+  "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+  "source": "rss",
+  "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+  "collected_at": "2026-08-11T08:45:16.639852+00:00",
+  "summary": "本文探讨社交媒体中的信息茧房现象，将随机游走的混合时间概念应用于社交网络分析，指出平台如Twitter并非城市广场，而是类似高中食堂的聚集地，用户倾向于在相似群体间互动，导致信息传播受限。文章通过数学模型解释网络聚类和话题渗透的难度，强调理解网络结构对内容分发和用户行为的重要性。",
+  "highlights": [
+    "将随机游走混合时间引入社交网络分析，量化信息传播效率。",
+    "类比Twitter为高中食堂，揭示用户群体隔离现象。",
+    "讨论网络聚类如何导致信息茧房和话题渗透困难。",
+    "提供数学框架以评估社交平台的结构性影响。"
+  ],
+  "tags": [
+    "Social Network",
+    "Random Walk",
+    "Information Diffusion",
+    "Clustering",
+    "Network Analysis"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供新颖的数学视角分析社交网络结构，但缺乏实证数据，实用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

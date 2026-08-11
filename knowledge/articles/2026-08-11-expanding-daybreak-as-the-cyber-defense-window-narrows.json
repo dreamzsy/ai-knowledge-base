@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-11-expanding-daybreak-as-the-cyber-defense-window-narrows",
+  "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+  "source": "rss",
+  "source_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+  "author": "openai_blog",
+  "published_at": "Mon, 10 Aug 2026 10:00:00 GMT",
+  "collected_at": "2026-08-11T08:45:42.471703+00:00",
+  "summary": "OpenAI 推出专为网络安全设计的 GPT-5.6-Cyber 模型，通过 Daybreak Red 平台向授权用户开放，用于漏洞研究、漏洞验证和安全测试。该模型旨在应对日益缩小的网络防御窗口，提升安全专业人员的攻防能力。",
+  "highlights": [
+    "GPT-5.6-Cyber 是 OpenAI 首个专注于网络安全的专用模型，面向授权安全测试场景。",
+    "通过 Daybreak Red 平台提供，支持漏洞研究、漏洞验证和渗透测试等任务。",
+    "强调在防御窗口缩小的背景下，利用 AI 增强网络防御能力。"
+  ],
+  "tags": [
+    "Cybersecurity",
+    "LLM",
+    "Security Testing",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该模型针对网络安全垂直领域，具有明确应用场景和授权机制，对安全研究和防御有实际价值，但尚需验证其效果和安全性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

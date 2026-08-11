@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-11-opencode",
+  "title": "anomalyco/opencode",
+  "source": "github_trending",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "published_at": "2025-04-30T20:08:00Z",
+  "collected_at": "2026-08-11T08:44:46.815033+00:00",
+  "summary": "opencode 是一个开源编码代理项目，旨在提供类似 Claude Code 的自主编码体验，支持多文件编辑、命令执行和工具调用，并可通过插件扩展。",
+  "highlights": [
+    "支持自主编码任务，包括多文件编辑和命令执行",
+    "提供交互式终端界面和流式输出",
+    "支持插件系统，可扩展自定义工具",
+    "兼容多种 LLM 后端，如 Anthropic 和 OpenAI"
+  ],
+  "tags": [
+    "Coding Agent",
+    "LLM",
+    "Open Source",
+    "CLI",
+    "Plugin"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "开源编码代理项目，功能完整且活跃，对开发者有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 195976,
+    "language": "TypeScript"
+  }
+}

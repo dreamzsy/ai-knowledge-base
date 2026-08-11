@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-11-what-building-an-ai-native-finance-function-taught-me",
+  "title": "What building an AI-native finance function taught me",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-an-ai-native-finance-function",
+  "author": "openai_blog",
+  "published_at": "Mon, 10 Aug 2026 17:00:00 GMT",
+  "collected_at": "2026-08-11T08:45:40.346278+00:00",
+  "summary": "OpenAI首席财务官Sarah Friar分享了构建AI原生财务职能的五条经验，涵盖自动化预测、强化控制、衡量AI投资回报率等，强调AI在财务领域的实际应用与价值创造，为财务团队转型提供实践指导。",
+  "highlights": [
+    "AI原生财务职能需从自动化预测开始，提升决策效率",
+    "强化财务控制是AI应用的关键，确保合规与准确性",
+    "衡量AI ROI需建立清晰指标，避免盲目投资",
+    "财务团队需培养AI素养，实现人机协作"
+  ],
+  "tags": [
+    "AI",
+    "Finance",
+    "Automation",
+    "ROI",
+    "Leadership"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容来自OpenAI高管实践，具有行业权威性和实操价值，但偏重经验分享而非技术细节，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

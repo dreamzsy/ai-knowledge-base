@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-11-meta-is-back-with-muse-glimmer-local-agentic-multimodal-and-open-source",
+  "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/muse-glimmer",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 10 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-11T08:45:49.961752+00:00",
+  "summary": "Meta 发布 Muse Glimmer，一个本地化、智能体、多模态且开源的模型。该模型旨在设备端运行，支持图像生成与编辑，并具备智能体能力，可执行多步骤任务。其开源特性允许开发者定制和部署，推动边缘 AI 应用发展。",
+  "highlights": [
+    "Muse Glimmer 支持本地设备运行，强调隐私和低延迟。",
+    "模型具备多模态能力，可处理文本和图像生成与编辑。",
+    "集成智能体功能，能自主规划并执行多步骤任务。",
+    "开源发布，允许社区定制和二次开发。"
+  ],
+  "tags": [
+    "Multimodal",
+    "Agent",
+    "Open Source",
+    "Edge AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该模型结合多模态、智能体和开源特性，对边缘 AI 应用有重要推动，但具体性能细节待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
