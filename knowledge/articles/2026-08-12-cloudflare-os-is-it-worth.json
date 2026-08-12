@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-12-cloudflare-os-is-it-worth",
+  "title": "Cloudflare OS, is it worth?",
+  "source": "rss",
+  "source_url": "https://blog.emre.xyz/posts/2be69f5e/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 12 Aug 2026 01:57:55 -0500",
+  "collected_at": "2026-08-12T09:03:37.216343+00:00",
+  "summary": "本文探讨了Cloudflare OS的价值，分析了其在边缘计算、安全性和开发者体验方面的优势与局限。作者通过实际使用体验，评估了Cloudflare作为“操作系统”的可行性，指出其虽提供强大的基础设施服务，但并非传统意义上的操作系统，更适合作为云服务生态的一部分。",
+  "highlights": [
+    "Cloudflare OS并非传统操作系统，而是边缘计算与安全服务的集合。",
+    "作者认为其优势在于全球网络和易用的API，但缺乏本地计算能力。",
+    "文章建议开发者根据需求选择，而非盲目采用。"
+  ],
+  "tags": [
+    "Cloudflare",
+    "Edge Computing",
+    "Developer Experience",
+    "Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "内容有见解但深度有限，对技术决策参考价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

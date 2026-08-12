@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-12-thinking-of-ace-we-can-do-it-with-fewer-tokens",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 11 Aug 2026 13:37:10 GMT",
+  "collected_at": "2026-08-12T09:04:08.271825+00:00",
+  "summary": "IBM 研究团队提出一种名为 ALTK 的新方法，通过将大型语言模型（LLM）的推理过程压缩为更少的 token，同时保持甚至提升性能。该方法结合了 SLDD（选择性逻辑蒸馏）和 EVOLVE 技术，旨在减少推理成本，使模型在复杂任务（如数学推理）上更高效。实验表明，ALTK 在多个基准上以更少的 token 达到或超过传统思维链（CoT）的效果。",
+  "highlights": [
+    "提出 ALTK 方法，显著减少 LLM 推理所需的 token 数量，降低计算成本。",
+    "结合选择性逻辑蒸馏（SLDD）与 EVOLVE 技术，在压缩推理链的同时保持模型性能。",
+    "在数学推理等任务上，ALTK 以更少的 token 达到或超越传统 CoT 的效果。",
+    "为高效 LLM 推理提供了新思路，适用于资源受限场景。"
+  ],
+  "tags": [
+    "LLM",
+    "Efficiency",
+    "Distillation",
+    "Reasoning",
+    "Token Reduction"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该研究针对 LLM 推理成本高的痛点提出创新压缩方法，实验验证有效，具有实用价值，但未提供完整代码或广泛基准，评分略低于顶尖工作。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
