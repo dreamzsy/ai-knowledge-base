@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-13-thinking-of-ace-we-can-do-it-with-fewer-tokens",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 11 Aug 2026 13:37:10 GMT",
+  "collected_at": "2026-08-13T09:05:38.618392+00:00",
+  "summary": "IBM 研究团队提出一种名为 ALTK 的框架，通过将 ACE（Agentic Context Engineering）任务分解为多个子任务，并利用 SLDD（Self-Learning Decision Distillation）技术，在显著减少 token 消耗的同时保持甚至提升任务性能。该框架旨在优化智能体上下文工程，降低推理成本，提高效率。",
+  "highlights": [
+    "提出 ALTK 框架，将 ACE 任务分解为子任务，降低复杂度。",
+    "采用 SLDD 技术，通过自我学习决策蒸馏减少 token 使用。",
+    "实验表明在多个任务上 token 消耗大幅下降，性能不降反升。",
+    "为智能体上下文工程提供高效、低成本的解决方案。"
+  ],
+  "tags": [
+    "Agent",
+    "Context Engineering",
+    "Token Optimization",
+    "Framework",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该框架针对智能体上下文工程中的 token 效率问题提出创新方案，具有实际应用价值，但缺乏具体实验细节和开源代码，评分略保守。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

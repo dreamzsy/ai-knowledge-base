@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-13-from-assistance-to-execution-how-enterprises-put-ai-to-work",
+  "title": "From assistance to execution: How enterprises put AI to work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+  "author": "openai_blog",
+  "published_at": "Wed, 12 Aug 2026 06:00:00 GMT",
+  "collected_at": "2026-08-13T09:05:22.984437+00:00",
+  "summary": "OpenAI研究显示，企业正从辅助性AI转向执行性AI，通过ChatGPT和Codex等工具实现代理式AI应用。前沿企业在AI采用上领先，将AI深度融入工作流程，提升效率与创新。",
+  "highlights": [
+    "企业AI采用从辅助转向执行，代理式AI成为主流。",
+    "ChatGPT和Codex在企业中广泛用于自动化任务和代码生成。",
+    "前沿企业通过AI实现显著竞争优势，推动业务增长。"
+  ],
+  "tags": [
+    "Agentic AI",
+    "Enterprise",
+    "ChatGPT",
+    "Codex",
+    "AI Adoption"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容基于OpenAI官方研究，提供企业AI采用趋势的权威洞察，对战略决策有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

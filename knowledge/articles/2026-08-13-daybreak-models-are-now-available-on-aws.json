@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-13-daybreak-models-are-now-available-on-aws",
+  "title": "Daybreak models are now available on AWS",
+  "source": "rss",
+  "source_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+  "author": "openai_blog",
+  "published_at": "Tue, 11 Aug 2026 10:00:00 GMT",
+  "collected_at": "2026-08-13T09:05:30.158193+00:00",
+  "summary": "OpenAI与AWS合作，将Daybreak网络安全模型集成到Amazon Bedrock平台，为企业提供先进的安全工作流支持。该模型旨在增强威胁检测、响应和防护能力，帮助组织更有效地应对网络威胁。此举标志着AI在网络安全领域的深度应用，为企业提供了可扩展、可访问的智能安全解决方案。",
+  "highlights": [
+    "OpenAI与AWS合作，通过Amazon Bedrock提供Daybreak网络安全模型。",
+    "Daybreak模型支持企业安全工作流，增强威胁检测与响应能力。",
+    "该集成使企业能够利用AI技术提升网络安全防护水平。",
+    "Daybreak模型在AWS上的可用性扩大了其企业级应用范围。"
+  ],
+  "tags": [
+    "Cybersecurity",
+    "AWS",
+    "AI",
+    "Enterprise",
+    "Bedrock"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该合作将前沿AI模型引入主流云平台，对企业安全有实际价值，但具体技术细节和性能数据有限，评分略高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

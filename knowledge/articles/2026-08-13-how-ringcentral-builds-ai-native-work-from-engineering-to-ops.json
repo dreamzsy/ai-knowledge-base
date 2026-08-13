@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-13-how-ringcentral-builds-ai-native-work-from-engineering-to-ops",
+  "title": "How RingCentral builds AI-native work from engineering to ops",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ringcentral",
+  "author": "openai_blog",
+  "published_at": "Wed, 12 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-13T09:05:25.136095+00:00",
+  "summary": "RingCentral 借助 OpenAI 的 ChatGPT Work 和 Codex，加速 AI 产品开发，并在工程与运营中集中化操作智能，构建 AI 原生工作流。",
+  "highlights": [
+    "利用 ChatGPT Work 和 Codex 加速 AI 产品开发流程",
+    "在工程与运营中集中化操作智能，提升效率",
+    "展示 AI 原生工作流在真实企业场景中的应用",
+    "强调 AI 工具在跨部门协作中的价值"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "Codex",
+    "Enterprise",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "案例真实且具有行业代表性，展示了 AI 工具在企业级场景中的实际应用，但缺乏技术细节和可复用的方法论。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-13-lfm2-5-vl-3b-for-better-and-faster-vision-capabilities-for-the-edge",
+  "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 12 Aug 2026 14:00:51 GMT",
+  "collected_at": "2026-08-13T09:05:35.680052+00:00",
+  "summary": "Liquid AI 发布了 LFM2.5-VL-3B，一款专为边缘设备优化的视觉语言模型，在保持轻量级（3B参数）的同时，提供更优、更快的视觉能力。该模型基于 LFM2.5 架构，针对边缘计算场景进行了效率优化，适合在资源受限的环境中部署，实现实时视觉理解任务。",
+  "highlights": [
+    "LFM2.5-VL-3B 是专为边缘设备设计的 3B 参数视觉语言模型，兼顾性能与速度。",
+    "模型在视觉理解任务上表现出色，同时保持低延迟和高效率，适合实时应用。",
+    "针对边缘计算优化，降低了对硬件资源的需求，便于在移动端或嵌入式设备部署。",
+    "基于 LFM2.5 架构，继承了 Liquid AI 在高效模型设计上的优势。"
+  ],
+  "tags": [
+    "VLM",
+    "Edge AI",
+    "Efficient Model",
+    "LFM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该模型针对边缘场景优化，兼具实用性和创新性，但具体性能数据有限，评分略高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

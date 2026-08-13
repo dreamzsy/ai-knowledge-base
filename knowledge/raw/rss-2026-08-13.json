@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "url": "https://knownagents.com/insights",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 275 # Comments: 200",
+    "published_at": "Wed, 12 Aug 2026 14:02:46 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI is removing the middle class of software engineering?",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 870 # Comments: 778",
+    "published_at": "Wed, 12 Aug 2026 13:20:05 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Go is an ideal language for AI-assisted software engineering",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 430 # Comments: 511",
+    "published_at": "Tue, 11 Aug 2026 16:57:09 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 303 # Comments: 43",
+    "published_at": "Tue, 11 Aug 2026 14:50:33 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing chestnut",
+    "url": "https://blog.comma.ai/chestnut/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/m0ure0/introducing_chestnut\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 12 Aug 2026 21:43:46 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+    "url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/g32zwm/ai_companies_destroy_physical_books_let_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 11 Aug 2026 14:00:18 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 11 Aug 2026 11:50:09 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Xavier Leroy on programming, languages and formal verification",
+    "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 26 Jul 2026 09:59:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "published_at": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "url": "https://openai.com/index/ringcentral",
+    "author": "openai_blog",
+    "summary_raw": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "published_at": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Daybreak models are now available on AWS",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "published_at": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 12 Aug 2026 14:00:51 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 11 Aug 2026 13:37:10 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 10 Aug 2026 16:25:36 GMT",
+    "extra": {}
+  }
+]

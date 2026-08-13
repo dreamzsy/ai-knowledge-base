@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-13-introducing-chestnut",
+  "title": "Introducing chestnut",
+  "source": "rss",
+  "source_url": "https://blog.comma.ai/chestnut/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 12 Aug 2026 21:43:46 -0500",
+  "collected_at": "2026-08-13T09:05:00.508811+00:00",
+  "summary": "comma.ai 发布了名为 Chestnut 的新项目，旨在通过端到端学习提升自动驾驶系统的性能。该项目利用大规模驾驶数据训练模型，实现更安全、更智能的驾驶行为，并开放了相关代码和工具，推动自动驾驶技术发展。",
+  "highlights": [
+    "Chestnut 是 comma.ai 推出的新自动驾驶模型，采用端到端学习方法。",
+    "利用大规模真实驾驶数据训练，提升系统对复杂路况的适应能力。",
+    "项目开源，提供完整代码和训练工具，便于社区复现和二次开发。",
+    "旨在通过数据驱动方式减少人工规则，提高驾驶决策的智能性和安全性。"
+  ],
+  "tags": [
+    "Autonomous Driving",
+    "End-to-End Learning",
+    "Open Source",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该项目结合前沿的端到端学习与自动驾驶，开源且具有实际应用潜力，对AI社区有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
