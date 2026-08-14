@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-14-the-breaking-news-the-openai-hugging-face-incident",
+  "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+  "source": "rss",
+  "source_url": "https://youtu.be/87DyyMV0kCY",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 11 Aug 2026 11:50:09 -0500",
+  "collected_at": "2026-08-14T09:00:48.980426+00:00",
+  "summary": "该视频报道了OpenAI与Hugging Face之间发生的一次突发事件，可能涉及技术合作或争议。内容聚焦于事件背景、影响及社区反应，为关注AI行业动态的观众提供快速解读。",
+  "highlights": [
+    "报道OpenAI与Hugging Face之间的突发新闻事件",
+    "分析事件对AI社区和开源生态的潜在影响",
+    "提供事件背景和关键细节，帮助观众快速了解",
+    "引发对AI公司间合作与竞争的讨论"
+  ],
+  "tags": [
+    "OpenAI",
+    "Hugging Face",
+    "AI News",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "内容为新闻事件报道，时效性强但技术深度有限，对开发者参考价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

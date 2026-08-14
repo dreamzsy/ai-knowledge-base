@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-14-social-media-rabbit-holes-clusters-and-the-relative-mixing-times-of-random-walks",
+  "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+  "source": "rss",
+  "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+  "collected_at": "2026-08-14T09:00:52.470227+00:00",
+  "summary": "本文探讨社交媒体中的“兔子洞”现象，通过随机游走的混合时间概念，分析不同社交平台（如Twitter）上的信息传播结构。作者认为社交媒体并非“城市广场”，而更像“高中食堂”，存在多个紧密连接的群体，导致信息在群体间传播缓慢，容易形成回音室效应。文章从数学角度解释这一现象，并讨论其对公共讨论的影响。",
+  "highlights": [
+    "将社交媒体结构比作高中食堂，而非城市广场，强调群体分隔。",
+    "引入随机游走混合时间，量化信息在社交网络中的传播效率。",
+    "指出紧密连接的群体导致信息传播缓慢，加剧回音室效应。",
+    "提供数学视角分析社交媒体的信息扩散和群体极化。"
+  ],
+  "tags": [
+    "Social Media",
+    "Network Analysis",
+    "Random Walk",
+    "Echo Chamber"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章以数学方法分析社交媒体结构，视角新颖，但缺乏实证数据，应用价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-14-introducing-chestnut",
+  "title": "Introducing chestnut",
+  "source": "rss",
+  "source_url": "https://blog.comma.ai/chestnut/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 12 Aug 2026 21:43:46 -0500",
+  "collected_at": "2026-08-14T09:00:42.742358+00:00",
+  "summary": "comma.ai 发布了名为 Chestnut 的新项目，旨在改进其自动驾驶系统的数据管理与模型训练流程。Chestnut 可能是一个用于处理驾驶数据、训练神经网络或优化模型部署的工具，强调高效性和可扩展性。该博客文章介绍了其核心特性，可能包括数据管道优化、实时处理或与现有 openpilot 系统的集成。",
+  "highlights": [
+    "Chestnut 是 comma.ai 推出的新工具，专注于自动驾驶数据管道的优化。",
+    "该工具可能支持更高效的模型训练和部署，提升 openpilot 系统的性能。",
+    "博客文章提供了 Chestnut 的技术细节，但具体实现仍需进一步探索。",
+    "项目旨在简化数据处理流程，可能对自动驾驶社区有重要价值。"
+  ],
+  "tags": [
+    "Autonomous Driving",
+    "Data Pipeline",
+    "Model Training",
+    "Openpilot"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该项目来自知名自动驾驶公司，具有实际应用潜力，但信息有限，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
