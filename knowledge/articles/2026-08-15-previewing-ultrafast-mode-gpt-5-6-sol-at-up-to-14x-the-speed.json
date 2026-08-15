@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-15-previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "source": "rss",
+  "source_url": "https://openai.com/index/previewing-ultrafast",
+  "author": "openai_blog",
+  "published_at": "Thu, 13 Aug 2026 10:00:00 GMT",
+  "collected_at": "2026-08-15T08:18:17.419919+00:00",
+  "summary": "OpenAI 预览其新的 API 服务层级 Ultrafast，该层级基于 Cerebras 硬件，可将 GPT-5.6 Sol 的推理速度提升至原来的 14 倍，输出速度高达每秒 750 个 token，旨在满足对低延迟、高吞吐量推理需求的应用场景。",
+  "highlights": [
+    "Ultrafast 是 OpenAI 新推出的 API 服务层级，专为高速推理设计。",
+    "基于 Cerebras 硬件，GPT-5.6 Sol 推理速度提升至 14 倍。",
+    "输出速度高达每秒 750 个 token，显著降低延迟。",
+    "面向需要实时响应的应用，如实时对话、代码生成等。"
+  ],
+  "tags": [
+    "LLM",
+    "API",
+    "Inference",
+    "Performance",
+    "Cerebras"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该服务显著提升推理速度，对实时应用有重要价值，但属于性能优化而非技术突破，评分适中偏高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-15-why-do-cognitive-scientists-hate-llms-2023",
+  "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+  "source": "rss",
+  "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+  "collected_at": "2026-08-15T08:17:58.939158+00:00",
+  "summary": "本文探讨认知科学家对大型语言模型（LLM）的批评，指出其缺乏人类认知的具身性、因果推理和符号操作能力，认为LLM只是统计模式匹配，无法真正理解世界。作者分析这些批评的合理性，并讨论LLM在认知科学中的潜在价值与局限。",
+  "highlights": [
+    "认知科学家批评LLM缺乏具身认知和因果推理能力，认为其仅进行统计模式匹配。",
+    "文章分析LLM与人类认知的差异，强调符号操作和结构化知识的重要性。",
+    "作者认为LLM虽不能完全模拟人类认知，但可作为研究工具提供新视角。",
+    "讨论LLM在认知科学中的潜在应用，如模拟语言习得和认知偏差。"
+  ],
+  "tags": [
+    "LLM",
+    "Cognitive Science",
+    "AI Criticism",
+    "Human Cognition"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供跨学科视角，深入剖析LLM的认知局限，对AI研究者有启发，但缺乏实证数据，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

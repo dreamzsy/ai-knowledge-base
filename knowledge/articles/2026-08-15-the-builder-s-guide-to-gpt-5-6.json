@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-15-the-builder-s-guide-to-gpt-5-6",
+  "title": "The builder’s guide to GPT‑5.6",
+  "source": "rss",
+  "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "author": "openai_blog",
+  "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
+  "collected_at": "2026-08-15T08:18:14.877991+00:00",
+  "summary": "OpenAI 发布 GPT-5.6 构建者指南，介绍初创企业如何利用该模型构建更快、更具成本效益的 AI 代理。指南涵盖智能模型选择策略和新的 Responses API 功能，帮助开发者优化性能与成本，提升代理的智能化水平。",
+  "highlights": [
+    "GPT-5.6 提供更智能的模型选择机制，帮助开发者平衡性能与成本。",
+    "新的 Responses API 能力简化了代理构建流程，提升开发效率。",
+    "指南包含初创企业实际案例，展示如何快速构建高效 AI 代理。",
+    "强调成本效益，适合资源有限的团队采用。"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "API",
+    "Cost Optimization",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容实用且紧跟最新模型，对开发者构建代理有直接指导价值，但缺乏深度技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
