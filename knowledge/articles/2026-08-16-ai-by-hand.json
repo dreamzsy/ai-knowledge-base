@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-16-ai-by-hand",
+  "title": "AI by Hand",
+  "source": "rss",
+  "source_url": "https://www.byhand.ai/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 14 Aug 2026 15:58:59 +0000",
+  "collected_at": "2026-08-16T08:19:45.035774+00:00",
+  "summary": "AI by Hand 是一个专注于手工构建 AI 模型的教育资源网站，通过从零开始实现神经网络、Transformer 等核心组件，帮助学习者深入理解 AI 底层原理。网站提供交互式教程和代码示例，强调动手实践，适合希望掌握 AI 基础知识的开发者。",
+  "highlights": [
+    "从零开始手工实现 AI 核心算法，不依赖高级框架",
+    "提供交互式教程，涵盖神经网络、Transformer 等主题",
+    "强调动手实践，帮助学习者建立扎实的 AI 基础",
+    "在 Hacker News 上获得 357 分和 30 条评论，社区关注度高"
+  ],
+  "tags": [
+    "Education",
+    "Deep Learning",
+    "Transformer",
+    "Hands-on",
+    "Tutorial"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "高质量的教育资源，填补了 AI 底层原理学习的空白，但内容深度和覆盖面有待进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

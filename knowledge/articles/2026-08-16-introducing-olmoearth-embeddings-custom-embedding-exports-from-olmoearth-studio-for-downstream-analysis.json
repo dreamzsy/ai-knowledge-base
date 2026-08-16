@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-16-introducing-olmoearth-embeddings-custom-embedding-exports-from-olmoearth-studio-for-downstream-analysis",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 12 Aug 2026 16:14:36 GMT",
+  "collected_at": "2026-08-16T08:20:31.124267+00:00",
+  "summary": "AllenAI 在 Hugging Face 博客上发布了 OlmoEarth 嵌入功能，允许用户从 OlmoEarth Studio 导出自定义嵌入向量，用于下游分析任务。该功能旨在简化地理空间数据与机器学习工作流的集成，支持用户针对特定需求生成嵌入，提升分析效率。",
+  "highlights": [
+    "OlmoEarth Studio 新增自定义嵌入导出功能，支持下游分析。",
+    "嵌入可针对用户特定数据定制，增强模型适用性。",
+    "简化地理空间数据与机器学习工作流的集成。",
+    "提供灵活的嵌入生成方式，便于多场景应用。"
+  ],
+  "tags": [
+    "Embeddings",
+    "Geospatial",
+    "AI",
+    "Studio"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该功能实用性强，但面向特定领域，通用性有限，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
