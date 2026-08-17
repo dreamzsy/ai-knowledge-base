@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-17-patterns-and-problems-in-emerging-multi-agent-systems",
+  "title": "Patterns and problems in emerging multi-agent systems",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/research/multiagent-systems",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 16 Aug 2026 02:12:53 +0000",
+  "collected_at": "2026-08-17T08:34:00.771333+00:00",
+  "summary": "Anthropic 发布研究报告，系统梳理了新兴多智能体系统中的常见模式与问题。报告基于大量实际案例，总结了多智能体协作的典型架构模式，并指出了当前系统在协调、通信、可靠性等方面面临的挑战，为构建更稳健的多智能体应用提供了实践指导。",
+  "highlights": [
+    "识别出多智能体系统的多种协作模式，如层级、平级和动态拓扑。",
+    "分析了智能体间通信开销、任务分配冲突等关键问题。",
+    "提出设计多智能体系统时的实用建议，强调简单性和可观测性。",
+    "基于真实案例，为开发者提供了避免常见陷阱的参考。"
+  ],
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "System Design",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "来自顶级AI实验室的实践研究，对多智能体系统设计具有直接指导价值，但内容偏概念性，缺乏具体代码实现。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

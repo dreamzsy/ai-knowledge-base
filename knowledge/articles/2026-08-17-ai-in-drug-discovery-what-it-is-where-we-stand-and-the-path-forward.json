@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-17-ai-in-drug-discovery-what-it-is-where-we-stand-and-the-path-forward",
+  "title": "AI in drug discovery – what it is, where we stand and the path forward",
+  "source": "rss",
+  "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 15 Aug 2026 19:12:53 +0000",
+  "collected_at": "2026-08-17T08:34:04.603255+00:00",
+  "summary": "本文基于《Nature Reviews Drug Discovery》的综述，评估AI在药物发现中的实际进展。作者指出，AI虽在靶点识别、分子生成和临床试验设计等环节展现出潜力，但整体仍处于早期阶段，成功案例有限，且面临数据质量、可重复性和监管等挑战。文章呼吁理性看待AI的炒作，强调需要更严谨的验证和跨学科合作，以推动AI真正落地于新药研发。",
+  "highlights": [
+    "AI在药物发现中的应用已从概念验证转向实际项目，但成功上市的药物案例仍稀少。",
+    "主要瓶颈包括高质量生物医学数据的缺乏、模型可解释性不足以及临床转化效率低下。",
+    "文章建议结合实验验证与AI预测，并建立标准化评估框架以减少虚假阳性结果。",
+    "未来方向聚焦于多模态数据整合、生成式AI与自动化实验闭环，以加速研发周期。"
+  ],
+  "tags": [
+    "AI",
+    "Drug Discovery",
+    "Biotech",
+    "Review",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容基于权威综述，客观分析AI在药物发现的现状与挑战，对从业者具有较高参考价值，但缺乏具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

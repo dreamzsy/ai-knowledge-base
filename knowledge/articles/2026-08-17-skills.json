@@ -1,0 +1,31 @@
+{
+  "id": "2026-08-17-skills",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "author": "mattpocock",
+  "published_at": "2026-02-03T11:15:53Z",
+  "collected_at": "2026-08-17T08:33:14.714240+00:00",
+  "summary": "mattpocock/skills 是一个开源项目，作者从自己的 .agents 目录中提取并分享了一系列面向真实工程师的技能定义。这些技能可能包括代码审查、调试、测试等工程实践，旨在帮助开发者提升工作效率和代码质量。项目以简洁直接的方式呈现，适合工程师参考和复用。",
+  "highlights": [
+    "直接从作者的个人 .agents 目录中提取，具有实战性",
+    "聚焦真实工程师的日常技能，而非泛泛而谈",
+    "以开源形式分享，便于社区复用和改进",
+    "可能涵盖代码审查、调试、测试等核心工程实践"
+  ],
+  "tags": [
+    "Engineering",
+    "Skills",
+    "DeveloperTools",
+    "BestPractices"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容实用且来自一线经验，但缺乏详细文档和示例，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 219693,
+    "language": "Shell"
+  }
+}

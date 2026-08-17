@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-17-the-ai-credit-resale-economy",
+  "title": "The AI Credit Resale Economy",
+  "source": "rss",
+  "source_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 16 Aug 2026 14:44:55 +0000",
+  "collected_at": "2026-08-17T08:33:55.201791+00:00",
+  "summary": "本文探讨了AI信用转售经济，即AI token（如API额度）的二级市场。文章分析了token经纪商的角色、市场运作方式、定价机制及潜在风险，指出这一新兴经济形态如何影响AI资源的分配与利用，并讨论了其与云服务转售的异同。",
+  "highlights": [
+    "AI token转售市场正在兴起，经纪商通过批量购买和转售API额度获利。",
+    "文章分析了token定价的动态机制，包括供需、模型成本及竞争因素。",
+    "讨论了转售经济中的信任、合规和风险问题，如滥用和欺诈。",
+    "对比了传统云资源转售，指出AI token市场的独特性和挑战。"
+  ],
+  "tags": [
+    "AI",
+    "Token",
+    "Marketplace",
+    "Economics",
+    "API"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供了对新兴AI经济形态的深入分析，但缺乏具体数据支撑，且主题相对小众，对技术实践者直接价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-17-introducing-olmoearth-embeddings-custom-embedding-exports-from-olmoearth-studio-for-downstream-analysis",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 12 Aug 2026 16:14:36 GMT",
+  "collected_at": "2026-08-17T08:34:46.605480+00:00",
+  "summary": "AI2 发布了 OlmoEarth 嵌入功能，允许用户从 OlmoEarth Studio 导出自定义嵌入向量，用于下游分析任务。该功能支持多模态数据（如卫星图像）的嵌入生成，旨在简化地理空间数据的机器学习工作流。",
+  "highlights": [
+    "OlmoEarth Studio 新增自定义嵌入导出功能，支持用户针对特定数据集生成嵌入。",
+    "嵌入可应用于下游任务，如分类、聚类和相似性搜索，提升地理空间分析效率。",
+    "该功能集成于 Hugging Face 平台，便于开发者访问和使用。"
+  ],
+  "tags": [
+    "Embeddings",
+    "Geospatial",
+    "Multimodal",
+    "Studio",
+    "HuggingFace"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该功能实用性强，但面向特定领域，创新性一般，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

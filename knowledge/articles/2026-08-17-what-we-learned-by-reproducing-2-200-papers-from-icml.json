@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-17-what-we-learned-by-reproducing-2-200-papers-from-icml",
+  "title": "What We Learned by Reproducing 2,200 papers from ICML",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 13 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-17T08:34:44.231281+00:00",
+  "summary": "该博客文章分享了复现ICML 2026年2200篇论文的经验与教训，涵盖复现过程中的挑战、常见问题以及如何提高论文可复现性的建议，旨在促进学术研究的透明度和可重复性。",
+  "highlights": [
+    "大规模复现实验揭示了论文中普遍存在的实验细节缺失问题",
+    "提出改进论文可复现性的具体建议，如公开代码和数据",
+    "强调复现工作对验证研究结论和推动科学进步的重要性",
+    "总结了复现过程中遇到的技术和资源障碍"
+  ],
+  "tags": [
+    "Reproducibility",
+    "ICML",
+    "Research",
+    "Open Science"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该内容对学术研究社区具有重要参考价值，提供了大规模复现的实证洞察，但缺乏具体技术细节，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

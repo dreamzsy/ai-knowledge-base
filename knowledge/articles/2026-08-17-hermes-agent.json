@@ -1,0 +1,31 @@
+{
+  "id": "2026-08-17-hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2025-07-22T22:22:28Z",
+  "collected_at": "2026-08-17T08:33:12.287378+00:00",
+  "summary": "Hermes-Agent 是 NousResearch 推出的智能体框架，强调与用户共同成长，通过持续学习和自适应能力提升交互体验。项目提供灵活的架构，支持多种任务自动化与个性化服务，旨在打造长期陪伴的 AI 助手。",
+  "highlights": [
+    "强调智能体的持续学习和自适应能力，能够随用户需求成长。",
+    "提供灵活的架构，支持多种任务自动化与个性化服务。",
+    "由 NousResearch 团队开发，具备高质量的研究背景。",
+    "项目处于早期阶段，但设计理念新颖，潜力较大。"
+  ],
+  "tags": [
+    "Agent",
+    "Framework",
+    "Adaptive",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目理念创新，但尚处早期，功能与生态未成熟，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 231706,
+    "language": "Python"
+  }
+}
