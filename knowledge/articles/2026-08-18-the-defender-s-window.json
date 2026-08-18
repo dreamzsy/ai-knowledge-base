@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-18-the-defender-s-window",
+  "title": "The Defender’s Window",
+  "source": "rss",
+  "source_url": "https://openai.com/index/the-defenders-window",
+  "author": "openai_blog",
+  "published_at": "Mon, 17 Aug 2026 05:30:00 GMT",
+  "collected_at": "2026-08-18T08:26:42.599612+00:00",
+  "summary": "OpenAI 发布文章《The Defender's Window》，探讨AI如何重塑网络安全格局，既为攻击者提供新工具，也为防御者带来新机遇。文章介绍了OpenAI自身加强防御的措施，并建议安全团队立即行动，利用AI提升检测、响应和自动化能力，以在攻防对抗中占据主动。",
+  "highlights": [
+    "AI 正在同时改变攻击者和防御者的能力，安全团队需快速适应。",
+    "OpenAI 分享了其内部安全实践，包括AI驱动的威胁检测和响应。",
+    "文章提出“防御者窗口”概念，强调在攻击者利用AI前建立防御优势。",
+    "给出具体建议：部署AI安全工具、加强人员培训、构建自动化响应流程。"
+  ],
+  "tags": [
+    "AI Security",
+    "Cybersecurity",
+    "Defense",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容聚焦AI在网络安全中的实际应用，提供可操作建议，对安全从业者具有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

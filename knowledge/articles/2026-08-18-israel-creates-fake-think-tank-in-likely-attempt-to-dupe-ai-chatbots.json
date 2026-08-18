@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-18-israel-creates-fake-think-tank-in-likely-attempt-to-dupe-ai-chatbots",
+  "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+  "source": "rss",
+  "source_url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 17 Aug 2026 20:46:10 +0000",
+  "collected_at": "2026-08-18T08:26:08.214346+00:00",
+  "summary": "据报道，以色列创建了一个虚假的智库，旨在通过发布看似权威的研究报告来影响AI聊天机器人的输出，从而操纵公众舆论。该事件揭示了AI系统在信息真实性验证方面的脆弱性，以及利用生成式AI进行影响力操作的潜在风险。文章引发了关于AI伦理、信息战和平台责任的广泛讨论。",
+  "highlights": [
+    "以色列被指创建虚假智库，专门生成看似权威的内容以误导AI聊天机器人。",
+    "该策略利用AI模型对来源可信度的依赖，通过伪造智库报告影响模型回答。",
+    "事件凸显了AI在信息生态中被武器化的风险，以及平台审核的挑战。",
+    "引发对AI伦理、透明度及监管必要性的讨论，Hacker News上评论热烈。"
+  ],
+  "tags": [
+    "AI Security",
+    "Disinformation",
+    "LLM",
+    "Ethics",
+    "Influence Operation"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该事件揭示了AI系统在信息战中的新漏洞，对AI安全与治理研究具有重要警示价值，但具体技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

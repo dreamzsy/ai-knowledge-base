@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 435 # Comments: 282",
+    "published_at": "Mon, 17 Aug 2026 20:46:10 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 845 # Comments: 521",
+    "published_at": "Mon, 17 Aug 2026 19:47:15 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 365 # Comments: 141",
+    "published_at": "Mon, 17 Aug 2026 14:18:38 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 294 # Comments: 174",
+    "published_at": "Mon, 17 Aug 2026 14:07:56 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 12:54:19 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Limits of AI (1985)",
+    "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xculjp/limits_ai_1985\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 16 Aug 2026 19:20:07 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Are Latent Reasoning Models Easily Interpretable?",
+    "url": "https://arxiv.org/abs/2604.04902",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;Models normally do all their reasoning in a continuous hidden state instead of spitting out readable text which makes them hard to monitor. The authors tested the Coconut and CODI models and it turns out these models barely even use their hidden reasoning steps for logical tasks like PrOntoQA and ProsQA. You can force the models to stop thinking early and they almost always spit out the same response anyway. It turns out that their high performance on logical tasks actually comes from their specific training data rather than the extra thinking during inference.&lt;/p&gt; &lt;p&gt;Things get even more interesting when the models actually need those reasoning tokens for math problems. The researchers wanted to know if standard step-by-step math solutions were hidden inside the latent space, and projected the hidden states back into regular vocabulary words to check. And sure enough when the models got the math problem right the researchers found the correct intermediate math steps in their hidden states up to 93% of the time. The finding strongly suggests that the models are basically doing standard math steps in the background.&lt;/p&gt; &lt;p&gt;They confirmed the exact math operations taking place by tweaking numbers in the prompt and seeing how the hidden states reacted which allowed decoding a verified reasoning path for a large majority of correct predictions. But they could rarely do this for incorrect predictions proving that models are actually way more interpretable than the AI community assumed. And you can even use that interpretability as a signal to guess if the model is about to give a right or wrong answer.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 15 Aug 2026 11:17:13 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 11 Aug 2026 11:50:09 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "author": "openai_blog",
+    "summary_raw": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "published_at": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "published_at": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "New policy ideas for the Intelligence Age",
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "published_at": "Mon, 17 Aug 2026 03:15:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "author": "openai_blog",
+    "summary_raw": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "published_at": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 17 Aug 2026 19:46:21 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]
