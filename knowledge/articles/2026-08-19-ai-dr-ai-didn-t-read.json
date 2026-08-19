@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-19-ai-dr-ai-didn-t-read",
+  "title": "AI;DR (AI; Didn't Read)",
+  "source": "rss",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 17 Aug 2026 19:47:15 +0000",
+  "collected_at": "2026-08-19T08:26:34.287916+00:00",
+  "summary": "AI;DR 是一篇探讨人工智能如何改变信息消费方式的文章，提出用 AI 生成文章摘要来应对信息过载。文章讨论了 AI 摘要的准确性、偏见风险，以及其对读者理解深度的影响，并引发了关于 AI 辅助阅读利弊的广泛讨论。",
+  "highlights": [
+    "提出 AI 摘要作为应对信息过载的实用方案",
+    "分析 AI 摘要可能带来的信息失真与偏见问题",
+    "探讨 AI 辅助阅读对深度理解的影响",
+    "引发社区对 AI 内容消费伦理的激烈辩论"
+  ],
+  "tags": [
+    "AI",
+    "Information Overload",
+    "Content Summarization",
+    "Ethics"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "话题具有现实意义且引发广泛讨论，但缺乏技术深度，更多是观点性内容。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

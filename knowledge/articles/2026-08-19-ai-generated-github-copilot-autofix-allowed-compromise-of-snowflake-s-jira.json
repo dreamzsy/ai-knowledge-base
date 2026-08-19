@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-19-ai-generated-github-copilot-autofix-allowed-compromise-of-snowflake-s-jira",
+  "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+  "source": "rss",
+  "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 17 Aug 2026 14:18:38 +0000",
+  "collected_at": "2026-08-19T08:26:37.307419+00:00",
+  "summary": "Wiz 研究团队披露了 Snowflake 环境中一个由 AI 生成的 GitHub Copilot Autofix 引入的严重漏洞。该漏洞源于 Copilot 自动生成的代码修复建议被错误应用，导致攻击者能够通过 CI/CD 管道中的恶意代码注入，最终完全控制 Snowflake 的 Jira 实例。文章详细分析了攻击链，并强调了 AI 辅助编码工具在缺乏严格审查时可能带来的安全风险。",
+  "highlights": [
+    "AI 生成的代码修复建议被盲目应用，引入了可被利用的漏洞。",
+    "攻击者通过 CI/CD 管道中的恶意代码注入，实现了对 Snowflake Jira 的完全控制。",
+    "研究展示了 AI 编码助手在安全关键场景中的潜在风险。",
+    "文章提供了具体的攻击链分析和防御建议。"
+  ],
+  "tags": [
+    "AI Security",
+    "CI/CD",
+    "Supply Chain",
+    "Vulnerability",
+    "Copilot"
+  ],
+  "language": "zh",
+  "score": 0.88,
+  "score_reason": "该内容揭示了 AI 辅助编码工具在真实企业环境中的安全漏洞，具有较高的实践警示价值，但影响范围限于特定场景。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

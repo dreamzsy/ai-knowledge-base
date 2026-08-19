@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-19-pacing-model-development-in-an-era-of-cyber-critical-capabilities",
+  "title": "Pacing model development in an era of cyber-critical capabilities",
+  "source": "rss",
+  "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+  "author": "openai_blog",
+  "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
+  "collected_at": "2026-08-19T08:27:10.776145+00:00",
+  "summary": "OpenAI 发布文章，强调在网络安全关键能力时代，需加强前沿 AI 模型的监控、对齐与安全措施，并通过新保障机制来引导模型开发节奏，确保 AI 发展安全可控。",
+  "highlights": [
+    "OpenAI 强化对前沿模型的安全监控与对齐研究。",
+    "引入新的安全防护措施，以平衡模型能力与风险。",
+    "强调在网络安全关键能力背景下，需谨慎推进模型开发。",
+    "文章概述了 OpenAI 在 AI 安全方面的最新承诺与行动。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Frontier Models",
+    "Security",
+    "Alignment"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章反映了领先 AI 机构的安全策略，对行业有指导意义，但缺乏具体技术细节，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

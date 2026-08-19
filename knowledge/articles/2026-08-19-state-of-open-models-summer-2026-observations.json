@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-19-state-of-open-models-summer-2026-observations",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-19T08:27:21.982206+00:00",
+  "summary": "Hugging Face 发布 2026 年夏季开源模型观察报告，总结开源模型生态的最新进展，包括模型规模、性能、社区贡献和工具链的演变，强调开源模型在追赶闭源模型方面的显著进步，并展望未来趋势。",
+  "highlights": [
+    "开源模型在性能上持续逼近甚至部分超越闭源模型，尤其在推理和多模态任务上。",
+    "模型规模呈现两极分化：超大模型与高效小模型并行发展，适配不同场景。",
+    "社区驱动的数据集和评估基准不断完善，推动开源模型透明度和可复现性。",
+    "工具链（如推理优化、微调框架）成熟，降低开源模型部署门槛。"
+  ],
+  "tags": [
+    "Open Models",
+    "LLM",
+    "Ecosystem",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "报告提供开源模型生态的全面观察，对技术选型和趋势判断有较高参考价值，但缺乏具体数据支撑，评分略降。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

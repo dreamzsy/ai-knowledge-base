@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-19-we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "source": "rss",
+  "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 17 Aug 2026 12:54:19 -0500",
+  "collected_at": "2026-08-19T08:26:45.098934+00:00",
+  "summary": "一篇调查报道追踪了一批稀有书籍的运输轨迹，最终发现它们被送往亚马逊的AI训练设施。报道暗示科技公司可能未经授权使用受版权保护的书籍训练AI模型，引发对数据来源合法性和版权问题的关注。",
+  "highlights": [
+    "稀有书籍的物流追踪显示其目的地为亚马逊AI训练中心",
+    "报道质疑AI公司使用受版权保护材料的合法性",
+    "引发对AI训练数据透明度和版权合规的讨论"
+  ],
+  "tags": [
+    "AI",
+    "Copyright",
+    "Data Ethics",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容涉及AI数据来源的伦理与法律问题，对行业有警示意义，但缺乏技术细节，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-19-how-much-memory-does-your-agent-actually-need",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "collected_at": "2026-08-19T08:27:13.333639+00:00",
+  "summary": "IBM Research 的博客文章探讨了 AI 代理实际需要多少记忆的问题，提出了自适应长期知识（ALTK）框架，通过动态管理记忆来提升代理性能，并介绍了 Evolve-HMM 方法用于优化记忆分配。",
+  "highlights": [
+    "提出自适应长期知识（ALTK）框架，动态调整代理的记忆使用。",
+    "引入 Evolve-HMM 方法，基于隐马尔可夫模型优化记忆分配。",
+    "通过实验证明，自适应记忆管理能显著提升代理的任务完成效率。",
+    "为 AI 代理设计提供了新的思路，平衡记忆容量与计算成本。"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Memory",
+    "Framework",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对代理记忆管理的实际问题提出创新框架，具有实用价值，但缺乏具体代码和详细实验数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

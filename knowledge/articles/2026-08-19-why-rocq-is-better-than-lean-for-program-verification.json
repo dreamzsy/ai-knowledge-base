@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-19-why-rocq-is-better-than-lean-for-program-verification",
+  "title": "Why Rocq is better than Lean for program verification",
+  "source": "rss",
+  "source_url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+  "author": "lobsters_ml",
+  "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+  "collected_at": "2026-08-19T08:27:02.121719+00:00",
+  "summary": "作者针对程序验证领域的热门工具Lean，撰文阐述为何坚持使用Rocq（原Coq）而非转向Lean。文章基于作者自身经验，对比两者在程序验证方面的特性，强调Rocq在特定场景下的优势，如更成熟的库、更稳定的策略或更贴合验证需求的设计，并回应了社区中推崇Lean的潮流。",
+  "highlights": [
+    "作者明确表达不随大流转向Lean，而是继续使用Rocq进行程序验证。",
+    "文章基于实际经验对比Rocq与Lean在验证中的差异。",
+    "强调Rocq在程序验证方面具有独特优势，可能涉及库、工具链或方法论。",
+    "回应了社区中关于Lean的流行观点，提供反方视角。"
+  ],
+  "tags": [
+    "Formal Verification",
+    "Rocq",
+    "Lean",
+    "Proof Assistant",
+    "Program Verification"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供了对Rocq与Lean的对比视角，对形式化验证社区有参考价值，但内容可能偏主观，且未给出量化数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
