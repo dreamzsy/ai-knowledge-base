@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-20-how-much-memory-does-your-agent-actually-need",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "collected_at": "2026-08-20T08:28:32.680672+00:00",
+  "summary": "IBM Research 在 Hugging Face 博客上发布文章，探讨 AI 代理实际需要多少记忆。文章提出一种基于进化算法的自适应记忆管理方法，通过动态调整记忆大小和内容，在保持性能的同时降低内存占用，为代理系统设计提供新思路。",
+  "highlights": [
+    "提出自适应记忆管理方法，动态调整代理记忆大小。",
+    "利用进化算法优化记忆配置，平衡性能与资源消耗。",
+    "通过实验验证，在多种任务上减少内存使用而不损失准确性。",
+    "为代理系统设计提供实用指导，强调记忆效率的重要性。"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Optimization",
+    "Evolutionary Algorithm"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对代理记忆优化这一关键问题，提出创新方法并有实验支撑，对实际系统设计有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

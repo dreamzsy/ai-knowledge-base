@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-20-liquid-types-as-a-behavioural-sandbox-for-agents",
+  "title": "Liquid Types as a behavioural sandbox for agents",
+  "source": "rss",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 19 Aug 2026 05:16:54 -0500",
+  "collected_at": "2026-08-20T08:28:04.617653+00:00",
+  "summary": "本文介绍了一种将液体类型（Liquid Types）作为智能体行为沙箱的方法，通过逻辑约束在编译期验证智能体的行为，确保其符合安全规范。作者提出了AeonBox框架，利用液体类型系统为智能体提供逻辑护栏，防止其执行危险操作。文章探讨了如何将智能体的行为建模为类型系统的一部分，从而实现更可靠的AI系统。",
+  "highlights": [
+    "提出利用液体类型系统为AI智能体构建行为沙箱，确保行为安全。",
+    "AeonBox框架通过逻辑约束在编译期验证智能体行为，减少运行时风险。",
+    "将智能体行为建模为类型系统，实现形式化验证与逻辑护栏。",
+    "为AI安全提供了一种新颖的静态分析手段，补充传统运行时监控。"
+  ],
+  "tags": [
+    "Liquid Types",
+    "AI Safety",
+    "Formal Verification",
+    "Agent",
+    "Type System"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "创新性地将液体类型应用于AI智能体安全，具有理论深度和实际应用潜力，但尚处于概念阶段，需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 19 Aug 2026 18:47:50 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Bongard Problems",
+    "url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/q6atrp/bongard_problems\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 19 Aug 2026 17:12:09 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Liquid Types as a behavioural sandbox for agents",
+    "url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/9oy4ao/liquid_types_as_behavioural_sandbox_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 19 Aug 2026 05:16:54 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+    "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ctbbjj/what_is_cross_entropy_compression_is\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 18 Aug 2026 23:49:02 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "author": "openai_blog",
+    "summary_raw": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "author": "openai_blog",
+    "summary_raw": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "published_at": "Tue, 18 Aug 2026 22:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "published_at": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 19 Aug 2026 13:48:49 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 17 Aug 2026 19:46:21 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-20-bongard-problems",
+  "title": "Bongard Problems",
+  "source": "rss",
+  "source_url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 19 Aug 2026 17:12:09 -0500",
+  "collected_at": "2026-08-20T08:28:01.500190+00:00",
+  "summary": "本文探讨了Bongard问题，这是一种视觉推理挑战，要求从一组图像中识别出区分正负例的规则。文章可能讨论了如何将此类问题用于评估和提升AI的抽象推理能力，并提出了新的方法或见解。",
+  "highlights": [
+    "Bongard问题作为视觉抽象推理的经典测试，对AI模型构成挑战。",
+    "文章可能提出了新的解决策略或评估框架。",
+    "强调了从有限样例中归纳规则的能力对AI的重要性。",
+    "可能涉及与人类认知对比的讨论。"
+  ],
+  "tags": [
+    "Visual Reasoning",
+    "AI Evaluation",
+    "Abstraction",
+    "Cognitive Science"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "内容聚焦于AI推理能力的经典难题，具有研究价值，但缺乏具体技术细节，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
