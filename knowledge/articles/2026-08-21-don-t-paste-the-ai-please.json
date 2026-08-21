@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-21-don-t-paste-the-ai-please",
+  "title": "Don't paste the AI, please",
+  "source": "rss",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 20 Aug 2026 08:20:44 +0000",
+  "collected_at": "2026-08-21T08:29:53.150434+00:00",
+  "summary": "本文探讨了在编程中过度依赖AI代码粘贴的现象，指出直接复制AI生成的代码可能导致安全隐患、技术债和技能退化。文章呼吁开发者应理解并审查AI输出，而非盲目采用，强调批判性思维和代码质量的重要性。",
+  "highlights": [
+    "直接粘贴AI代码会引入未经验证的逻辑错误和安全漏洞。",
+    "长期依赖AI生成代码会削弱开发者的调试和设计能力。",
+    "建议将AI作为辅助工具，结合代码审查和测试流程。",
+    "社区讨论热烈，反映开发者对AI协作模式的普遍担忧。"
+  ],
+  "tags": [
+    "AI",
+    "Code Quality",
+    "Developer Tools",
+    "Best Practices"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "观点切中当前AI编程痛点，引发高关注度讨论，但缺乏系统性解决方案，价值较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

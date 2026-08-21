@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-21-retrofitting-a-build-system-into-a-compiler",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+  "collected_at": "2026-08-21T08:30:06.543131+00:00",
+  "summary": "本文探讨了将构建系统功能集成到编译器中的设计思路，通过引入效果（effects）机制来管理构建过程中的副作用，从而简化构建流程并提升效率。作者以OCaml编译器为例，分析了现有构建系统的局限性，并提出了一种基于效果的新方案，旨在实现更灵活、可组合的构建过程。",
+  "highlights": [
+    "提出将构建系统直接嵌入编译器，利用效果系统处理副作用，减少外部工具依赖。",
+    "以OCaml为案例，展示了如何通过效果机制实现增量构建和依赖跟踪。",
+    "讨论了该方案对编译器架构的影响，以及潜在的性能和可维护性优势。",
+    "对比了传统构建系统（如Make）与基于效果的方法的差异，强调声明式构建的潜力。"
+  ],
+  "tags": [
+    "Compiler",
+    "Build System",
+    "Effects",
+    "OCaml",
+    "Incremental Build"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章提出新颖的构建系统设计理念，结合编译器与效果系统，具有技术深度和创新性，但尚处于概念阶段，实用性待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

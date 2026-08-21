@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-21-same-cluster-33-points-more-utilization-what-changed-was-the-order",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 17 Aug 2026 19:46:21 GMT",
+  "collected_at": "2026-08-21T08:30:37.924814+00:00",
+  "summary": "本文探讨了在相同GPU集群条件下，仅通过调整任务调度顺序即可将集群利用率提升33个百分点的方法。文章分析了调度策略对资源利用率和任务完成效率的影响，并提出了优化任务排序的具体建议，以最大化GPU集群的吞吐量和资源利用率。",
+  "highlights": [
+    "相同集群下，仅改变任务顺序即可显著提升利用率，增幅达33个百分点。",
+    "调度顺序对GPU资源分配和任务完成时间有重大影响。",
+    "提出了基于任务特性和资源需求的排序优化策略。",
+    "通过实际案例展示了调度优化带来的性能提升。"
+  ],
+  "tags": [
+    "GPU",
+    "Scheduling",
+    "Resource Utilization",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章提供了实用的调度优化思路，对提升GPU集群效率有直接指导价值，但缺乏深入的理论分析。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

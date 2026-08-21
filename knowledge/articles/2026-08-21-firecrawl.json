@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-21-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": "2024-04-15T21:02:29Z",
+  "collected_at": "2026-08-21T08:29:27.849006+00:00",
+  "summary": "Firecrawl 是一个面向大规模网页搜索、抓取和交互的上下文 API，提供强大的数据提取能力，支持将网页内容转换为适合 LLM 使用的格式，并具备爬虫、搜索和 API 集成功能，帮助开发者高效获取和处理网络数据。",
+  "highlights": [
+    "提供统一的 API 接口，支持网页搜索、抓取和交互，简化数据获取流程。",
+    "专为 AI 应用设计，可将网页内容转换为 Markdown 或结构化数据，便于 LLM 使用。",
+    "支持大规模抓取，具备并发处理和反爬虫机制，适合生产环境。",
+    "提供多种集成方式，包括 SDK 和 API，易于嵌入现有工作流。"
+  ],
+  "tags": [
+    "Web Scraping",
+    "API",
+    "LLM",
+    "Data Extraction",
+    "Crawler"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "项目定位清晰，功能实用，对 AI 应用开发有显著价值，且社区活跃度高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 170240,
+    "language": "TypeScript"
+  }
+}
