@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-22-replit-expands-access-to-software-creation-with-gpt-5-6-luna",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "source": "rss",
+  "source_url": "https://openai.com/index/replit",
+  "author": "openai_blog",
+  "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+  "collected_at": "2026-08-22T08:19:58.874517+00:00",
+  "summary": "Replit 推出免费模式，由 GPT-5.6 Luna 驱动，让任何人都能将想法转化为可运行的软件，无需担心 token 成本。此举大幅降低了软件创作的门槛，使非技术用户也能轻松构建应用。",
+  "highlights": [
+    "Replit 推出 Free Mode，基于 GPT-5.6 Luna，用户无需付费即可创建软件。",
+    "该模式消除了 token 成本顾虑，鼓励更多用户尝试编程和软件开发。",
+    "旨在让非技术用户也能将想法快速转化为实际应用，推动软件创作的民主化。"
+  ],
+  "tags": [
+    "LLM",
+    "AI-Assisted Development",
+    "No-Code",
+    "GPT-5.6"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该产品降低了软件开发门槛，结合最新模型，具有较高实用价值，但具体技术细节和长期影响尚待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

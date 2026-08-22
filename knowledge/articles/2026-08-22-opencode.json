@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-22-opencode",
+  "title": "anomalyco/opencode",
+  "source": "github_trending",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "author": "anomalyco",
+  "published_at": "2025-04-30T20:08:00Z",
+  "collected_at": "2026-08-22T08:18:41.604475+00:00",
+  "summary": "opencode 是一个开源的编码代理项目，旨在提供类似 Claude Code 的终端内 AI 编程助手体验，支持多模型、多平台，并强调可定制性和透明性。它允许开发者通过自然语言指令在终端中直接生成、修改代码，并集成多种工具，如文件编辑、命令执行等。项目采用 MIT 许可证，社区活跃，适合希望自主掌控 AI 编程流程的开发者。",
+  "highlights": [
+    "提供终端内的 AI 编码代理，支持自然语言交互和代码生成。",
+    "支持多种 AI 模型提供商，包括 OpenAI、Anthropic 等，并允许自定义。",
+    "强调透明性和可定制性，用户可查看和修改代理的决策过程。",
+    "集成文件操作、命令执行等工具，实现端到端的开发辅助。"
+  ],
+  "tags": [
+    "Coding Agent",
+    "AI Assistant",
+    "Terminal",
+    "Open Source",
+    "Developer Tools"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目定位清晰，功能实用，社区活跃，且开源许可友好，对开发者有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 200101,
+    "language": "TypeScript"
+  }
+}

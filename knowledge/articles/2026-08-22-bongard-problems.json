@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-22-bongard-problems",
+  "title": "Bongard Problems",
+  "source": "rss",
+  "source_url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 19 Aug 2026 17:12:09 -0500",
+  "collected_at": "2026-08-22T08:19:32.467079+00:00",
+  "summary": "本文探讨了Bongard问题，一种视觉推理挑战，要求从一组图像中识别抽象规则。作者分析了此类问题对AI系统的难度，指出当前模型在抽象模式识别上的局限，并讨论了可能的解决方向，如结合符号推理与神经网络。",
+  "highlights": [
+    "Bongard问题作为AI视觉推理的基准测试，凸显了抽象规则发现的挑战。",
+    "现有深度学习模型在处理此类问题时表现不佳，缺乏组合泛化能力。",
+    "作者提出结合符号推理与神经网络的混合方法可能更有效。",
+    "文章为AI研究者提供了新的思考角度，推动视觉推理领域的发展。"
+  ],
+  "tags": [
+    "Visual Reasoning",
+    "AI",
+    "Neural-Symbolic",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章深入剖析了AI在抽象视觉推理上的瓶颈，并提出了有前景的混合方法，对研究者具有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

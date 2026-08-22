@@ -1,0 +1,27 @@
+{
+  "id": "2026-08-22-introducing-ai-futures",
+  "title": "Introducing AI Futures",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-ai-futures",
+  "author": "openai_blog",
+  "published_at": "Thu, 20 Aug 2026 07:00:00 GMT",
+  "collected_at": "2026-08-22T08:19:51.489269+00:00",
+  "summary": "OpenAI 推出新博客系列“AI Futures”，探讨变革性 AI 如何重塑权力、治理、经济和个体自由，旨在引发公众对 AI 长期影响的思考与讨论。",
+  "highlights": [
+    "OpenAI 发布全新博客系列，聚焦 AI 对社会结构的深远影响。",
+    "内容涵盖权力分配、治理模式、经济体系及个人自由四大主题。",
+    "旨在推动公众对话，促进对 AI 未来的负责任思考。"
+  ],
+  "tags": [
+    "AI",
+    "Governance",
+    "Economy",
+    "Society"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该内容属于宏观展望，对技术实践者直接价值有限，但有助于理解 AI 社会影响，评分中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

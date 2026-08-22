@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-22-i-m-becoming-ai-blind",
+  "title": "I'm becoming AI-blind",
+  "source": "rss",
+  "source_url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 21 Aug 2026 11:48:05 +0000",
+  "collected_at": "2026-08-22T08:19:16.889818+00:00",
+  "summary": "作者反思自己作为开发者对AI工具的过度依赖，导致逐渐丧失独立编程和问题解决能力，即“AI失明”。文章探讨了AI辅助开发带来的认知退化风险，并呼吁在效率与技能保持之间寻找平衡。",
+  "highlights": [
+    "过度依赖AI工具导致开发者基础技能退化，如调试和代码审查能力下降。",
+    "AI生成的代码可能掩盖潜在问题，使开发者难以发现深层缺陷。",
+    "作者提出“AI失明”概念，指对AI输出缺乏批判性审视的现象。",
+    "建议通过限制AI使用场景、定期进行无AI练习来保持核心能力。"
+  ],
+  "tags": [
+    "AI",
+    "Developer Experience",
+    "Cognitive Bias",
+    "Software Engineering",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章切中当前AI辅助开发的热点痛点，引发广泛共鸣，对开发者自我反思具有实用价值，但缺乏实证数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

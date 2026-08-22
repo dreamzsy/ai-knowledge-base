@@ -1,0 +1,31 @@
+{
+  "id": "2026-08-22-skills",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "author": "mattpocock",
+  "published_at": "2026-02-03T11:15:53Z",
+  "collected_at": "2026-08-22T08:18:32.891604+00:00",
+  "summary": "mattpocock/skills 是一个面向真实工程师的 AI 技能集合，直接来自作者的 .agents 目录。该项目旨在分享实用的、可复用的 AI 辅助开发技能，帮助工程师更高效地利用 AI 工具进行编码和开发工作。",
+  "highlights": [
+    "直接从作者日常使用的 .agents 目录中提取，具有实战性",
+    "提供面向真实工程师的 AI 技能，而非理论概念",
+    "可能包含可复用的提示词或配置，便于集成到开发流程",
+    "适合希望提升 AI 辅助开发效率的工程师参考"
+  ],
+  "tags": [
+    "AI",
+    "Developer Tools",
+    "Prompt Engineering",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目实用性强，但内容规模未知，且缺乏详细文档，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 230269,
+    "language": "Shell"
+  }
+}
