@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-23-stampli-cuts-launch-hours-by-68-using-chatgpt-work",
+  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/stampli",
+  "author": "openai_blog",
+  "published_at": "Thu, 20 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-23T08:20:45.879951+00:00",
+  "summary": "Stampli 是一家财务软件公司，在固定截止日期和设计资源被占用的压力下，利用 OpenAI 的 Codex 和 ChatGPT Work 工具，将原本需要数周的发布准备工作压缩至数天完成，实现了启动时间减少 68% 的显著效率提升。",
+  "highlights": [
+    "Stampli 使用 Codex 和 ChatGPT Work 将发布周期从数周缩短至数天。",
+    "在固定截止日期和设计资源受限的情况下，成功完成发布任务。",
+    "启动时间减少了 68%，显著提升了团队效率。",
+    "展示了 AI 工具在真实业务场景中的实际价值。"
+  ],
+  "tags": [
+    "LLM",
+    "Codex",
+    "ChatGPT",
+    "Productivity",
+    "AI Adoption"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "案例真实且数据具体，展示了 AI 工具在商业场景中的显著效率提升，但缺乏技术细节和可复现性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

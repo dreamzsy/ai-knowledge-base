@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-23-measuring-benchmark-optimization-in-speech-recognition",
+  "title": "Measuring benchmark optimization in speech recognition",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 21 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-23T08:20:55.486706+00:00",
+  "summary": "本文探讨了语音识别领域基准测试的优化问题，指出模型可能针对特定基准过度调优，导致真实场景性能下降。作者分析了多种公开基准的局限性，并提出更全面的评估方法，强调鲁棒性和泛化能力的重要性。",
+  "highlights": [
+    "揭示语音识别模型在基准测试上过度优化而忽视实际应用场景的风险",
+    "分析现有基准如LibriSpeech等的不足，包括数据偏差和评估指标单一",
+    "提出改进评估策略，如引入多样化测试集和更贴近真实环境的指标",
+    "呼吁社区关注模型泛化能力，而非单纯追求基准分数"
+  ],
+  "tags": [
+    "ASR",
+    "Benchmark",
+    "Evaluation",
+    "Robustness"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章切中当前AI评估痛点，提出建设性改进方向，对研究者和工程师具有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

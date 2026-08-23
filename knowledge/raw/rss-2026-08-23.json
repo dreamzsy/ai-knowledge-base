@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Robot comment classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output. I thought there was a statistics tag that would have been appropriate but apparently not!)&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/ilfiqa/robot_comment_classifier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 22 Aug 2026 05:18:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 19 Aug 2026 18:47:50 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Bongard Problems",
+    "url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/q6atrp/bongard_problems\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 19 Aug 2026 17:12:09 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+    "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ctbbjj/what_is_cross_entropy_compression_is\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 18 Aug 2026 23:49:02 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "author": "openai_blog",
+    "summary_raw": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "published_at": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "author": "openai_blog",
+    "summary_raw": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "author": "openai_blog",
+    "summary_raw": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-23-how-much-memory-does-your-agent-actually-need",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "collected_at": "2026-08-23T08:21:01.053936+00:00",
+  "summary": "IBM Research 在 Hugging Face 博客上发布文章，探讨 AI 代理实际需要多少内存。文章提出一种动态内存管理方法，根据任务复杂度自动调整内存分配，避免过度分配导致资源浪费，同时确保复杂任务有足够内存支持。通过实验验证，该方法在保持性能的同时显著降低内存占用，为代理系统设计提供实用指导。",
+  "highlights": [
+    "提出动态内存分配策略，根据任务需求自动调整代理内存大小。",
+    "通过实验证明，动态内存管理可减少资源浪费而不牺牲任务性能。",
+    "为代理系统设计提供实用指南，平衡内存使用与任务复杂度。",
+    "文章基于 IBM Research 的 ALTK-Evolve 项目，具有实际应用背景。"
+  ],
+  "tags": [
+    "Agent",
+    "Memory Management",
+    "LLM",
+    "Performance Optimization",
+    "IBM Research"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对代理内存优化的实用研究，具有实际指导价值，但创新性有限，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
