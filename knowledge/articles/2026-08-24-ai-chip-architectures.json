@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-24-ai-chip-architectures",
+  "title": "AI Chip Architectures",
+  "source": "rss",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 23 Aug 2026 20:37:10 -0500",
+  "collected_at": "2026-08-24T08:38:04.403150+00:00",
+  "summary": "本文深入探讨了AI芯片架构的演进，从GPU到专用ASIC（如TPU、NPU），分析了不同架构在深度学习训练和推理中的性能、能效和成本权衡。文章还讨论了内存带宽、互连技术和软件生态对AI芯片设计的影响，并展望了未来架构趋势，如存内计算和光计算。",
+  "highlights": [
+    "系统比较了GPU、FPGA和ASIC在AI工作负载中的优劣，强调专用架构在能效上的显著优势。",
+    "详细分析了内存墙问题，指出高带宽内存和先进封装技术对AI芯片性能的关键作用。",
+    "探讨了AI芯片的软件生态挑战，包括编译器优化和框架适配，强调软硬件协同设计的重要性。",
+    "展望了存内计算、光计算等新兴技术，预测它们可能颠覆传统冯·诺依曼架构。"
+  ],
+  "tags": [
+    "AI Chip",
+    "Hardware",
+    "Architecture",
+    "Deep Learning",
+    "ASIC"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容系统全面，技术深度适中，对硬件选型和趋势理解有较高参考价值，但缺乏具体实验数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

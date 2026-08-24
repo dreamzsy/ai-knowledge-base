@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-24-why-your-local-llm-feels-dumber-than-it-is",
+  "title": "Why your local LLM feels dumber than it is",
+  "source": "rss",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 22 Aug 2026 18:14:16 +0000",
+  "collected_at": "2026-08-24T08:37:57.599103+00:00",
+  "summary": "本文探讨了本地部署的大语言模型（LLM）性能表现不佳的原因，指出用户常因硬件配置、量化精度、上下文长度设置或推理参数不当而低估模型能力。文章分析了常见误区，如过度依赖低比特量化、忽视温度等采样参数的影响，以及未充分利用GPU加速等，并提供了优化建议，帮助用户充分发挥本地模型的潜力。",
+  "highlights": [
+    "本地LLM表现不佳常源于硬件配置不足或量化精度选择不当，而非模型本身能力弱。",
+    "推理参数（如温度、top-p）对输出质量影响显著，默认值可能不适合所有任务。",
+    "上下文长度设置过长会占用大量显存，导致推理速度下降或内存溢出。",
+    "通过合理调整量化级别、优化GPU加速和参数配置，可显著提升本地模型的实际表现。"
+  ],
+  "tags": [
+    "LLM",
+    "Local Deployment",
+    "Quantization",
+    "Inference Optimization",
+    "Hardware"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章针对本地LLM部署中的常见性能问题提供了实用诊断和优化思路，对开发者有较高参考价值，但缺乏深度技术细节和实验数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

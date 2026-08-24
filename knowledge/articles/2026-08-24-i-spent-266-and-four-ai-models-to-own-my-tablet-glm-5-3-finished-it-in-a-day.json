@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-24-i-spent-266-and-four-ai-models-to-own-my-tablet-glm-5-3-finished-it-in-a-day",
+  "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+  "source": "rss",
+  "source_url": "https://ericpardee.github.io/fire-hd-ownership/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 23 Aug 2026 14:23:09 +0000",
+  "collected_at": "2026-08-24T08:37:53.825275+00:00",
+  "summary": "作者花费266美元和四个AI模型，成功解锁并完全掌控了自己的Fire HD平板。其中GLM-5.3模型在一天内完成了主要工作，展示了AI在设备逆向工程和定制化中的巨大潜力。文章详细记录了使用AI辅助破解、刷机和安装自定义系统的过程，体现了开源社区与AI结合的新趋势。",
+  "highlights": [
+    "通过四个AI模型的协作，成功解锁了Fire HD平板，实现了完全自主控制。",
+    "GLM-5.3模型在一天内完成了核心任务，显著提升了效率。",
+    "展示了AI在设备逆向工程和定制化中的实际应用价值。",
+    "为开源硬件和软件爱好者提供了新的思路和方法。"
+  ],
+  "tags": [
+    "AI",
+    "Reverse Engineering",
+    "Tablet",
+    "Open Source",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "案例新颖，展示了AI在硬件定制中的实际应用，但受众有限，技术细节可能不具普适性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-24-munder-difflin-agent-harness-to-run-an-office-of-your-clones",
+  "title": "Munder Difflin – Agent harness to run an office of your clones",
+  "source": "rss",
+  "source_url": "https://munderdiffl.in/",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 22 Aug 2026 09:49:14 +0000",
+  "collected_at": "2026-08-24T08:38:00.503218+00:00",
+  "summary": "Munder Difflin 是一个 Agent 框架，用于运行由用户克隆体组成的“办公室”，让多个 AI 代理模拟真实办公协作场景。项目在 Hacker News 上获得 294 分和 132 条评论，引发社区关注。它可能涉及多代理协作、任务分配、角色扮演等能力，旨在探索 AI 代理在组织化工作流中的应用。",
+  "highlights": [
+    "提供 Agent harness，支持运行多个用户克隆体组成的虚拟办公室。",
+    "在 Hacker News 上获得 294 分和 132 条评论，社区讨论活跃。",
+    "可能支持多代理协作、角色扮演和任务自动化。",
+    "项目名称致敬《办公室》剧集，风格幽默，但技术定位明确。"
+  ],
+  "tags": [
+    "Agent",
+    "Framework",
+    "Multi-Agent",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "概念新颖且社区热度高，但信息有限，实际技术深度和实用性待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
