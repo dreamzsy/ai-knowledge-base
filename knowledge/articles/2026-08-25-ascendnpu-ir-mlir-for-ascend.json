@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-25-ascendnpu-ir-mlir-for-ascend",
+  "title": "AscendNPU-IR: MLIR for Ascend",
+  "source": "rss",
+  "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 19 Aug 2026 18:47:50 -0500",
+  "collected_at": "2026-08-25T08:32:25.327517+00:00",
+  "summary": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 方言及编译器工具链，旨在将高级神经网络模型（如 ONNX）转换为可在昇腾硬件上高效执行的 IR。该项目提供完整的 MLIR 方言定义、转换 passes 和运行时支持，帮助开发者利用 MLIR 框架优化昇腾 NPU 上的模型推理。",
+  "highlights": [
+    "为昇腾 NPU 提供专用 MLIR 方言，支持自定义算子与优化。",
+    "支持从 ONNX 等高级格式到昇腾硬件的端到端编译流程。",
+    "集成 MLIR 基础设施，便于开发者扩展和定制编译优化。",
+    "开源在 GitCode，便于社区参与和贡献。"
+  ],
+  "tags": [
+    "MLIR",
+    "Compiler",
+    "NPU",
+    "Ascend",
+    "ONNX"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该项目填补了昇腾 NPU 在 MLIR 生态中的空白，对 AI 编译器领域有较高价值，但生态成熟度尚需观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

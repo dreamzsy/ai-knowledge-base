@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-25-robot-comment-classifier",
+  "title": "Robot comment classifier",
+  "source": "rss",
+  "source_url": "https://entropicthoughts.com/ai-comment-classifier",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 22 Aug 2026 05:18:39 -0500",
+  "collected_at": "2026-08-25T08:32:22.865406+00:00",
+  "summary": "本文介绍了一个机器人评论分类器，通过训练逻辑回归或支持向量机模型对LLM生成的评论进行分类。作者在文章中同时使用了AI和vibecoding标签，强调了利用传统机器学习方法处理LLM输出的思路。文章可能探讨了如何区分机器生成与人类撰写的评论，以及相关技术细节和应用场景。",
+  "highlights": [
+    "结合LLM输出与传统机器学习模型（逻辑回归/SVM）进行分类",
+    "涉及AI与vibecoding两种技术标签，体现实践导向",
+    "可能提供评论分类的实用方法，适用于内容审核等场景",
+    "文章附带社区讨论链接，便于深入交流"
+  ],
+  "tags": [
+    "LLM",
+    "Machine Learning",
+    "Classification",
+    "NLP"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供了一种结合LLM与传统ML的实用分类方法，但内容深度和影响力有限，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

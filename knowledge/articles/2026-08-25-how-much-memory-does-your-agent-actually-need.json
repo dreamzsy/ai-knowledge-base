@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-25-how-much-memory-does-your-agent-actually-need",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "collected_at": "2026-08-25T08:32:57.145089+00:00",
+  "summary": "IBM Research 的博客文章探讨了 AI 代理在实际应用中所需的内存大小问题，提出了一种名为 ALTK-Evolve 的方法，通过动态调整代理的上下文窗口或记忆容量来优化性能与资源消耗，并基于任务复杂度进行自适应进化，以减少不必要的内存占用并提升效率。",
+  "highlights": [
+    "提出 ALTK-Evolve 方法，动态调整代理内存以适应任务需求。",
+    "通过实验证明，自适应内存管理可显著降低资源消耗。",
+    "强调任务复杂度与内存大小的关联，避免过度分配。",
+    "为代理系统设计提供实用指导，平衡性能与成本。"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Optimization",
+    "Adaptive",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对代理内存优化的实用研究，具有工程参考价值，但创新性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

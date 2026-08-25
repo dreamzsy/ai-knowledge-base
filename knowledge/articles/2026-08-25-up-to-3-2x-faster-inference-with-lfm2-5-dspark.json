@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-25-up-to-3-2x-faster-inference-with-lfm2-5-dspark",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 20 Aug 2026 16:52:57 GMT",
+  "collected_at": "2026-08-25T08:32:54.935526+00:00",
+  "summary": "Liquid AI 发布 LFM2.5-DSpark，一种基于混合专家（MoE）架构的大语言模型，通过稀疏激活和动态路由技术，在推理速度上实现最高 3.2 倍提升，同时保持模型质量。该模型针对低延迟场景优化，适用于实时应用，并已在 Hugging Face 上开源。",
+  "highlights": [
+    "推理速度最高提升 3.2 倍，显著降低延迟",
+    "采用混合专家（MoE）架构，实现稀疏激活",
+    "在保持模型性能的同时优化计算效率",
+    "面向实时应用场景设计，已开源发布"
+  ],
+  "tags": [
+    "LLM",
+    "MoE",
+    "Inference",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "推理加速技术实用性强，开源可复现，但创新性有限，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

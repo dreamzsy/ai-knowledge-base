@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-25-ai-chip-architectures",
+  "title": "AI Chip Architectures",
+  "source": "rss",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 23 Aug 2026 20:37:10 -0500",
+  "collected_at": "2026-08-25T08:32:20.485972+00:00",
+  "summary": "本文深入探讨了AI芯片架构的演进，涵盖GPU、TPU、FPGA及新兴的神经形态芯片等，分析了不同架构在训练与推理中的性能、能效与成本权衡，并展望了未来AI硬件的发展方向。",
+  "highlights": [
+    "系统比较了GPU、TPU、FPGA等主流AI芯片架构的优缺点。",
+    "分析了内存带宽与计算密度对AI性能的关键影响。",
+    "探讨了专用架构（如NPU）在边缘计算中的潜力。",
+    "展望了AI芯片未来趋势，包括异构计算与光互连技术。"
+  ],
+  "tags": [
+    "AI",
+    "Chip",
+    "Architecture",
+    "Hardware",
+    "GPU"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容系统全面，兼具技术深度与行业视角，对硬件选型与趋势判断有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-25-offering-zero-data-retention-for-frontier-models",
+  "title": "Offering Zero Data Retention for frontier models",
+  "source": "rss",
+  "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+  "author": "openai_blog",
+  "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
+  "collected_at": "2026-08-25T08:32:47.388378+00:00",
+  "summary": "OpenAI 宣布为符合条件的 API 客户提供零数据保留（ZDR）选项，并预览了私有安全处理功能，旨在在不牺牲数据隐私的前提下实现高级 AI 安全。此举强化了企业对前沿模型数据隐私的信任，满足合规需求。",
+  "highlights": [
+    "OpenAI 为符合条件的 API 客户提供零数据保留（ZDR）选项，确保数据不被存储。",
+    "预览私有安全处理（Private Safety Processing），在不影响隐私的情况下进行高级安全审查。",
+    "该举措旨在增强企业对前沿模型数据隐私的信任，满足严格合规要求。",
+    "ZDR 适用于特定客户，需满足资格条件，体现 OpenAI 对数据隐私的承诺。"
+  ],
+  "tags": [
+    "LLM",
+    "Privacy",
+    "API",
+    "Security",
+    "Compliance"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该举措直接回应企业数据隐私痛点，提升 API 服务竞争力，但适用范围有限，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

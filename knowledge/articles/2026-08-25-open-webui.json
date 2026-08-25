@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-25-open-webui",
+  "title": "open-webui/open-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "author": "open-webui",
+  "published_at": "2023-10-06T22:08:27Z",
+  "collected_at": "2026-08-25T08:32:18.177797+00:00",
+  "summary": "open-webui 是一个用户友好的 AI 界面项目，支持 Ollama 和 OpenAI API 等多种后端，提供丰富的交互功能，旨在简化 AI 应用的使用和部署。",
+  "highlights": [
+    "支持多种 AI 后端，包括 Ollama 和 OpenAI API，灵活集成。",
+    "界面设计友好，降低使用门槛，适合非技术用户。",
+    "活跃的开源社区，持续更新和功能扩展。",
+    "提供本地部署选项，保障数据隐私和可控性。"
+  ],
+  "tags": [
+    "LLM",
+    "UI",
+    "Ollama",
+    "OpenAI",
+    "Framework"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目成熟度高，用户友好且集成广泛，对 AI 应用落地有显著价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 149832,
+    "language": "Python"
+  }
+}
