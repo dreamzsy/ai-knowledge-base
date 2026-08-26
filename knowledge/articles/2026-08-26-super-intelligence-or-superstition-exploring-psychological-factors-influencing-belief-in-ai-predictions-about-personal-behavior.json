@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-super-intelligence-or-superstition-exploring-psychological-factors-influencing-belief-in-ai-predictions-about-personal-behavior",
+  "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2408.06602",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 25 Aug 2026 10:03:24 -0500",
+  "collected_at": "2026-08-26T08:34:03.277902+00:00",
+  "summary": "该研究探讨了影响人们相信AI对个人行为预测的心理因素，质疑AI预测是否被视为超级智能或迷信。通过实验，发现用户对AI预测的信任受其心理状态、对AI的既有信念及预测内容的影响，而非预测准确性。研究强调AI系统设计中需考虑用户心理，避免过度依赖或盲目信任。",
+  "highlights": [
+    "研究聚焦于AI预测个人行为时，用户信任的心理机制，而非技术准确性。",
+    "发现用户对AI的信任受其心理状态（如控制感、焦虑）和既有AI信念影响。",
+    "结果提示AI预测可能被视为‘超级智能’或‘迷信’，取决于用户心理因素。",
+    "为AI交互设计提供建议，需平衡用户信任与理性判断。"
+  ],
+  "tags": [
+    "AI",
+    "Psychology",
+    "Trust",
+    "Human-AI Interaction",
+    "Behavior Prediction"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "研究新颖，结合心理学与AI，对AI应用设计有实际指导意义，但样本和场景有限，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

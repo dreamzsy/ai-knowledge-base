@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-26-coding-expertise-is-going-to-collapse-from-ai-reliance",
+  "title": "Coding expertise is going to collapse from AI reliance",
+  "source": "rss",
+  "source_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 24 Aug 2026 15:52:33 +0000",
+  "collected_at": "2026-08-26T08:33:51.593466+00:00",
+  "summary": "文章探讨AI编程工具对开发者专业技能形成的负面影响，认为过度依赖AI编码将导致编程专业知识的崩溃。作者指出，新手开发者通过AI生成代码而缺乏底层理解，难以积累调试、优化和架构设计等核心能力，长期将削弱行业整体技术水平。文章引发广泛讨论，观点具有争议性。",
+  "highlights": [
+    "AI编程工具使开发者跳过基础学习，导致深层技能缺失",
+    "专业知识积累依赖实践与错误，AI生成代码无法替代",
+    "行业面临专家断层风险，影响软件质量与创新",
+    "需平衡AI辅助与人工学习，避免能力退化"
+  ],
+  "tags": [
+    "AI Coding",
+    "Software Engineering",
+    "Expertise",
+    "Developer Skills"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "观点深刻且具前瞻性，引发行业反思，但缺乏实证数据，评分略高以体现其讨论价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

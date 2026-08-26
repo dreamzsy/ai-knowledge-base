@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-introducing-the-admin-plugin-for-chatgpt-work-and-codex",
+  "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-admin-plugin",
+  "author": "openai_blog",
+  "published_at": "Tue, 25 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-26T08:34:25.700875+00:00",
+  "summary": "OpenAI 推出了面向 ChatGPT Work 和 Codex 的 Admin 插件，帮助管理员分析工作区使用情况、管理成员与权限、调整限制并处理管理请求，从而提升企业级 AI 工具的管理效率与可控性。",
+  "highlights": [
+    "提供工作区使用分析功能，帮助管理员洞察资源消耗。",
+    "支持成员和权限管理，简化团队协作配置。",
+    "可调整使用限制并处理管理请求，增强治理能力。",
+    "适用于 ChatGPT Work 和 Codex 两大产品，扩展管理场景。"
+  ],
+  "tags": [
+    "Admin",
+    "ChatGPT",
+    "Codex",
+    "Enterprise",
+    "Management"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该插件填补了企业级 AI 工具管理空白，实用性强，但功能相对基础，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

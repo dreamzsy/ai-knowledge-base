@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-granite-4-2-llms-how-they-apos-re-built",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+  "collected_at": "2026-08-26T08:34:29.117045+00:00",
+  "summary": "IBM 发布 Granite 4.2 系列 LLM，涵盖 8B 和 20B 参数规模，支持 128K 上下文长度，采用混合架构（Hybrid Architecture）结合注意力机制与混合专家（MoE）技术，并引入稀疏注意力（Sparse Attention）以提升长文本处理效率。该模型在代码生成、数学推理和指令遵循等任务上表现优异，同时提供开放权重和多种量化版本，便于开发者部署。",
+  "highlights": [
+    "Granite 4.2 提供 8B 和 20B 两种参数规模，支持 128K 上下文长度，兼顾性能与效率。",
+    "采用混合架构（Hybrid Architecture），结合注意力机制与混合专家（MoE），并引入稀疏注意力技术，优化长文本处理。",
+    "在代码生成、数学推理和指令遵循等基准测试中表现优异，超越同尺寸模型。",
+    "开放权重，提供多种量化版本，支持本地部署和云端推理，便于开发者集成。"
+  ],
+  "tags": [
+    "LLM",
+    "MoE",
+    "Sparse Attention",
+    "Open Source",
+    "IBM"
+  ],
+  "language": "zh",
+  "score": 0.88,
+  "score_reason": "模型架构创新且开放权重，实用性强，但缺乏具体性能数据对比，评分略低于满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

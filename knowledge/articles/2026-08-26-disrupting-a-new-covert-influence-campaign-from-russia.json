@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-disrupting-a-new-covert-influence-campaign-from-russia",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "source": "rss",
+  "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "author": "openai_blog",
+  "published_at": "Tue, 25 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-26T08:34:23.424254+00:00",
+  "summary": "OpenAI 披露并封禁了来自俄罗斯的隐蔽影响力行动，该行动利用 AI 生成内容，推广一个虚构的以色列智库及“主权”指数，以赞扬俄罗斯并批评西方。OpenAI 表示已识别并阻止相关账户，防止其滥用 AI 进行虚假信息传播。",
+  "highlights": [
+    "OpenAI 封禁了俄罗斯背景的账户，这些账户利用 AI 生成虚假内容，推广虚构的以色列智库。",
+    "该行动通过“主权”指数等虚假指标，试图影响舆论，赞扬俄罗斯并贬低西方。",
+    "OpenAI 强调其 AI 安全措施有效检测并破坏了此类隐蔽影响力活动。",
+    "此次披露展示了 AI 在虚假信息传播中的潜在滥用，以及平台方的应对策略。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Disinformation",
+    "Influence Campaign",
+    "OpenAI",
+    "Security"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该事件展示了 AI 滥用风险及平台应对措施，对安全研究有参考价值，但内容偏重事件披露，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

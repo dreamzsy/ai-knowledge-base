@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-how-much-of-hn-is-ai",
+  "title": "How much of HN is AI?",
+  "source": "rss",
+  "source_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 25 Aug 2026 15:23:41 +0000",
+  "collected_at": "2026-08-26T08:33:48.755066+00:00",
+  "summary": "本文通过分析Hacker News上的帖子，探讨了AI内容在社区中的占比及其增长趋势。作者使用关键词过滤和分类方法，统计了不同时间段内AI相关帖子的比例，并讨论了AI对社区讨论质量的影响。文章提供了数据可视化和具体案例，揭示了AI话题在HN上的显著热度，同时反思了AI内容泛滥可能带来的信息筛选挑战。",
+  "highlights": [
+    "通过关键词和分类方法量化了HN上AI相关帖子的占比，并展示了其随时间的变化趋势。",
+    "发现AI话题在HN上占据显著比例，且增长迅速，反映了AI技术的广泛关注度。",
+    "讨论了AI内容对社区信息质量的双重影响，包括促进技术交流与增加噪音。",
+    "提供了具体的数据图表和实例，使分析更具说服力和可操作性。"
+  ],
+  "tags": [
+    "AI",
+    "Data Analysis",
+    "Community",
+    "Trends",
+    "Hacker News"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章提供了有趣的数据分析视角，但缺乏深度技术细节，对AI从业者的直接价值有限，适合关注社区趋势的读者。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

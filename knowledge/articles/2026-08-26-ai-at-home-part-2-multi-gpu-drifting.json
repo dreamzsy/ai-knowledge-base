@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-ai-at-home-part-2-multi-gpu-drifting",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "rss",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 25 Aug 2026 13:20:38 -0500",
+  "collected_at": "2026-08-26T08:33:54.754865+00:00",
+  "summary": "本文是“AI At Home”系列的第二部分，聚焦于多GPU环境下模型漂移（drifting）的问题。作者基于自建AI系统的实践经验，探讨了在多GPU并行训练或推理时，由于硬件差异、负载不均或通信延迟导致的模型性能不稳定现象，并提出了相应的诊断与缓解策略。文章提供了实用的技术细节和配置建议，帮助读者在家庭或小型实验室环境中更稳定地运行多GPU AI工作负载。",
+  "highlights": [
+    "深入分析了多GPU系统中模型漂移的成因，包括硬件差异和通信瓶颈。",
+    "提供了具体的诊断工具和方法，用于识别和量化漂移问题。",
+    "给出了优化多GPU配置和负载均衡的实用建议，以提升稳定性。",
+    "结合真实案例，展示了在家庭环境中部署多GPU AI的可行性与挑战。"
+  ],
+  "tags": [
+    "Multi-GPU",
+    "Model Drift",
+    "Distributed Training",
+    "Hardware",
+    "AI Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容针对多GPU部署中的实际问题，提供了实践性指导，但主题较为细分，适用范围有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

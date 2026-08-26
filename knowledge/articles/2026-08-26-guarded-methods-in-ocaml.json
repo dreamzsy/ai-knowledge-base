@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-26-guarded-methods-in-ocaml",
+  "title": "Guarded methods in OCaml",
+  "source": "rss",
+  "source_url": "https://xvw.lol/en/articles/oop-refl.html",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+  "collected_at": "2026-08-26T08:34:11.928352+00:00",
+  "summary": "本文探讨了OCaml中受保护方法（guarded methods）的概念，通过面向对象编程的视角，分析了如何利用OCaml的类型系统实现方法保护，以增强代码的安全性和模块化。文章提供了具体的实现示例和设计思路，展示了OCaml在面向对象特性上的灵活性和表达力。",
+  "highlights": [
+    "深入解析OCaml中受保护方法的实现原理，结合类型系统确保方法调用的安全性。",
+    "通过实际代码示例，展示了如何在OCaml中设计和使用受保护方法，提升模块化设计。",
+    "对比传统面向对象语言，突出了OCaml在方法保护上的独特优势和设计哲学。",
+    "提供了关于OCaml面向对象编程的实用建议，适合希望深入理解OCaml类型系统的开发者。"
+  ],
+  "tags": [
+    "OCaml",
+    "OOP",
+    "TypeSystem",
+    "MethodGuarding"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章内容专业且具有实践价值，但受众较窄，主要面向OCaml开发者，通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

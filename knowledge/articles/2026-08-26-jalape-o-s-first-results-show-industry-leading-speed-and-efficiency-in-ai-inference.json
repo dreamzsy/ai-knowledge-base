@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-jalape-o-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "source": "rss",
+  "source_url": "https://openai.com/index/jalapeno-first-results",
+  "author": "openai_blog",
+  "published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
+  "collected_at": "2026-08-26T08:34:20.232178+00:00",
+  "summary": "OpenAI 发布了其定制推理芯片 Jalapeño 的首批测试结果，宣称在 AI 推理速度和能效方面达到行业领先水平。该芯片针对现代模型优化，提供更高吞吐量和更低延迟，展示了定制硬件在提升 AI 推理效率方面的潜力。",
+  "highlights": [
+    "Jalapeño 是 OpenAI 自研的定制推理芯片，专为现代 AI 模型设计。",
+    "首批结果显示其推理速度、能效、吞吐量和延迟均优于行业现有方案。",
+    "该芯片有望降低 AI 推理成本，推动大规模部署。",
+    "OpenAI 通过硬件创新进一步巩固其在 AI 领域的竞争力。"
+  ],
+  "tags": [
+    "AI Inference",
+    "Custom Chip",
+    "Hardware",
+    "Performance",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该成果展示了定制硬件在 AI 推理效率上的重大突破，对行业有较高参考价值，但具体技术细节和实际应用效果尚未完全公开，故评分略低于满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "How much of HN is AI?",
+    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 263 # Comments: 319",
+    "published_at": "Tue, 25 Aug 2026 15:23:41 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 549 # Comments: 538",
+    "published_at": "Mon, 24 Aug 2026 15:52:33 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI At Home Part 2: Multi GPU Drifting",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 25 Aug 2026 13:20:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A Manifesto for Responsible Agentic Coding",
+    "url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/voyeoa/manifesto_for_responsible_agentic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 25 Aug 2026 12:17:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/iwsopp/apple_s_new_desktop_computers_are\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 25 Aug 2026 10:04:08 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 25 Aug 2026 10:03:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 28 Jul 2026 16:16:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "published_at": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "author": "openai_blog",
+    "summary_raw": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "author": "openai_blog",
+    "summary_raw": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 25 Aug 2026 11:39:24 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

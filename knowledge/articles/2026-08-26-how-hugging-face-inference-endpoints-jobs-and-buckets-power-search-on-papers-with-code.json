@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-how-hugging-face-inference-endpoints-jobs-and-buckets-power-search-on-papers-with-code",
+  "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/pwc-search",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 21 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-26T08:34:38.994441+00:00",
+  "summary": "Hugging Face 博客介绍了如何利用 Inference Endpoints、Jobs 和 Buckets 构建 Papers with Code 的搜索功能。文章详细阐述了这些组件在索引、推理和存储方面的作用，展示了如何通过托管推理端点实现高效搜索，并利用任务调度和对象存储优化性能，为开发者提供了可参考的架构实践。",
+  "highlights": [
+    "Inference Endpoints 提供可扩展的托管推理服务，用于实时处理搜索查询。",
+    "Jobs 负责异步任务调度，如索引更新和批量处理，提升系统效率。",
+    "Buckets 用于存储大规模数据，如论文元数据和嵌入向量，支持持久化。",
+    "三者结合构建了从数据存储到推理的完整搜索流水线，优化了响应速度和成本。"
+  ],
+  "tags": [
+    "Inference",
+    "Search",
+    "Infrastructure",
+    "Hugging Face",
+    "MLOps"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章提供了实用的架构方案，结合了托管推理和存储，对构建搜索系统有较高参考价值，但内容较为具体，普适性稍弱。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

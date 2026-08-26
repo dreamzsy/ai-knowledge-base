@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-26-wire-it-run-it-deploy-it-ai-workflows-in-gradio",
+  "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 25 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-26T08:34:35.672713+00:00",
+  "summary": "Hugging Face 博客文章介绍了如何使用 Gradio 构建、运行和部署 AI 工作流。文章通过示例展示了将多个 AI 组件（如 LLM、图像生成、语音识别等）串联成复杂工作流的方法，并强调了 Gradio 在快速原型设计和生产部署中的优势。",
+  "highlights": [
+    "Gradio 支持将多个 AI 模型组合成端到端的工作流，简化了原型到生产的转换。",
+    "提供了丰富的组件和事件驱动机制，便于构建交互式 AI 应用。",
+    "支持一键部署到 Hugging Face Spaces，实现快速分享和协作。",
+    "文章包含实际代码示例，演示了多步骤工作流的实现。"
+  ],
+  "tags": [
+    "Gradio",
+    "AI Workflow",
+    "Deployment",
+    "LLM",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "实用性强，覆盖工作流构建与部署，但内容深度一般，适合入门和中级开发者。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
