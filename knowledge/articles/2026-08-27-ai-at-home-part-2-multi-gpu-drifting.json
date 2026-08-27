@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-27-ai-at-home-part-2-multi-gpu-drifting",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "rss",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 25 Aug 2026 13:20:38 -0500",
+  "collected_at": "2026-08-27T18:40:43.778778+00:00",
+  "summary": "本文是“AI At Home”系列的第二部分，聚焦于多GPU环境下的大模型推理与漂移（drifting）问题。作者分享了在家庭环境中配置多GPU系统进行AI实验的经验，探讨了如何利用多卡并行提升推理性能，并分析了负载均衡、显存管理及模型漂移等挑战。文章提供了实用的技术细节和解决方案，适合对本地AI部署感兴趣的开发者参考。",
+  "highlights": [
+    "深入探讨多GPU并行推理的架构设计与性能优化策略",
+    "详细分析模型漂移现象及其对推理结果稳定性的影响",
+    "提供家庭环境下的硬件配置建议与成本效益评估",
+    "结合实例展示多GPU系统在AI应用中的实际效果与局限"
+  ],
+  "tags": [
+    "Multi-GPU",
+    "Inference",
+    "Performance",
+    "Hardware",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "内容实用且具技术深度，但受众较窄，且未涉及前沿技术，综合价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

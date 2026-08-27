@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-27-better-answers-broader-thinking-what-students-gain-from-chatgpt-and-critical-thinking-training",
+  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "source": "rss",
+  "source_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+  "author": "openai_blog",
+  "published_at": "Thu, 27 Aug 2026 09:00:00 GMT",
+  "collected_at": "2026-08-27T18:41:04.359716+00:00",
+  "summary": "OpenAI 开展了一项涉及 1000 多名学生的随机研究，探讨 ChatGPT 与批判性思维训练对真实大学作业表现的影响。研究发现，结合使用 ChatGPT 和批判性思维训练能显著提升学生答案的质量、原创性和思维广度，而单独使用工具或训练效果有限。该研究为教育中整合 AI 工具与思维训练提供了实证支持。",
+  "highlights": [
+    "随机对照实验，样本超 1000 名学生，基于真实作业评估。",
+    "ChatGPT 与批判性思维训练结合，显著提升答案质量与原创性。",
+    "单独使用 ChatGPT 或单独训练批判性思维，效果均不如两者结合。",
+    "研究为 AI 辅助教育提供了可量化的实证依据。"
+  ],
+  "tags": [
+    "LLM",
+    "Education",
+    "Critical Thinking",
+    "Evaluation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "实证研究数据扎实，对教育实践有直接指导意义，但应用场景相对局限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

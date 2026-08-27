@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-27-retrofitting-a-build-system-into-a-compiler",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+  "collected_at": "2026-08-27T18:40:52.834778+00:00",
+  "summary": "本文探讨了将构建系统功能集成到编译器中的设计思路，通过OCaml编译器实例，分析了如何利用编译器的副作用机制来优化构建流程，减少重复编译，提升开发效率。",
+  "highlights": [
+    "提出将构建系统逻辑嵌入编译器内部，利用副作用追踪依赖。",
+    "以OCaml为例，展示了如何通过编译器扩展实现增量构建。",
+    "讨论了这种设计对构建速度和开发体验的潜在影响。",
+    "分析了与传统外部构建系统（如Make）的对比优势。"
+  ],
+  "tags": [
+    "Compiler",
+    "Build System",
+    "OCaml",
+    "Incremental Build"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "观点新颖且具有实践参考价值，但受众限于编译器开发者，通用性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

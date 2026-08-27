@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-27-z-ai-confirms-ox-alpha-is-a-new-glm-series-model-and-will-release-its-weights",
+  "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 26 Aug 2026 10:04:55 +0000",
+  "collected_at": "2026-08-27T18:40:37.102120+00:00",
+  "summary": "Z.ai 确认其神秘模型 Ox Alpha 属于 GLM 系列，并承诺将开放权重。该模型性能可与 DeepSeek 相媲美，引发社区广泛关注。此举有望推动开源大模型生态发展，降低使用门槛，并促进 AI 领域的竞争与创新。",
+  "highlights": [
+    "Z.ai 正式确认 Ox Alpha 为 GLM 系列新模型，并计划发布权重。",
+    "Ox Alpha 在性能上对标 DeepSeek，显示出强大的竞争力。",
+    "开放权重策略将增强开源社区生态，促进模型透明度和可定制性。",
+    "该消息在 Hacker News 上获得 429 分和 145 条评论，热度较高。"
+  ],
+  "tags": [
+    "LLM",
+    "Open Source",
+    "GLM",
+    "Model Release"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "开源权重和性能对标 DeepSeek 对社区有较高价值，但具体技术细节和实际评测尚待公布。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
