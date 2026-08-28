@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-28-guarded-methods-in-ocaml",
+  "title": "Guarded methods in OCaml",
+  "source": "rss",
+  "source_url": "https://xvw.lol/en/articles/oop-refl.html",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+  "collected_at": "2026-08-28T19:49:13.361558+00:00",
+  "summary": "本文探讨了在OCaml中实现受保护方法（guarded methods）的技术，通过引入类型级别的守卫来增强方法调用的安全性，避免运行时错误。作者展示了如何利用OCaml的模块系统和GADT来编码前置条件，从而在编译期捕获非法调用。文章提供了具体的代码示例，并讨论了这种模式在面向对象编程中的反射应用，为OCaml开发者提供了一种更安全的API设计思路。",
+  "highlights": [
+    "提出在OCaml中使用GADT和模块系统实现编译期方法守卫，提升类型安全。",
+    "通过具体示例展示如何编码前置条件，避免运行时错误。",
+    "探讨了该模式在反射和面向对象编程中的潜在应用。",
+    "为OCaml API设计提供了一种新颖的静态检查方法。"
+  ],
+  "tags": [
+    "OCaml",
+    "GADT",
+    "Type Safety",
+    "OOP",
+    "Reflection"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章内容专业且具有实践价值，但受众限于OCaml开发者，影响范围较小。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

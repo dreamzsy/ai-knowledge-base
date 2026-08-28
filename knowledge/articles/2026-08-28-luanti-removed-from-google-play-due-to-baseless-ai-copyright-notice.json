@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-28-luanti-removed-from-google-play-due-to-baseless-ai-copyright-notice",
+  "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+  "source": "rss",
+  "source_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 28 Aug 2026 06:33:57 +0000",
+  "collected_at": "2026-08-28T19:48:49.399689+00:00",
+  "summary": "开源游戏引擎Luanti因一封基于AI生成的虚假版权投诉被Google Play下架。投诉者使用AI工具生成代码相似度报告，声称Luanti抄袭其代码，但经核实该指控毫无根据。Luanti团队批评AI滥用导致开发者权益受损，并呼吁平台改进投诉审核机制。事件引发对AI版权误报和开源项目保护机制的讨论。",
+  "highlights": [
+    "Luanti因AI生成的虚假DMCA投诉被Google Play下架，投诉内容被证实无根据。",
+    "投诉者利用AI工具生成代码相似度报告，但未进行人工核实，导致误报。",
+    "Luanti团队呼吁Google等平台加强投诉审核，防止AI滥用损害开源项目。",
+    "事件凸显AI在版权领域的误用风险，引发对开源生态保护机制的关注。"
+  ],
+  "tags": [
+    "AI",
+    "Copyright",
+    "Open Source",
+    "DMCA",
+    "Google Play"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "事件反映AI滥用对开源项目的实际影响，具有警示意义，但技术深度有限，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

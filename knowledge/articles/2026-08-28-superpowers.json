@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-28-superpowers",
+  "title": "obra/superpowers",
+  "source": "github_trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "published_at": "2025-10-09T19:45:18Z",
+  "collected_at": "2026-08-28T19:48:00.331222+00:00",
+  "summary": "superpowers 是一个代理技能框架和软件开发方法论，旨在帮助开发者构建和部署智能代理。它提供了一套结构化的技能定义、工作流和最佳实践，使代理能够高效地完成复杂任务。该项目强调实用性和可操作性，通过模块化设计和清晰的指南，降低了代理开发的门槛，提升了开发效率。",
+  "highlights": [
+    "提供完整的代理技能框架，支持模块化技能定义与复用",
+    "结合软件开发方法论，指导代理从设计到部署的全流程",
+    "强调实用性和可操作性，附带详细文档和示例",
+    "社区活跃，持续更新，适合快速上手"
+  ],
+  "tags": [
+    "Agent",
+    "Framework",
+    "Methodology",
+    "Skills",
+    "Development"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "框架设计清晰，实用性强，对代理开发有直接指导价值，但尚需更多实际案例验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 279005,
+    "language": "Shell"
+  }
+}
