@@ -1,0 +1,31 @@
+{
+  "id": "2026-08-29-hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2025-07-22T22:22:28Z",
+  "collected_at": "2026-08-29T13:29:49.394226+00:00",
+  "summary": "Hermes-Agent 是 NousResearch 推出的智能体项目，强调与用户共同成长。它基于 Hermes 系列模型，提供可扩展的代理框架，支持个性化学习和任务自动化，旨在成为用户日常交互与工作的长期伙伴。",
+  "highlights": [
+    "基于 Hermes 模型构建，具备强大的语言理解和生成能力。",
+    "强调'与你共同成长'，通过持续学习适应用户需求。",
+    "提供灵活的代理框架，支持多种任务自动化场景。",
+    "由 NousResearch 维护，社区活跃，更新频繁。"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Framework",
+    "Personalization"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "项目理念新颖且基于成熟模型，但尚处早期阶段，生态和文档有待完善，综合价值较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 237953,
+    "language": "Python"
+  }
+}

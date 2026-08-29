@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-29-granite-4-2-llms-how-they-apos-re-built",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+  "collected_at": "2026-08-29T13:31:12.787385+00:00",
+  "summary": "IBM 发布 Granite 4.2 系列 LLM，涵盖 Dense 与 MoE 架构，支持 128K 上下文，强调透明训练数据与可扩展性。博客详细介绍了模型架构、训练方法、性能基准及部署优化，旨在为企业级 AI 应用提供高效、可靠的解决方案。",
+  "highlights": [
+    "Granite 4.2 提供 Dense 和 MoE 两种架构，支持 128K 上下文长度，兼顾性能与效率。",
+    "训练过程强调数据透明性和可复现性，公开数据配方与过滤策略。",
+    "在代码生成、数学推理和指令跟随等基准上表现优异，超越同尺寸模型。",
+    "针对企业部署优化，支持多种推理框架和量化技术，降低部署成本。"
+  ],
+  "tags": [
+    "LLM",
+    "MoE",
+    "Training",
+    "Enterprise",
+    "IBM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "模型技术细节丰富，训练方法透明，对企业级应用有实际参考价值，但创新性相对常规。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
