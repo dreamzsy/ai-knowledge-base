@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-30-i-accidentally-turned-llm-memory-into-program-analysis",
+  "title": "I accidentally turned LLM memory into program analysis",
+  "source": "rss",
+  "source_url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 28 Aug 2026 23:27:45 +0000",
+  "collected_at": "2026-08-30T13:27:11.878622+00:00",
+  "summary": "本文作者意外发现将LLM记忆机制用于程序分析的方法。通过将程序执行轨迹转化为类似记忆的序列，利用LLM的上下文学习能力识别漏洞模式，实现了对二进制程序的高效静态分析。该方法无需人工定义规则，能自动发现内存破坏、逻辑错误等问题，在CTF和真实软件测试中表现良好，展示了LLM在安全分析领域的潜力。",
+  "highlights": [
+    "提出将LLM记忆机制应用于程序分析的新思路，无需人工规则。",
+    "通过执行轨迹序列化，利用LLM上下文学习识别漏洞模式。",
+    "在CTF题目和真实软件上验证，能发现内存破坏和逻辑错误。",
+    "方法具有可扩展性，可适应不同架构和编译选项。"
+  ],
+  "tags": [
+    "LLM",
+    "Program Analysis",
+    "Security",
+    "Vulnerability Detection"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地将LLM记忆用于程序分析，实验验证有效，对安全研究有较高参考价值，但方法细节和泛化性有待进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

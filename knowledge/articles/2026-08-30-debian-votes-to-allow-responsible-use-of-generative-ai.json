@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-30-debian-votes-to-allow-responsible-use-of-generative-ai",
+  "title": "Debian votes to allow \"responsible use of generative AI\"",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1091231/",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 29 Aug 2026 14:02:10 +0000",
+  "collected_at": "2026-08-30T13:27:06.517909+00:00",
+  "summary": "Debian 项目通过投票，允许在项目开发中负责任地使用生成式 AI 工具。该决定旨在平衡创新与社区规范，明确 AI 生成代码的许可和署名要求，同时强调人类审查责任。此举反映了开源社区对 AI 辅助开发的接纳态度，但也引发了关于代码质量和版权归属的讨论。",
+  "highlights": [
+    "Debian 投票通过允许负责任使用生成式 AI 的决议，为开源项目树立新规范。",
+    "决议要求 AI 生成内容需明确标注，并遵循现有许可和署名政策。",
+    "社区强调人类开发者对 AI 输出负有最终审查和验证责任。",
+    "该决定引发广泛讨论，涉及 AI 代码的版权、质量和伦理问题。"
+  ],
+  "tags": [
+    "Open Source",
+    "AI Policy",
+    "Governance",
+    "Generative AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该事件对开源社区 AI 使用政策具有重要指导意义，但缺乏具体技术细节，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

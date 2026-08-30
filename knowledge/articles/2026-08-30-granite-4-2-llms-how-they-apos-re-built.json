@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-30-granite-4-2-llms-how-they-apos-re-built",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+  "collected_at": "2026-08-30T13:27:51.483982+00:00",
+  "summary": "IBM 发布 Granite 4.2 系列 LLM，涵盖密集和 MoE 架构，参数规模从 3B 到 47B，支持多语言和长上下文。该模型在代码生成、数学推理和工具调用方面表现优异，采用分组查询注意力、旋转位置编码等技术，并通过两阶段训练和知识蒸馏提升性能。文章详细介绍了模型架构、训练数据、评估结果及部署方式，强调其在企业级应用中的实用性和效率。",
+  "highlights": [
+    "Granite 4.2 提供 3B 至 47B 参数的多款模型，包括密集和 MoE 变体，支持 128K 上下文长度。",
+    "采用分组查询注意力、旋转位置编码和共享嵌入等技术，优化推理效率和内存占用。",
+    "训练流程包含两阶段：先预训练后微调，并利用知识蒸馏从大型教师模型迁移能力。",
+    "在代码、数学和工具调用基准上表现优异，适合企业级 AI 应用开发。"
+  ],
+  "tags": [
+    "LLM",
+    "MoE",
+    "Code Generation",
+    "Enterprise AI",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "模型系列设计全面，技术细节丰富，对企业级应用有直接价值，但创新性相对常规。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator",
+  "title": "StemDeck, a free, open-source and local AI stem separator",
+  "source": "rss",
+  "source_url": "https://github.com/stemdeckapp/stemdeck",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 29 Aug 2026 01:24:13 +0000",
+  "collected_at": "2026-08-30T13:27:08.883510+00:00",
+  "summary": "StemDeck 是一款免费、开源、本地运行的 AI 音频分轨工具，可将音乐分离为人声、鼓、贝斯等独立音轨。它强调隐私保护，无需上传数据，支持离线处理，适合音乐制作、混音和翻唱创作。项目在 Hacker News 上获得 229 分和 61 条评论，社区关注度高。",
+  "highlights": [
+    "完全本地运行，保护用户隐私，无需网络上传音频数据。",
+    "开源免费，支持自定义和二次开发。",
+    "基于 AI 模型实现高质量音轨分离，支持多种乐器分轨。",
+    "界面友好，适合音乐制作人和普通用户使用。"
+  ],
+  "tags": [
+    "AI",
+    "Audio",
+    "OpenSource",
+    "Music",
+    "Local"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "项目实用性强，满足隐私和离线需求，开源社区活跃，但技术新颖性一般，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
