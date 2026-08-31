@@ -1,0 +1,28 @@
+{
+  "id": "2026-08-31-granite-4-2-llms-how-they-apos-re-built",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+  "collected_at": "2026-08-31T15:43:40.934316+00:00",
+  "summary": "IBM 发布了 Granite 4.2 系列大型语言模型，本文详细介绍了其构建过程，包括数据收集、训练方法、架构设计以及性能评估。该系列模型在多个基准测试上表现优异，并针对企业应用场景进行了优化，强调了效率、透明度和可扩展性。",
+  "highlights": [
+    "Granite 4.2 采用高质量数据筛选和合成数据技术，提升训练数据质量。",
+    "模型架构在注意力机制和层设计上进行了创新，兼顾性能与推理效率。",
+    "在代码生成、数学推理和指令跟随等任务上超越同等规模模型。",
+    "开源模型权重，支持企业私有化部署和定制微调。"
+  ],
+  "tags": [
+    "LLM",
+    "Training",
+    "Architecture",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "技术细节丰富，对模型构建有深入剖析，且开源发布，实用价值高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

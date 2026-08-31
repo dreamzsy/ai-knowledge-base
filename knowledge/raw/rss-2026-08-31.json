@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "I attended a conference recently and AI use by academics was absurd",
+    "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;As we listened to talks most people were stuck doing pointless tasks on their phones and computers. Less than 10%, likely 5%, were listening attentively. This was quite sad for me.&lt;/p&gt; &lt;p&gt;The thing I would like to share the most, that shocked me more than any AI use I've seen ever—when I was on stage receiving QA post talk among the fellow panelists, everyone but me used AI on their laptops to record their questions and then come up with a response they could use. IDK about others, but I spent a lot of time on my talk and slideshow. The professor who served as the respondent listened for two hours taking a ton of notes then formed thoughtful questions. I cannot believe the laziness and disrespect to the professor's intellect for all the other panelists to rely on AI for their response.&lt;/p&gt; &lt;p&gt;For me, the seduction of AI to do boring tasks such as translation, CV writing, and job applications, and editing papers is forever there but I choose to believe these tasks benefit me as someone trying to be a so-called intellectual. To see everyone around me choose to not think for themselves, when we presenters should be the most knowledgeable in the room about our topics, shocked me beyond anything I've seen in academic.&lt;/p&gt; &lt;p&gt;I am constantly considering the use of AI in the classroom and research and thought this reflection/rant would be relevant here.&lt;/p&gt; &lt;p&gt;I'm curious if my fellow Lobsters have seen similar uses of AI or what their opinions are.&lt;/p&gt;",
+    "published_at": "Mon, 31 Aug 2026 10:22:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 27 Aug 2026 00:32:18 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 25 Aug 2026 10:03:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Robot comment classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output. I thought there was a statistics tag that would have been appropriate but apparently not!)&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/ilfiqa/robot_comment_classifier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 22 Aug 2026 05:18:39 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "author": "openai_blog",
+    "summary_raw": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "published_at": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "author": "openai_blog",
+    "summary_raw": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "published_at": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "published_at": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "author": "openai_blog",
+    "summary_raw": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "published_at": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 28 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 25 Aug 2026 11:39:24 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "2026-08-31-training-and-finetuning-multi-vector-embedding-models-with-sentence-transformers",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 26 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-08-31T15:43:37.649854+00:00",
+  "summary": "Hugging Face 博客介绍了如何使用 Sentence Transformers 训练和微调多向量嵌入模型，涵盖数据准备、训练流程、损失函数选择及评估方法，旨在提升检索和语义匹配任务的性能。",
+  "highlights": [
+    "详细讲解多向量嵌入模型的训练与微调步骤，包括数据格式和模型架构。",
+    "提供多种损失函数（如 MultipleNegativesRankingLoss）的适用场景和配置方法。",
+    "强调评估指标（如检索准确率）和实际部署注意事项。",
+    "结合 Sentence Transformers 库，给出可复现的代码示例和最佳实践。"
+  ],
+  "tags": [
+    "Embedding",
+    "Sentence Transformers",
+    "Fine-tuning",
+    "Retrieval",
+    "NLP"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容实用且针对性强，为多向量嵌入模型的训练提供了清晰指南，对检索任务有直接价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

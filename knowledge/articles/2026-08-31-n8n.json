@@ -1,0 +1,32 @@
+{
+  "id": "2026-08-31-n8n",
+  "title": "n8n-io/n8n",
+  "source": "github_trending",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "author": "n8n-io",
+  "published_at": "2019-06-22T09:24:21Z",
+  "collected_at": "2026-08-31T15:42:23.792471+00:00",
+  "summary": "n8n 是一个公平代码（fair-code）的工作流自动化平台，具备原生 AI 能力。它允许用户通过可视化界面结合自定义代码构建自动化流程，支持自托管或云服务，并集成了超过 400 种应用和服务。该项目旨在简化复杂工作流的创建，同时保持灵活性和可扩展性，是自动化领域的热门开源工具。",
+  "highlights": [
+    "原生 AI 能力集成，支持构建智能自动化工作流",
+    "可视化构建与自定义代码结合，兼顾易用性与灵活性",
+    "支持自托管或云服务，提供 400+ 集成",
+    "公平代码许可，平衡开源与商业可持续性"
+  ],
+  "tags": [
+    "Workflow",
+    "Automation",
+    "AI",
+    "Integration",
+    "Self-hosted"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "该项目功能强大、生态丰富，且原生支持 AI，对自动化领域有显著价值，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 202954,
+    "language": "TypeScript"
+  }
+}
