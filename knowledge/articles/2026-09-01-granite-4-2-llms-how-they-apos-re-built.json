@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-01-granite-4-2-llms-how-they-apos-re-built",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 25 Aug 2026 15:14:14 GMT",
+  "collected_at": "2026-09-01T12:55:45.720425+00:00",
+  "summary": "IBM 发布了 Granite 4.2 系列 LLM，本文详细介绍了其构建过程，包括架构设计、训练数据、对齐技术以及性能优化。该系列模型旨在提供高效、可靠的企业级 AI 能力，支持多种部署场景。",
+  "highlights": [
+    "Granite 4.2 采用创新的架构设计，提升推理效率和模型性能。",
+    "训练过程强调数据质量与多样性，覆盖多语言和多领域。",
+    "通过先进的对齐技术，增强模型的安全性和指令遵循能力。",
+    "模型针对企业应用优化，支持本地部署和云端集成。"
+  ],
+  "tags": [
+    "LLM",
+    "IBM",
+    "Training",
+    "Alignment",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该文章提供了 IBM 最新模型的技术细节，对开发者有参考价值，但缺乏具体实验数据，评分略低于顶尖技术报告。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

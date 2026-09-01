@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-01-our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "title": "Our decision on Cursor following its acquisition by SpaceX",
+  "source": "rss",
+  "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "author": "openai_blog",
+  "published_at": "Fri, 28 Aug 2026 06:00:00 GMT",
+  "collected_at": "2026-09-01T12:55:37.208379+00:00",
+  "summary": "OpenAI 宣布，在 Cursor 被 SpaceX 收购后，决定终止向其提供 OpenAI 模型的合同。此举旨在维护 OpenAI 的战略利益和生态一致性，避免与 SpaceX 的潜在利益冲突。该决定反映了 OpenAI 对合作伙伴关系的审慎管理，以及对未来技术生态布局的考量。",
+  "highlights": [
+    "OpenAI 终止与 Cursor 的模型供应合同，因 Cursor 被 SpaceX 收购。",
+    "该决定基于战略调整，旨在避免潜在利益冲突。",
+    "OpenAI 强调对合作伙伴关系的审慎管理，确保生态一致性。",
+    "此举可能影响 Cursor 用户的模型服务，但 OpenAI 未透露替代方案。"
+  ],
+  "tags": [
+    "AI",
+    "OpenAI",
+    "Acquisition",
+    "Strategy",
+    "Partnership"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该事件对 AI 行业合作模式有参考价值，但信息量有限，影响范围待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

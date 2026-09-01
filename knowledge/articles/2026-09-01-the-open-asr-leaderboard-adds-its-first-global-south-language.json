@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-01-the-open-asr-leaderboard-adds-its-first-global-south-language",
+  "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 28 Aug 2026 00:00:00 GMT",
+  "collected_at": "2026-09-01T12:55:40.151279+00:00",
+  "summary": "Hugging Face 的开放语音识别（ASR）排行榜新增了首个全球南方语言，旨在提升低资源语言在语音识别领域的关注度与性能评估。该更新扩展了排行榜的语言覆盖范围，为研究人员和开发者提供了更全面的基准，以推动多语言语音技术的公平发展。",
+  "highlights": [
+    "排行榜首次纳入全球南方语言，填补了低资源语言评估空白。",
+    "提供公开的基准测试，促进多语言 ASR 模型的公平比较。",
+    "鼓励社区贡献更多语言数据，推动语音识别技术全球化。",
+    "有助于识别和改进低资源语言模型的性能短板。"
+  ],
+  "tags": [
+    "ASR",
+    "Leaderboard",
+    "Low-resource",
+    "Multilingual",
+    "HuggingFace"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该更新对低资源语言社区具有重要价值，但影响范围相对有限，评分适中偏高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

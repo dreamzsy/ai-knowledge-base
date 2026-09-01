@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-01-polimill-builds-japan-s-next-generation-public-ai-infrastructure",
+  "title": "Polimill builds Japan's next-generation public AI infrastructure",
+  "source": "rss",
+  "source_url": "https://openai.com/index/polimill",
+  "author": "openai_blog",
+  "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+  "collected_at": "2026-09-01T12:55:31.454160+00:00",
+  "summary": "Polimill 利用 OpenAI 的 GPT 模型和 Codex，为日本地方政府构建下一代公共 AI 基础设施，帮助市政机构高效检索和运用行政知识，同时加速开发进程。",
+  "highlights": [
+    "Polimill 采用 OpenAI GPT 模型处理行政知识检索，提升市政工作效率。",
+    "借助 Codex 加速开发，快速构建公共 AI 基础设施。",
+    "面向日本地方政府，推动公共部门数字化转型。",
+    "展示 OpenAI 技术在公共行政领域的实际应用案例。"
+  ],
+  "tags": [
+    "LLM",
+    "Public Sector",
+    "GPT",
+    "Codex",
+    "AI Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该项目展示了 LLM 在公共行政中的落地价值，但技术细节有限，创新性一般。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
