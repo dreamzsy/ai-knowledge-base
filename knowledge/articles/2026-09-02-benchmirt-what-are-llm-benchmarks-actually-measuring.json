@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-02-benchmirt-what-are-llm-benchmarks-actually-measuring",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/benchmirt",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 01 Sep 2026 21:39:07 GMT",
+  "collected_at": "2026-09-02T12:26:45.685860+00:00",
+  "summary": "BenchMIRT 是艾伦人工智能研究所发布的一篇博客文章，探讨了 LLM 基准测试的实际测量内容。文章指出当前基准测试存在局限性，可能无法全面反映模型能力，并提出了新的评估方法或视角，以更准确地衡量 LLM 的性能。",
+  "highlights": [
+    "深入剖析现有 LLM 基准测试的盲点与偏差",
+    "提出更严谨的评估框架以反映真实模型能力",
+    "基于艾伦研究所的研究成果，具有权威性",
+    "为未来基准测试设计提供指导性建议"
+  ],
+  "tags": [
+    "LLM",
+    "Benchmark",
+    "Evaluation",
+    "AI Research"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章对基准测试的批判性分析具有重要参考价值，但缺乏具体实验数据，评分略低于顶尖研究。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

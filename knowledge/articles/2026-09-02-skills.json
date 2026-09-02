@@ -1,0 +1,31 @@
+{
+  "id": "2026-09-02-skills",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "author": "mattpocock",
+  "published_at": "2026-02-03T11:15:53Z",
+  "collected_at": "2026-09-02T12:25:09.380268+00:00",
+  "summary": "mattpocock/skills 是一个面向真实工程师的技能集合，直接来源于作者本人的 .agents 目录。该项目旨在分享实用的工程技能或代理配置，帮助开发者提升工作效率。内容可能涵盖编码实践、工具使用或 AI 代理相关技能，适合希望借鉴资深工程师经验的开发者参考。",
+  "highlights": [
+    "技能直接来源于作者实际使用的 .agents 目录，具有实战性",
+    "面向真实工程师，强调实用性而非理论",
+    "可能包含 AI 代理配置或工作流，与当前开发趋势契合",
+    "开源分享，便于社区学习和复用"
+  ],
+  "tags": [
+    "Skills",
+    "Engineering",
+    "Agents",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目提供实战技能分享，但内容具体性和创新性未知，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 244616,
+    "language": "Shell"
+  }
+}

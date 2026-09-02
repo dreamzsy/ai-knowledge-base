@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-02-44-on-arc-agi-1-in-67-cents",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source": "rss",
+  "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 01 Sep 2026 12:15:18 -0500",
+  "collected_at": "2026-09-02T12:26:14.386273+00:00",
+  "summary": "该博客文章介绍了一种以极低成本（67美分）在ARC-AGI-1基准上达到44%准确率的方法，展示了通过优化提示词和利用现有LLM能力，在不进行微调的情况下显著提升推理性能的可能性。",
+  "highlights": [
+    "以67美分的成本在ARC-AGI-1上取得44%的准确率，性价比极高。",
+    "方法基于现有LLM，无需微调，仅通过精心设计的提示词和推理策略。",
+    "展示了LLM在抽象推理任务上的潜力，挑战了传统观点。",
+    "提供了详细的实验过程和代码，便于复现和进一步研究。"
+  ],
+  "tags": [
+    "LLM",
+    "ARC-AGI",
+    "Prompting",
+    "Reasoning",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "以极低成本实现高基准分数，方法创新且实用，对LLM推理研究有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
