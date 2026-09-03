@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-03-guarded-methods-in-ocaml",
+  "title": "Guarded methods in OCaml",
+  "source": "rss",
+  "source_url": "https://xvw.lol/en/articles/oop-refl.html",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 02 Aug 2026 08:03:14 -0500",
+  "collected_at": "2026-09-03T12:24:42.220461+00:00",
+  "summary": "本文探讨了OCaml中如何通过守卫方法（guarded methods）实现面向对象编程中的封装与访问控制，类比Java等语言的访问修饰符，展示了OCaml类型系统与模块系统在实现类似功能时的灵活性与表达力。",
+  "highlights": [
+    "介绍OCaml中守卫方法的概念，用于控制对象方法的可见性。",
+    "对比传统OOP语言中的访问控制机制，展示OCaml的替代方案。",
+    "通过示例说明如何利用OCaml的模块和类型系统实现守卫方法。",
+    "强调OCaml在保持函数式编程特性的同时，支持面向对象风格的封装。"
+  ],
+  "tags": [
+    "OCaml",
+    "OOP",
+    "Encapsulation",
+    "Type System",
+    "Functional Programming"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容深入探讨OCaml的OOP特性，对OCaml开发者有实用价值，但受众相对小众，通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

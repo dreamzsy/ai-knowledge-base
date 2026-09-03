@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-03-path-to-astra-critical-capabilities-and-frontier-safeguards",
+  "title": "Path to Astra: critical capabilities and frontier safeguards",
+  "source": "rss",
+  "source_url": "https://openai.com/index/path-to-astra",
+  "author": "openai_blog",
+  "published_at": "Tue, 01 Sep 2026 13:00:00 GMT",
+  "collected_at": "2026-09-03T12:24:48.417388+00:00",
+  "summary": "OpenAI 发布 Astra，这是首个在 Preparedness Framework 下达到关键网络安全能力阈值的模型。该模型具备更强的发布安全防护措施，标志着前沿模型在能力与安全平衡上的重要进展。",
+  "highlights": [
+    "Astra 是 OpenAI 首个满足关键网络安全能力阈值的模型",
+    "基于 Preparedness Framework 进行严格评估",
+    "针对高风险能力加强了发布前安全防护",
+    "体现了前沿 AI 安全治理的实践进展"
+  ],
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "Preparedness Framework",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该内容展示了前沿模型安全评估与防护的具体实践，对 AI 安全领域具有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

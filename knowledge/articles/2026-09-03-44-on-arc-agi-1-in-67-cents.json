@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-03-44-on-arc-agi-1-in-67-cents",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source": "rss",
+  "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 01 Sep 2026 12:15:18 -0500",
+  "collected_at": "2026-09-03T12:24:29.572732+00:00",
+  "summary": "该博客展示了在ARC-AGI-1基准测试上以极低成本（67美分）达到44%准确率的方法，通过优化提示词和利用现有模型，挑战了高成本AI研究的必要性，并提供了详细的实现思路。",
+  "highlights": [
+    "以67美分的计算成本在ARC-AGI-1上获得44%的准确率，显著低于传统方法。",
+    "方法基于现有模型和精心设计的提示词，无需额外训练或微调。",
+    "文章详细分析了ARC-AGI-1的挑战，并展示了如何通过推理策略提升性能。",
+    "结果引发对AI研究成本效益的讨论，强调低成本创新的潜力。"
+  ],
+  "tags": [
+    "ARC-AGI",
+    "Prompt Engineering",
+    "Cost Efficiency",
+    "Reasoning",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "以极低成本实现高基准分数，具有实用性和启发性，但方法可能依赖特定模型，泛化性待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

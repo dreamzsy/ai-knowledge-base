@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-03-bye-bye-perspective-api-lessons-for-measurement-infrastructure-in-nlp-css-and-llm-evaluation",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.25580",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 02 Sep 2026 06:52:23 -0500",
+  "collected_at": "2026-09-03T12:24:24.427193+00:00",
+  "summary": "本文探讨了Perspective API在NLP、CSS和LLM评估中的退出，反思了测量基础设施的教训。作者分析了依赖外部API进行内容审核和模型评估的局限性，包括成本、可重复性和透明度问题，并提出了构建更稳健、可解释的评估框架的建议。文章强调社区需要自主工具和标准化流程，以支持负责任的AI开发。",
+  "highlights": [
+    "Perspective API的关闭凸显了外部评估工具的脆弱性。",
+    "测量基础设施需兼顾可重复性、透明度和成本效益。",
+    "提出构建开源、可定制的评估框架以替代专有API。",
+    "对LLM评估实践具有重要启示，推动社区反思依赖关系。"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "NLP",
+    "Infrastructure",
+    "Responsible AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章切中当前LLM评估痛点，提供前瞻性反思，但缺乏具体技术方案，价值较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
