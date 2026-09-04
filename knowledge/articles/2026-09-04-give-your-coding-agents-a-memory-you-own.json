@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-04-give-your-coding-agents-a-memory-you-own",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/funes",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-04T12:24:40.656653+00:00",
+  "summary": "Hugging Face 博客文章介绍 Funes，一个为编码代理提供持久记忆的开源解决方案。它允许开发者拥有和控制代理的记忆数据，通过可扩展的存储后端和 API 集成，增强代理在长期任务中的上下文保持能力，提升编码效率。",
+  "highlights": [
+    "Funes 为编码代理提供可拥有的持久记忆层，解决上下文丢失问题。",
+    "支持多种存储后端，用户可完全控制记忆数据。",
+    "提供简单 API，易于集成到现有编码代理工作流。",
+    "强调数据所有权和隐私，符合开源理念。"
+  ],
+  "tags": [
+    "Coding Agent",
+    "Memory",
+    "Open Source",
+    "LLM",
+    "Tooling"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对编码代理记忆痛点提供实用开源方案，具有较高实用价值和创新性，但尚需验证生态成熟度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

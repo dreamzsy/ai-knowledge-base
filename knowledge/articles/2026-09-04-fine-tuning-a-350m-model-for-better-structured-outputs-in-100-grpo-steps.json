@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-04-fine-tuning-a-350m-model-for-better-structured-outputs-in-100-grpo-steps",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-04T12:24:37.723604+00:00",
+  "summary": "本文介绍如何通过仅100步GRPO训练，对350M参数模型进行微调，以提升其结构化输出能力。作者使用TRL库和IFStruct数据集，展示了在少量训练步骤下模型性能的显著改善，并提供了具体实现方法和结果分析。",
+  "highlights": [
+    "仅用100步GRPO训练即可显著提升350M模型的结构化输出质量",
+    "使用TRL库和IFStruct数据集进行微调，流程简洁高效",
+    "展示了GRPO在小型模型上的有效性，为资源受限场景提供参考",
+    "提供了详细的训练配置和评估结果，便于复现"
+  ],
+  "tags": [
+    "GRPO",
+    "Fine-tuning",
+    "Structured Output",
+    "TRL",
+    "Small Model"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "方法新颖且实用，以极低成本提升结构化输出，对小型模型优化有重要参考价值，但适用范围有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

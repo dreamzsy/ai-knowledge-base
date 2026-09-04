@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-04-llms-and-self-referentiality",
+  "title": "LLMs and self-referentiality",
+  "source": "rss",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 03 Sep 2026 08:39:13 -0500",
+  "collected_at": "2026-09-04T12:24:08.456345+00:00",
+  "summary": "斯科特·阿伦森在博客中探讨了大型语言模型与自我指涉性的关系，分析了LLM在推理、自我引用及逻辑一致性方面的局限，并讨论了其哲学与计算层面的意义。",
+  "highlights": [
+    "深入剖析LLM在自我指涉场景下的行为表现与潜在缺陷",
+    "结合计算理论，探讨自我引用对模型推理能力的影响",
+    "提出对LLM未来发展的哲学思考与研究方向"
+  ],
+  "tags": [
+    "LLM",
+    "Self-Reference",
+    "Reasoning",
+    "Theory"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章由权威学者撰写，主题前沿且具有理论深度，对理解LLM的局限性有重要启发。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

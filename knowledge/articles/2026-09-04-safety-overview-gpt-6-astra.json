@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-04-safety-overview-gpt-6-astra",
+  "title": "Safety overview: GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "author": "openai_blog",
+  "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-04T12:24:33.148300+00:00",
+  "summary": "OpenAI 发布 GPT-6 Astra 安全概览，称其为迄今最强大的广泛部署模型，并在其 Preparedness Framework 下首次达到网络安全能力的“关键”级别。文章概述了该模型的安全评估、风险缓解措施及部署策略，强调对潜在高风险能力的审慎管理。",
+  "highlights": [
+    "GPT-6 Astra 是 OpenAI 最强大的广泛部署模型，首次达到网络安全能力的 Critical 级别。",
+    "该模型在 Preparedness Framework 下经过严格评估，以管理前沿 AI 的潜在风险。",
+    "OpenAI 强调安全部署策略，包括分阶段发布和持续监控。",
+    "文章可能涉及对模型滥用风险的缓解措施，如限制危险能力的使用。"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Cybersecurity",
+    "OpenAI",
+    "Deployment"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该资讯涉及前沿模型的安全评估与部署策略，对 AI 安全领域具有重要参考价值，但缺乏技术细节，评分略高但合理。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
