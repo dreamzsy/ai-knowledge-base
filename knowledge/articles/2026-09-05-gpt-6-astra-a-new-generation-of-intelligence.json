@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-05-gpt-6-astra-a-new-generation-of-intelligence",
+  "title": "GPT-6 Astra: A new generation of intelligence",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-6-astra",
+  "author": "openai_blog",
+  "published_at": "Thu, 03 Sep 2026 11:00:00 GMT",
+  "collected_at": "2026-09-05T11:31:22.652571+00:00",
+  "summary": "OpenAI 发布了 GPT-6 Astra，宣称是其迄今最智能、对齐度最高的模型，在计算机使用、编程、网络安全和科学领域具备顶尖能力。该模型代表了新一代人工智能，旨在推动多领域的技术进步与应用。",
+  "highlights": [
+    "GPT-6 Astra 是 OpenAI 最智能且对齐度最高的模型。",
+    "在计算机使用、编程、网络安全和科学领域具有顶尖能力。",
+    "标志着新一代人工智能的诞生，强调安全与性能并重。"
+  ],
+  "tags": [
+    "LLM",
+    "AI",
+    "OpenAI",
+    "GPT-6",
+    "Cybersecurity"
+  ],
+  "language": "zh",
+  "score": 0.95,
+  "score_reason": "作为 OpenAI 的旗舰模型发布，技术前瞻性强，覆盖多个关键领域，具有很高的研究和应用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

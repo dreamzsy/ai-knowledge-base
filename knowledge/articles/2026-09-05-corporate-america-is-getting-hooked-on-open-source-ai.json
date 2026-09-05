@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-05-corporate-america-is-getting-hooked-on-open-source-ai",
+  "title": "Corporate America is getting hooked on open-source AI",
+  "source": "rss",
+  "source_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 04 Sep 2026 15:33:45 +0000",
+  "collected_at": "2026-09-05T11:30:49.492353+00:00",
+  "summary": "纽约时报报道称，美国企业正日益依赖开源AI模型，如Meta的Llama和Mistral，以降低成本、避免供应商锁定并增强数据隐私。尽管OpenAI和Anthropic等闭源模型性能领先，但企业因灵活性和定制需求转向开源。文章探讨了这一趋势对AI市场格局的影响，以及开源与闭源AI的竞争态势。",
+  "highlights": [
+    "企业采用开源AI以降低成本、避免供应商锁定并保护数据隐私。",
+    "开源模型性能接近闭源，且提供更高灵活性和定制能力。",
+    "闭源供应商如OpenAI和Anthropic面临开源社区的竞争压力。",
+    "开源AI的普及可能重塑AI行业格局，影响投资和创新方向。"
+  ],
+  "tags": [
+    "Open Source",
+    "AI",
+    "Enterprise",
+    "Model",
+    "Market"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章基于权威媒体，揭示重要市场趋势，对AI行业具有参考价值，但缺乏技术细节，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

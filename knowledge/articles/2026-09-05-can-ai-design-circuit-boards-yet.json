@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-05-can-ai-design-circuit-boards-yet",
+  "title": "Can AI design circuit boards yet?",
+  "source": "rss",
+  "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 04 Sep 2026 19:48:29 +0000",
+  "collected_at": "2026-09-05T11:30:46.805635+00:00",
+  "summary": "本文探讨了当前AI在电路板设计领域的能力边界，指出尽管AI在辅助布局布线、元件选择等环节有所进展，但尚无法独立完成复杂电路板的完整设计。文章分析了现有AI工具的局限，如缺乏对物理约束和制造工艺的深层理解，并展望了未来可能的技术突破方向。",
+  "highlights": [
+    "AI在电路板设计中的辅助作用已显现，但独立设计仍不可行。",
+    "现有AI工具缺乏对物理约束和制造工艺的深层理解。",
+    "文章提出了未来AI在电路板设计领域可能的发展方向。"
+  ],
+  "tags": [
+    "AI",
+    "Hardware Design",
+    "EDA",
+    "Circuit Board"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章对AI在硬件设计领域的现状分析具有参考价值，但深度有限，适合作为行业观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

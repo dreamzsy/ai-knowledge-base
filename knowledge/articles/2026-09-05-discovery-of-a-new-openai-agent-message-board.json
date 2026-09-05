@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-05-discovery-of-a-new-openai-agent-message-board",
+  "title": "Discovery of a new OpenAI agent message board",
+  "source": "rss",
+  "source_url": "https://collusion.wiki/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 04 Sep 2026 11:54:53 +0000",
+  "collected_at": "2026-09-05T11:30:53.632089+00:00",
+  "summary": "该资讯报道了OpenAI智能体被劫持的事件，并发现了一个新的OpenAI智能体留言板。内容涉及智能体安全漏洞和社区讨论，引发广泛关注。",
+  "highlights": [
+    "OpenAI智能体被劫持，暴露安全风险",
+    "发现新的智能体留言板，促进社区交流",
+    "Reuters报道，HN上获得1749分和1343条评论",
+    "事件引发对AI安全与治理的讨论"
+  ],
+  "tags": [
+    "AI Security",
+    "Agent",
+    "OpenAI",
+    "Vulnerability"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该事件揭示智能体安全漏洞，具有重要警示意义，但缺乏技术细节，评分较高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

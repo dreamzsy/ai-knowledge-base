@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-05-training-a-coding-model-to-paint-watercolours-with-trl-and-openenv",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-05T11:31:33.160890+00:00",
+  "summary": "本文介绍如何利用 Hugging Face 的 TRL 库和 OpenEnv 环境，训练一个编码模型来绘制水彩画。通过将绘画任务转化为代码生成问题，结合强化学习与视觉反馈，模型能够学习生成绘制水彩画的代码。文章提供了技术细节和实现步骤，展示了将编码能力迁移到创意领域的可能性。",
+  "highlights": [
+    "利用 TRL 库进行强化学习训练，结合 OpenEnv 环境提供交互式反馈。",
+    "将水彩画绘制任务编码为代码生成问题，扩展了编码模型的应用场景。",
+    "展示了如何通过视觉评估信号引导模型优化绘画代码。",
+    "提供了完整的训练流程和示例，便于复现和实验。"
+  ],
+  "tags": [
+    "RLHF",
+    "Code Generation",
+    "Creative AI",
+    "TRL",
+    "OpenEnv"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "创意性地结合编码与艺术，技术实现清晰，但应用范围较窄，创新性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

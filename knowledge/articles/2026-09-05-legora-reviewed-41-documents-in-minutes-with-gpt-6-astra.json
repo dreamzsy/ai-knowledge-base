@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-05-legora-reviewed-41-documents-in-minutes-with-gpt-6-astra",
+  "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "author": "openai_blog",
+  "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-05T11:31:20.612811+00:00",
+  "summary": "Legora 利用 GPT-6 Astra 在几分钟内审查了 41 份财务文件，成功找出全部四个植入错误，并将工作流性能提升近 40%，展示了 GPT-6 Astra 在金融文档审查中的高效能力。",
+  "highlights": [
+    "GPT-6 Astra 在几分钟内处理 41 份文档，显著提升审查效率。",
+    "成功识别所有四个预设错误，验证了模型的准确性。",
+    "整体性能提升近 40%，优化了金融审查工作流。",
+    "该案例展示了 GPT-6 Astra 在专业领域应用的潜力。"
+  ],
+  "tags": [
+    "LLM",
+    "Financial",
+    "Document Review",
+    "GPT-6",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "案例具体且数据明确，展示了模型在专业场景中的高效与准确，但缺乏对比基准和广泛适用性验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
