@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-06-playco-cut-manual-fixes-50-prototyping-games-with-gpt-6-astra",
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "author": "openai_blog",
+  "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-06T11:51:59.423379+00:00",
+  "summary": "OpenAI 案例研究显示，Playco 使用 GPT-6 Astra 从同一灰盒基础构建了三个主题游戏原型，与之前模型相比，手动修复减少了 50%。这展示了 GPT-6 Astra 在游戏原型设计中的高效性和质量提升，有助于加速开发流程。",
+  "highlights": [
+    "Playco 利用 GPT-6 Astra 从单一灰盒基础快速生成三个不同主题的游戏原型。",
+    "相比旧模型，手动修复工作量减少 50%，显著提升开发效率。",
+    "案例表明 GPT-6 Astra 在游戏开发领域具有实际应用价值。"
+  ],
+  "tags": [
+    "GPT-6",
+    "Game Development",
+    "Prototyping",
+    "AI Case Study"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "案例具体且数据明确，但仅针对单一场景，通用性有限，故评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

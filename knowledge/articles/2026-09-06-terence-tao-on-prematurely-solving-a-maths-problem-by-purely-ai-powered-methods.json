@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-06-terence-tao-on-prematurely-solving-a-maths-problem-by-purely-ai-powered-methods",
+  "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+  "source": "rss",
+  "source_url": "https://mathstodon.xyz/@tao/117207856734787448",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 06 Sep 2026 02:45:24 -0500",
+  "collected_at": "2026-09-06T11:51:39.024431+00:00",
+  "summary": "陶哲轩在数学社交平台上讨论纯AI方法过早解决数学问题的风险，强调AI在数学和编程中的局限性，建议结合人类直觉与AI工具，避免过度依赖。",
+  "highlights": [
+    "陶哲轩指出纯AI方法可能忽略数学问题的深层结构，导致表面解决但缺乏严谨性。",
+    "强调AI应作为辅助工具，而非替代人类推理，尤其在复杂数学和编程任务中。",
+    "建议社区关注AI与人类协作的平衡，以提升问题解决的可靠性和创新性。"
+  ],
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Programming",
+    "Human-AI Collaboration"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "观点深刻且具启发性，但缺乏具体案例或数据支撑，评分略低于满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

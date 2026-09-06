@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+    "url": "https://mathstodon.xyz/@tao/117207856734787448",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 06 Sep 2026 02:45:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Using machine learning on my Guitar Hero Controller",
+    "url": "https://p0ly.com/ml_strummer.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hhogjo/using_machine_learning_on_my_guitar_hero\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 10:23:26 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LLMs and self-referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jato3y/llms_self_referentiality\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 03 Sep 2026 08:39:13 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "US government backs OpenAI in New York Times copyright case",
+    "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xoklqk/us_government_backs_openai_new_york_times\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 02 Sep 2026 20:13:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "published_at": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "author": "openai_blog",
+    "summary_raw": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "author": "openai_blog",
+    "summary_raw": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "author": "openai_blog",
+    "summary_raw": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "published_at": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "url": "https://huggingface.co/blog/funes",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

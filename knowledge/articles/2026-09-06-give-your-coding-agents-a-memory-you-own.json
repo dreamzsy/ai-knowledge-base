@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-06-give-your-coding-agents-a-memory-you-own",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/funes",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-06T11:52:11.293625+00:00",
+  "summary": "Hugging Face 博客文章探讨如何为编码代理提供自主可控的记忆功能，强调通过外部存储和检索机制增强代理的长期记忆，使开发者能够拥有和管理代理的记忆数据，提升编码任务的连续性和个性化。",
+  "highlights": [
+    "提出为编码代理添加持久记忆的方案，让代理记住用户偏好和历史决策。",
+    "强调记忆数据由用户拥有，支持本地或私有云存储，保障隐私。",
+    "通过检索增强生成（RAG）技术实现记忆的自动存取，提高编码效率。",
+    "展示了实际应用场景，如代码风格保持和项目上下文恢复。"
+  ],
+  "tags": [
+    "Coding Agent",
+    "Memory",
+    "RAG",
+    "LLM",
+    "Framework"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该文章为编码代理提供实用的记忆增强方案，概念清晰且具有实际应用价值，但缺乏具体实现细节，评分稍高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
