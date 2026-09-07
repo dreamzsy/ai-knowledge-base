@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-07-research-acceleration-the-view-inside-openai",
+  "title": "Research acceleration: The view inside OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "author": "openai_blog",
+  "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+  "collected_at": "2026-09-07T13:51:00.453509+00:00",
+  "summary": "OpenAI 内部数据显示，编码智能体正在重塑 AI 研究流程，显著提升实验速度和任务复杂度处理能力，加速研究进展。",
+  "highlights": [
+    "编码智能体在 OpenAI 内部被广泛使用，成为研究加速的关键工具。",
+    "智能体显著提升了实验迭代速度，缩短了研究周期。",
+    "智能体能够处理更复杂的任务，扩展了研究人员的探索边界。",
+    "早期数据表明，智能体驱动的自动化正在改变研究范式。"
+  ],
+  "tags": [
+    "AI Research",
+    "Coding Agents",
+    "Automation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "提供了 OpenAI 内部智能体使用的一手数据，对理解 AI 研究趋势具有高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

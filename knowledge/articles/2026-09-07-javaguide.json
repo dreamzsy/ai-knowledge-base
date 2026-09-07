@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-07-javaguide",
+  "title": "Snailclimb/JavaGuide",
+  "source": "github_trending",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "author": "Snailclimb",
+  "published_at": "2018-05-07T13:27:00Z",
+  "collected_at": "2026-09-07T13:50:22.230813+00:00",
+  "summary": "JavaGuide 是一个广受欢迎的 Java 面试与后端通用面试指南，内容涵盖计算机基础、数据库、分布式系统、高并发、系统设计以及 AI 应用开发等核心领域，为开发者提供系统化的知识梳理和面试准备资源。",
+  "highlights": [
+    "覆盖全面：从 Java 基础到分布式、高并发，再到 AI 应用开发，一站式面试准备。",
+    "社区活跃：GitHub 上拥有超高 Star 数，持续更新，内容质量有保障。",
+    "实用性强：提供大量面试题解析、知识总结和实战经验，适合求职者和进阶开发者。",
+    "结构清晰：按主题分类，便于快速查阅和系统学习。"
+  ],
+  "tags": [
+    "Java",
+    "Interview",
+    "Backend",
+    "System Design",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.95,
+  "score_reason": "作为经典的开源面试指南，内容全面且持续维护，对后端开发者求职和技能提升具有极高价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 158345,
+    "language": "JavaScript"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-07-us-government-backs-openai-in-new-york-times-copyright-case",
+  "title": "US government backs OpenAI in New York Times copyright case",
+  "source": "rss",
+  "source_url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 02 Sep 2026 20:13:14 -0500",
+  "collected_at": "2026-09-07T13:50:39.292083+00:00",
+  "summary": "美国政府在美国纽约时报诉OpenAI版权案中支持OpenAI，认为其使用受版权保护材料训练AI模型属于合理使用。此案对AI行业具有重大影响，可能决定未来AI训练数据的合法边界。",
+  "highlights": [
+    "美国政府立场支持OpenAI，强调合理使用原则。",
+    "此案可能为AI训练数据使用设定法律先例。",
+    "纽约时报主张版权侵权，但政府认为技术发展需平衡。",
+    "判决结果将影响AI公司数据获取策略。"
+  ],
+  "tags": [
+    "Copyright",
+    "AI",
+    "Legal",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "涉及AI法律前沿，对行业有指导意义，但非技术突破，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

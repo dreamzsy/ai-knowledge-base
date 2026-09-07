@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-07-researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy",
+  "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+  "source": "rss",
+  "source_url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 01 Sep 2026 17:42:12 -0500",
+  "collected_at": "2026-09-07T13:50:42.010840+00:00",
+  "summary": "华盛顿州立大学的研究人员利用人工智能技术，使关键金属合金的3D打印更加普及。他们开发了一种AI模型，能够优化打印参数，提高合金性能，降低对专业知识的依赖，从而让更多制造商能够使用高性能合金进行增材制造。",
+  "highlights": [
+    "AI模型可自动优化金属合金3D打印参数，提升打印质量。",
+    "该技术降低了高性能合金打印的门槛，促进制造业民主化。",
+    "研究聚焦于关键金属合金，可能应用于航空航天、汽车等领域。",
+    "通过AI替代传统试错法，显著节省时间和成本。"
+  ],
+  "tags": [
+    "AI",
+    "3D Printing",
+    "Metal Alloy",
+    "Manufacturing",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该研究将AI应用于工业制造，具有实际应用价值，但属于应用型进展，创新深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
