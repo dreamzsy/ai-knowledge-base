@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-08-an-alien-mind",
+  "title": "An Alien Mind",
+  "source": "rss",
+  "source_url": "https://openai.com/index/an-alien-mind",
+  "author": "openai_blog",
+  "published_at": "Sun, 06 Sep 2026 09:00:00 GMT",
+  "collected_at": "2026-09-08T12:27:30.812423+00:00",
+  "summary": "OpenAI 研究负责人 Jakub Pachocki 在《An Alien Mind》一文中反思了日益强大的 AI 及其对齐挑战，呼吁加强安全防护和国际协调，以确保 AI 的发展符合人类利益。",
+  "highlights": [
+    "强调 AI 能力快速提升带来的对齐风险",
+    "提出需要更强大的安全防护措施",
+    "呼吁国际社会协调合作应对 AI 风险",
+    "反思人类与 AI 关系的本质变化"
+  ],
+  "tags": [
+    "AI Alignment",
+    "AI Safety",
+    "OpenAI",
+    "Policy"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章由 OpenAI 核心人物撰写，聚焦 AI 对齐与安全，具有重要行业影响力，但缺乏具体技术细节，评分较高但非满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

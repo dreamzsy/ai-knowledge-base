@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-08-llms-and-self-referentiality",
+  "title": "LLMs and self-referentiality",
+  "source": "rss",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 03 Sep 2026 08:39:13 -0500",
+  "collected_at": "2026-09-08T12:27:10.333662+00:00",
+  "summary": "斯科特·阿伦森在博客中探讨了大型语言模型（LLM）与自我指涉性之间的关系，分析了LLM在处理自我指涉语句（如“这句话是假的”）时的表现，并讨论了其与哥德尔不完备定理、计算理论及意识等哲学问题的联系。文章指出，LLM虽能模仿自我指涉，但缺乏真正的理解，并提出了关于AI是否可能具备自我意识的有趣问题。",
+  "highlights": [
+    "深入探讨LLM与自我指涉性，连接哥德尔定理与计算理论。",
+    "分析LLM对悖论语句的处理，揭示其局限与模仿能力。",
+    "引发关于AI自我意识与理解本质的哲学思考。",
+    "以清晰易懂的方式阐述复杂概念，适合技术爱好者阅读。"
+  ],
+  "tags": [
+    "LLM",
+    "Self-Referentiality",
+    "Philosophy",
+    "Theory of Computation",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "文章提供深刻的哲学视角，但缺乏具体技术细节，适合启发思考而非直接应用。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
