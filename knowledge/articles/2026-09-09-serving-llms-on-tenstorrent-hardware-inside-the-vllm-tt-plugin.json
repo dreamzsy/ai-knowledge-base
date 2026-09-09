@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-09-serving-llms-on-tenstorrent-hardware-inside-the-vllm-tt-plugin",
+  "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+  "source": "rss",
+  "source_url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 09 Sep 2026 03:18:10 -0500",
+  "collected_at": "2026-09-09T12:36:24.280667+00:00",
+  "summary": "本文介绍了在Tenstorrent硬件上部署LLM的vLLM TT插件，该插件将vLLM与Tenstorrent的AI加速器集成，支持高性能推理。文章详细说明了插件的架构、安装步骤、性能优化方法及实际应用案例，展示了如何利用Tenstorrent硬件提升LLM服务效率。",
+  "highlights": [
+    "vLLM TT插件实现了vLLM与Tenstorrent硬件的无缝集成，简化了部署流程。",
+    "通过硬件优化，该插件显著提升了LLM推理的吞吐量和延迟表现。",
+    "文章提供了详细的配置指南和性能调优建议，便于开发者快速上手。",
+    "实际案例展示了在Tenstorrent平台上运行大型模型的可行性和优势。"
+  ],
+  "tags": [
+    "LLM",
+    "vLLM",
+    "Hardware",
+    "Inference",
+    "Plugin"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容聚焦于特定硬件集成，技术性强，对相关开发者有较高参考价值，但适用范围较窄。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

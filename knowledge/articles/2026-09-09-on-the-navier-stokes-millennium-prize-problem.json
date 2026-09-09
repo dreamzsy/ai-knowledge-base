@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-09-on-the-navier-stokes-millennium-prize-problem",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "source": "rss",
+  "source_url": "https://openai.com/index/navier-stokes-solution",
+  "author": "openai_blog",
+  "published_at": "Tue, 08 Sep 2026 10:00:00 GMT",
+  "collected_at": "2026-09-09T12:36:51.811783+00:00",
+  "summary": "OpenAI 发布了一项由 AI 生成的 Navier-Stokes 千禧年大奖难题的解决方案，包含书面证明和 Lean 形式化验证。该成果展示了 AI 在数学推理和形式化证明方面的能力，可能对数学和 AI 领域产生深远影响。",
+  "highlights": [
+    "AI 生成了 Navier-Stokes 问题的完整解决方案，并通过 Lean 进行了形式化验证。",
+    "该成果标志着 AI 在解决重大数学难题方面取得突破性进展。",
+    "Lean 证明确保了解决方案的严谨性和可验证性。",
+    "可能推动数学研究范式的变革，加速 AI 辅助数学发现。"
+  ],
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Formal Proof",
+    "Lean",
+    "Navier-Stokes"
+  ],
+  "language": "zh",
+  "score": 0.95,
+  "score_reason": "该成果具有极高的科学价值和影响力，可能解决世纪难题并展示 AI 在数学领域的巨大潜力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

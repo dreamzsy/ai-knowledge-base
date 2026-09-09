@@ -1,0 +1,27 @@
+{
+  "id": "2026-09-09-the-work-now-within-reach",
+  "title": "The Work Now Within Reach",
+  "source": "rss",
+  "source_url": "https://openai.com/index/the-work-now-within-reach",
+  "author": "openai_blog",
+  "published_at": "Tue, 08 Sep 2026 13:00:00 GMT",
+  "collected_at": "2026-09-09T12:36:46.948739+00:00",
+  "summary": "OpenAI 发布文章，探讨更强大且更经济的 AI 如何拓展个人和企业的能力边界，使增长更具成本效益。文章强调 AI 的普及将带来新的工作机会和效率提升，推动经济和社会进步。",
+  "highlights": [
+    "AI 能力的提升和成本下降将扩大可完成工作的范围。",
+    "企业和个人可利用 AI 实现更经济的增长。",
+    "文章展望 AI 对工作方式和经济结构的积极影响。"
+  ],
+  "tags": [
+    "AI",
+    "Economy",
+    "Productivity",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容具有前瞻性，但缺乏具体技术细节，对技术实践者价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

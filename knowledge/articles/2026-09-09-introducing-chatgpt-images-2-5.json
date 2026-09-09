@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-09-introducing-chatgpt-images-2-5",
+  "title": "Introducing ChatGPT Images 2.5",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+  "author": "openai_blog",
+  "published_at": "Tue, 08 Sep 2026 11:30:00 GMT",
+  "collected_at": "2026-09-09T12:36:49.154579+00:00",
+  "summary": "OpenAI 发布 ChatGPT Images 2.5，该模型能将用户的创意、草图及参考照片转化为更个性化、更精致的图像，更准确地反映用户想法。它提升了图像生成的质量与个性化程度，适用于创意设计、视觉内容制作等场景。",
+  "highlights": [
+    "支持将草图、参考照片转化为高质量个性化图像",
+    "图像生成更精细，更贴合用户原始创意",
+    "面向创意设计、视觉内容等应用场景",
+    "由 OpenAI 官方发布，技术成熟度较高"
+  ],
+  "tags": [
+    "Image Generation",
+    "Multimodal",
+    "OpenAI",
+    "Creative AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该模型在图像生成质量与个性化方面有显著提升，但缺乏技术细节和开源生态，对开发者价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

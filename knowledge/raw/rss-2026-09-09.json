@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 395 # Comments: 348",
+    "published_at": "Tue, 08 Sep 2026 21:00:52 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 550 # Comments: 601",
+    "published_at": "Tue, 08 Sep 2026 19:25:00 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 687 # Comments: 233",
+    "published_at": "Tue, 08 Sep 2026 14:05:57 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "We Must Return to the Office to Use AI in Person",
+    "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person Comments URL: https://news.ycombinator.com/item?id=49610229 Points: 380 # Comments: 65",
+    "published_at": "Tue, 08 Sep 2026 13:41:25 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+    "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/twvlv6/serving_llms_on_tenstorrent_hardware\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 09 Sep 2026 03:18:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Using machine learning on my Guitar Hero Controller",
+    "url": "https://p0ly.com/ml_strummer.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hhogjo/using_machine_learning_on_my_guitar_hero\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 10:23:26 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LLMs and self-referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jato3y/llms_self_referentiality\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 03 Sep 2026 08:39:13 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "US government backs OpenAI in New York Times copyright case",
+    "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xoklqk/us_government_backs_openai_new_york_times\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 02 Sep 2026 20:13:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "author": "openai_blog",
+    "summary_raw": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "published_at": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "author": "openai_blog",
+    "summary_raw": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "published_at": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "author": "openai_blog",
+    "summary_raw": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "published_at": "Tue, 08 Sep 2026 11:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "author": "openai_blog",
+    "summary_raw": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "published_at": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 08 Sep 2026 14:23:07 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "url": "https://huggingface.co/blog/funes",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-09-safety-for-whom-refusing-the-right-subset-of-a-topic-not-the-whole-topic",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 08 Sep 2026 14:23:07 GMT",
+  "collected_at": "2026-09-09T12:36:54.252664+00:00",
+  "summary": "本文探讨了AI安全对齐中的一个关键问题：如何精准拒绝话题中的特定有害子集，而非整个话题。作者提出一种更细粒度的安全控制方法，允许模型在保持话题整体可用性的同时，仅对危险部分进行拒绝，从而提升安全性与实用性。",
+  "highlights": [
+    "提出话题级安全拒绝的细粒度方法，避免过度拒绝导致功能受限。",
+    "强调安全对齐需考虑用户意图与上下文，而非简单一刀切。",
+    "通过示例展示如何识别并拒绝话题中的危险子集。",
+    "为AI安全研究提供了新的视角和实用策略。"
+  ],
+  "tags": [
+    "AI Safety",
+    "Alignment",
+    "Fine-grained Control",
+    "Topic Refusal"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该文针对AI安全中的实际痛点提出创新思路，具有较强实用价值，但缺乏具体技术细节和实验验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

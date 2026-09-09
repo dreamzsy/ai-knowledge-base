@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-09-using-machine-learning-on-my-guitar-hero-controller",
+  "title": "Using machine learning on my Guitar Hero Controller",
+  "source": "rss",
+  "source_url": "https://p0ly.com/ml_strummer.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 04 Sep 2026 10:23:26 -0500",
+  "collected_at": "2026-09-09T12:36:26.616946+00:00",
+  "summary": "作者利用机器学习技术分析吉他英雄控制器，通过传感器数据识别玩家动作，实现更精准的输入检测。项目结合硬件改装与ML模型，展示了低成本设备上的实时分类应用，为游戏外设智能化提供了有趣案例。",
+  "highlights": [
+    "将机器学习应用于游戏控制器，提升输入识别精度",
+    "结合硬件改装与传感器数据采集，构建训练数据集",
+    "实时分类玩家动作，验证ML在嵌入式场景的可行性",
+    "开源项目，提供完整实现细节与代码"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Embedded",
+    "Gaming",
+    "Sensor"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目创意新颖且实践性强，但应用场景小众，技术深度一般，综合价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

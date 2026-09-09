@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-09-muse-meta-s-personal-ai-agent",
+  "title": "Muse – Meta’s personal AI agent",
+  "source": "rss",
+  "source_url": "https://ai.meta.com/muse/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 08 Sep 2026 19:25:00 +0000",
+  "collected_at": "2026-09-09T12:36:15.542958+00:00",
+  "summary": "Meta 发布了其个人 AI 代理 Muse，旨在通过对话式交互帮助用户完成日常任务。该产品基于 Meta 的 AI 技术，强调个性化和上下文理解，可能集成到 Meta 生态中。HN 上讨论热烈，关注其隐私、功能与未来影响。",
+  "highlights": [
+    "Muse 是 Meta 推出的个人 AI 代理，主打个性化助手体验。",
+    "产品可能深度集成 Meta 生态，利用社交数据增强上下文理解。",
+    "社区讨论聚焦于隐私风险、AI 代理的实用性及与现有产品的差异。",
+    "发布引发 550 分和 601 条评论，显示高关注度。"
+  ],
+  "tags": [
+    "AI Agent",
+    "Personal Assistant",
+    "Meta",
+    "LLM",
+    "Privacy"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "Meta 的 AI 代理具有生态整合潜力，但信息有限且隐私争议可能影响其实际价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
