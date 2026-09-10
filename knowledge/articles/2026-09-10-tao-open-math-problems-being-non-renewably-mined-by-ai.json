@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-10-tao-open-math-problems-being-non-renewably-mined-by-ai",
+  "title": "Tao: Open math problems being non-renewably mined by AI",
+  "source": "rss",
+  "source_url": "https://mathstodon.xyz/@tao/117237320796901560",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 08 Sep 2026 21:00:52 +0000",
+  "collected_at": "2026-09-10T12:32:39.738904+00:00",
+  "summary": "陶哲轩在 Mathstodon 发帖指出，AI 正以不可再生的方式「开采」开放数学问题：模型批量尝试未解难题，一旦被解决便从公共问题池中永久移除，可能改变数学研究的生态与资源分配。该帖在 Hacker News 引发 476 分、410 条评论的热议，讨论涉及 AI 对数学发现的加速、问题选择策略、学术评价体系以及人类研究者角色的变化。",
+  "highlights": [
+    "陶哲轩提出「不可再生开采」隐喻：AI 批量攻克开放问题会永久消耗数学界的公共问题资源",
+    "HN 讨论达 476 分、410 条评论，反映社区对 AI 介入数学研究的高度关注与分歧",
+    "议题涉及 AI 加速数学发现与学术评价、问题选择策略、人类研究者角色之间的张力",
+    "该观点为评估 AI for Math 的长期影响提供了新的资源经济学视角"
+  ],
+  "tags": [
+    "AI4Math",
+    "LLM",
+    "ResearchEthics",
+    "OpenProblems",
+    "AutomatedReasoning"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "由顶尖数学家提出 AI 对数学问题生态影响的新颖视角，兼具学术深度与社区高热度，对 AI for Science 治理有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

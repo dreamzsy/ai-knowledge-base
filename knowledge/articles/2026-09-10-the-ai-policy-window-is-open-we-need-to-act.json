@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-10-the-ai-policy-window-is-open-we-need-to-act",
+  "title": "The AI policy window is open. We need to act.",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ai-policy-window",
+  "author": "openai_blog",
+  "published_at": "Wed, 09 Sep 2026 13:00:00 GMT",
+  "collected_at": "2026-09-10T12:33:06.236503+00:00",
+  "summary": "OpenAI 的 Chris Lehane 发文指出，随着 AI 能力不断增强，必须同步强化安全证据、建立共享标准并采取持久的政策行动。当前政策窗口期有限，呼吁各方抓住机会推动 AI 治理。文章强调安全与能力并重，倡导行业协作与政府监管结合，避免碎片化规则阻碍创新。",
+  "highlights": [
+    "AI 能力提升需匹配更强的安全证据与评估机制",
+    "呼吁建立跨机构、跨国的共享 AI 标准",
+    "政策窗口期短暂，需尽快采取持久行动",
+    "平衡创新与安全，避免碎片化监管"
+  ],
+  "tags": [
+    "AI Policy",
+    "AI Safety",
+    "Governance",
+    "Standards"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "来自 OpenAI 的政策倡导，对 AI 治理方向有参考价值，但缺乏具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

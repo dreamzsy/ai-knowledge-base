@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-10-gpt-6-astra-the-next-generation-in-intelligence-for-work",
+  "title": "GPT-6 Astra: The next generation in intelligence for work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+  "author": "openai_blog",
+  "published_at": "Wed, 09 Sep 2026 11:00:00 GMT",
+  "collected_at": "2026-09-10T12:33:08.184900+00:00",
+  "summary": "OpenAI 发布 GPT-6 Astra，定位为面向企业的最强模型，具备高级推理、计算机使用以及更强的写作与设计判断力。该模型旨在提升工作场景中的智能自动化水平，可能支持复杂任务规划、多步骤操作和创意内容生成，进一步推动 AI 在商业领域的落地。",
+  "highlights": [
+    "GPT-6 Astra 是 OpenAI 迄今面向企业的最强模型",
+    "具备高级推理能力，可处理复杂逻辑与决策任务",
+    "支持计算机使用（computer use），能直接操作软件界面",
+    "在写作和设计判断方面有显著增强，适合创意与专业场景"
+  ],
+  "tags": [
+    "LLM",
+    "OpenAI",
+    "Enterprise",
+    "ComputerUse",
+    "Reasoning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "作为 OpenAI 新一代旗舰模型，在企业级推理和计算机使用方面有重要突破，但缺乏具体技术细节和基准数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-10-paul-christiano-joins-openai-foundation-board",
+  "title": "Paul Christiano joins OpenAI Foundation Board",
+  "source": "rss",
+  "source_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+  "author": "openai_blog",
+  "published_at": "Wed, 09 Sep 2026 17:00:00 GMT",
+  "collected_at": "2026-09-10T12:33:10.124300+00:00",
+  "summary": "Paul Christiano 加入 OpenAI Foundation Board 及其安全与安保委员会。他拥有 AI 对齐、安全与标准方面的丰富经验，曾创立对齐研究中心（ARC），并提出了 RLHF 等关键方法。此次任命旨在加强 OpenAI 在 AI 安全治理方面的领导力，推动行业安全标准制定。",
+  "highlights": [
+    "Paul Christiano 加入 OpenAI Foundation Board 及安全与安保委员会",
+    "他在 AI 对齐、安全与标准领域拥有深厚经验，曾创立 ARC",
+    "他是 RLHF 等关键对齐方法的早期提出者之一",
+    "此举旨在强化 OpenAI 在 AI 安全治理和标准制定方面的能力"
+  ],
+  "tags": [
+    "AI Safety",
+    "Alignment",
+    "Governance",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该任命对 AI 安全治理具有积极意义，但属于人事变动，技术直接影响力有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

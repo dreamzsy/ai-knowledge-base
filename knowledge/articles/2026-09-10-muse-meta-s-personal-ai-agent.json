@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-10-muse-meta-s-personal-ai-agent",
+  "title": "Muse – Meta’s personal AI agent",
+  "source": "rss",
+  "source_url": "https://ai.meta.com/muse/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 08 Sep 2026 19:25:00 +0000",
+  "collected_at": "2026-09-10T12:32:42.346443+00:00",
+  "summary": "Meta 发布个人 AI 智能体产品 Muse，定位为面向普通用户的个人 AI 助手，官方页面与 Hacker News 讨论同步引发关注。该产品被视为 Meta 在消费级 AI Agent 赛道的重要布局，与现有 Meta AI 助手形成协同，强调个性化、跨应用任务执行与日常场景渗透。HN 上 645 分、722 条评论显示极高讨论热度，社区关注点集中在隐私、数据使用、与竞品的差异以及实际可用性。",
+  "highlights": [
+    "Meta 推出个人 AI 智能体 Muse，主打消费级个人助理场景",
+    "Hacker News 热度极高：645 分、722 条评论，社区讨论激烈",
+    "被视为 Meta 在 AI Agent 赛道对抗 OpenAI、Google 的关键产品",
+    "社区关注焦点包括隐私、数据使用与真实任务执行能力"
+  ],
+  "tags": [
+    "Agent",
+    "Meta",
+    "PersonalAssistant",
+    "LLM",
+    "ConsumerAI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "Meta 亲自入局个人 AI Agent 且社区反响强烈，具备较高行业影响力，但产品细节与实测效果尚待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

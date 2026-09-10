@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-10-serving-llms-on-tenstorrent-hardware-inside-the-vllm-tt-plugin",
+  "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+  "source": "rss",
+  "source_url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 09 Sep 2026 03:18:10 -0500",
+  "collected_at": "2026-09-10T12:32:55.710500+00:00",
+  "summary": "本文介绍 vLLM 的 TT 插件，展示如何在 Tenstorrent 硬件上高效部署和推理大语言模型。插件将 vLLM 的调度、PagedAttention 等能力与 Tenstorrent 的加速器架构对接，支持连续批处理与 KV 缓存管理，为非 NVIDIA 生态提供可行的 LLM 服务方案。文章涵盖架构设计、集成方式与性能考量，对关注异构推理和多硬件后端选型的开发者具有参考价值。",
+  "highlights": [
+    "vLLM 通过 TT 插件扩展至 Tenstorrent 加速器，打破对 NVIDIA GPU 的单一依赖",
+    "插件复用 vLLM 的 PagedAttention 与连续批处理机制，适配 Tenstorrent 内存与计算架构",
+    "为 LLM 推理提供异构硬件后端选型，降低部署成本与供应链风险",
+    "展示开源推理框架与新兴 AI 芯片厂商的集成路径，具备工程参考意义"
+  ],
+  "tags": [
+    "LLM",
+    "vLLM",
+    "Inference",
+    "Tenstorrent",
+    "Hardware"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "内容聚焦 LLM 推理框架向非 NVIDIA 硬件扩展的工程实践，对异构部署与硬件选型有实际参考价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

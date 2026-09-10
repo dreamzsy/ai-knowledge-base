@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-10-libreoffice-breaks-download-records-after-declaring-it-has-no-ai-features",
+  "title": "LibreOffice breaks download records after declaring it has no AI features",
+  "source": "rss",
+  "source_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 08 Sep 2026 14:05:57 +0000",
+  "collected_at": "2026-09-10T12:32:44.347783+00:00",
+  "summary": "LibreOffice 在宣布其软件不包含任何 AI 功能后，下载量创下历史纪录。这一现象反映了部分用户对当前软件产品中普遍集成 AI 功能的抵触情绪，以及对简洁、专注核心功能的传统办公软件的偏好。文章在 Hacker News 上引发热议，获得 710 分和 236 条评论，表明社区对 AI 功能泛滥和隐私问题的广泛关注。",
+  "highlights": [
+    "LibreOffice 明确声明不包含 AI 功能，反而推动下载量创下新纪录",
+    "用户对软件中强制集成 AI 的趋势存在明显抵触情绪",
+    "该话题在 Hacker News 上引发广泛讨论，获得 710 分和 236 条评论",
+    "事件反映了市场对无 AI、注重隐私和核心功能的软件仍有强烈需求"
+  ],
+  "tags": [
+    "OpenSource",
+    "AI",
+    "Privacy",
+    "Productivity",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该事件揭示了用户对 AI 功能泛滥的反思，对开源软件定位和产品策略具有参考价值，但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

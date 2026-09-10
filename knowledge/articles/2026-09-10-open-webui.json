@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-10-open-webui",
+  "title": "open-webui/open-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "author": "open-webui",
+  "published_at": "2023-10-06T22:08:27Z",
+  "collected_at": "2026-09-10T12:32:37.149424+00:00",
+  "summary": "Open WebUI 是一个用户友好的开源 AI 交互界面，支持 Ollama、OpenAI API 等多种后端。它提供类似 ChatGPT 的聊天体验，具备多模型切换、对话历史、RAG 检索增强、插件扩展等功能，并支持本地部署与离线使用。项目在 GitHub 上广受欢迎，适合个人和企业快速搭建私有 AI 助手，兼顾易用性与灵活性。",
+  "highlights": [
+    "支持 Ollama、OpenAI API 等多种模型后端，灵活切换",
+    "提供类 ChatGPT 的聊天界面，支持多用户与对话历史管理",
+    "内置 RAG 检索增强与插件扩展，可定制 AI 工作流",
+    "支持本地部署与离线使用，保障数据隐私"
+  ],
+  "tags": [
+    "LLM",
+    "UI",
+    "Ollama",
+    "OpenAI",
+    "RAG"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "功能全面、社区活跃、部署便捷，是构建私有 AI 助手的优秀开源方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 151525,
+    "language": "Python"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-10-superpowers",
+  "title": "obra/superpowers",
+  "source": "github_trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "published_at": "2025-10-09T19:45:18Z",
+  "collected_at": "2026-09-10T12:32:00.612326+00:00",
+  "summary": "obra/superpowers 是一个面向 AI 智能体的技能框架与软件开发方法论，旨在通过结构化技能定义和组合，让智能体高效完成复杂任务。项目强调可复用、可组合的技能模块，并提供配套开发流程，使智能体应用更可靠、可维护。适合构建基于 LLM 的自动化工作流和智能体系统。",
+  "highlights": [
+    "提供智能体技能框架，支持技能定义、组合与复用",
+    "包含配套软件开发方法论，指导智能体应用构建",
+    "强调可靠性与可维护性，适合生产级智能体系统",
+    "开源项目，可自由集成到现有 LLM 工作流中"
+  ],
+  "tags": [
+    "Agent",
+    "Framework",
+    "LLM",
+    "Skills",
+    "Methodology"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目填补了智能体技能工程化空白，方法论与框架结合，实用性强，但生态成熟度待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 284395,
+    "language": "Shell"
+  }
+}
