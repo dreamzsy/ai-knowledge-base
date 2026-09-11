@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-11-now-everyone-can-put-data-to-work",
+  "title": "Now everyone can put data to work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/put-data-to-work",
+  "author": "openai_blog",
+  "published_at": "Thu, 10 Sep 2026 15:00:00 GMT",
+  "collected_at": "2026-09-11T12:28:59.858053+00:00",
+  "summary": "OpenAI 在 ChatGPT Work 中推出 Data agent，允许用户通过自然语言连接公司数据、挖掘洞察并构建交互式仪表板。该功能旨在降低数据分析门槛，让非技术用户也能利用企业数据驱动决策，标志着 AI 代理在办公场景的进一步落地。",
+  "highlights": [
+    "ChatGPT Work 新增 Data agent，支持自然语言查询企业数据",
+    "可自动生成交互式仪表板，无需编写代码",
+    "连接公司数据源，实现端到端的数据洞察工作流",
+    "面向非技术用户，推动数据民主化"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "DataAnalysis",
+    "ChatGPT",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI 将 AI 代理能力扩展至企业数据分析，降低使用门槛，具有较高的实用价值和行业影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

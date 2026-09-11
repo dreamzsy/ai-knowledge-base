@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-11-better-ai-code-comment-detector",
+  "title": "Better AI code comment detector",
+  "source": "rss",
+  "source_url": "https://entropicthoughts.com/better-ai-comment-classifier",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 09 Sep 2026 13:27:24 -0500",
+  "collected_at": "2026-09-11T12:28:42.358890+00:00",
+  "summary": "该文章介绍了一种改进的 AI 代码注释检测器，作者使用逻辑回归模型对 LLM 生成的代码注释进行分类识别。文章结合了 AI 与 vibecoding 标签，探讨了如何通过统计学习方法区分人类与 AI 编写的注释，并分享了训练过程中的经验与思考。",
+  "highlights": [
+    "使用逻辑回归对 LLM 生成的代码注释进行二分类检测",
+    "结合 AI 与 vibecoding 实践，探索代码注释的自动识别方法",
+    "文章讨论了统计学习方法在代码质量分析中的应用",
+    "提供了改进 AI 代码注释检测器的具体思路与实现"
+  ],
+  "tags": [
+    "LLM",
+    "CodeComment",
+    "LogisticRegression",
+    "Classification",
+    "Vibecoding"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "文章提供了一种实用的 AI 代码注释检测方法，但技术深度有限，属于应用型经验分享。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

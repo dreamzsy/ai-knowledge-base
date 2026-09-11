@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-11-introducing-chatgpt-for-financial-services",
+  "title": "Introducing ChatGPT for Financial Services",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+  "author": "openai_blog",
+  "published_at": "Thu, 10 Sep 2026 07:00:00 GMT",
+  "collected_at": "2026-09-11T12:29:02.183959+00:00",
+  "summary": "OpenAI 推出面向金融服务行业的 ChatGPT 产品，整合内置金融数据与 GPT-6 Astra 模型，旨在辅助金融研究、建模以及生成可直接交付客户的材料。该产品将通用大模型能力与垂直领域数据结合，降低金融专业人士的信息获取与分析门槛，提升工作效率。此举标志着 OpenAI 在行业定制化解决方案上的进一步拓展，可能对金融数据终端和传统研究工具市场产生影响。",
+  "highlights": [
+    "整合内置金融数据与 GPT-6 Astra，提供一站式金融研究支持",
+    "支持金融建模和生成客户就绪材料，覆盖专业工作流",
+    "面向金融服务行业定制，降低专业分析门槛",
+    "体现 OpenAI 从通用模型向垂直行业解决方案的延伸"
+  ],
+  "tags": [
+    "LLM",
+    "Finance",
+    "OpenAI",
+    "GPT-6",
+    "Industry-Solution"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI 将前沿模型与金融数据结合，对金融行业工作流有直接提升，具备较高商业价值和行业影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

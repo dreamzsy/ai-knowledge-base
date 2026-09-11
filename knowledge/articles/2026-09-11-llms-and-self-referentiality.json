@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-11-llms-and-self-referentiality",
+  "title": "LLMs and self-referentiality",
+  "source": "rss",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 03 Sep 2026 08:39:13 -0500",
+  "collected_at": "2026-09-11T12:28:46.360234+00:00",
+  "summary": "这是 Scott Aaronson 博客中关于大语言模型与自指性（self-referentiality）的讨论文章。文章探讨了 LLM 在处理涉及自身、递归或悖论性陈述时的表现与局限，可能涉及哥德尔式自指、模型对自身能力的认知，以及这类问题对 AI 理论与安全性的启示。内容偏向理论思辨，适合关注 LLM 基础原理和哲学问题的读者。",
+  "highlights": [
+    "讨论大语言模型与自指性概念的交集，涉及递归和悖论性陈述",
+    "可能关联哥德尔不完备定理等逻辑学基础问题",
+    "探讨 LLM 对自身能力或自身输出的认知与局限",
+    "对 AI 理论、可解释性和安全性有潜在启示"
+  ],
+  "tags": [
+    "LLM",
+    "Self-Reference",
+    "AI Theory",
+    "Philosophy"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章来自知名学者博客，主题具有理论深度，但偏思辨且非工程实践，对部分读者价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
