@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-12-agency-agents",
+  "title": "msitarzewski/agency-agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/msitarzewski/agency-agents",
+  "author": "msitarzewski",
+  "published_at": "2025-10-13T12:12:29Z",
+  "collected_at": "2026-09-12T11:50:12.060380+00:00",
+  "summary": "msitarzewski/agency-agents 是一个开源项目，旨在提供完整的 AI 代理机构。它包含多种专业 AI 代理，如前端专家、Reddit 社区运营、创意注入者和现实检查者。每个代理都具备独特的个性、工作流程和可交付成果，帮助用户自动化不同领域的任务。项目强调代理的专精化和人格化，为构建多代理系统提供参考。",
+  "highlights": [
+    "提供多种专业 AI 代理，覆盖前端、社区运营、创意和审核等角色",
+    "每个代理具有个性化设定、明确流程和可验证的交付物",
+    "定位为“指尖上的完整 AI 机构”，强调开箱即用和多角色协作",
+    "适合作为多代理系统设计和角色化 Agent 开发的参考"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "LLM",
+    "Automation",
+    "Open-Source"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目概念新颖，角色化代理设计有实用价值，但具体实现和生态成熟度有待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 151810,
+    "language": "Shell"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-12-retrospectively-reverse-engineering-apple-s-neural-engine",
+  "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+  "source": "rss",
+  "source_url": "https://eiln.github.io/posts/ane.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 11 Sep 2026 12:23:45 -0500",
+  "collected_at": "2026-09-12T11:50:14.154258+00:00",
+  "summary": "本文作者回顾性地逆向工程了苹果的神经引擎（ANE），详细介绍了其架构、指令集、内存布局以及与CPU/GPU的交互方式。通过分析固件和驱动，揭示了ANE的编程模型和性能特性，为开发者理解苹果AI硬件提供了宝贵的一手资料。",
+  "highlights": [
+    "逆向工程揭示了ANE的私有指令集和内存管理机制",
+    "分析了ANE与CPU/GPU的协同工作方式及数据流",
+    "提供了对ANE性能特征和编程模型的深入见解",
+    "为苹果AI硬件的研究和开发提供了底层参考"
+  ],
+  "tags": [
+    "Neural Engine",
+    "Reverse Engineering",
+    "Apple",
+    "Hardware",
+    "AI Accelerator"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容深入且技术性强，对理解苹果AI硬件有重要参考价值，但受众相对小众。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

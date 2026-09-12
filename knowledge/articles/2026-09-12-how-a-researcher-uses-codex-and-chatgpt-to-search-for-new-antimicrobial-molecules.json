@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-12-how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-antimicrobial-molecules",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "source": "rss",
+  "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "author": "openai_blog",
+  "published_at": "Thu, 10 Sep 2026 16:00:00 GMT",
+  "collected_at": "2026-09-12T11:50:37.696569+00:00",
+  "summary": "该内容介绍了研究员César de la Fuente的实验室如何利用OpenAI的Codex和ChatGPT，从现存及已灭绝生物的基因组中挖掘新型抗菌分子，以应对日益严重的耐药性感染问题。通过AI辅助分析海量基因数据，加速了候选抗菌肽的发现与验证流程，展示了AI在生物医学和药物发现领域的实际应用潜力。",
+  "highlights": [
+    "利用Codex和ChatGPT分析现存与灭绝物种的基因组，寻找抗菌候选分子",
+    "AI加速了从海量基因数据中识别潜在抗菌肽的过程",
+    "研究目标是对抗耐药性感染，具有重要临床和公共卫生意义",
+    "展示了AI在跨学科生物医学研究中的实际落地案例"
+  ],
+  "tags": [
+    "AI",
+    "DrugDiscovery",
+    "Genomics",
+    "LLM",
+    "Biomedicine"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "AI在抗菌药物发现中的实际应用案例，结合基因组挖掘与耐药性难题，具有较高的科研与临床价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

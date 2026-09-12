@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-12-openclaw",
+  "title": "openclaw/openclaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "author": "openclaw",
+  "published_at": "2025-11-24T10:16:47Z",
+  "collected_at": "2026-09-12T11:49:32.850726+00:00",
+  "summary": "OpenClaw 是一个开源 AI 智能体项目，主打跨操作系统与跨平台执行实际任务，而非仅对话。其口号强调“真正做事”，以龙虾为吉祥物，暗示其自动化能力。项目可能提供统一接口，让 AI 在任意 OS 上操作文件、运行命令或调用工具，适合需要自动化工作流的开发者。目前信息有限，但定位清晰，属于 AI Agent 与自动化工具方向。",
+  "highlights": [
+    "跨操作系统与跨平台支持，强调通用性",
+    "定位为能实际执行任务的 AI 智能体，而非纯聊天",
+    "以龙虾为品牌形象，风格独特",
+    "开源项目，可能提供可扩展的自动化能力"
+  ],
+  "tags": [
+    "Agent",
+    "Automation",
+    "Cross-Platform",
+    "Open Source",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目定位清晰且开源，但公开信息较少，实际能力与生态尚待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 389492,
+    "language": "TypeScript"
+  }
+}

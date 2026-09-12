@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-12-using-machine-learning-on-my-guitar-hero-controller",
+  "title": "Using machine learning on my Guitar Hero Controller",
+  "source": "rss",
+  "source_url": "https://p0ly.com/ml_strummer.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 04 Sep 2026 10:23:26 -0500",
+  "collected_at": "2026-09-12T11:50:20.208317+00:00",
+  "summary": "本文介绍了一个个人项目：作者利用机器学习技术，让吉他英雄游戏控制器（Guitar Hero Controller）实现自动演奏。项目可能涉及数据采集、模型训练和实时推理，将控制器改造为智能演奏设备。文章详细记录了从硬件接口到算法实现的完整过程，展示了机器学习在创意硬件和游戏外设中的趣味应用，适合对嵌入式ML和DIY感兴趣的开发者阅读。",
+  "highlights": [
+    "将机器学习应用于游戏外设，实现吉他英雄控制器的自动演奏",
+    "项目涵盖硬件接口、数据采集、模型训练与实时推理全流程",
+    "展示了机器学习在创意DIY和嵌入式场景中的趣味实践",
+    "为游戏控制器改造和智能硬件开发提供参考思路"
+  ],
+  "tags": [
+    "Machine Learning",
+    "Embedded",
+    "Gaming",
+    "DIY",
+    "Controller"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目创意有趣且具有实践参考价值，但技术深度和通用性有限，适合特定兴趣群体。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

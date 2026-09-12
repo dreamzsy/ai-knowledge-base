@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-12-rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "source": "rss",
+  "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "author": "openai_blog",
+  "published_at": "Fri, 11 Sep 2026 10:00:00 GMT",
+  "collected_at": "2026-09-12T11:50:33.897564+00:00",
+  "summary": "OpenAI 分享了其存储平台 Habitat 从 Python 库演进为全球分布式存储系统的历程，以支撑超过 10 亿 ChatGPT 用户和每秒 2200 万次请求。文章重点介绍了架构扩展、性能优化和可靠性保障方面的工程实践，为大规模在线存储系统设计提供了宝贵经验。",
+  "highlights": [
+    "Habitat 从 Python 库演进为全球分布式存储平台，支撑 10 亿用户和 2200 万 QPS",
+    "重点解决大规模在线存储的扩展性、性能与可靠性挑战",
+    "为超大规模 AI 应用的基础设施设计提供可借鉴的工程实践"
+  ],
+  "tags": [
+    "Storage",
+    "Scalability",
+    "Distributed Systems",
+    "Infrastructure",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容来自 OpenAI 一线工程实践，对大规模分布式存储系统设计具有高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
