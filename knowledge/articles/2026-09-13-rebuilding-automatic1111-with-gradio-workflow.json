@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-13-rebuilding-automatic1111-with-gradio-workflow",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-13T13:00:03.405360+00:00",
+  "summary": "本文介绍如何使用 Gradio Workflow 重新构建 AUTOMATIC1111 Stable Diffusion WebUI。作者通过 Gradio 的 Blocks 和事件系统，将原本基于 Gradio 的界面重构为更模块化、可扩展的工作流，支持动态加载模型、插件和自定义节点。文章展示了如何利用 Gradio 的队列、状态管理和 API 集成，实现类似 ComfyUI 的节点式交互，同时保留 A1111 的易用性。该方案降低了二次开发门槛，为 AI 绘画工具的前端架构提供了新思路。",
+  "highlights": [
+    "使用 Gradio Workflow 重构 A1111 的 UI 架构，实现模块化与可扩展性",
+    "通过 Gradio Blocks 和事件系统支持动态模型加载与插件机制",
+    "结合队列和状态管理，构建类似节点式的工作流交互体验",
+    "为 Stable Diffusion WebUI 的二次开发提供更低门槛的前端方案"
+  ],
+  "tags": [
+    "Gradio",
+    "Stable Diffusion",
+    "WebUI",
+    "Workflow",
+    "Frontend"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容具有实用参考价值，展示了 Gradio 在复杂 AI 应用中的工作流重构潜力，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

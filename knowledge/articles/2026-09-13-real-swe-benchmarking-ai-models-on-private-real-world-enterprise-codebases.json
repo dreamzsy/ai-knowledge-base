@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-13-real-swe-benchmarking-ai-models-on-private-real-world-enterprise-codebases",
+  "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+  "source": "rss",
+  "source_url": "https://withspecific.com/benchmarks/real-swe",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 12 Sep 2026 20:25:48 +0000",
+  "collected_at": "2026-09-13T12:59:32.454934+00:00",
+  "summary": "Real-SWE 是 Specific 推出的基准测试，旨在评估 AI 模型在私有、真实企业代码库上的表现。与依赖公开数据集的传统基准不同，它使用企业实际代码，更贴近真实开发场景，能揭示模型在复杂私有代码环境中的泛化能力。该基准在 Hacker News 上引发热议，获得 248 分和 137 条评论，反映出业界对 AI 编程助手实际落地效果的关注。",
+  "highlights": [
+    "针对私有企业代码库设计，弥补公开基准与真实场景的差距",
+    "评估 AI 模型在真实软件开发任务中的表现，而非合成问题",
+    "在 Hacker News 上获得高关注度，反映 AI 编程工具落地需求",
+    "可能推动更贴近企业实际的 AI 代码评估标准"
+  ],
+  "tags": [
+    "Benchmark",
+    "CodeGeneration",
+    "LLM",
+    "Enterprise",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该基准填补了 AI 代码评估在私有企业场景的空白，对推动 AI 编程工具的实际应用具有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

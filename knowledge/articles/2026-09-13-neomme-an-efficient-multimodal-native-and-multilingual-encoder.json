@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-13-neomme-an-efficient-multimodal-native-and-multilingual-encoder",
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Hcompany/neomme",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 03 Sep 2026 13:13:48 GMT",
+  "collected_at": "2026-09-13T13:00:10.428170+00:00",
+  "summary": "NeoMME 是 Hcompany 发布的一种高效多模态原生多语言编码器，旨在统一处理图像、文本等多种模态并支持多语言。它采用原生多模态架构，避免依赖单独的视觉编码器，从而提升效率与跨模态对齐能力。该模型在 Hugging Face 博客中介绍，强调在保持高性能的同时降低计算开销，适用于多语言多模态检索、分类等任务。",
+  "highlights": [
+    "提出多模态原生编码器架构，统一处理图像与文本，无需独立视觉编码器",
+    "支持多语言，可跨语言进行多模态理解与检索",
+    "强调高效性，在计算资源受限场景下仍保持竞争力",
+    "在 Hugging Face 博客发布，提供模型与使用说明"
+  ],
+  "tags": [
+    "Multimodal",
+    "Encoder",
+    "Multilingual",
+    "Efficient"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "多模态原生与多语言结合且强调效率，对多模态检索与理解有实用价值，但缺乏具体基准数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
