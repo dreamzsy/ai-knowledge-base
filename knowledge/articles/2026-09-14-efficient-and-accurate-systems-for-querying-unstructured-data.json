@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-14-efficient-and-accurate-systems-for-querying-unstructured-data",
+  "title": "Efficient and accurate systems for querying unstructured data",
+  "source": "rss",
+  "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 09 Sep 2026 15:38:35 -0500",
+  "collected_at": "2026-09-14T14:36:21.168133+00:00",
+  "summary": "斯坦福博士论文研究如何高效可靠地查询非结构化数据。作者观察到许多应用可容忍近似结果（若有精度保证），且不同查询方法的成本差异可达10个数量级。论文提出利用廉价近似方法替代昂贵ML模型，构建支持选择、聚合、限制等查询的系统，返回统计有效的近似答案，成本可降低数个数量级。",
+  "highlights": [
+    "提出用廉价近似替代昂贵ML模型，在保证统计有效性的前提下返回近似查询答案",
+    "系统支持选择、聚合、limit等多种查询类型，覆盖广泛的非结构化数据分析场景",
+    "相比标准方法，查询成本可降低数个数量级，解决ML部署成本过高的问题",
+    "针对ML分析不可靠、部署门槛高的痛点，提供兼顾效率与精度的系统方案"
+  ],
+  "tags": [
+    "Unstructured Data",
+    "Approximate Query Processing",
+    "ML Systems",
+    "Data Analytics",
+    "Statistical Guarantees"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "论文系统性地解决了非结构化数据ML分析的成本与可靠性难题，方法具有实际落地价值，但偏学术且应用场景相对特定。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

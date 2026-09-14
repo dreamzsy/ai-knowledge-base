@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "source": "rss",
+  "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "author": "openai_blog",
+  "published_at": "Mon, 14 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-14T14:36:34.774858+00:00",
+  "summary": "Perplexity 采用 OpenAI 的 GPT-6 Astra 模型，实现端到端系统操作，包括撰写通信、修改软件和监控生产系统。相比早期模型，Astra 的自主性显著提升，人工检查频率大幅降低，展示了 AI 在复杂工作流中的深度集成能力。",
+  "highlights": [
+    "Perplexity 使用 GPT-6 Astra 完成通信撰写、软件修改和生产系统监控等端到端任务",
+    "Astra 的自主性使人工检查频率远低于早期模型，提升自动化水平",
+    "该案例展示了 AI 在真实生产环境中的系统级集成与信任度",
+    "OpenAI 官方发布，强调 Astra 在提升准确性和可靠性方面的进展"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Automation",
+    "Production",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该案例展示了 GPT-6 Astra 在端到端系统操作中的实际应用，对 AI 自主性和生产集成具有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

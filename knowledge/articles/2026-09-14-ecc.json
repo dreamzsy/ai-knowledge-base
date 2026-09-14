@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-14-ecc",
+  "title": "affaan-m/ECC",
+  "source": "github_trending",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "author": "affaan-m",
+  "published_at": "2026-01-18T00:51:51Z",
+  "collected_at": "2026-09-14T14:35:41.571575+00:00",
+  "summary": "ECC（Agent Harness Performance Optimization System）是一个面向 AI 编码代理的性能优化框架，支持 Claude Code、Codex、Opencode、Cursor 等主流代理工具。它通过技能（Skills）、本能（Instincts）、记忆（Memory）、安全（Security）和研究优先开发（Research-first Development）等模块，提升代理在复杂任务中的表现。项目旨在为代理提供统一的增强层，使其更高效、安全地完成编码与研究任务。",
+  "highlights": [
+    "支持多种主流 AI 编码代理，如 Claude Code、Codex、Opencode、Cursor",
+    "提供技能、本能、记忆、安全等模块化优化组件",
+    "强调研究优先的开发范式，提升代理任务执行质量",
+    "旨在统一增强代理性能，降低跨平台适配成本"
+  ],
+  "tags": [
+    "Agent",
+    "Performance",
+    "Framework",
+    "Coding Assistant",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目针对代理性能优化提出模块化方案，支持多平台，具有实用价值，但尚处早期，生态影响力待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 258142,
+    "language": "JavaScript"
+  }
+}
