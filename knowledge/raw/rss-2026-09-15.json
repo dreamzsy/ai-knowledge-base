@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "Pion, an agent designed to run any company autonomously",
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 436 # Comments: 537",
+    "published_at": "Mon, 14 Sep 2026 17:16:06 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 410 # Comments: 235",
+    "published_at": "Sun, 13 Sep 2026 15:44:38 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+    "url": "https://github.com/enactic/OpenArm",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lizqwo/openarm_fully_open_source_humanoid_arm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 15 Sep 2026 07:52:26 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+    "url": "https://maggieappleton.com/planning-agents",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/klbjuj/planning_with_agents_divided_worlds\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 15 Sep 2026 01:17:27 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A Letter from a Machine Learning Engineer",
+    "url": "https://nemin.hu/llm-letter/index.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 14 Sep 2026 12:58:22 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why don’t machine learning research agents overfit?",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qv2enu/why_don_t_machine_learning_research\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 14 Sep 2026 12:19:19 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "author": "openai_blog",
+    "summary_raw": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "author": "openai_blog",
+    "summary_raw": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "published_at": "Mon, 14 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "author": "openai_blog",
+    "summary_raw": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "published_at": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "author": "openai_blog",
+    "summary_raw": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "published_at": "Fri, 11 Sep 2026 16:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 09 Sep 2026 15:36:24 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 08 Sep 2026 14:23:07 GMT",
+    "extra": {}
+  }
+]

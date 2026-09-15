@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-with-commercial-friendly-license",
+  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 09 Sep 2026 15:36:24 GMT",
+  "collected_at": "2026-09-15T13:01:40.729286+00:00",
+  "summary": "IBM 在 Hugging Face 发布 Granite Time Series PatchTST-FM-r2 模型，基于 PatchTST 架构，在时间序列预测任务上达到 SOTA 水平。该模型采用商业友好许可证，允许企业自由用于商业产品，降低了时间序列基础模型的应用门槛，为金融、能源、零售等领域的预测任务提供了可直接落地的开源方案。",
+  "highlights": [
+    "基于 PatchTST 架构的时间序列基础模型，预测性能达到 SOTA",
+    "采用商业友好许可证，可直接用于商业产品",
+    "由 IBM 官方发布，模型权重与文档托管于 Hugging Face",
+    "面向金融、能源、零售等场景的时间序列预测任务"
+  ],
+  "tags": [
+    "TimeSeries",
+    "FoundationModel",
+    "PatchTST",
+    "IBM",
+    "Forecasting"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "SOTA 性能叠加商业友好许可证，显著降低企业时间序列建模的落地门槛，具备较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-15-planning-with-agents-divided-worlds-boundary-objects-and-thicker-interfaces",
+  "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+  "source": "rss",
+  "source_url": "https://maggieappleton.com/planning-agents",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 15 Sep 2026 01:17:27 -0500",
+  "collected_at": "2026-09-15T13:01:13.584983+00:00",
+  "summary": "本文探讨了人类与 AI 代理协作规划时的认知差异，提出「分裂世界」概念：人类擅长模糊、情境化的规划，而 AI 代理依赖明确、结构化的指令。作者引入「边界对象」和「更厚接口」的设计思路，主张通过共享的中间表示（如草图、待办列表、可视化画布）来弥合双方的理解鸿沟，从而提升协作效率。文章强调，好的代理规划工具应支持迭代式对话和可操作的中间产物，而非一次性提示。",
+  "highlights": [
+    "人类与 AI 代理在规划时存在认知模式差异，形成「分裂世界」",
+    "边界对象（如草图、待办列表）可作为双方共享的中间表示",
+    "更厚的接口设计支持迭代对话和可操作中间产物，而非一次性提示",
+    "提升人机协作规划效率的关键在于弥合理解鸿沟"
+  ],
+  "tags": [
+    "Agent",
+    "Human-AI Collaboration",
+    "Planning",
+    "Interface Design"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章深入剖析人机协作规划的核心挑战，提出可落地的设计原则，对 AI 代理交互设计有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

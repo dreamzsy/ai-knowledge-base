@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-why-don-t-machine-learning-research-agents-overfit",
+  "title": "Why don’t machine learning research agents overfit?",
+  "source": "rss",
+  "source_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 14 Sep 2026 12:19:19 -0500",
+  "collected_at": "2026-09-15T13:01:18.143919+00:00",
+  "summary": "亚马逊科学博客探讨了机器学习研究智能体（ML research agents）为何不易过拟合的问题。文章分析了这类智能体在自动化机器学习研究中的表现，指出其通过迭代实验、验证集评估和多样化搜索策略，能够避免对特定数据集或任务的过拟合。研究揭示了智能体设计中的关键因素，如探索与利用的平衡、元学习能力以及任务多样性，为构建更鲁棒的自动化研究系统提供了理论依据和实践指导。",
+  "highlights": [
+    "机器学习研究智能体通过迭代实验和验证集评估机制，有效避免了传统模型常见的过拟合问题。",
+    "智能体的探索与利用平衡策略，以及多样化搜索行为，是其泛化能力优于单一模型的重要原因。",
+    "文章从元学习和任务多样性角度解释了智能体鲁棒性的来源，为自动化机器学习研究提供了新视角。",
+    "该研究对设计更可靠的AI科研助手具有指导意义，强调了评估协议和任务分布设计的重要性。"
+  ],
+  "tags": [
+    "AutoML",
+    "Agent",
+    "Overfitting",
+    "Meta-Learning",
+    "ML Research"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章从理论和实践角度深入探讨了ML研究智能体的过拟合问题，对自动化机器学习和AI科研助手领域有较高参考价值，但具体技术细节和实验规模有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-a-letter-from-a-machine-learning-engineer",
+  "title": "A Letter from a Machine Learning Engineer",
+  "source": "rss",
+  "source_url": "https://nemin.hu/llm-letter/index.html",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 14 Sep 2026 12:58:22 -0500",
+  "collected_at": "2026-09-15T13:01:15.547245+00:00",
+  "summary": "本文是一位机器学习工程师的公开信，反思当前大语言模型（LLM）开发中的工程实践与行业文化。作者结合自身经验，批评了过度炒作、忽视基础工程、以及将模型能力神化的倾向，呼吁回归严谨的评估、数据质量和可复现性。文章强调 ML 工程师应保持批判性思维，避免盲目追随趋势，并关注技术对社会的实际影响。整体语气诚恳，引发对 AI 行业现状的思考。",
+  "highlights": [
+    "反思 LLM 开发中过度炒作与工程严谨性缺失的问题",
+    "强调数据质量、评估方法和可复现性的重要性",
+    "呼吁 ML 工程师保持批判性思维，避免盲目跟风",
+    "关注 AI 技术的社会影响与伦理责任"
+  ],
+  "tags": [
+    "LLM",
+    "Machine Learning",
+    "Engineering",
+    "AI Ethics",
+    "Critique"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章提供了来自一线工程师的批判性视角，对行业浮躁现象有警醒价值，但缺乏具体技术方案或数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too",
+  "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+  "source": "rss",
+  "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 13 Sep 2026 15:44:38 +0000",
+  "collected_at": "2026-09-15T13:01:09.522086+00:00",
+  "summary": "Y Combinator 的 Garry Tan 公开主张，美国开源权重 AI 实验室也应像中国实验室那样，通过蒸馏前沿闭源模型来快速提升自身能力。他认为这能缩小开源与闭源模型之间的差距，促进竞争与创新，并呼吁政策制定者不要对此设限。该观点在 Hacker News 上引发 235 条评论，讨论集中在蒸馏的合法性、知识产权、安全风险以及中美 AI 竞争格局上。",
+  "highlights": [
+    "Garry Tan 呼吁美国开源权重实验室效仿中国同行，蒸馏前沿闭源模型以加速追赶",
+    "核心论点是蒸馏能缩小开源与闭源模型的能力差距，维持美国在开源 AI 领域的竞争力",
+    "该主张引发关于知识产权、服务条款合规性及模型安全风险的广泛争议",
+    "Hacker News 上 410 分、235 条评论，反映社区对开源 AI 发展路径的高度关注"
+  ],
+  "tags": [
+    "LLM",
+    "OpenSource",
+    "ModelDistillation",
+    "AI Policy",
+    "Frontier Models"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "涉及开源 AI 竞争策略与蒸馏合规性的重要行业辩论，对关注模型生态和政策走向的读者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

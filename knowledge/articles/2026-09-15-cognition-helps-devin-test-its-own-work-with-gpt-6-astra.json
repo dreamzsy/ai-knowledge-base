@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-cognition-helps-devin-test-its-own-work-with-gpt-6-astra",
+  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+  "author": "openai_blog",
+  "published_at": "Fri, 11 Sep 2026 16:00:00 GMT",
+  "collected_at": "2026-09-15T13:01:34.092511+00:00",
+  "summary": "Cognition 与 OpenAI 合作，将 GPT-6 Astra 集成到 Devin 中，显著提升了 Devin 自主测试软件并验证其功能的能力。目标是让工程师减少代码审查负担，更专注于交付。该更新标志着 AI 编程助手从代码生成向自主验证的演进，有望提高开发效率。",
+  "highlights": [
+    "GPT-6 Astra 增强了 Devin 的软件测试与功能验证能力",
+    "目标在于减少工程师的代码审查工作量，加速交付",
+    "展示了 AI 编程助手向自主测试与验证方向的发展",
+    "由 Cognition 与 OpenAI 合作实现，基于最新 GPT-6 模型"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "CodeGeneration",
+    "SoftwareTesting",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该进展提升了 AI 编程助手的自主测试能力，对开发效率有实际推动，但具体技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

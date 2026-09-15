@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-15-stable-diffusion-webui",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "published_at": "2022-08-22T14:05:26Z",
+  "collected_at": "2026-09-15T13:00:57.222907+00:00",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是 Stable Diffusion 最流行的开源 Web 界面，基于 Gradio 构建，提供文生图、图生图、局部重绘、放大、训练等完整功能，并支持通过扩展脚本自定义。它降低了扩散模型的使用门槛，成为 AI 绘画社区的事实标准工具，拥有活跃的开发者生态和大量第三方插件。",
+  "highlights": [
+    "提供直观的 Web UI，支持文生图、图生图、局部重绘、超分辨率等核心功能",
+    "基于 Gradio 框架，易于部署和扩展，支持自定义脚本和插件",
+    "集成多种采样器、模型和 LoRA，支持模型微调与训练",
+    "拥有庞大的社区生态，是 AI 绘画领域最广泛使用的工具之一"
+  ],
+  "tags": [
+    "Stable Diffusion",
+    "WebUI",
+    "Gradio",
+    "Image Generation",
+    "Diffusion"
+  ],
+  "language": "zh",
+  "score": 0.95,
+  "score_reason": "作为 Stable Diffusion 生态中最具影响力的开源项目，极大推动了 AI 绘画的普及与创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 164941,
+    "language": "Python"
+  }
+}

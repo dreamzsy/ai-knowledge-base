@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-how-fyxer-built-an-ai-executive-assistant-people-trust",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "source": "rss",
+  "source_url": "https://openai.com/index/fyxer",
+  "author": "openai_blog",
+  "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-15T13:01:28.568477+00:00",
+  "summary": "Fyxer 基于 OpenAI 模型构建了一款 AI 行政助理，通过微调、记忆机制和真实用户反馈，帮助用户整理收件箱并以用户本人的语气起草邮件。该产品强调可信度，利用持续学习来适应用户的写作风格和偏好，从而提升办公效率。",
+  "highlights": [
+    "利用 OpenAI 模型进行微调，实现个性化邮件起草",
+    "引入记忆机制，持续跟踪用户偏好和上下文",
+    "基于真实用户反馈迭代优化，增强信任度",
+    "专注于收件箱整理和以用户语气撰写邮件"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Memory",
+    "AI Assistant",
+    "Email"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "展示了 LLM 在垂直办公场景中结合微调、记忆和反馈的实用落地，具有较高的参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "source": "rss",
+  "source_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 14 Sep 2026 17:16:06 +0000",
+  "collected_at": "2026-09-15T13:01:07.182422+00:00",
+  "summary": "Andon Labs 发布 Pion，一个旨在自主运营任何公司的 AI Agent。文章阐述其构建动机，认为现有 AI 无法胜任真实商业运营，Pion 通过整合工具调用、长期记忆与决策能力，尝试让 Agent 独立完成公司日常任务。该话题在 Hacker News 引发热议，获得 436 分和 537 条评论，反映出业界对自主 Agent 商业落地的强烈关注与争议。",
+  "highlights": [
+    "Pion 定位为可自主运营公司的通用 Agent，而非单一任务助手",
+    "强调现有 AI 在真实商业环境中的能力缺口，提出系统性解决方案",
+    "整合工具调用、长期记忆与自主决策，探索端到端公司运营自动化",
+    "Hacker News 高热度讨论，436 分与 537 条评论显示社区高度关注"
+  ],
+  "tags": [
+    "Agent",
+    "Autonomous",
+    "LLM",
+    "ToolUse",
+    "BusinessAutomation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "自主运营公司的 Agent 构想具有前瞻性和商业潜力，但落地可行性与实际效果仍需验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
