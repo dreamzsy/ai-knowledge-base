@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-16-interpreting-pangram",
+  "title": "Interpreting Pangram",
+  "source": "rss",
+  "source_url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 15 Sep 2026 09:14:59 -0500",
+  "collected_at": "2026-09-16T12:58:47.311862+00:00",
+  "summary": "本文是 Armin Ronacher 对 Pangram 的解读，Pangram 是一个用于检测 AI 生成文本的工具。文章探讨了其工作原理、检测能力与局限，并讨论了 AI 文本检测在写作、教育和内容审核等场景中的意义。作者结合自身经验，分析了检测器与生成模型之间的博弈，以及误判可能带来的风险，强调应谨慎看待检测结果，并思考其对未来内容生态的影响。",
+  "highlights": [
+    "Pangram 是一款 AI 生成文本检测工具，文章深入解析其检测机制与设计思路",
+    "作者讨论了 AI 文本检测的准确性、误判风险及对抗性演化的挑战",
+    "文章将检测问题置于写作、教育、内容审核等实际应用场景中分析",
+    "强调对检测结果应保持审慎，并反思 AI 生成内容对信息生态的长期影响"
+  ],
+  "tags": [
+    "AI Detection",
+    "LLM",
+    "Text Generation",
+    "Content Moderation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章对 AI 文本检测工具进行了深入且具批判性的解读，对关注 LLM 应用与内容治理的读者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

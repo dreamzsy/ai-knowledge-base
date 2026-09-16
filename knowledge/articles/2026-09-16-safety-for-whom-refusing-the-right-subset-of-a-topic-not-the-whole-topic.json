@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-16-safety-for-whom-refusing-the-right-subset-of-a-topic-not-the-whole-topic",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 08 Sep 2026 14:23:07 GMT",
+  "collected_at": "2026-09-16T12:59:14.944894+00:00",
+  "summary": "本文探讨大语言模型安全对齐中的过度拒绝问题，指出当前模型常因话题敏感而拒绝整个主题，而非仅拒绝其中真正有害的子集。作者提出应细化拒绝粒度，只拒绝主题中不安全的子集，保留安全部分，从而在保障安全的同时提升模型可用性，减少不必要的拒绝。",
+  "highlights": [
+    "指出现有安全对齐常导致模型拒绝整个话题，而非仅拒绝有害子集",
+    "提出按子集粒度拒绝的安全策略，平衡安全性与可用性",
+    "强调过度拒绝会损害用户体验和模型实用性",
+    "为安全对齐研究提供了更精细的评估与改进方向"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Alignment",
+    "Refusal"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "针对LLM安全对齐中的过度拒绝问题提出细粒度拒绝思路，具有实践指导意义，但偏重观点阐述，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
