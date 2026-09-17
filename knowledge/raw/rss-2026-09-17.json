@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Model Training Incidents are Negligence",
+    "url": "https://taggart-tech.com/lying/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ujnlm5/model_training_incidents_are_negligence\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 15 Sep 2026 08:55:32 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+    "url": "https://github.com/enactic/OpenArm",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lizqwo/openarm_fully_open_source_humanoid_arm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 15 Sep 2026 07:52:26 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+    "url": "https://maggieappleton.com/planning-agents",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/klbjuj/planning_with_agents_divided_worlds\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 15 Sep 2026 01:17:27 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A Letter from a Machine Learning Engineer",
+    "url": "https://nemin.hu/llm-letter/index.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ta2ojd/letter_from_machine_learning_engineer\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 14 Sep 2026 12:58:22 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 03 Aug 2026 08:49:43 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "published_at": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "author": "openai_blog",
+    "summary_raw": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How to connect AI usage to business value",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "author": "openai_blog",
+    "summary_raw": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "published_at": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 08 Sep 2026 14:23:07 GMT",
+    "extra": {}
+  }
+]

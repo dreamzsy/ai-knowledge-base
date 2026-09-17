@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-17-planning-with-agents-divided-worlds-boundary-objects-and-thicker-interfaces",
+  "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+  "source": "rss",
+  "source_url": "https://maggieappleton.com/planning-agents",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 15 Sep 2026 01:17:27 -0500",
+  "collected_at": "2026-09-17T12:54:50.159342+00:00",
+  "summary": "本文探讨了AI智能体规划中人与智能体之间的协作问题，提出「分裂世界」概念，即人类与智能体各自拥有不同的世界模型和表示方式。作者引入「边界对象」和「厚接口」理念，主张通过共享的规划制品（如草图、文档、看板）来弥合认知鸿沟，而非追求完全自动化的黑箱规划。文章强调，有效的智能体规划需要可解释、可干预的中间表示，让人类能够理解、修改和引导智能体的决策过程，从而在复杂任务中实现更可靠的人机协同。",
+  "highlights": [
+    "提出「分裂世界」问题：人类与智能体对任务的理解和表示存在根本性差异，直接端到端规划容易失败",
+    "引入「边界对象」概念：通过共享的规划制品（如草图、文档、看板）作为人机之间的沟通媒介",
+    "倡导「厚接口」设计：智能体规划应暴露可解释、可干预的中间表示，而非黑箱式自动化",
+    "强调人机协同规划：人类应能理解、修改和引导智能体的决策过程，提升复杂任务的可靠性"
+  ],
+  "tags": [
+    "Agent",
+    "Planning",
+    "HCI",
+    "Human-AI Collaboration",
+    "Interface Design"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "文章从人机交互视角深入剖析智能体规划的认知鸿沟，提出的边界对象与厚接口理念对设计可解释、可协作的AI规划系统具有重要启发价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

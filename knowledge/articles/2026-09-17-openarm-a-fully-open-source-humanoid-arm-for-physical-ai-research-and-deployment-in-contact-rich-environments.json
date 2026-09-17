@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-17-openarm-a-fully-open-source-humanoid-arm-for-physical-ai-research-and-deployment-in-contact-rich-environments",
+  "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+  "source": "rss",
+  "source_url": "https://github.com/enactic/OpenArm",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 15 Sep 2026 07:52:26 -0500",
+  "collected_at": "2026-09-17T12:54:47.499189+00:00",
+  "summary": "OpenArm 是一个完全开源的人形机械臂项目，专为物理 AI 研究及在接触密集型环境中的部署而设计。项目提供硬件设计、控制软件与仿真接口，支持强化学习与机器人操作研究，旨在降低人形机器人研究门槛，促进开源社区协作。",
+  "highlights": [
+    "完全开源的人形机械臂硬件与软件方案",
+    "面向接触密集型环境的物理 AI 研究与部署",
+    "支持强化学习与机器人操作算法开发",
+    "提供仿真接口，便于快速实验与验证"
+  ],
+  "tags": [
+    "Robotics",
+    "OpenSource",
+    "PhysicalAI",
+    "Humanoid",
+    "ReinforcementLearning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "开源人形机械臂填补了物理 AI 研究硬件与软件集成的空白，对机器人学习社区有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

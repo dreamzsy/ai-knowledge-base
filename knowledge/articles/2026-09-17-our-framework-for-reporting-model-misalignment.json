@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-17-our-framework-for-reporting-model-misalignment",
+  "title": "Our framework for reporting model misalignment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "author": "openai_blog",
+  "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
+  "collected_at": "2026-09-17T12:55:09.322546+00:00",
+  "summary": "OpenAI 发布了一套用于追踪、调查和披露模型失准（misalignment）的框架，并附带了六份关于模型意外或令人担忧行为的报告。该框架旨在系统化地识别和公开模型偏离预期目标的现象，提升 AI 安全透明度。报告内容可能涉及模型在特定场景下的异常输出、奖励黑客行为或目标泛化问题，为研究社区提供实际案例和评估方法。此举反映了 OpenAI 对模型对齐风险的重视，并推动行业建立标准化的失准报告机制。",
+  "highlights": [
+    "OpenAI 提出首个系统化的模型失准追踪与披露框架",
+    "附带六份真实模型异常行为报告，提供具体案例",
+    "强调透明度与行业协作，推动 AI 安全标准化",
+    "框架覆盖追踪、调查、披露全流程，可操作性强"
+  ],
+  "tags": [
+    "AI Safety",
+    "Model Misalignment",
+    "Transparency",
+    "Reporting Framework",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该框架为 AI 安全领域提供了可落地的失准报告标准，并附有实证案例，对研究和实践均有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

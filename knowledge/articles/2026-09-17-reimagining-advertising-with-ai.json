@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-17-reimagining-advertising-with-ai",
+  "title": "Reimagining advertising with AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+  "author": "openai_blog",
+  "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
+  "collected_at": "2026-09-17T12:55:04.915776+00:00",
+  "summary": "OpenAI 发布 AI 驱动的广告新体验，包括 Sponsored Agents、面向营销人员的工具，以及与 HubSpot 和 Shopify 的集成。这标志着 OpenAI 正式进入广告领域，利用 AI 代理技术重塑广告投放和互动方式，为品牌提供更智能的营销解决方案，可能对数字广告生态产生深远影响。",
+  "highlights": [
+    "推出 Sponsored Agents，利用 AI 代理实现新型广告互动",
+    "为营销人员提供专门的 AI 工具，提升广告效率",
+    "与 HubSpot 和 Shopify 集成，打通电商和 CRM 场景",
+    "OpenAI 正式布局广告业务，可能改变数字广告格局"
+  ],
+  "tags": [
+    "AI",
+    "Advertising",
+    "Agent",
+    "Marketing",
+    "Integration"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI 进军广告领域具有战略意义，结合 AI 代理和电商集成，商业潜力大，但具体效果待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
