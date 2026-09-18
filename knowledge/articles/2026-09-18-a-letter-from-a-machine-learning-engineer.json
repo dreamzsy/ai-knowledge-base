@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-18-a-letter-from-a-machine-learning-engineer",
+  "title": "A Letter from a Machine Learning Engineer",
+  "source": "rss",
+  "source_url": "https://nemin.hu/llm-letter/index.html",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 14 Sep 2026 12:58:22 -0500",
+  "collected_at": "2026-09-18T12:32:45.531026+00:00",
+  "summary": "这是一篇机器学习工程师的公开信，作者结合自身经验，反思了当前大语言模型（LLM）开发中的常见误区，如过度依赖提示工程、忽视数据质量、盲目追求模型规模等。文章呼吁工程师回归工程本质，重视数据清洗、评估体系和产品落地，而非追逐热点。内容引发社区广泛讨论，对LLM从业者具有警示和启发意义。",
+  "highlights": [
+    "批判当前LLM开发中重提示、轻数据的浮躁风气",
+    "强调数据质量和评估体系比模型规模更重要",
+    "呼吁工程师回归工程本质，关注产品落地价值",
+    "在技术社区引发广泛共鸣与讨论"
+  ],
+  "tags": [
+    "LLM",
+    "Machine Learning",
+    "Engineering",
+    "Data Quality",
+    "Best Practices"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章观点务实且具反思性，对LLM工程实践有参考价值，但缺乏具体技术方案，偏向观点输出。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

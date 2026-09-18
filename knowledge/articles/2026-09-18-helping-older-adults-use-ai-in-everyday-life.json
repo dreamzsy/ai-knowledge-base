@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-18-helping-older-adults-use-ai-in-everyday-life",
+  "title": "Helping older adults use AI in everyday life",
+  "source": "rss",
+  "source_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+  "author": "openai_blog",
+  "published_at": "Wed, 16 Sep 2026 16:00:00 GMT",
+  "collected_at": "2026-09-18T12:33:01.283155+00:00",
+  "summary": "OpenAI 与 AARP 合作，在美国 10 个城市为 1000 名老年人提供免费的 ChatGPT 实践工作坊，旨在帮助他们安全地掌握实用 AI 技能，将 AI 融入日常生活。",
+  "highlights": [
+    "OpenAI 与 AARP 联合发起面向老年人的 AI 普及项目",
+    "覆盖美国 10 个城市，提供 1000 个免费线下工作坊名额",
+    "重点培养老年人安全使用 ChatGPT 的实用技能",
+    "推动 AI 技术在老年群体中的日常应用与数字包容"
+  ],
+  "tags": [
+    "AI Literacy",
+    "ChatGPT",
+    "Digital Inclusion",
+    "Education",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目具有社会公益价值，但技术深度有限，属于 AI 普及教育而非技术创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

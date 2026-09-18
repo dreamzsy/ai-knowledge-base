@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-18-your-agent-aced-the-task-will-it-do-it-again",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 15 Sep 2026 16:00:44 GMT",
+  "collected_at": "2026-09-18T12:33:05.243572+00:00",
+  "summary": "IBM Research 在 Hugging Face 博客发文，探讨 AI Agent 在成功完成任务后能否稳定复现的问题，即一致性（consistency）评估。文章指出当前 Agent 评测多关注单次成功率，而忽略重复执行时的稳定性，并提出 ALTK-Evolve 方法，通过演化式测试与一致性指标来量化 Agent 的可靠程度，帮助开发者发现偶发成功背后的脆弱性，推动更可信的 Agent 部署。",
+  "highlights": [
+    "指出 Agent 评测盲区：单次任务成功不等于可重复稳定完成",
+    "提出一致性（consistency）作为衡量 Agent 可靠性的核心指标",
+    "介绍 ALTK-Evolve 方法，用演化式测试评估 Agent 重复表现",
+    "强调偶发成功可能掩盖脆弱性，影响生产环境部署可信度"
+  ],
+  "tags": [
+    "Agent",
+    "Evaluation",
+    "Reliability",
+    "LLM",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "切中 Agent 落地中的可靠性痛点，提出可量化的一致性评估思路，对工程实践有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

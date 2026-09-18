@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-18-async-grpo-with-lora-across-hf-jobs-a-bucket-a-proxy-and-no-nccl",
+  "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-18T12:33:07.259915+00:00",
+  "summary": "该博客介绍了在 Hugging Face Jobs 上实现异步 GRPO（Group Relative Policy Optimization）与 LoRA 微调的方法，无需依赖 NCCL 通信库。通过使用对象存储桶（bucket）和代理（proxy）机制，实现了分布式训练中的梯度同步与参数更新，降低了多节点训练对高性能网络通信的依赖。方案适用于资源受限或异构环境下的强化学习微调，提升了训练灵活性和可扩展性。",
+  "highlights": [
+    "提出异步 GRPO 训练流程，结合 LoRA 降低显存与计算开销",
+    "利用 bucket 和 proxy 替代 NCCL，实现跨节点通信",
+    "在 Hugging Face Jobs 上部署，简化分布式训练配置",
+    "适用于无高速互联或异构硬件的强化学习微调场景"
+  ],
+  "tags": [
+    "GRPO",
+    "LoRA",
+    "Async Training",
+    "HuggingFace",
+    "Distributed"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "方案创新性地绕开 NCCL 依赖，降低了分布式强化学习微调的门槛，但适用场景相对特定。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

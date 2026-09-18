@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-18-model-training-incidents-are-negligence",
+  "title": "Model Training Incidents are Negligence",
+  "source": "rss",
+  "source_url": "https://taggart-tech.com/lying/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 15 Sep 2026 08:55:32 -0500",
+  "collected_at": "2026-09-18T12:32:41.587721+00:00",
+  "summary": "本文认为模型训练事故并非不可避免的意外，而是工程疏忽。作者批评当前AI开发中缺乏严格测试、监控和问责机制，导致模型行为异常、数据泄露等事故频发。文章呼吁将模型训练视为关键系统，采用软件工程最佳实践，如版本控制、回滚、审计和故障分析，以减少可预防的失败。",
+  "highlights": [
+    "模型训练事故常被归咎于技术复杂性，但作者认为本质是工程疏忽。",
+    "缺乏标准化的测试、监控和回滚机制是事故频发的主因。",
+    "呼吁将模型训练纳入关键系统范畴，采用软件工程最佳实践。",
+    "强调问责文化，要求对可预防的失败进行根因分析和改进。"
+  ],
+  "tags": [
+    "MLOps",
+    "AI Safety",
+    "Software Engineering",
+    "Model Training",
+    "Incident Management"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章观点鲜明，切中当前AI工程化痛点，对从业者有警示和指导价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
