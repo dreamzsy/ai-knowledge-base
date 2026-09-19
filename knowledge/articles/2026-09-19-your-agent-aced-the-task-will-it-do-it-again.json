@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-19-your-agent-aced-the-task-will-it-do-it-again",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 15 Sep 2026 16:00:44 GMT",
+  "collected_at": "2026-09-19T12:11:11.199213+00:00",
+  "summary": "本文介绍IBM Research在Hugging Face发布的ALTK-Evolve框架，旨在解决AI Agent任务执行的一致性问题。文章指出，Agent可能一次成功完成任务，但重复执行时结果可能不稳定。ALTK-Evolve通过系统化方法评估和改进Agent的可靠性，确保其在多次运行中保持稳定表现，为Agent的工程化部署提供关键支持。",
+  "highlights": [
+    "提出Agent任务执行一致性问题：一次成功不代表可重复成功",
+    "ALTK-Evolve框架用于评估和提升Agent的稳定性",
+    "强调可靠性对Agent实际部署的重要性",
+    "提供系统化方法改进Agent的重复执行表现"
+  ],
+  "tags": [
+    "Agent",
+    "Reliability",
+    "Evaluation",
+    "Framework",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "Agent可靠性是落地关键痛点，该工作提供系统化解决方案，具有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

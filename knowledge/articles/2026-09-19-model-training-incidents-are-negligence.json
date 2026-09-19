@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-19-model-training-incidents-are-negligence",
+  "title": "Model Training Incidents are Negligence",
+  "source": "rss",
+  "source_url": "https://taggart-tech.com/lying/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 15 Sep 2026 08:55:32 -0500",
+  "collected_at": "2026-09-19T12:10:51.023992+00:00",
+  "summary": "本文批评AI模型训练中的事故常被归咎于意外，实为疏忽。作者认为团队忽视已知风险、缺乏安全流程，导致模型产生有害输出或泄露数据。文章呼吁将此类事件视为工程责任问题，而非不可避免的意外，并强调需建立严格的安全文化。",
+  "highlights": [
+    "模型训练事故多源于可预防的疏忽，而非不可预见的意外",
+    "团队常忽视已知风险，缺乏基本的安全流程和测试",
+    "呼吁将AI安全事件视为工程责任问题，而非技术宿命",
+    "强调建立严格安全文化和问责机制的必要性"
+  ],
+  "tags": [
+    "AI Safety",
+    "Model Training",
+    "Responsible AI",
+    "Engineering Ethics"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章观点鲜明，对AI安全实践有警示意义，但缺乏具体案例和解决方案，深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-19-safety-for-whom-refusing-the-right-subset-of-a-topic-not-the-whole-topic",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 08 Sep 2026 14:23:07 GMT",
+  "collected_at": "2026-09-19T12:11:17.688669+00:00",
+  "summary": "本文探讨大语言模型安全对齐中的过度拒绝问题，指出当前模型常因主题敏感而拒绝整个话题，而非仅拒绝其中真正有害的子集。作者提出应精确识别并拒绝话题中有害的部分，保留安全子集的回答能力，从而在保障安全的同时提升有用性。文章可能来自 Hugging Face 博客，涉及安全策略、对齐与评估方法。",
+  "highlights": [
+    "指出当前安全对齐常导致模型拒绝整个话题，而非仅拒绝有害子集，造成过度拒绝。",
+    "提出应针对话题中有害的子集进行拒绝，保留安全子集的回答，平衡安全与有用性。",
+    "可能涉及对安全分类、拒绝策略及评估基准的讨论或改进方法。",
+    "强调安全应服务于用户，而非一刀切地限制信息获取。"
+  ],
+  "tags": [
+    "LLM",
+    "Safety",
+    "Alignment",
+    "Refusal",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该文针对LLM安全对齐中的过度拒绝问题提出精细化的拒绝策略，对提升模型安全与有用性平衡有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-19-how-cooley-is-accelerating-ipo-work-with-chatgpt",
+  "title": "How Cooley is accelerating IPO work with ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/cooley-gopublic",
+  "author": "openai_blog",
+  "published_at": "Thu, 17 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-19T12:11:05.730701+00:00",
+  "summary": "本文介绍了律师事务所 Cooley 如何利用 ChatGPT Work 构建 GO Public 工具，将人工智能引入 IPO 流程。该工具帮助律师更早发现潜在问题，并将精力集中在最需要专业判断的环节，从而加速 IPO 工作。这展示了生成式 AI 在法律与金融专业服务领域的实际落地，通过自动化信息处理提升效率，让专家聚焦高价值决策。",
+  "highlights": [
+    "Cooley 基于 ChatGPT Work 打造 GO Public，将 AI 应用于 IPO 流程",
+    "帮助律师更早发现潜在问题，提升风险识别效率",
+    "让律师将精力集中在需要专业判断的关键环节",
+    "展示了生成式 AI 在法律与金融专业服务中的落地案例"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "LegalTech",
+    "IPO",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该案例展示了 LLM 在专业服务领域的实际应用，具有行业参考价值，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

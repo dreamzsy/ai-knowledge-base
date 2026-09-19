@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-19-how-openai-used-its-own-llms-to-design-its-jalape-o-chip",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source": "rss",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 19 Sep 2026 04:52:30 -0500",
+  "collected_at": "2026-09-19T12:10:47.344716+00:00",
+  "summary": "本文介绍 OpenAI 如何利用自家 LLM 辅助设计代号 Jalapeño 的定制芯片。通过将大模型引入芯片设计流程，OpenAI 在架构探索、RTL 代码生成、验证与优化等环节提升效率，减少人工迭代。这展示了 LLM 在硬件工程领域的实际落地价值，也反映 AI 公司用 AI 加速自身基础设施建设的趋势。",
+  "highlights": [
+    "OpenAI 使用自家 LLM 参与 Jalapeño 芯片的设计流程，覆盖架构探索与代码生成等环节",
+    "LLM 在 RTL 生成、验证和优化中提升效率，减少人工迭代成本",
+    "体现 AI 公司用 AI 加速自研硬件与基础设施建设的闭环趋势",
+    "为 LLM 在 EDA 与芯片设计领域的工程化应用提供实践参考"
+  ],
+  "tags": [
+    "LLM",
+    "ChipDesign",
+    "EDA",
+    "Hardware",
+    "CodeGeneration"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "展示了 LLM 在芯片设计这一高门槛领域的真实工程落地，兼具技术深度与行业示范价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

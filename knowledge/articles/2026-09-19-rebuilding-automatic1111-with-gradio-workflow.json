@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-19-rebuilding-automatic1111-with-gradio-workflow",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-19T12:11:15.846387+00:00",
+  "summary": "本文介绍如何使用 Gradio Workflow 重新构建 AUTOMATIC1111 Stable Diffusion WebUI。Gradio Workflow 是 Gradio 新推出的可视化工作流构建工具，允许开发者通过拖拽节点的方式组合 AI 模型和数据处理步骤。作者通过将 AUTOMATIC1111 的复杂界面拆解为可复用的工作流组件，展示了如何用更模块化、可维护的方式实现类似功能，同时保持用户友好的交互体验。这为 AI 应用开发提供了新的思路，尤其适合需要灵活编排多个模型或处理步骤的场景。",
+  "highlights": [
+    "Gradio Workflow 提供可视化节点式编排，降低 AI 应用开发门槛",
+    "将 AUTOMATIC1111 的复杂 UI 重构为模块化工作流，提升可维护性",
+    "展示了工作流方式在 Stable Diffusion 等生成式 AI 工具中的可行性",
+    "为开发者提供了一种替代传统硬编码 UI 的灵活方案"
+  ],
+  "tags": [
+    "Gradio",
+    "Workflow",
+    "Stable Diffusion",
+    "AUTOMATIC1111",
+    "UI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容具有实践指导意义，展示了 Gradio Workflow 在重构复杂 AI 界面中的潜力，但受众相对垂直，创新性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
