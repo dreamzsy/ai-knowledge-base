@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-20-i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-breakthrough",
+  "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+  "source": "rss",
+  "source_url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 19 Sep 2026 08:41:57 -0500",
+  "collected_at": "2026-09-20T12:46:59.682459+00:00",
+  "summary": "作者称一年前独立构建了非自回归决策模型，当时未受关注，如今某前沿实验室将其称为“突破”。文章对比了自回归模型逐token生成的局限，强调非自回归并行决策在效率与全局一致性上的优势，并反思了独立研究者与主流实验室在资源、传播和认可度上的差距。",
+  "highlights": [
+    "作者一年前已实现非自回归决策模型，但未获关注",
+    "前沿实验室近期将类似方向称为突破，引发对创新归属的讨论",
+    "非自回归方法可并行生成决策，提升推理效率",
+    "反映独立研究者与大型实验室在资源与传播上的不对等"
+  ],
+  "tags": [
+    "Non-Autoregressive",
+    "Decision-Model",
+    "LLM",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "话题有启发性，但缺乏技术细节与可验证结果，价值偏观点讨论。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

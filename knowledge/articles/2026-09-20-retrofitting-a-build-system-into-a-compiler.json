@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-20-retrofitting-a-build-system-into-a-compiler",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+  "collected_at": "2026-09-20T12:47:09.899802+00:00",
+  "summary": "本文介绍如何将构建系统能力直接集成到编译器内部，通过效果系统（effect system）管理编译过程中的依赖与副作用。作者以 OCaml 编译器为例，展示了如何让编译器在编译时自动处理模块依赖、增量编译和并行构建，从而消除对外部构建工具（如 Make、Dune）的依赖。文章详细讨论了效果处理器的设计、依赖图的动态构建以及缓存策略，为编译器与构建系统的融合提供了新思路。",
+  "highlights": [
+    "提出将构建系统逻辑内嵌到编译器中的架构，利用效果系统统一管理编译副作用",
+    "通过效果处理器动态追踪模块依赖，实现增量编译与并行调度",
+    "以 OCaml 编译器为原型验证方案，减少对外部构建工具的依赖",
+    "探讨了缓存、依赖图构建及效果处理器的实现细节与挑战"
+  ],
+  "tags": [
+    "Compiler",
+    "BuildSystem",
+    "EffectSystem",
+    "OCaml",
+    "IncrementalCompilation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章提出编译器与构建系统融合的创新思路，对编译器和构建工具开发者有较高参考价值，但应用范围相对专一。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-20-introducing-the-australian-youth-safety-blueprint",
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "source": "rss",
+  "source_url": "https://openai.com/index/australian-youth-safety-blueprint",
+  "author": "openai_blog",
+  "published_at": "Fri, 18 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-20T12:47:13.567843+00:00",
+  "summary": "OpenAI 发布澳大利亚青年安全蓝图，提出六大支柱路线图，旨在为年轻人提供更安全的 AI 体验，同时兼顾保护与赋能。该蓝图聚焦于防止 AI 对青少年的潜在伤害，并帮助他们安全、积极地使用 AI 技术。",
+  "highlights": [
+    "OpenAI 推出针对澳大利亚青少年的 AI 安全路线图",
+    "蓝图包含六大支柱，平衡保护与赋能",
+    "旨在减少 AI 对年轻人的风险并促进积极使用",
+    "体现 OpenAI 在 AI 安全与青少年保护方面的政策布局"
+  ],
+  "tags": [
+    "AI Safety",
+    "Youth Protection",
+    "Policy",
+    "OpenAI",
+    "Roadmap"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "该蓝图具有社会价值和政策指导意义，但技术深度有限，主要面向特定地区与人群。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

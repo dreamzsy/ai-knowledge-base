@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-20-ai-generated-posters-don-t-have-to-be-horrible",
+  "title": "AI-generated posters don’t have to be horrible",
+  "source": "rss",
+  "source_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "author": "hacker_news_best",
+  "published_at": "Sat, 19 Sep 2026 09:20:58 +0000",
+  "collected_at": "2026-09-20T12:46:53.712831+00:00",
+  "summary": "本文作者分享如何用 AI 生成不丑陋的活动海报，针对 AI 生成设计常被诟病的排版混乱、配色俗气等问题，提出通过精心设计提示词、控制构图层次、选择合适字体与配色、迭代优化等实用方法，让 AI 产出的海报达到可用甚至专业水准。文章在 Hacker News 获得 1641 分和 860 条评论，引发对 AI 辅助设计工作流的广泛讨论。",
+  "highlights": [
+    "指出 AI 生成海报常见问题：排版混乱、配色俗气、缺乏视觉层次",
+    "提出通过结构化提示词和迭代优化提升 AI 设计质量的具体方法",
+    "强调人工干预在字体选择、构图调整和细节打磨中的关键作用",
+    "在 Hacker News 引发高热度讨论，反映 AI 辅助设计话题的广泛关注"
+  ],
+  "tags": [
+    "AI-Design",
+    "Prompt-Engineering",
+    "Generative-AI",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容实用且讨论热度高，但偏向经验分享而非技术突破，对 AI 设计工作流有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

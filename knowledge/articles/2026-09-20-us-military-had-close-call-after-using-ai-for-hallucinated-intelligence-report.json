@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-20-us-military-had-close-call-after-using-ai-for-hallucinated-intelligence-report",
+  "title": "US Military had close call after using AI for hallucinated intelligence report",
+  "source": "rss",
+  "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 18 Sep 2026 17:28:01 +0000",
+  "collected_at": "2026-09-20T12:46:55.760944+00:00",
+  "summary": "CNN 报道称，美国军方在使用 AI 生成情报报告时遭遇险情：AI 产生幻觉，编造了关于中国舰船的不实情报，险些引发误判。该事件在 Hacker News 上获得 504 分、387 条评论，引发对 AI 在高风险决策场景中可靠性的广泛讨论。",
+  "highlights": [
+    "美军使用 AI 生成情报报告时出现幻觉，编造了关于中国舰船的不实信息",
+    "该事件被形容为一次'险情'，凸显 AI 在高风险军事决策中的潜在危险",
+    "Hacker News 讨论热度高，504 分、387 条评论，反映业界对 AI 可靠性的担忧",
+    "事件再次引发对 LLM 幻觉问题及关键领域 AI 部署边界的讨论"
+  ],
+  "tags": [
+    "LLM",
+    "Hallucination",
+    "AI Safety",
+    "Military",
+    "Intelligence"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "AI 幻觉在军事情报场景中险些造成严重后果，具有高现实警示价值和广泛讨论度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

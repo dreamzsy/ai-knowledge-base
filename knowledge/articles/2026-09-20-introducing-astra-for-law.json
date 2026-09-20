@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-20-introducing-astra-for-law",
+  "title": "Introducing Astra for Law",
+  "source": "rss",
+  "source_url": "https://openai.com/index/astra-for-law",
+  "author": "openai_blog",
+  "published_at": "Thu, 17 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-20T12:47:17.437306+00:00",
+  "summary": "OpenAI 推出面向法律行业的 Astra for Law，提供前沿智能、定制化律所工作流、连接法律数据源以及法律级保密控制。该产品旨在帮助法律专业人士处理机密客户工作，提升效率与合规性，标志着 OpenAI 在垂直行业解决方案上的进一步拓展。",
+  "highlights": [
+    "提供前沿智能，专为法律场景优化",
+    "支持定制化律所工作流，适应不同团队需求",
+    "连接法律数据源，实现信息整合与检索",
+    "具备法律级保密控制，确保客户数据安全"
+  ],
+  "tags": [
+    "LegalTech",
+    "OpenAI",
+    "Workflow",
+    "DataIntegration",
+    "Security"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该产品将前沿AI能力与法律行业深度结合，解决保密与工作流痛点，具有明确的商业价值，但具体技术细节和效果尚待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

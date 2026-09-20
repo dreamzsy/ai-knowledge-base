@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-20-kicking-the-tires-on-jev-typesafe-s-system-one-model-with-2048",
+  "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+  "source": "rss",
+  "source_url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 19 Sep 2026 07:38:11 -0500",
+  "collected_at": "2026-09-20T12:47:01.350637+00:00",
+  "summary": "该内容是一个 Gist 代码片段，展示了作者使用 TypeSafe 的 System One 模型（jev）实现 2048 游戏的过程，旨在探索该模型的类型安全特性。通过实际编码，作者评估了 jev 在游戏逻辑表达、类型系统约束和开发体验方面的表现，为对类型安全编程和 System One 感兴趣的开发者提供了实践参考。",
+  "highlights": [
+    "使用 TypeSafe 的 System One 模型（jev）实现 2048 游戏，验证其类型安全能力",
+    "通过实际项目探索 jev 在游戏逻辑和状态管理中的表达方式",
+    "为类型安全编程和 System One 模型提供实践案例与经验分享",
+    "代码以 Gist 形式公开，便于社区讨论和参考"
+  ],
+  "tags": [
+    "TypeSafe",
+    "SystemOne",
+    "TypeSystem",
+    "GameDev",
+    "2048"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "内容为特定类型安全模型的实践探索，对相关领域开发者有参考价值，但受众较窄。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
