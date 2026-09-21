@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-how-v7-gives-ai-agents-institutional-memory",
+  "title": "How V7 gives AI agents institutional memory",
+  "source": "rss",
+  "source_url": "https://openai.com/index/v7",
+  "author": "openai_blog",
+  "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-21T14:43:50.087796+00:00",
+  "summary": "V7 利用 GPT-5.6 将企业内部分散的文件整合为可被 AI 智能体调用的结构化上下文，从而赋予智能体“机构记忆”。该方案让智能体能够完成复杂任务，并确保每项输出都可溯源到原始文件，解决了 AI 在企业场景中缺乏长期记忆和可信来源的痛点，提升了自动化工作的准确性与可审计性。",
+  "highlights": [
+    "V7 基于 GPT-5.6 构建，将企业散落文件转化为智能体可用的上下文。",
+    "核心能力是赋予 AI 智能体“机构记忆”，支持复杂任务执行。",
+    "所有工作成果均与源文件链接，保证可追溯性和可信度。",
+    "面向企业场景，解决 AI 缺乏长期记忆和来源验证的问题。"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Enterprise",
+    "Memory",
+    "GPT"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该方案切中企业级 AI 智能体的记忆与溯源刚需，结合 GPT-5.6 有较强实用性和落地价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-tokenizers-v1-encode-decode-and-scaling-measured",
+  "title": "tokenizers v1: encode, decode and scaling, measured",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/tokenizers-v1",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-21T14:43:59.666107+00:00",
+  "summary": "Hugging Face 发布 tokenizers v1，这是其核心分词库的重大版本更新。新版本在 encode 和 decode 性能上进行了优化，并提供了可测量的扩展性基准。文章详细介绍了 v1 的架构改进、速度提升以及在不同负载下的表现，旨在为 NLP 和 LLM 开发者提供更高效、更稳定的分词工具。",
+  "highlights": [
+    "tokenizers v1 正式发布，聚焦 encode/decode 性能与扩展性",
+    "提供可测量的基准测试，展示不同负载下的速度提升",
+    "架构优化，提升高并发场景下的吞吐量和稳定性",
+    "作为 Hugging Face 生态核心组件，影响广泛 NLP/LLM 工作流"
+  ],
+  "tags": [
+    "Tokenization",
+    "NLP",
+    "HuggingFace",
+    "Performance",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "tokenizers 是 NLP 基础设施的关键组件，v1 的性能与扩展性改进对大规模模型训练和推理有直接价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

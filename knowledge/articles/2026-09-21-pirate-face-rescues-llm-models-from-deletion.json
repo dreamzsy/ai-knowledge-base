@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-pirate-face-rescues-llm-models-from-deletion",
+  "title": "Pirate Face Rescues LLM Models from Deletion",
+  "source": "rss",
+  "source_url": "https://pirateface.co/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 20 Sep 2026 15:16:07 +0000",
+  "collected_at": "2026-09-21T14:43:26.303607+00:00",
+  "summary": "Pirate Face 是一个旨在从删除风险中拯救 LLM 模型的开源项目，通过提供模型备份、镜像或托管服务，防止因平台下架、政策变更或服务终止导致模型丢失。该项目在 Hacker News 上获得 543 分和 144 条评论，引发社区对模型可持续性与开放生态的广泛讨论。",
+  "highlights": [
+    "针对 LLM 模型因平台删除或下架而丢失的问题提供解决方案",
+    "可能提供模型备份、镜像或去中心化托管机制",
+    "在 Hacker News 上获得高关注度（543 分，144 条评论）",
+    "引发对开源模型长期保存与可访问性的社区讨论"
+  ],
+  "tags": [
+    "LLM",
+    "Model Preservation",
+    "Open Source",
+    "Decentralization",
+    "AI Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目切中模型可持续性与开放生态痛点，社区反响热烈，但具体技术细节与实施效果尚待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

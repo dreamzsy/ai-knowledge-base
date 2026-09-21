@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-21-a-study-of-sequence-weighting-at-scale",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+  "collected_at": "2026-09-21T14:43:40.767752+00:00",
+  "summary": "本文是 Jane Street 对大规模序列加权（sequence weighting）的研究，探讨在训练序列模型时如何为不同序列或样本分配权重以优化效果。文章可能涉及数据采样、损失加权、课程学习等策略，并分享在金融数据规模下的实验发现与工程实践。",
+  "highlights": [
+    "研究大规模场景下序列加权对模型训练的影响",
+    "可能涵盖数据采样、损失加权或课程学习等策略",
+    "基于 Jane Street 实际金融数据规模的实验与工程经验",
+    "为序列建模中的数据权重设计提供实践参考"
+  ],
+  "tags": [
+    "Sequence Modeling",
+    "Data Weighting",
+    "Large-Scale Training",
+    "Machine Learning"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "来自知名量化机构 Jane Street 的工程实践研究，对序列建模中的数据加权有参考价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "url": "https://pirateface.co/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 543 # Comments: 144",
+    "published_at": "Sun, 20 Sep 2026 15:16:07 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI and the Destruction of the Creative Commons",
+    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 232 # Comments: 275",
+    "published_at": "Sun, 20 Sep 2026 10:07:51 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "I think you should almost never use AI to write",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 356 # Comments: 168",
+    "published_at": "Sat, 19 Sep 2026 16:35:24 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 12:43:10 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+    "url": "https://laya.convaiinnovations.com/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ojukrw/laya_33ms_multilingual_system_1_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 19 Sep 2026 11:31:05 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+    "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 19 Sep 2026 08:41:57 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7knhjd/how_openai_used_its_own_llms_design_its\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 19 Sep 2026 04:52:30 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How V7 gives AI agents institutional memory",
+    "url": "https://openai.com/index/v7",
+    "author": "openai_blog",
+    "summary_raw": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "published_at": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "author": "openai_blog",
+    "summary_raw": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "published_at": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing Astra for Law",
+    "url": "https://openai.com/index/astra-for-law",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "published_at": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 21 Sep 2026 13:44:34 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

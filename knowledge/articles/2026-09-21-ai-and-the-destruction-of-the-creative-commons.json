@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-ai-and-the-destruction-of-the-creative-commons",
+  "title": "AI and the Destruction of the Creative Commons",
+  "source": "rss",
+  "source_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 20 Sep 2026 10:07:51 +0000",
+  "collected_at": "2026-09-21T14:43:28.494339+00:00",
+  "summary": "该文章探讨生成式AI对知识共享（Creative Commons）生态的冲击，认为大规模模型训练无偿抓取并商用开放版权内容，削弱了创作者分享意愿，可能摧毁公共知识池。HN讨论中，支持者强调需重建授权与补偿机制，反对者则认为AI只是加速既有平台垄断问题。文章引发对数据伦理、版权与开源可持续性的广泛争论。",
+  "highlights": [
+    "生成式AI大规模抓取Creative Commons内容用于训练，却未回馈创作者，破坏共享激励。",
+    "文章认为若持续无偿商用，公共知识池将萎缩，最终损害AI自身训练数据来源。",
+    "HN评论分歧明显：一方主张建立授权与补偿机制，另一方认为问题根源在平台垄断而非AI。",
+    "讨论延伸至数据伦理、版权改革与开源生态可持续性等更广泛议题。"
+  ],
+  "tags": [
+    "AI Ethics",
+    "Creative Commons",
+    "Copyright",
+    "Generative AI",
+    "Data Governance"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "议题重要且讨论热度高，但偏观点评论，缺乏技术方案或实证数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

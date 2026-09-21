@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-pruning-llms-like-a-physicist-block-removal-as-an-ising-optimization-problem",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 21 Sep 2026 13:44:34 GMT",
+  "collected_at": "2026-09-21T14:43:57.670476+00:00",
+  "summary": "本文提出一种将大语言模型结构化剪枝（块移除）建模为伊辛优化问题的新方法。作者将Transformer中连续块的选择视为二元自旋变量，利用伊辛模型的能量最小化来寻找最优块移除组合，从而在压缩模型的同时保持性能。该方法借鉴物理学中的退火或量子优化技术，为LLM剪枝提供了全新的组合优化视角，有望提升剪枝效率和效果。",
+  "highlights": [
+    "将LLM块移除剪枝形式化为伊辛优化问题，每个块对应一个二元自旋变量",
+    "利用伊辛能量最小化寻找最优块组合，兼顾压缩率与模型性能",
+    "借鉴物理退火或量子优化技术求解组合优化，可能提升剪枝效率",
+    "为结构化剪枝提供了跨学科的新思路，区别于传统启发式或梯度方法"
+  ],
+  "tags": [
+    "LLM",
+    "Pruning",
+    "Ising Model",
+    "Optimization",
+    "Model Compression"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "跨学科创新性强，将物理优化方法引入LLM剪枝，具有较高研究价值和应用潜力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
