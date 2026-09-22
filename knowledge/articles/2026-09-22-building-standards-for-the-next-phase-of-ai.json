@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-building-standards-for-the-next-phase-of-ai",
+  "title": "Building standards for the next phase of AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+  "author": "openai_blog",
+  "published_at": "Mon, 21 Sep 2026 10:00:00 GMT",
+  "collected_at": "2026-09-22T12:58:55.404479+00:00",
+  "summary": "OpenAI 发布文章《Building standards for the next phase of AI》，提出全球 AI 标准建设路径，呼吁通过协调评估、报告和治理来提升 AI 安全性。文章强调当前 AI 发展进入新阶段，需要国际协作制定统一标准，涵盖模型评估、透明度报告和治理框架，以应对日益复杂的安全挑战。",
+  "highlights": [
+    "OpenAI 呼吁建立全球统一的 AI 标准，推动国际协作",
+    "强调协调评估、报告和治理三大支柱以提升安全性",
+    "针对 AI 发展新阶段提出标准化路径",
+    "旨在应对日益复杂的 AI 安全挑战"
+  ],
+  "tags": [
+    "AI Governance",
+    "AI Safety",
+    "Standards",
+    "Policy",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "OpenAI 官方政策倡议，对 AI 治理和标准化方向有重要参考价值，但缺乏具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

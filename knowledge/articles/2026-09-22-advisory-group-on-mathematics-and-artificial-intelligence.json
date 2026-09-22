@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-advisory-group-on-mathematics-and-artificial-intelligence",
+  "title": "Advisory Group on Mathematics and Artificial Intelligence",
+  "source": "rss",
+  "source_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+  "author": "openai_blog",
+  "published_at": "Mon, 21 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-22T12:58:51.575002+00:00",
+  "summary": "OpenAI 宣布成立数学与人工智能独立咨询小组，旨在指导和审查新兴 AI 成果，并促进其传播。该小组将聚焦 AI 在数学领域的突破，评估结果可靠性，推动负责任的沟通。此举回应了近期 AI 数学推理进展引发的关注，强调独立监督与透明度。",
+  "highlights": [
+    "OpenAI 成立独立咨询小组，专注数学与 AI 交叉领域",
+    "小组负责审查和传播新兴 AI 研究成果",
+    "旨在提升 AI 数学结果的可信度与透明度",
+    "回应 AI 数学推理能力快速发展的行业趋势"
+  ],
+  "tags": [
+    "AI",
+    "Mathematics",
+    "OpenAI",
+    "Advisory Group",
+    "Research Review"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "该举措对 AI 数学研究的规范与传播有积极意义，但缺乏具体技术细节，实际影响力待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

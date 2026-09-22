@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-a-continual-learning-model-trained-from-scratch-on-8gb-vram-laptop-with-batch-1-stream-of-data",
+  "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+  "source": "rss",
+  "source_url": "https://github.com/volotat/mini-AGI/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 21 Sep 2026 12:22:31 -0500",
+  "collected_at": "2026-09-22T12:58:34.594921+00:00",
+  "summary": "该项目 mini-AGI 展示了一个从零开始训练的持续学习模型，能在仅 8GB 显存的笔记本上以 batch-1 数据流运行。它挑战了传统大模型依赖大规模算力的范式，通过在线学习方式逐步积累知识，避免灾难性遗忘。代码开源，适合研究低资源场景下的持续学习与类 AGI 架构。",
+  "highlights": [
+    "在 8GB VRAM 笔记本上从零训练持续学习模型",
+    "采用 batch-1 数据流，支持在线增量学习",
+    "旨在缓解灾难性遗忘，实现知识累积",
+    "开源项目，探索低资源下的类 AGI 架构"
+  ],
+  "tags": [
+    "Continual Learning",
+    "Low-Resource",
+    "Online Learning",
+    "AGI",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "在低资源持续学习方向有创新性和实用价值，但尚处早期探索阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

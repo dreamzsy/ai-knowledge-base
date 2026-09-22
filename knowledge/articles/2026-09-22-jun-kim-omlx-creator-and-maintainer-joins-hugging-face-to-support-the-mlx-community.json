@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-jun-kim-omlx-creator-and-maintainer-joins-hugging-face-to-support-the-mlx-community",
+  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/omlx",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 22 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-22T12:59:01.285265+00:00",
+  "summary": "MLX 社区核心开发者、oMLX 项目创建者兼维护者 Jun Kim 宣布加入 Hugging Face，将专职支持 MLX 生态发展。MLX 是苹果为 Apple Silicon 打造的机器学习框架，oMLX 则为其提供了类似 Ollama 的本地大模型运行与管理体验。此次加入意味着 Hugging Face 将加大对 Mac 本地推理与端侧 AI 的投入，有望推动模型在 Apple 芯片上的适配、分发与工具链完善，对关注本地部署和隐私计算的开发者是积极信号。",
+  "highlights": [
+    "oMLX 创建者 Jun Kim 加入 Hugging Face，专职支持 MLX 社区",
+    "MLX 是苹果面向 Apple Silicon 的机器学习框架，主打 Mac 本地推理",
+    "oMLX 为 MLX 提供类似 Ollama 的本地大模型运行与管理体验",
+    "Hugging Face 加码端侧 AI 与 Apple 芯片生态，利好本地部署开发者"
+  ],
+  "tags": [
+    "MLX",
+    "Hugging Face",
+    "Local Inference",
+    "Apple Silicon",
+    "On-Device AI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "头部开源平台吸纳关键维护者加码 Apple 端侧推理生态，对本地部署方向有实际推动价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

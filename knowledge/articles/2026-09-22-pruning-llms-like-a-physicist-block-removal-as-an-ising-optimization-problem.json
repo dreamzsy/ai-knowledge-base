@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-pruning-llms-like-a-physicist-block-removal-as-an-ising-optimization-problem",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 21 Sep 2026 13:44:34 GMT",
+  "collected_at": "2026-09-22T12:59:03.362006+00:00",
+  "summary": "本文提出将大语言模型（LLM）的结构化剪枝（块移除）建模为伊辛优化问题，借助物理学中的退火算法寻找最优块移除组合。该方法将每个Transformer块视为二值变量，通过能量函数平衡模型性能与压缩率，从而在保持精度的同时实现高效剪枝。实验表明，这种物理启发式方法优于传统贪心或启发式剪枝策略，为LLM压缩提供了新视角。",
+  "highlights": [
+    "将LLM块移除剪枝转化为伊辛模型优化问题，利用退火算法求解",
+    "通过能量函数同时优化模型性能与压缩率，实现结构化剪枝",
+    "物理启发式方法在多个LLM上优于传统贪心剪枝策略",
+    "为LLM压缩提供跨学科新思路，可扩展至其他组合优化剪枝场景"
+  ],
+  "tags": [
+    "LLM",
+    "Pruning",
+    "Ising Model",
+    "Optimization",
+    "Model Compression"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地将物理优化方法引入LLM剪枝，实验有效且思路新颖，对模型压缩领域有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

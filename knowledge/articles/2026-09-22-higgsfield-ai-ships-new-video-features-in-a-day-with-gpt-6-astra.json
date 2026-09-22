@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-22-higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra",
+  "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+  "author": "openai_blog",
+  "published_at": "Mon, 21 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-22T12:58:53.550749+00:00",
+  "summary": "Higgsfield AI 借助 OpenAI 的 GPT-6 Astra 模型，在一天内开发并上线了新的视频广告创作功能，大幅降低了小型企业制作视频广告的门槛，同时加速了创意工具的市场化进程。该案例展示了先进大模型如何赋能垂直应用快速迭代，从提示词到生产部署仅需极短周期，为 AI 视频生成领域提供了高效落地范例。",
+  "highlights": [
+    "Higgsfield AI 利用 GPT-6 Astra 在一天内完成新视频功能的开发与上线",
+    "新功能让小型企业更轻松地创建视频广告，降低制作门槛",
+    "从提示词到生产部署的快速迭代，加速创意工具市场化",
+    "展示了 GPT-6 Astra 在垂直视频生成场景中的实际应用潜力"
+  ],
+  "tags": [
+    "LLM",
+    "Video Generation",
+    "AI Advertising",
+    "GPT-6",
+    "Prompt-to-Production"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该案例展示了 GPT-6 Astra 在视频广告生成中的高效落地，对 AI 应用开发具有参考价值，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
