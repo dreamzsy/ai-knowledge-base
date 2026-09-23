@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-23-retrofitting-a-build-system-into-a-compiler",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+  "collected_at": "2026-09-23T13:10:12.995921+00:00",
+  "summary": "本文介绍如何将构建系统能力直接集成到编译器中，利用代数效应（algebraic effects）统一管理编译过程中的依赖解析、缓存和增量构建。作者以 OCaml 编译器为例，展示了通过 effect handlers 实现细粒度依赖追踪与并行调度，避免传统外部构建工具（如 Make、Dune）的重复工作与信息丢失。该方法可提升构建正确性与性能，并为编译器与构建系统的深度融合提供新思路。",
+  "highlights": [
+    "提出用代数效应将构建系统逻辑内嵌到编译器，统一依赖追踪与编译流程",
+    "以 OCaml 编译器为原型，展示 effect handlers 实现增量构建与并行调度",
+    "避免外部构建工具与编译器之间的信息重复和同步开销",
+    "为编译器原生支持构建缓存和细粒度依赖提供可复用的架构模式"
+  ],
+  "tags": [
+    "Compiler",
+    "BuildSystem",
+    "AlgebraicEffects",
+    "OCaml",
+    "IncrementalBuild"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "对编译器与构建系统融合有创新性实践，但受众较窄，偏向编程语言实现领域。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

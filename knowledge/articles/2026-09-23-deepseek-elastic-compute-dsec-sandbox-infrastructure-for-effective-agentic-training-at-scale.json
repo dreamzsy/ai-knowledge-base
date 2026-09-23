@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-23-deepseek-elastic-compute-dsec-sandbox-infrastructure-for-effective-agentic-training-at-scale",
+  "title": "DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2609.22978",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 22 Sep 2026 19:51:04 -0500",
+  "collected_at": "2026-09-23T13:09:59.355051+00:00",
+  "summary": "DeepSeek 提出 DSec（DeepSeek Elastic Compute），一种面向大规模智能体训练的可弹性伸缩沙箱基础设施。该工作针对智能体训练中代码执行、工具调用等场景对隔离环境的高并发与动态伸缩需求，设计了弹性计算沙箱架构，以支撑高效的大规模 agentic 训练。论文聚焦于沙箱基础设施层面的工程与系统设计，为智能体强化学习与工具使用训练提供可扩展的执行底座。",
+  "highlights": [
+    "提出 DSec 弹性计算沙箱，专为大规模智能体训练设计",
+    "解决 agentic 训练中代码执行与工具调用的隔离环境伸缩问题",
+    "面向强化学习与工具使用场景提供可扩展执行基础设施",
+    "由 DeepSeek 团队提出，聚焦系统工程与训练效率"
+  ],
+  "tags": [
+    "Agent",
+    "Sandbox",
+    "Infrastructure",
+    "RL",
+    "Scaling"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "针对智能体训练沙箱基础设施的系统性工作，对大规模 agentic RL 训练有实际工程价值，但偏基础设施层面、通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

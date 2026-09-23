@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-23-ai-coding-has-made-ci-a-bottleneck-so-we-reworked-ours-to-keep-up",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "source": "rss",
+  "source_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 21 Sep 2026 19:23:33 +0000",
+  "collected_at": "2026-09-23T13:09:57.371023+00:00",
+  "summary": "Linear 团队发现 AI 编码工具大幅提升了代码产出速度，但传统 CI 流程成为新的瓶颈。为此他们重构了 CI 系统，通过优化流水线并行度、缓存策略和测试选择，显著缩短了反馈时间，使 CI 能跟上 AI 辅助开发的节奏。文章分享了具体改造方案与经验，引发 HN 社区对 AI 时代工程基础设施的热议。",
+  "highlights": [
+    "AI 编码工具加速代码生成，CI 成为交付流程新瓶颈",
+    "Linear 重构 CI：优化并行、缓存与测试选择以缩短反馈时间",
+    "强调 CI 需适应 AI 辅助开发的高频提交节奏",
+    "HN 社区 311 点赞、394 评论，反映工程基础设施痛点"
+  ],
+  "tags": [
+    "CI/CD",
+    "AI Coding",
+    "DevOps",
+    "Engineering Productivity"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "切中 AI 时代工程效能痛点，提供可借鉴的 CI 重构实践，社区反响热烈。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-23-chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+  "title": "ChatGPT now knows what you do on other websites via ad collector",
+  "source": "rss",
+  "source_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 20 Sep 2026 12:43:10 -0500",
+  "collected_at": "2026-09-23T13:10:03.094823+00:00",
+  "summary": "该文章披露 ChatGPT 通过广告收集器获取用户在其他网站上的浏览行为数据，引发对隐私与数据追踪的担忧。文章指出 OpenAI 可能借助广告技术生态中的追踪机制，将站外活动与 ChatGPT 用户画像关联，从而扩展其广告与推荐能力。这涉及用户知情权、数据合规及 AI 平台与广告行业边界等议题，对关注 AI 隐私、监管与商业模式的读者具有参考价值。",
+  "highlights": [
+    "ChatGPT 被指通过广告收集器获取用户站外浏览行为，扩展用户画像维度",
+    "事件引发对 AI 平台与广告追踪生态融合的隐私与合规担忧",
+    "涉及用户知情权、数据最小化原则及跨站追踪的监管边界",
+    "对理解 AI 产品商业化与隐私保护的张力具有参考意义"
+  ],
+  "tags": [
+    "Privacy",
+    "AdTech",
+    "ChatGPT",
+    "DataTracking",
+    "AIEthics"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "话题涉及 AI 隐私与广告追踪的交叉，具有现实监管与用户权益价值，但内容偏资讯披露，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

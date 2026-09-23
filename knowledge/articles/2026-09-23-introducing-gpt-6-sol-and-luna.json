@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-23-introducing-gpt-6-sol-and-luna",
+  "title": "Introducing GPT-6 Sol and Luna",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "author": "openai_blog",
+  "published_at": "Tue, 22 Sep 2026 18:00:00 GMT",
+  "collected_at": "2026-09-23T13:10:20.166618+00:00",
+  "summary": "OpenAI 发布 GPT-6 Sol 和 Luna 两款模型，旨在将前沿智能引入日常工作，并在能力与成本之间提供不同平衡。Sol 可能侧重高性能，Luna 侧重低成本，满足多样化场景需求。此举延续了 GPT 系列迭代，进一步降低 AI 应用门槛，推动智能普及。",
+  "highlights": [
+    "推出 GPT-6 Sol 和 Luna 两款模型，分别针对能力与成本优化",
+    "面向日常工作场景，强调前沿智能的实用化",
+    "提供不同平衡选择，适应多样化的性能与预算需求",
+    "延续 OpenAI 的模型迭代路线，可能推动 AI 应用普及"
+  ],
+  "tags": [
+    "LLM",
+    "GPT-6",
+    "OpenAI",
+    "Model Release"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "GPT-6 作为新一代模型，双版本策略兼顾性能与成本，对 AI 应用生态有显著影响，但具体技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

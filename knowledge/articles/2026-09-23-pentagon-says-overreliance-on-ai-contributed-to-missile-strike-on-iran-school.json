@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-23-pentagon-says-overreliance-on-ai-contributed-to-missile-strike-on-iran-school",
+  "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+  "source": "rss",
+  "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 22 Sep 2026 19:03:38 +0000",
+  "collected_at": "2026-09-23T13:09:53.757093+00:00",
+  "summary": "彭博社报道称，美国国防部承认在对伊朗一所学校的导弹打击中，对AI系统的过度依赖是导致误击的重要因素。事件引发对军事AI决策可靠性、人类监督缺位以及自动化目标识别风险的广泛讨论，在Hacker News上获得726点热度与364条评论，成为AI安全与伦理领域的焦点案例。",
+  "highlights": [
+    "五角大楼承认过度依赖AI是导致伊朗学校遭导弹误击的因素之一",
+    "事件凸显军事AI目标识别中人类监督与问责机制的缺失",
+    "Hacker News 726点、364条评论，反映技术社区对AI安全的高度关注",
+    "为AI在高风险决策场景中的可靠性、可解释性与伦理边界提供现实警示"
+  ],
+  "tags": [
+    "AI Safety",
+    "Military AI",
+    "Ethics",
+    "Autonomous Systems",
+    "AI Governance"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "真实军事误击案例为AI安全、人类监督与自动化决策风险提供了高价值现实警示，但属新闻事件而非技术方案，故未给满分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
