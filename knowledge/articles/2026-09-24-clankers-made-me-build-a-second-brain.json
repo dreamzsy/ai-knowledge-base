@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-24-clankers-made-me-build-a-second-brain",
+  "title": "Clankers Made Me Build a Second Brain",
+  "source": "rss",
+  "source_url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 24 Sep 2026 06:34:43 -0500",
+  "collected_at": "2026-09-24T13:04:27.744114+00:00",
+  "summary": "这是一篇个人博客文章，作者讲述自己因对 AI 生成内容（戏称 clankers）泛滥的失望，转而动手搭建个人知识管理系统（第二大脑）的经历。文章可能涉及笔记工具选型、信息组织方法以及如何用本地化、可掌控的方式对抗低质 AI 内容，强调个人知识沉淀与主动学习的重要性。",
+  "highlights": [
+    "以个人叙事方式反思 AI 生成内容泛滥对信息生态的影响",
+    "分享搭建第二大脑的动机、工具选择与实践经验",
+    "强调本地化、可掌控的知识管理对抗低质 AI 输出",
+    "为关注个人知识管理的开发者提供参考思路"
+  ],
+  "tags": [
+    "PKM",
+    "SecondBrain",
+    "KnowledgeManagement",
+    "AI",
+    "Blog"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于个人经验分享类博客，观点有启发性但技术深度和普适性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
