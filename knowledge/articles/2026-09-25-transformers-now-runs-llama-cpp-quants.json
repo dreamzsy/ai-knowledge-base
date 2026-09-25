@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-transformers-now-runs-llama-cpp-quants",
+  "title": "Transformers now runs llama.cpp quants",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 22 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-25T13:08:51.846908+00:00",
+  "summary": "Hugging Face 博客宣布 Transformers 库现已支持直接加载 llama.cpp 的量化模型（GGUF 格式），用户无需转换即可在 Transformers 中运行这些高效量化模型。这简化了从 llama.cpp 生态到 Transformers 的迁移流程，降低了部署门槛，并提升了推理效率。该集成使开发者能更灵活地利用量化技术，在消费级硬件上运行大语言模型。",
+  "highlights": [
+    "Transformers 新增对 llama.cpp 量化格式（GGUF）的原生支持",
+    "无需手动转换即可直接加载和运行量化模型",
+    "简化了从 llama.cpp 到 Transformers 的迁移流程",
+    "提升了大语言模型在消费级硬件上的推理效率"
+  ],
+  "tags": [
+    "LLM",
+    "Quantization",
+    "Transformers",
+    "llama.cpp",
+    "GGUF"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该集成显著降低了量化模型的使用门槛，对社区有实用价值，但属于工具链改进而非突破性创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

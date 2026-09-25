@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-goodbye-google",
+  "title": "Goodbye Google",
+  "source": "rss",
+  "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 25 Sep 2026 00:51:12 -0500",
+  "collected_at": "2026-09-25T13:08:20.157201+00:00",
+  "summary": "这是 Robert O'Callahan 的个人博客文章《Goodbye Google》，记录其离开 Google 的原因与回顾。作者是知名开源开发者，曾长期参与 Mozilla 与 Google 的浏览器引擎工作。文章从个人视角反思大型科技公司的组织文化、工程实践与开源生态，对理解浏览器技术演进、大厂工程师职业选择及开源治理具有参考价值。",
+  "highlights": [
+    "作者为资深浏览器引擎开发者，曾任职 Mozilla 与 Google",
+    "文章以个人视角反思大型科技公司的组织文化与工程实践",
+    "涉及浏览器技术演进与开源生态治理话题",
+    "对理解大厂工程师职业选择与开源社区关系有参考意义"
+  ],
+  "tags": [
+    "OpenSource",
+    "Browser",
+    "BigTech",
+    "Career",
+    "EngineeringCulture"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于个人观点与职业回顾类文章，对开源与浏览器领域从业者有参考价值，但技术深度与普适性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

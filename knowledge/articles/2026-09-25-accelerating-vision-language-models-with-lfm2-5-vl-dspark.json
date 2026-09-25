@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-accelerating-vision-language-models-with-lfm2-5-vl-dspark",
+  "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 24 Sep 2026 14:08:57 GMT",
+  "collected_at": "2026-09-25T13:08:45.918942+00:00",
+  "summary": "LiquidAI 发布 LFM2.5-VL-DSpark，一种面向视觉语言模型（VLM）的推理加速方案。该方法通过优化视觉编码与语言解码的协同流程，降低多模态推理延迟并提升吞吐，同时尽量保持原有精度。博客介绍了其架构设计、加速机制及在典型 VLM 任务上的性能对比，展示了在边缘与云端部署场景下更高效的视觉语言理解能力，为多模态应用落地提供实用参考。",
+  "highlights": [
+    "提出 LFM2.5-VL-DSpark，专注视觉语言模型推理加速",
+    "优化视觉编码与语言解码协同，降低多模态推理延迟",
+    "在保持精度的同时提升吞吐，适合边缘与云端部署",
+    "提供架构设计与性能对比，具备工程落地参考价值"
+  ],
+  "tags": [
+    "VLM",
+    "Inference",
+    "Multimodal",
+    "Optimization",
+    "LiquidAI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "面向多模态推理加速的实用方案，有明确工程价值，但缺乏描述细节，创新性待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "author": "openai_blog",
+  "published_at": "Wed, 23 Sep 2026 13:00:00 GMT",
+  "collected_at": "2026-09-25T13:08:39.441646+00:00",
+  "summary": "OpenAI宣布将其Daybreak网络安全计划扩展至乌克兰政府，以支持民用基础设施的网络防御。该计划旨在帮助乌克兰抵御针对能源、医疗等关键领域的网络攻击，提供AI驱动的威胁检测与响应能力。此举延续了OpenAI对乌克兰的持续支持，并凸显AI在国家级网络安全防御中的实际应用。",
+  "highlights": [
+    "OpenAI将Daybreak网络安全计划扩展至乌克兰政府，用于民用基础设施防御",
+    "计划提供AI驱动的威胁检测与响应能力，保护能源、医疗等关键领域",
+    "此举延续了OpenAI对乌克兰的持续支持，并强化AI在国家级网络安全中的应用",
+    "标志着AI公司参与地缘政治网络防御的进一步深化"
+  ],
+  "tags": [
+    "AI",
+    "Cybersecurity",
+    "OpenAI",
+    "Defense",
+    "Geopolitics"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该举措展示了AI在网络安全防御中的实际应用，具有地缘政治和技术示范意义，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

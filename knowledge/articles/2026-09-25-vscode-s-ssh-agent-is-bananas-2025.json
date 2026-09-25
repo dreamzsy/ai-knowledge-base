@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-vscode-s-ssh-agent-is-bananas-2025",
+  "title": "VSCode's SSH Agent Is Bananas (2025)",
+  "source": "rss",
+  "source_url": "https://fly.io/blog/vscode-ssh-wtf/",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 23 Sep 2026 21:01:48 +0000",
+  "collected_at": "2026-09-25T13:08:17.860335+00:00",
+  "summary": "本文深入剖析 VSCode 远程 SSH 功能在 2025 年的实现问题，指出其 SSH Agent 转发机制存在严重缺陷，导致密钥管理混乱、连接不稳定甚至安全风险。作者通过实际案例展示 VSCode 如何绕过标准 SSH 配置，引发开发者对工具可靠性的质疑。文章在 Hacker News 上引发热议，获得 306 分和 213 条评论，反映出社区对开发工具透明度和标准兼容性的高度关注。",
+  "highlights": [
+    "VSCode 的 SSH Agent 实现偏离标准 SSH 协议，导致密钥转发行为异常",
+    "远程开发场景下，VSCode 可能忽略用户 SSH 配置，引发连接与安全问题",
+    "文章通过具体案例揭示 VSCode 远程 SSH 的隐蔽陷阱，提醒开发者注意",
+    "Hacker News 社区热议，反映开发者对工具透明度和标准兼容性的担忧"
+  ],
+  "tags": [
+    "VSCode",
+    "SSH",
+    "RemoteDevelopment",
+    "Security",
+    "DeveloperTools"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章揭露了广泛使用的开发工具中的关键问题，对开发者有实际警示价值，但主题相对垂直，影响范围有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

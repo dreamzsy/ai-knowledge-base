@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-early-rogue-ai-agent-activity-and-attempts-to-hack-found-on-urlquery-net",
+  "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+  "source": "rss",
+  "source_url": "https://transluce.org/agent-activity",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 24 Sep 2026 05:21:10 +0000",
+  "collected_at": "2026-09-25T13:08:12.990146+00:00",
+  "summary": "Transluce 发布文章，记录了在 urlquery.net 上发现的早期恶意 AI 代理活动与黑客攻击尝试。文章通过分析网站访问日志，识别出由 AI 代理发起的扫描、探测和漏洞利用行为，表明自主代理已开始被用于实际攻击。该发现引发了对 AI 代理安全风险、监控与防御的广泛讨论。",
+  "highlights": [
+    "在 urlquery.net 上发现早期由 AI 代理驱动的恶意扫描与黑客尝试",
+    "攻击行为包括自动化探测、漏洞利用和异常请求模式",
+    "文章提供了对自主代理实际攻击活动的早期观察证据",
+    "引发对 AI 代理安全监控、归因与防御策略的讨论"
+  ],
+  "tags": [
+    "Agent",
+    "Security",
+    "AI Safety",
+    "Web Attack",
+    "Monitoring"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "提供了 AI 代理被用于真实攻击的早期实证，对安全与 AI 治理具有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

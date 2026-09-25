@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-25-harvey-turns-legal-context-into-stronger-drafts-with-gpt-6-astra",
+  "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+  "author": "openai_blog",
+  "published_at": "Wed, 23 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-25T13:08:43.512000+00:00",
+  "summary": "Harvey 利用 OpenAI 的 GPT-6 Astra 模型，将法律上下文转化为更结构化、更符合语境的法律文档，帮助律师从繁琐的文书起草中解放出来，专注于策略性工作。该合作展示了大型语言模型在法律领域的深度应用，通过增强上下文理解能力提升文档质量与工作效率。",
+  "highlights": [
+    "GPT-6 Astra 显著提升法律文档的结构化与上下文感知能力",
+    "律师得以将精力从文书起草转向更高层次的策略规划",
+    "Harvey 与 OpenAI 合作，推动法律科技智能化升级",
+    "展示了 LLM 在专业垂直领域（法律）的落地价值"
+  ],
+  "tags": [
+    "LLM",
+    "LegalTech",
+    "GPT-6",
+    "DocumentGeneration",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该案例展示了 LLM 在法律专业场景的深度应用，具有明确的效率提升和行业示范价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
