@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-26-proaction-boosts-sales-60-and-saves-75-hours-with-codex",
+  "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/proaction",
+  "author": "openai_blog",
+  "published_at": "Fri, 25 Sep 2026 19:00:00 GMT",
+  "collected_at": "2026-09-26T12:35:54.410298+00:00",
+  "summary": "Proaction 利用 OpenAI 的 Codex、GPT-Live-1 和 GPT-6 Astra 构建、运营并销售现代车队管理解决方案，实现了销售额提升 60% 并节省超过 75 小时工作时间的成果。该案例展示了 AI 编程助手与先进语言模型在企业实际业务场景中的落地价值，通过自动化代码生成与智能运营，显著提升了效率与营收。",
+  "highlights": [
+    "销售额提升 60%，节省 75+ 小时工作时间",
+    "结合 Codex、GPT-Live-1 和 GPT-6 Astra 三大 AI 能力",
+    "应用于现代车队管理系统的构建、运营与销售全流程",
+    "展示了 AI 编程助手在企业级业务中的实际效益"
+  ],
+  "tags": [
+    "Codex",
+    "GPT",
+    "AI-Assistant",
+    "Enterprise",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "案例展示了 AI 工具在真实业务中的显著量化收益，但技术细节有限，偏向应用宣传。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

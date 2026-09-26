@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-26-how-uk-aisi-and-evaleval-are-making-benchmark-results-reproducible",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/evaleval-aisi",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 22 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-26T12:36:05.893096+00:00",
+  "summary": "英国AI安全研究所（AISI）与EvalEval合作，在Hugging Face上发布了一套可复现的基准测试结果方案。该方案通过标准化评估流程、公开模型输出和评分脚本，解决了AI基准测试中结果难以复现的问题。文章详细介绍了如何利用Hugging Face Hub存储和共享评估数据，确保第三方能够独立验证模型性能。这一工作提升了AI评估的透明度和可信度，对模型安全与负责任AI发展具有重要意义。",
+  "highlights": [
+    "AISI与EvalEval合作推出可复现的基准测试结果方案",
+    "利用Hugging Face Hub标准化存储和共享评估数据",
+    "公开模型输出和评分脚本，支持第三方独立验证",
+    "提升AI评估透明度，促进模型安全与负责任发展"
+  ],
+  "tags": [
+    "Benchmark",
+    "Reproducibility",
+    "AI Safety",
+    "Hugging Face",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该工作解决了AI评估中结果复现的关键痛点，对提升模型透明度和可信度具有重要实践价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

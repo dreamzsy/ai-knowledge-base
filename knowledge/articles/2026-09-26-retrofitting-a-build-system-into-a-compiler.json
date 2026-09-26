@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-26-retrofitting-a-build-system-into-a-compiler",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "author": "lobsters_ml",
+  "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+  "collected_at": "2026-09-26T12:35:52.403432+00:00",
+  "summary": "本文介绍作者如何将构建系统能力直接集成进编译器，利用代数效应（algebraic effects）统一处理依赖解析、文件读写、缓存和并行调度等副作用。通过将构建逻辑抽象为编译器内部的效应处理器，避免了外部构建工具与编译器之间的重复工作与信息丢失，实现了更精确的增量编译和跨模块优化。文章讨论了设计动机、实现架构、与现有构建系统（如 Make、Bazel）的对比，以及在实际项目中的性能收益与工程权衡。",
+  "highlights": [
+    "提出用代数效应将构建系统语义内嵌到编译器中，统一管理依赖与副作用",
+    "消除编译器与外部构建工具之间的信息重复和边界摩擦，提升增量编译精度",
+    "支持更激进的跨模块优化与并行调度，因为构建图对编译器完全可见",
+    "讨论了与 Make/Bazel 等传统构建系统的对比及实际工程权衡"
+  ],
+  "tags": [
+    "Compiler",
+    "BuildSystem",
+    "AlgebraicEffects",
+    "IncrementalCompilation",
+    "ProgrammingLanguages"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "对编译器与构建系统融合提出了有深度的架构思路，适合关注编译工程与效应系统的开发者，但应用范围相对专精。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

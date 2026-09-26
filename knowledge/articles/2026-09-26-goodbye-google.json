@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-26-goodbye-google",
+  "title": "Goodbye Google",
+  "source": "rss",
+  "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 25 Sep 2026 00:51:12 -0500",
+  "collected_at": "2026-09-26T12:35:37.950469+00:00",
+  "summary": "本文是资深开源开发者 Robert O'Callahan 宣布离开 Google 的博客文章。他回顾了在 Google 的工作经历，谈及公司文化、技术决策与个人价值观之间的冲突，并解释了自己离职的原因。文章反映了大型科技公司内部工程师对管理层决策的失望，以及个人在职业选择上的反思。内容引发技术社区对 Google 近年变化、开源生态及工程师文化的广泛讨论。",
+  "highlights": [
+    "作者 Robert O'Callahan 是知名开源贡献者，曾参与 Mozilla 和 Google 多个项目",
+    "文章表达了对 Google 公司文化和管理层决策的不满与失望",
+    "离职原因涉及个人价值观与公司方向之间的冲突",
+    "引发技术社区对大型科技公司文化变迁的讨论"
+  ],
+  "tags": [
+    "Google",
+    "OpenSource",
+    "TechCulture",
+    "Career"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于个人观点与行业文化反思，对关注科技公司文化和开源生态的读者有参考价值，但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-26-how-to-use-nvidia-warp-and-mjwarp-to-accelerate-robotics-simulation-and-learning-workflows",
+  "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 23 Sep 2026 18:41:40 GMT",
+  "collected_at": "2026-09-26T12:36:03.895927+00:00",
+  "summary": "本文介绍如何利用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流。Warp 是一个基于 Python 的 GPU 加速仿真框架，MjWarp 则将其与 MuJoCo 物理引擎结合，实现高性能的机器人动力学仿真。文章展示了如何通过 GPU 并行化大幅提升仿真速度，并集成到强化学习训练中，从而加速机器人策略的学习过程。",
+  "highlights": [
+    "NVIDIA Warp 提供 Python 中的 GPU 加速仿真能力，支持可微分编程",
+    "MjWarp 将 Warp 与 MuJoCo 结合，实现 GPU 加速的机器人物理仿真",
+    "通过 GPU 并行化，仿真速度相比 CPU 可提升数十倍，加速强化学习训练",
+    "支持将仿真环境直接集成到 PyTorch 等深度学习框架中"
+  ],
+  "tags": [
+    "Robotics",
+    "Simulation",
+    "GPU",
+    "MuJoCo",
+    "Reinforcement Learning"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容实用，结合 NVIDIA 最新工具与 MuJoCo，对机器人仿真和强化学习领域有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
