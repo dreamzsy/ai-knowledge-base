@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-27-combining-machine-learning-and-homomorphic-encryption-in-the-apple-ecosystem",
+  "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+  "source": "rss",
+  "source_url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 24 Sep 2026 08:27:42 -0500",
+  "collected_at": "2026-09-27T13:26:27.239917+00:00",
+  "summary": "苹果研究团队提出将机器学习与同态加密结合，在Apple生态中实现隐私保护推理。该方法允许在加密数据上直接运行ML模型，无需解密，从而保护用户敏感信息。文章探讨了性能优化、模型适配及硬件加速，展示了在iPhone等设备上部署的可行性，为隐私计算在消费级产品中的落地提供了新思路。",
+  "highlights": [
+    "在加密数据上直接执行机器学习推理，无需解密，保障用户隐私",
+    "针对Apple生态（如iPhone、Mac）进行性能优化与硬件加速",
+    "探索同态加密与ML模型结合的可行性与实际部署挑战",
+    "为消费级设备上的隐私保护AI应用提供技术参考"
+  ],
+  "tags": [
+    "Homomorphic Encryption",
+    "Privacy-Preserving ML",
+    "Apple Ecosystem",
+    "On-Device AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "同态加密与ML结合是隐私计算前沿方向，苹果的实践对行业有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

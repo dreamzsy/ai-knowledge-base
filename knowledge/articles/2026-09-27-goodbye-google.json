@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-27-goodbye-google",
+  "title": "Goodbye Google",
+  "source": "rss",
+  "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 25 Sep 2026 00:51:12 -0500",
+  "collected_at": "2026-09-27T13:26:25.330279+00:00",
+  "summary": "这是一篇个人博客文章，作者 Robert O'Callahan 宣布离开 Google。文章标题为「Goodbye Google」，内容未在给定信息中展开，但结合作者背景（长期任职于 Mozilla、后加入 Google 从事浏览器与 Web 平台工作），推测涉及离职原因、在 Google 的经历回顾以及对科技行业的观察。该文在 Lobste.rs 上引发讨论，属于科技从业者职业变动与行业反思类内容，对关注浏览器技术、开源社区及大厂文化的读者有一定参考价值。",
+  "highlights": [
+    "作者 Robert O'Callahan 是知名浏览器与 Web 平台工程师，曾长期任职 Mozilla",
+    "文章宣布离开 Google，可能涉及个人职业选择与行业观察",
+    "内容在 Lobste.rs 社区引发讨论，具有一定行业关注度",
+    "属于个人反思类博客，非技术教程或产品发布"
+  ],
+  "tags": [
+    "Career",
+    "Google",
+    "Browser",
+    "OpenSource",
+    "Blog"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "个人职业变动与行业反思类文章，对特定读者有参考价值，但缺乏普适技术深度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

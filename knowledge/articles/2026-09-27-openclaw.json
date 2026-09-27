@@ -1,0 +1,32 @@
+{
+  "id": "2026-09-27-openclaw",
+  "title": "openclaw/openclaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "author": "openclaw",
+  "published_at": "2025-11-24T10:16:47Z",
+  "collected_at": "2026-09-27T13:25:43.450747+00:00",
+  "summary": "OpenClaw 是一个开源 AI 代理项目，主打跨操作系统与跨平台执行实际任务，而非仅对话。其口号强调“真正做事”，支持任意 OS 和平台，采用独特的“龙虾方式”理念。项目在 GitHub 上发布，旨在让 AI 代理具备操作环境、调用工具和完成自动化流程的能力，适合希望构建通用型 AI 助手的开发者。",
+  "highlights": [
+    "定位为能真正执行任务的 AI 代理，而非仅聊天",
+    "宣称支持任意操作系统和平台，跨平台能力强",
+    "以“龙虾方式”为品牌理念，风格独特",
+    "开源项目，便于开发者集成与二次开发"
+  ],
+  "tags": [
+    "Agent",
+    "OpenSource",
+    "CrossPlatform",
+    "Automation",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目定位清晰且跨平台代理有实用价值，但缺乏具体技术细节和成熟度验证，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 390634,
+    "language": "TypeScript"
+  }
+}

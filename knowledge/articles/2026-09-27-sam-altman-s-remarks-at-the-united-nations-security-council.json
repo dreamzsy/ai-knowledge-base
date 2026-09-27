@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-27-sam-altman-s-remarks-at-the-united-nations-security-council",
+  "title": "Sam Altman’s remarks at the United Nations Security Council",
+  "source": "rss",
+  "source_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+  "author": "openai_blog",
+  "published_at": "Wed, 23 Sep 2026 12:00:00 GMT",
+  "collected_at": "2026-09-27T13:26:45.021030+00:00",
+  "summary": "OpenAI CEO Sam Altman 在联合国安理会发表讲话，聚焦 AI 安全、人类控制与国际合作。他呼吁全球共同治理 AI 风险，确保技术发展符合人类价值观，并强调国际协调的紧迫性。讲话体现了 OpenAI 对 AI 安全议题的重视，以及推动多边对话的意愿。",
+  "highlights": [
+    "Sam Altman 在联合国安理会强调 AI 安全与人类控制的重要性",
+    "呼吁国际合作，建立全球 AI 治理框架",
+    "指出 AI 风险需多边协调应对，避免单边行动",
+    "体现 OpenAI 在 AI 安全领域的政策倡导角色"
+  ],
+  "tags": [
+    "AI Safety",
+    "Governance",
+    "International Cooperation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该讲话涉及 AI 安全与全球治理，具有政策影响力，但缺乏具体技术细节或可操作方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
