@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "It’s Time to Investigate the AI Labs",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ir1emf/it_s_time_investigate_ai_labs\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 28 Sep 2026 08:56:41 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPU Glossary",
+    "url": "https://modal.com/gpu-glossary",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/8aztzt/gpu_glossary\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 28 Sep 2026 06:43:38 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 26 Sep 2026 12:34:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Goodbye Google",
+    "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/sxlf4a/goodbye_google\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 25 Sep 2026 00:51:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 17 Aug 2026 17:42:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "author": "openai_blog",
+    "summary_raw": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "published_at": "Fri, 25 Sep 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "author": "openai_blog",
+    "summary_raw": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "published_at": "Wed, 23 Sep 2026 16:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "published_at": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "published_at": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 28 Sep 2026 09:44:05 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 24 Sep 2026 14:08:57 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 23 Sep 2026 18:41:40 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-28-holo4-powering-generalist-computer-use-agents",
+  "title": "Holo4: powering generalist computer-use agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Hcompany/holo4",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 28 Sep 2026 09:44:05 GMT",
+  "collected_at": "2026-09-28T16:18:17.208222+00:00",
+  "summary": "Holo4 是 Hcompany 在 Hugging Face 上发布的新一代通用计算机使用智能体（computer-use agent）模型。它旨在让 AI 像人一样操作图形界面，完成跨应用、跨平台的复杂任务，如点击、输入、导航和文件管理。该模型强调通用性，可适应不同操作系统和软件环境，减少针对特定任务的定制。Holo4 的发布推动了 GUI 自动化与智能体研究的发展，为构建更自主的数字助手提供了基础。",
+  "highlights": [
+    "Holo4 是面向通用计算机使用场景的智能体模型，可操作图形用户界面完成实际任务。",
+    "强调跨应用、跨平台的通用性，减少对特定软件或任务的定制依赖。",
+    "由 Hcompany 发布在 Hugging Face 博客，可能提供模型权重或技术细节。",
+    "推动 GUI 自动化与自主智能体研究，为数字助手和 RPA 等应用提供新方案。"
+  ],
+  "tags": [
+    "Agent",
+    "Computer-Use",
+    "GUI-Automation",
+    "LLM",
+    "HuggingFace"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "Holo4 聚焦通用计算机使用智能体，技术方向前沿且实用，对 GUI 自动化和智能体研究有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

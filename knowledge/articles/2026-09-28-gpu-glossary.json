@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-28-gpu-glossary",
+  "title": "GPU Glossary",
+  "source": "rss",
+  "source_url": "https://modal.com/gpu-glossary",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 28 Sep 2026 06:43:38 -0500",
+  "collected_at": "2026-09-28T16:17:55.974524+00:00",
+  "summary": "Modal 发布的 GPU Glossary 是一个面向开发者的 GPU 术语表，系统性地解释了 GPU 架构、编程模型、性能优化等核心概念。内容涵盖 SM、CUDA 核心、Tensor Core、显存带宽、计算能力等关键术语，帮助 AI 工程师和研究人员快速理解 GPU 底层原理，从而更好地进行模型训练与推理优化。该资源以简洁的网页形式呈现，适合作为日常参考工具。",
+  "highlights": [
+    "系统整理 GPU 核心术语，覆盖硬件架构与编程模型",
+    "面向 AI 开发者，助力模型训练与推理性能优化",
+    "由 Modal 维护，内容简洁且持续更新",
+    "提供术语间关联，便于构建完整知识体系"
+  ],
+  "tags": [
+    "GPU",
+    "CUDA",
+    "AI Infrastructure",
+    "Performance",
+    "Reference"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容实用且结构清晰，对 AI 基础设施开发者有较高参考价值，但非前沿技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
