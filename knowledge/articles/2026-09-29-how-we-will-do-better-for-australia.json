@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-29-how-we-will-do-better-for-australia",
+  "title": "How we will do better for Australia",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "author": "openai_blog",
+  "published_at": "Mon, 28 Sep 2026 19:00:00 GMT",
+  "collected_at": "2026-09-29T14:29:32.178865+00:00",
+  "summary": "OpenAI就涉及澳大利亚政府网站的事件公开道歉，并概述了加强安全保障和支持澳大利亚网络防御的措施。文章强调OpenAI将改进安全实践，防止类似事件再次发生，同时承诺与澳大利亚政府合作提升网络安全能力。内容涉及AI安全、政府合作及网络防御，但未披露具体技术细节。",
+  "highlights": [
+    "OpenAI就涉及澳大利亚政府网站的事件公开道歉",
+    "概述了加强安全保障的具体措施",
+    "承诺支持澳大利亚提升网络防御能力",
+    "强调与政府合作防止未来安全事件"
+  ],
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "Government",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "内容涉及AI安全与政府合作，具有行业参考价值，但缺乏技术深度和具体实施细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

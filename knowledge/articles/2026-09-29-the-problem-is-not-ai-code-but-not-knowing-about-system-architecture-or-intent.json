@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-29-the-problem-is-not-ai-code-but-not-knowing-about-system-architecture-or-intent",
+  "title": "The problem is not AI code, but not knowing about system architecture or intent",
+  "source": "rss",
+  "source_url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 28 Sep 2026 16:11:42 +0000",
+  "collected_at": "2026-09-29T14:29:12.729988+00:00",
+  "summary": "文章指出，AI 生成代码本身并非核心问题，真正的危机在于团队对系统架构和设计意图的集体失忆。当开发者依赖 AI 快速产出代码却缺乏对整体架构的理解时，代码库会逐渐变成无人能解释的黑箱。HN 上 371 分、235 条评论的热议表明，这一观点击中了当前 AI 辅助编程浪潮中的普遍焦虑：效率提升的同时，知识传承与架构治理正在被侵蚀。",
+  "highlights": [
+    "核心论点：问题不在 AI 写的代码，而在于没人再理解系统架构与设计意图",
+    "AI 加速编码的同时加剧了知识断层，代码可运行但不可维护",
+    "HN 高热度讨论（371 分/235 评论）反映开发者对架构治理的普遍担忧",
+    "呼吁在 AI 辅助开发中重建架构文档与意图传递机制"
+  ],
+  "tags": [
+    "AI Coding",
+    "Software Architecture",
+    "Developer Productivity",
+    "Knowledge Management"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "切中 AI 辅助编程时代架构治理与知识传承的关键痛点，讨论热度高且观点具有现实警示意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

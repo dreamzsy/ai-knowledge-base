@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-29-towards-safety-cases-for-frontier-ai-training",
+  "title": "Towards safety cases for frontier AI training",
+  "source": "rss",
+  "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "author": "openai_blog",
+  "published_at": "Mon, 28 Sep 2026 19:00:00 GMT",
+  "collected_at": "2026-09-29T14:29:34.156497+00:00",
+  "summary": "OpenAI 发布前沿 AI 训练安全案例的早期指南，涵盖技术保障、运营实践以及失准事件调查。该指南旨在为高风险 AI 训练建立结构化安全论证框架，帮助开发者系统性地识别、评估和缓解训练过程中的潜在风险，推动前沿 AI 安全治理的标准化与透明化。",
+  "highlights": [
+    "提出前沿 AI 训练安全案例的早期框架，覆盖技术保障与运营实践",
+    "强调对失准事件（misalignment incidents）的调查与响应机制",
+    "为高风险 AI 训练提供结构化安全论证方法，推动行业标准",
+    "由 OpenAI 发布，体现前沿实验室对安全治理的主动探索"
+  ],
+  "tags": [
+    "AI Safety",
+    "Frontier AI",
+    "Governance",
+    "Training",
+    "Misalignment"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "前沿 AI 安全治理的重要早期框架，对行业实践具有指导意义，但尚属指南性质，落地效果待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

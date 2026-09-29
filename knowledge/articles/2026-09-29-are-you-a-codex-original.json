@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-29-are-you-a-codex-original",
+  "title": "Are you a Codex Original?",
+  "source": "rss",
+  "source_url": "https://openai.com/form/codex-originals",
+  "author": "openai_blog",
+  "published_at": "Mon, 28 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-29T14:29:37.634745+00:00",
+  "summary": "OpenAI 推出 Codex Originals 计划，旨在收集开发者、研究者、创作者等使用 Codex 完成创新项目的真实故事。参与者需通过官方表单提交个人故事与项目详情，以争取入选该计划并参与后续活动。该计划强调社区案例与生态建设，而非技术发布。",
+  "highlights": [
+    "OpenAI 发起 Codex Originals 故事征集计划",
+    "面向开发者、研究者、创作者等广泛群体",
+    "需通过官方表单提交真实项目与个人故事",
+    "入选者可参与该计划下一阶段活动"
+  ],
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "Community",
+    "Developer"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "该内容为社区故事征集表单，非技术发布或开源项目，对技术决策参考价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

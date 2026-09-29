@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-29-hillingar-mirageos-unikernels-on-nixos",
+  "title": "Hillingar - MirageOS Unikernels on NixOS",
+  "source": "rss",
+  "source_url": "https://ryan.freumh.org/hillingar.html",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+  "collected_at": "2026-09-29T14:29:26.304136+00:00",
+  "summary": "Hillingar 是一个将 MirageOS unikernel 与 NixOS 集成的项目，旨在利用 Nix 的声明式构建和可复现性来简化 unikernel 的部署与管理。文章介绍了其设计思路、实现方式以及如何在 NixOS 上构建和运行 MirageOS unikernel，为函数式系统与轻量级虚拟化结合提供了新方案。",
+  "highlights": [
+    "将 MirageOS unikernel 与 NixOS 结合，实现声明式、可复现的 unikernel 构建与部署",
+    "利用 Nix 的包管理和构建系统简化 unikernel 的依赖管理和交叉编译",
+    "展示了在 NixOS 上运行 MirageOS unikernel 的具体流程和配置方法",
+    "为轻量级虚拟化与函数式系统管理的融合提供了实践参考"
+  ],
+  "tags": [
+    "Unikernel",
+    "NixOS",
+    "MirageOS",
+    "Virtualization",
+    "FunctionalProgramming"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目创新性地结合了 unikernel 与 NixOS，对系统编程和可复现构建领域有较高参考价值，但受众相对小众。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

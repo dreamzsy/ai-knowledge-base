@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-29-ai-companies-leak-data-to-advertisers-pdf",
+  "title": "AI companies leak data to advertisers [pdf]",
+  "source": "rss",
+  "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 29 Sep 2026 09:03:41 +0000",
+  "collected_at": "2026-09-29T14:29:08.646869+00:00",
+  "summary": "该 PDF 文章揭露 AI 公司（尤其是提供聊天机器人的厂商）存在向广告商泄露用户数据的隐私问题。作者通过实验发现，AI 产品中的追踪器可将用户提示词、对话内容等敏感信息传递给第三方广告平台，形成隐蔽的数据泄露链路。文章在 Hacker News 上引发热议，获得 280 分和 92 条评论，反映出业界对 AI 隐私与数据安全的强烈关注。",
+  "highlights": [
+    "揭示 AI 聊天产品中嵌入的追踪器可将用户提示词泄露给广告商",
+    "通过实验方法验证了数据从 AI 公司流向第三方广告平台的链路",
+    "在 Hacker News 上引发广泛讨论，获得 280 分和 92 条评论",
+    "对 AI 隐私合规和用户数据保护提出警示"
+  ],
+  "tags": [
+    "Privacy",
+    "AI",
+    "AdTech",
+    "DataLeak",
+    "Tracking"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "该文章以实证方式揭示 AI 产品隐私泄露风险，话题重要且社区反响强烈，对开发者和用户均有警示价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
