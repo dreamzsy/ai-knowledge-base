@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-30-text-to-meowdio-models",
+  "title": "Text-to-meowdio models",
+  "source": "rss",
+  "source_url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 29 Sep 2026 11:51:35 -0500",
+  "collected_at": "2026-09-30T14:27:41.464475+00:00",
+  "summary": "该文章探讨了文本到音频生成模型（text-to-audio models）的现状，并以“meowdio”为趣味案例，分析如何将文本描述转化为猫叫声等非语音音频。作者可能讨论了模型架构、训练数据、生成质量及挑战，并对比了语音合成与通用音频生成。文章来自个人笔记，附带 Lobsters 讨论链接，适合对音频生成技术感兴趣的读者了解前沿动态。",
+  "highlights": [
+    "探讨文本到音频生成模型的技术原理与实现方式",
+    "以猫叫声（meowdio）为例展示非语音音频生成的可能性",
+    "分析当前音频生成模型面临的挑战与局限性",
+    "提供 Lobsters 社区讨论链接，便于进一步交流"
+  ],
+  "tags": [
+    "Text-to-Audio",
+    "Generative Models",
+    "Audio Synthesis",
+    "Deep Learning"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "内容具有趣味性和一定技术深度，但属于个人笔记，影响力和实用性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

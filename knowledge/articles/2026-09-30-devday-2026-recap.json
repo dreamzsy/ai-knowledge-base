@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-30-devday-2026-recap",
+  "title": "DevDay 2026 Recap",
+  "source": "rss",
+  "source_url": "https://openai.com/index/devday-2026-recap",
+  "author": "openai_blog",
+  "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+  "collected_at": "2026-09-30T14:27:59.349885+00:00",
+  "summary": "OpenAI DevDay 2026 回顾了超过20项发布，涵盖GPT-6 Astra新模型、ChatGPT更新、Codex编程工具、API增强、安全功能以及面向开发者的新工具。这些发布旨在提升AI能力、开发效率和安全性，为构建者提供更强大的平台。",
+  "highlights": [
+    "发布GPT-6 Astra，可能是新一代旗舰模型",
+    "更新ChatGPT和Codex，增强对话与编程能力",
+    "推出新的API和安全功能，提升开发体验",
+    "为开发者提供更多构建工具和资源"
+  ],
+  "tags": [
+    "OpenAI",
+    "GPT-6",
+    "API",
+    "Developer Tools",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI DevDay 2026 发布了多项重要更新，对AI开发者和技术社区具有高价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-30-getting-the-source-right-not-just-the-fact-source-aware-verification-for-mcp-agents",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 29 Sep 2026 13:07:00 GMT",
+  "collected_at": "2026-09-30T14:28:06.817805+00:00",
+  "summary": "本文针对MCP（Model Context Protocol）智能体提出源感知验证方法，指出仅验证事实正确性不足，还需验证信息来源的可靠性。文章分析了MCP智能体在调用外部工具时可能引入不可信数据的问题，并给出基于来源的验证框架，以提升智能体决策的可信度。",
+  "highlights": [
+    "提出源感知验证概念，强调事实正确之外还需验证信息来源",
+    "针对MCP智能体在工具调用中的可信度问题",
+    "给出可操作的验证框架，提升智能体决策可靠性",
+    "适用于需要高可信度的AI智能体应用场景"
+  ],
+  "tags": [
+    "MCP",
+    "Agent",
+    "Verification",
+    "Trustworthy AI",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "针对MCP智能体可信度提出实用验证方法，对构建可靠AI系统有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

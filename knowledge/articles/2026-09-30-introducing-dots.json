@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-30-introducing-dots",
+  "title": "Introducing dots",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-dots",
+  "author": "openai_blog",
+  "published_at": "Tue, 29 Sep 2026 00:00:00 GMT",
+  "collected_at": "2026-09-30T14:28:00.842557+00:00",
+  "summary": "OpenAI 发布名为 Dots 的主动式助手，可在复杂项目和日常任务中持续工作。Dots 强调在用户保持控制的同时，让工作自动推进，标志着 AI 助手从被动响应向主动协作的转变。",
+  "highlights": [
+    "Dots 是 OpenAI 推出的主动式助手，能跨项目持续工作",
+    "支持复杂项目与日常任务，强调用户保持控制",
+    "代表 AI 助手从被动响应向主动协作的演进",
+    "官方介绍页面提供详细说明"
+  ],
+  "tags": [
+    "OpenAI",
+    "Agent",
+    "Assistant",
+    "Proactive AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI 官方发布主动式助手，代表 AI 助手新范式，具有行业影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
