@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-01-text-to-meowdio-models",
+  "title": "Text-to-meowdio models",
+  "source": "rss",
+  "source_url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 29 Sep 2026 11:51:35 -0500",
+  "collected_at": "2026-10-01T14:57:57.263872+00:00",
+  "summary": "该文章介绍了一种名为 Text-to-meowdio 的趣味模型，能够将文本描述转换为猫叫声。作者探讨了如何利用音频生成技术，根据输入文本合成不同风格和情感的喵喵声，并分享了实现思路与实验效果。项目带有幽默色彩，展示了文本到音频生成在非传统领域的创意应用，同时也反映了当前生成式AI在跨模态转换上的灵活性。",
+  "highlights": [
+    "提出 Text-to-meowdio 模型，实现文本到猫叫声的生成",
+    "探索音频生成技术在趣味场景下的应用",
+    "展示跨模态文本到音频转换的创意可能性",
+    "带有幽默性质的实验项目，引发社区讨论"
+  ],
+  "tags": [
+    "Text-to-Audio",
+    "Generative AI",
+    "Audio Synthesis",
+    "Multimodal"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "项目创意有趣且展示了文本到音频的跨模态能力，但技术深度和应用价值有限，偏向娱乐性质。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-01-disrupting-a-coordinated-model-distillation-campaign",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "source": "rss",
+  "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "author": "openai_blog",
+  "published_at": "Wed, 30 Sep 2026 10:30:00 GMT",
+  "collected_at": "2026-10-01T14:58:10.033989+00:00",
+  "summary": "OpenAI 披露其成功破坏了一场协同的模型蒸馏攻击活动，该活动旨在提取受保护的模型推理能力。OpenAI 通过技术手段识别并阻止了攻击，并正在加强防御措施以应对对抗性蒸馏。这凸显了模型知识产权保护与安全防护的重要性，尤其是在大模型能力被非法复制的风险下。",
+  "highlights": [
+    "OpenAI 识别并破坏了一场协同的模型蒸馏攻击活动",
+    "攻击目标为提取受保护的模型推理能力",
+    "OpenAI 正在加强防御以对抗对抗性蒸馏",
+    "事件凸显了模型知识产权保护与安全防护的紧迫性"
+  ],
+  "tags": [
+    "Model Distillation",
+    "AI Security",
+    "Adversarial Attack",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该事件揭示了模型蒸馏攻击的现实威胁，对AI安全与知识产权保护具有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

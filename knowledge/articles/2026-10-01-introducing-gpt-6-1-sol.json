@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-01-introducing-gpt-6-1-sol",
+  "title": "Introducing GPT-6.1 Sol",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "author": "openai_blog",
+  "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+  "collected_at": "2026-10-01T14:58:13.983920+00:00",
+  "summary": "OpenAI 发布 GPT-6.1 Sol，宣称在编码、计算机使用和专业工作方面达到接近 Astra 的智能水平，但 API 输入输出 token 价格仅为 Astra 标准价的五分之一。该模型旨在以更低成本提供高性能 AI 能力，可能降低专业 AI 应用门槛，对开发者和企业具有吸引力。",
+  "highlights": [
+    "GPT-6.1 Sol 在编码、计算机使用和专业工作场景中接近 Astra 的智能水平",
+    "API 输入和输出 token 价格仅为 Astra 标准价的五分之一",
+    "定位为高性价比模型，旨在降低专业 AI 应用成本",
+    "由 OpenAI 发布，可能推动 AI 在专业领域的普及"
+  ],
+  "tags": [
+    "LLM",
+    "OpenAI",
+    "API",
+    "Coding",
+    "ComputerUse"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该模型以极低成本提供接近顶级模型的性能，对开发者和企业具有显著实用价值，但缺乏具体技术细节和基准测试数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

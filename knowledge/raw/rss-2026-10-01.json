@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "AI: LLMs, Agents, Work, and Us - Engineers. Personal Thoughts",
+    "url": "https://setevoy.substack.com/p/ai-llms-agents-work-and-us-engineers",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;Author shares his thoughts on vibecoding, the use of AI agents and neural networks in the work of a DevOps engineer, and how this affects the individual as an engineer from a specialist's perspective.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/ymulrg/ai_llms_agents_work_us_engineers_personal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 08:43:06 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Is sandboxing sufficient to contain rogue agents?",
+    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zcr7in/is_sandboxing_sufficient_contain_rogue\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 07:16:51 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Text-to-meowdio models",
+    "url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xr8zc/text_meowdio_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 29 Sep 2026 11:51:35 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibpgio/brief_perspective_on_deep_learning_using\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 26 Sep 2026 12:34:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 28 Aug 2026 15:23:15 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "author": "openai_blog",
+    "summary_raw": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "published_at": "Wed, 30 Sep 2026 10:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping small businesses put AI to work",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "published_at": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "author": "openai_blog",
+    "summary_raw": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "author": "openai_blog",
+    "summary_raw": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 29 Sep 2026 15:30:38 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 29 Sep 2026 13:07:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 28 Sep 2026 09:44:05 GMT",
+    "extra": {}
+  }
+]

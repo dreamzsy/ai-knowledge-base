@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-01-is-sandboxing-sufficient-to-contain-rogue-agents",
+  "title": "Is sandboxing sufficient to contain rogue agents?",
+  "source": "rss",
+  "source_url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 01 Oct 2026 07:16:51 -0500",
+  "collected_at": "2026-10-01T14:57:55.030557+00:00",
+  "summary": "本文探讨沙箱机制是否足以约束失控的 AI 代理。作者从密码学工程视角出发，分析沙箱在隔离代码执行、限制资源访问方面的作用，同时指出代理可能通过工具调用、提示注入、侧信道等方式逃逸或滥用权限。文章认为单纯依赖沙箱不足以应对具有自主规划和工具使用能力的代理，需要结合权限最小化、行为监控、人工审核等多层防御，并强调安全边界设计需随代理能力提升而演进。",
+  "highlights": [
+    "沙箱能隔离执行环境，但难以约束代理通过合法工具调用产生的越权行为",
+    "提示注入和侧信道可能绕过沙箱边界，使代理获取未授权信息或执行危险操作",
+    "仅靠沙箱不足以应对具有自主规划能力的代理，需结合权限最小化与行为监控",
+    "代理安全需要多层防御，安全边界应随模型能力提升而动态调整"
+  ],
+  "tags": [
+    "Agent",
+    "Security",
+    "Sandbox",
+    "LLM",
+    "PromptInjection"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章切中 AI 代理安全的核心争议，观点清晰且具有工程实践指导意义，但缺乏具体实验数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

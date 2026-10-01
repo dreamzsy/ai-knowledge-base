@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-01-nvidia-kumo-tabular-sets-a-new-accuracy-efficiency-frontier-for-tabular-prediction",
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 29 Sep 2026 15:30:38 GMT",
+  "collected_at": "2026-10-01T14:58:20.443373+00:00",
+  "summary": "NVIDIA 发布 Kumo Tabular，一种面向表格预测的新型模型，在准确性与效率上取得突破。该方法利用深度学习技术处理结构化数据，在多个基准数据集上超越传统梯度提升树（如 XGBoost、LightGBM）和现有深度表格模型，同时保持较低的计算开销。Kumo Tabular 通过创新的架构设计和训练策略，实现了更高的预测精度和更快的推理速度，为表格数据建模设定了新标准。该工作已在 Hugging Face 博客公开，可能对金融、医疗、推荐系统等依赖表格数据的领域产生重要影响。",
+  "highlights": [
+    "在多个表格基准上实现 SOTA 精度，超越 XGBoost、LightGBM 等传统方法",
+    "显著提升计算效率，训练和推理速度优于现有深度表格模型",
+    "由 NVIDIA 提出，可能集成 GPU 加速，适合大规模工业应用",
+    "在 Hugging Face 博客发布，提供可复现的模型与结果"
+  ],
+  "tags": [
+    "Tabular",
+    "DeepLearning",
+    "NVIDIA",
+    "Efficiency",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "表格数据是工业界最常见的数据类型，NVIDIA 的新方法在精度和效率上均有突破，具有高实用价值和影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
