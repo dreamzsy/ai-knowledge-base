@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-02-goodbye-google",
+  "title": "Goodbye Google",
+  "source": "rss",
+  "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 25 Sep 2026 00:51:12 -0500",
+  "collected_at": "2026-10-02T14:21:42.761955+00:00",
+  "summary": "本文是开发者 Robert O'Callahan 的博客文章，讲述其离开 Google 的原因与经历。作者长期参与 Firefox 与 Web 平台开发，在 Google 工作期间负责 Chrome 相关项目。文章回顾了 Google 从开放 Web 倡导者向商业利益驱动的转变，批评其在 Web 标准、隐私和广告业务上的立场变化，并分享个人职业选择与反思。内容对理解大型科技公司对开放生态的影响具有参考价值。",
+  "highlights": [
+    "作者为资深浏览器与 Web 平台开发者，曾任职 Mozilla 与 Google",
+    "文章批评 Google 在 Web 标准与隐私议题上的立场转变",
+    "反映大型科技公司商业利益与开放 Web 理念之间的冲突",
+    "提供个人视角的科技行业职业选择与反思"
+  ],
+  "tags": [
+    "Web",
+    "Privacy",
+    "BigTech",
+    "OpenSource",
+    "Browser"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "文章具有行业观察与个人反思价值，但偏观点性内容，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

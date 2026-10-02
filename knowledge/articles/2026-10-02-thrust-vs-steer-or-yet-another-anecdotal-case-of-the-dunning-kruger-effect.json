@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-02-thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
+  "title": "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
+  "source": "rss",
+  "source_url": "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 02 Oct 2026 03:14:44 -0500",
+  "collected_at": "2026-10-02T14:21:36.603359+00:00",
+  "summary": "本文是一篇个人随笔，作者通过自身经历探讨了推力（thrust）与转向（steer）的隐喻，并以此引出对达克效应（Dunning-Kruger Effect）的又一例证。文章并非技术教程，而是反思性叙事，强调在缺乏足够认知时容易高估自身能力，进而做出错误决策。作者结合具体情境，说明盲目推进（thrust）与适时调整方向（steer）之间的平衡，并指出这种认知偏差在个人成长和项目管理中的普遍性。整体属于经验分享类内容，对技术从业者的自我认知有一定启发。",
+  "highlights": [
+    "以推力与转向的隐喻类比个人决策中的盲目与调整",
+    "通过亲身经历展示达克效应在现实中的表现",
+    "强调认知偏差对项目推进和方向选择的影响",
+    "属于反思性随笔，非技术教程，但具启发意义"
+  ],
+  "tags": [
+    "Dunning-Kruger",
+    "Decision Making",
+    "Self-Reflection",
+    "Cognitive Bias"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "内容为个人经验分享，对技术决策有间接启发，但缺乏系统性和技术深度，价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

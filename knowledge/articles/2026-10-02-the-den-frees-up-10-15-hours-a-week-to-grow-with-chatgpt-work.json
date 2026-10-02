@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-02-the-den-frees-up-10-15-hours-a-week-to-grow-with-chatgpt-work",
+  "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/the-den-family-social",
+  "author": "openai_blog",
+  "published_at": "Thu, 01 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-02T14:21:57.007081+00:00",
+  "summary": "OpenAI 发布案例，介绍社交俱乐部 The Den 借助 ChatGPT Work 大幅提升行政效率。该俱乐部在开设新场地时，使用 ChatGPT 将拨款申请的准备时间从 3 天缩短至 2 小时，酒牌申请材料从 4 天缩短至 3 小时，每周节省 10-15 小时，让团队能专注于业务增长。",
+  "highlights": [
+    "拨款申请准备时间从 3 天缩短至 2 小时，效率提升约 36 倍",
+    "酒牌申请材料准备从 4 天缩短至 3 小时，效率提升约 32 倍",
+    "每周节省 10-15 小时，相当于近 2 个工作日",
+    "ChatGPT Work 在行政文书场景中展现出显著的生产力价值"
+  ],
+  "tags": [
+    "ChatGPT",
+    "Productivity",
+    "Case Study",
+    "LLM",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "真实企业案例展示了 LLM 在行政流程中的量化提效，对同类场景有参考价值，但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

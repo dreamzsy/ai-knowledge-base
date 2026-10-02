@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-02-the-eternal-complement",
+  "title": "The eternal complement",
+  "source": "rss",
+  "source_url": "https://openai.com/index/the-eternal-complement",
+  "author": "openai_blog",
+  "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+  "collected_at": "2026-10-02T14:21:53.096084+00:00",
+  "summary": "OpenAI 发布文章《The eternal complement》，探讨先进 AI 在突破性想法背后的常规执行工作中的核心价值。文章认为，AI 的最大影响可能不在于替代人类创造力，而在于加速执行环节，从而塑造下一阶段的经济形态与进步速度。这一观点将 AI 定位为人类创造力的互补工具，而非替代者，强调执行效率对创新落地的关键作用。",
+  "highlights": [
+    "AI 的核心价值可能在于加速突破性想法背后的常规执行工作，而非直接产生创意。",
+    "执行效率将成为决定下一阶段经济增长与技术进步速度的关键变量。",
+    "文章将 AI 视为人类创造力的互补者，强调人机协作而非替代。",
+    "该观点为理解 AI 对经济和创新生态的长期影响提供了新视角。"
+  ],
+  "tags": [
+    "AI",
+    "Economy",
+    "Innovation",
+    "Complement",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章提出了 AI 作为执行互补者的重要视角，对理解 AI 经济影响有启发，但缺乏具体数据或案例支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-02-autosynthdata-generating-training-data-for-enterprise-agents",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 02 Oct 2026 04:01:31 GMT",
+  "collected_at": "2026-10-02T14:22:00.670807+00:00",
+  "summary": "AutoSynthData 是 ServiceNow AI 在 Hugging Face 博客上介绍的一种自动合成训练数据的方法，专门面向企业级 AI Agent。它通过自动化流程生成高质量、多样化的训练数据，以解决企业场景中真实数据稀缺、标注成本高的问题。该方法可能结合 LLM 生成与过滤机制，提升 Agent 在特定任务上的表现，降低对人工标注的依赖，为企业 Agent 的快速迭代和部署提供数据基础。",
+  "highlights": [
+    "面向企业级 AI Agent 的自动训练数据合成方案",
+    "解决企业场景中真实数据稀缺与标注成本高的问题",
+    "可能利用 LLM 生成并过滤高质量、多样化的训练样本",
+    "降低人工标注依赖，加速 Agent 的迭代与部署"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Synthetic Data",
+    "Enterprise AI",
+    "Data Generation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "针对企业 Agent 训练数据瓶颈提出自动化合成方案，实用性强且契合当前 LLM Agent 落地需求。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

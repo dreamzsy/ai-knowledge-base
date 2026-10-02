@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-02-how-albertsons-companies-is-reimagining-retail-from-the-inside-out",
+  "title": "How Albertsons Companies is reimagining retail from the inside out",
+  "source": "rss",
+  "source_url": "https://openai.com/index/albertsons-reimagining-retail",
+  "author": "openai_blog",
+  "published_at": "Thu, 01 Oct 2026 16:00:00 GMT",
+  "collected_at": "2026-10-02T14:21:55.045275+00:00",
+  "summary": "本文介绍了美国零售巨头 Albertsons Companies 如何利用 OpenAI 的 ChatGPT Enterprise 和 API 从内部重塑零售业务。通过部署企业级 AI 工具，Albertsons 帮助团队提升工作效率，并优化顾客的杂货购物体验，服务数百万消费者。案例展示了生成式 AI 在传统零售行业的实际落地，涵盖内部协作与外部客户体验两大方向，为零售业数字化转型提供了参考。",
+  "highlights": [
+    "Albertsons 采用 ChatGPT Enterprise 提升内部团队协作与工作效率",
+    "通过 OpenAI API 将 AI 能力集成到零售业务中，优化顾客购物体验",
+    "案例覆盖数百万消费者，展示生成式 AI 在传统零售行业的规模化落地",
+    "体现企业级 AI 从内部运营到外部服务的双向价值"
+  ],
+  "tags": [
+    "LLM",
+    "Enterprise",
+    "Retail",
+    "OpenAI",
+    "CustomerExperience"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "该案例展示了生成式 AI 在大型零售企业的实际落地，具有行业参考价值，但技术深度有限，偏向应用宣传。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

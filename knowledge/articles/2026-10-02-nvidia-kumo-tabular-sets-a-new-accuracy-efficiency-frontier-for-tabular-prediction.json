@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-02-nvidia-kumo-tabular-sets-a-new-accuracy-efficiency-frontier-for-tabular-prediction",
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 29 Sep 2026 15:30:38 GMT",
+  "collected_at": "2026-10-02T14:22:06.712161+00:00",
+  "summary": "NVIDIA 发布 Kumo Tabular，一种面向表格预测的新方法，在准确率与效率上同时取得突破。该方法基于预训练表格基础模型，通过迁移学习减少对大量标注数据的依赖，并在多个基准数据集上超越传统 GBDT 和深度表格模型。Kumo Tabular 支持快速微调，显著降低推理成本，为金融、医疗等领域的表格数据建模提供了新范式。",
+  "highlights": [
+    "在多个表格基准上实现 SOTA 准确率，同时保持高推理效率",
+    "基于预训练表格基础模型，支持小样本微调，降低标注需求",
+    "相比传统 GBDT 和深度表格模型，在准确率-效率权衡上更优",
+    "由 NVIDIA 推出，可能集成 GPU 加速，适合大规模表格预测任务"
+  ],
+  "tags": [
+    "Tabular",
+    "Foundation Model",
+    "Transfer Learning",
+    "NVIDIA"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "表格数据是工业界最常见的数据类型，NVIDIA 的预训练表格基础模型在准确率与效率上取得突破，具有高实用价值和影响力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-02-text-to-meowdio-models",
+  "title": "Text-to-meowdio models",
+  "source": "rss",
+  "source_url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 29 Sep 2026 11:51:35 -0500",
+  "collected_at": "2026-10-02T14:21:38.725977+00:00",
+  "summary": "本文介绍了一种名为 Text-to-meowdio 的趣味模型，它模仿文本到音频生成技术，将输入文本转换为猫叫声序列。作者通过实验展示了如何利用类似 TTS 的架构生成喵喵叫，并讨论了模型训练、数据收集和生成效果。文章带有幽默色彩，但也涉及了音频生成的基本原理，适合对生成式 AI 和音频处理感兴趣的读者。",
+  "highlights": [
+    "提出 Text-to-meowdio 概念，将文本映射为猫叫声序列",
+    "借鉴文本到语音（TTS）的模型架构进行实验",
+    "讨论了训练数据收集与生成质量评估的挑战",
+    "以幽默方式展示生成式音频模型的另类应用"
+  ],
+  "tags": [
+    "Text-to-Audio",
+    "TTS",
+    "Generative-Models",
+    "Audio-Processing"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "内容趣味性强但技术深度有限，对音频生成领域有启发但非核心研究。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
