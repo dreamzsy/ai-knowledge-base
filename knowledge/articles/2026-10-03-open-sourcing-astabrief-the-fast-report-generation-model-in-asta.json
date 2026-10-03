@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-03-open-sourcing-astabrief-the-fast-report-generation-model-in-asta",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/astabrief",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 02 Oct 2026 15:19:50 GMT",
+  "collected_at": "2026-10-03T12:54:25.034996+00:00",
+  "summary": "Allen AI 开源了 AstaBrief，这是其 Asta 平台中用于快速生成报告的语言模型。该模型专注于高效生成结构化报告，可能基于指令微调或检索增强技术，旨在帮助研究人员和开发者自动化文献综述或技术报告撰写。开源后，社区可自由使用和微调，推动报告生成领域的发展。",
+  "highlights": [
+    "Allen AI 开源 AstaBrief，专为快速报告生成设计",
+    "模型集成于 Asta 平台，可能支持检索增强生成",
+    "面向学术研究和技术报告自动化场景",
+    "开源促进社区可复现与二次开发"
+  ],
+  "tags": [
+    "LLM",
+    "Report Generation",
+    "Open Source",
+    "RAG",
+    "NLP"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "由知名机构 Allen AI 开源，聚焦实用报告生成，但缺乏详细技术细节和基准测试，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

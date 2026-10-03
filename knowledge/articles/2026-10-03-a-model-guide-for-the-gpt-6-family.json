@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-03-a-model-guide-for-the-gpt-6-family",
+  "title": "A model guide for the GPT-6 family",
+  "source": "rss",
+  "source_url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "author": "openai_blog",
+  "published_at": "Fri, 02 Oct 2026 16:15:00 GMT",
+  "collected_at": "2026-10-03T12:54:17.308192+00:00",
+  "summary": "OpenAI 发布 GPT-6 系列模型实用指南，面向初创公司，指导如何选择合适模型、调整推理力度、优化提示与技能、协调工具调用，并准备生产级工作流。内容涵盖从模型选型到部署落地的关键实践，帮助团队高效利用 GPT-6 能力，降低试错成本，加速 AI 应用从原型到生产的转化。",
+  "highlights": [
+    "提供 GPT-6 系列模型选型建议，帮助初创公司根据场景匹配最佳模型",
+    "详解推理力度调优、提示工程与技能优化方法，提升输出质量与效率",
+    "指导工具协调与生产工作流准备，覆盖从开发到部署的完整链路",
+    "面向初创公司实战需求，强调可操作性与落地性"
+  ],
+  "tags": [
+    "LLM",
+    "GPT-6",
+    "Prompt Engineering",
+    "Production",
+    "Startup"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI 官方指南，内容实用且针对初创公司，对 GPT-6 落地有直接指导价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
