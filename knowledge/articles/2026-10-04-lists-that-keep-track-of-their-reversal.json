@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-04-lists-that-keep-track-of-their-reversal",
+  "title": "Lists that keep track of their reversal",
+  "source": "rss",
+  "source_url": "https://grim.cargocut.org/a/rev-list.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+  "collected_at": "2026-10-04T13:36:16.451563+00:00",
+  "summary": "本文介绍了一种能够跟踪自身反转操作的数据结构——可逆列表。它通过记录反转次数或维护双向指针，使反转操作达到 O(1) 时间复杂度，同时保持其他操作的高效性。文章探讨了实现细节、性能权衡以及适用场景，为需要频繁反转序列的算法提供了优化思路。",
+  "highlights": [
+    "提出可逆列表数据结构，支持 O(1) 时间复杂度的反转操作",
+    "通过维护反转状态或双向指针避免实际元素移动",
+    "分析该结构在随机访问、插入删除等操作上的性能权衡",
+    "适用于需要频繁反转序列的算法场景，如文本编辑器、版本控制"
+  ],
+  "tags": [
+    "DataStructure",
+    "Algorithm",
+    "List",
+    "Reversal",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该数据结构在特定场景下能显著提升性能，但通用性有限，属于细分领域的有价值优化。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

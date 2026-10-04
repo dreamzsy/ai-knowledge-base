@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-04-chatham-scales-its-capital-markets-expertise-with-openai",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/chatham-financial",
+  "author": "openai_blog",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-04T13:36:26.189880+00:00",
+  "summary": "Chatham Financial 利用 OpenAI 的 Codex 和 GPT-5.6 构建技术并重新设计工作流程，将交易验证时间从 30 分钟缩短至 4 分钟以内。该案例展示了 AI 在资本市场专业领域的实际应用，通过自动化代码生成和智能工作流优化，显著提升运营效率，为金融行业采用大模型提供了可参考的落地范例。",
+  "highlights": [
+    "Chatham Financial 采用 OpenAI Codex 和 GPT-5.6 进行技术开发与工作流重构",
+    "交易验证时间从 30 分钟大幅缩减至 4 分钟以内，效率提升近 8 倍",
+    "案例证明大模型在资本市场等专业金融场景中具有实际落地价值",
+    "为金融行业利用 AI 优化运营流程提供了可复用的参考模式"
+  ],
+  "tags": [
+    "LLM",
+    "Codex",
+    "GPT",
+    "FinTech",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该案例展示了 LLM 在金融专业场景的显著效率提升，具有行业参考价值，但技术细节和可复用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
