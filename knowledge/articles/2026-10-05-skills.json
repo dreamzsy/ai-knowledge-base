@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-05-skills",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "author": "mattpocock",
+  "published_at": "2026-02-03T11:15:53Z",
+  "collected_at": "2026-10-05T16:38:23.589933+00:00",
+  "summary": "mattpocock/skills 是知名 TypeScript 教育者 Matt Pocock 开源的 AI 技能集合，直接来自其个人 .agents 目录。项目面向真实工程师，提供可复用的 AI 代理技能，帮助开发者将 AI 集成到日常编码工作流中。内容可能涵盖代码生成、重构、测试等场景，强调实用性和工程化，而非玩具示例。作为个人实践沉淀，它为希望提升 AI 辅助开发效率的工程师提供了直接参考。",
+  "highlights": [
+    "来自 Matt Pocock 个人 .agents 目录的真实工程技能",
+    "面向工程师的实用 AI 代理技能集合",
+    "强调工程化落地而非演示性示例",
+    "可复用、可参考的 AI 辅助开发工作流"
+  ],
+  "tags": [
+    "AI",
+    "Agent",
+    "Skills",
+    "Developer Tools",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "作者影响力大且内容实用，但项目较新、规模有限，价值取决于后续维护与社区采用。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 276843,
+    "language": "Shell"
+  }
+}

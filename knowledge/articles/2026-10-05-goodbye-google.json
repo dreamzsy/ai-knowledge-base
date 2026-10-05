@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-05-goodbye-google",
+  "title": "Goodbye Google",
+  "source": "rss",
+  "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 25 Sep 2026 00:51:12 -0500",
+  "collected_at": "2026-10-05T16:39:02.372593+00:00",
+  "summary": "这是 Robert O'Callahan 的一篇个人博客文章，标题为《Goodbye Google》。作者是知名开源开发者、Mozilla 前资深工程师，曾长期参与 Firefox 与 Gecko 引擎开发。文章讲述其离开 Google 的原因与个人思考，涉及大型科技公司文化、开源生态、浏览器与 Web 平台发展方向等话题。内容属于个人观点与行业评论，并非技术教程或项目发布，对关注科技公司治理与开源社区走向的读者有一定参考价值。",
+  "highlights": [
+    "作者 Robert O'Callahan 是 Mozilla 前资深工程师，长期参与 Firefox/Gecko 开发，具有较高行业影响力",
+    "文章以个人视角讨论离开 Google 的原因，涉及大型科技公司文化与职业选择",
+    "内容触及浏览器、Web 平台与开源生态的发展方向等议题",
+    "属于个人观点类文章，非技术教程或开源项目发布，信息价值偏向行业评论"
+  ],
+  "tags": [
+    "OpenSource",
+    "BigTech",
+    "Browser",
+    "WebPlatform",
+    "Career"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于有行业影响力的开发者个人观点文章，对科技公司与开源生态讨论有参考意义，但缺乏可直接落地的技术内容。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

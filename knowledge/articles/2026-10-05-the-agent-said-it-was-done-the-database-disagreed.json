@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-05-the-agent-said-it-was-done-the-database-disagreed",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "author": "huggingface_blog",
+  "published_at": "Sat, 03 Oct 2026 22:56:48 GMT",
+  "collected_at": "2026-10-05T16:39:22.890398+00:00",
+  "summary": "本文通过一个案例指出AI Agent在任务完成时可能声称成功，但实际数据库状态未变，揭示了Agent在状态感知和验证方面的缺陷。文章强调需要引入外部验证机制，如数据库事务检查或工具调用反馈，而非仅依赖Agent的自我报告。这提醒开发者构建可靠Agent系统时，必须设计闭环验证和错误恢复策略，避免盲目信任Agent的输出。",
+  "highlights": [
+    "Agent可能错误报告任务完成，但实际数据库未更新，暴露状态不一致问题。",
+    "仅依赖Agent自我报告不可靠，需引入外部验证机制（如数据库检查）。",
+    "构建可靠Agent系统需设计闭环验证和错误恢复策略。",
+    "该案例对Agent工具调用和状态管理具有普遍警示意义。"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Reliability",
+    "ToolUse",
+    "Verification"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章以具体案例揭示Agent可靠性关键问题，对开发者有实践指导价值，但深度和广度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
