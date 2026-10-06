@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-06-hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2025-07-22T22:22:28Z",
+  "collected_at": "2026-10-06T14:36:32.552007+00:00",
+  "summary": "NousResearch 发布的 hermes-agent 是一个开源 AI 智能体项目，口号为“与你共同成长的智能体”。该项目基于 Hermes 系列模型，旨在提供可扩展、可定制的智能体框架，支持持续学习与个性化适应。作为 Nous Research 在开源 AI 领域的新作，它可能集成了工具调用、记忆管理和多步推理能力，面向开发者构建自主智能体应用。目前仓库信息有限，但凭借团队在开源模型领域的声誉，该项目值得关注。",
+  "highlights": [
+    "由知名开源 AI 团队 Nous Research 推出，延续 Hermes 模型生态",
+    "定位为可成长、可定制的智能体，强调持续学习与个性化",
+    "可能集成工具调用、记忆机制和多步推理等 Agent 核心能力",
+    "面向开发者，提供构建自主智能体应用的框架基础"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Framework",
+    "OpenSource",
+    "Hermes"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "Nous Research 团队背书且概念有潜力，但仓库信息有限，实际价值需待代码和文档完善后评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 251602,
+    "language": "Python"
+  }
+}

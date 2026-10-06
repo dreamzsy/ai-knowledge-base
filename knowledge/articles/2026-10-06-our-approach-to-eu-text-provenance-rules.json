@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-06-our-approach-to-eu-text-provenance-rules",
+  "title": "Our approach to EU text provenance rules",
+  "source": "rss",
+  "source_url": "https://openai.com/index/eu-text-provenance",
+  "author": "openai_blog",
+  "published_at": "Mon, 05 Oct 2026 15:00:00 GMT",
+  "collected_at": "2026-10-06T14:37:19.025929+00:00",
+  "summary": "OpenAI 发布文章阐述其在欧盟文本溯源规则下的文本水印方案，重点说明水印的适用范围、检测机制以及为何初期仅向研究人员开放访问。该方案旨在满足欧盟对 AI 生成内容透明度的监管要求，同时平衡安全性与可用性，为行业提供合规参考。",
+  "highlights": [
+    "介绍 OpenAI 在欧盟法规下对文本水印的合规策略",
+    "明确水印的适用场景与检测技术原理",
+    "初期仅向研究人员开放检测访问以控制风险",
+    "为 AI 生成内容溯源提供行业实践参考"
+  ],
+  "tags": [
+    "Watermarking",
+    "AI Regulation",
+    "Content Provenance",
+    "OpenAI",
+    "EU AI Act"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容涉及 AI 合规与溯源技术，对关注监管与安全的研究者和开发者有较高参考价值，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

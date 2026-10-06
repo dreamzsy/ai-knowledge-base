@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-06-a-study-of-sequence-weighting-at-scale",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+  "collected_at": "2026-10-06T14:37:15.029757+00:00",
+  "summary": "本文是 Jane Street 对大规模序列加权方法的研究，探讨在训练序列模型时如何为不同样本或时间步分配权重，以提升模型在金融等大规模数据上的表现。文章可能涉及加权策略、优化算法及实验对比，为处理非均匀数据分布提供实践指导。",
+  "highlights": [
+    "研究大规模序列加权对模型性能的影响",
+    "提出或比较多种序列加权策略",
+    "结合金融场景验证加权方法的有效性",
+    "为处理非均匀数据分布提供实践指导"
+  ],
+  "tags": [
+    "Sequence Weighting",
+    "Large-Scale ML",
+    "Time Series",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容聚焦大规模序列加权的实用研究，对金融和序列建模领域有参考价值，但受众相对专业。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
