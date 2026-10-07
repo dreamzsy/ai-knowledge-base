@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-07-prompts-chat",
+  "title": "f/prompts.chat",
+  "source": "github_trending",
+  "source_url": "https://github.com/f/prompts.chat",
+  "author": "f",
+  "published_at": "2022-12-05T13:54:13Z",
+  "collected_at": "2026-10-07T14:56:48.618304+00:00",
+  "summary": "prompts.chat（原 Awesome ChatGPT Prompts）是一个开源提示词社区平台，支持用户分享、发现和收藏来自社区的提示词。项目完全免费开源，并支持组织自托管，确保数据完全私有。它为个人和团队提供了集中管理、复用优质提示词的解决方案，有助于提升大模型交互效率。",
+  "highlights": [
+    "社区驱动的提示词分享与发现平台，汇集大量用户贡献的优质提示词",
+    "完全免费且开源，支持自托管部署，保障组织数据隐私",
+    "前身为知名项目 Awesome ChatGPT Prompts，具有广泛社区基础",
+    "提供提示词收藏与管理功能，方便个人或团队复用"
+  ],
+  "tags": [
+    "Prompt",
+    "LLM",
+    "OpenSource",
+    "SelfHosted",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目实用性强，社区活跃，自托管特性满足企业隐私需求，但技术复杂度较低。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 172272,
+    "language": "HTML"
+  }
+}

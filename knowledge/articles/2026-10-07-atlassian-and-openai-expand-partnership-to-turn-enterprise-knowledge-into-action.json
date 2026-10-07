@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
+  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "source": "rss",
+  "source_url": "https://openai.com/index/atlassian-partnership",
+  "author": "openai_blog",
+  "published_at": "Tue, 06 Oct 2026 16:00:00 GMT",
+  "collected_at": "2026-10-07T14:57:24.233417+00:00",
+  "summary": "Atlassian与OpenAI扩大合作，将前沿模型与企业知识库连接，帮助团队规划、构建和交付工作。此举旨在把企业知识转化为行动，提升协作效率，可能涉及Jira、Confluence等产品与OpenAI模型的深度集成，推动AI在企业工作流中的落地。",
+  "highlights": [
+    "Atlassian与OpenAI扩大合作，连接前沿模型与企业知识",
+    "目标是将企业知识转化为行动，辅助团队规划、构建和交付",
+    "可能涉及Jira、Confluence等产品与OpenAI模型的集成",
+    "推动AI在企业工作流中的实际应用与落地"
+  ],
+  "tags": [
+    "OpenAI",
+    "Atlassian",
+    "Enterprise",
+    "Integration",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该合作将前沿AI模型与企业知识管理深度结合，对提升企业生产力有实际价值，但具体技术细节和落地效果尚待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

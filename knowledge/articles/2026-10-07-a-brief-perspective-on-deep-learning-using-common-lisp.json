@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-07-a-brief-perspective-on-deep-learning-using-common-lisp",
+  "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 26 Sep 2026 12:34:14 -0500",
+  "collected_at": "2026-10-07T14:57:09.112939+00:00",
+  "summary": "该视频探讨了使用 Common Lisp 进行深度学习的视角，可能涵盖 Lisp 生态中的深度学习库、符号计算与自动微分实现，以及 Lisp 在 AI 研究中的历史与现状。内容偏向个人经验分享，适合对 Lisp 和深度学习交叉领域感兴趣的开发者，但缺乏具体技术细节和可复现的工程实践。",
+  "highlights": [
+    "探讨 Common Lisp 在深度学习领域的应用可能性与局限性",
+    "可能涉及 Lisp 生态中的自动微分或神经网络库实现",
+    "从 Lisp 视角反思主流深度学习框架的设计哲学",
+    "内容以观点分享为主，非教程或基准测试"
+  ],
+  "tags": [
+    "Common Lisp",
+    "Deep Learning",
+    "Symbolic AI",
+    "AutoDiff"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "主题小众且以观点为主，对主流深度学习实践者参考价值有限，但对 Lisp 社区有一定启发意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

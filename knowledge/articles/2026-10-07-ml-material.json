@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-ml-material",
+  "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+  "source": "rss",
+  "source_url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 07 Oct 2026 09:12:02 -0500",
+  "collected_at": "2026-10-07T14:57:03.197514+00:00",
+  "summary": "该帖子来自 Lobsters 社区，提问者假设自己从 2018-19 年起休眠，寻求推荐书籍、MOOC 和 YouTube 频道来快速了解 AI/ML 当前进展，并希望有类似 TeachYourselfCS 的结构化路线图。还询问理解 LLM 与传统大规模部署的 ML 模型是否需要不同方法。社区回复可能包含资源推荐和学习路径建议。",
+  "highlights": [
+    "提问者寻求从 2018-19 年休眠状态快速追赶 AI/ML 进展的学习资源",
+    "希望获得类似 TeachYourselfCS 的结构化路线图来导航领域知识",
+    "询问理解 LLM 与 2022 年前大规模部署的传统 ML 模型是否需要不同方法",
+    "社区可能推荐书籍、MOOC 课程和 YouTube 频道等资源"
+  ],
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "LLM",
+    "Learning Resources",
+    "Roadmap"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "该讨论对需要快速了解 AI/ML 最新进展的学习者具有参考价值，但内容偏重资源推荐而非技术深度分析。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

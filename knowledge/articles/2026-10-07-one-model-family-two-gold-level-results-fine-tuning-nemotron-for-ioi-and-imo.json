@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-one-model-family-two-gold-level-results-fine-tuning-nemotron-for-ioi-and-imo",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 07 Oct 2026 12:45:31 GMT",
+  "collected_at": "2026-10-07T14:57:26.573142+00:00",
+  "summary": "NVIDIA 发布技术博客，介绍如何通过微调 Nemotron 模型家族，在 IOI（国际信息学奥林匹克）和 IMO（国际数学奥林匹克）两项竞赛中均取得金牌级成绩。文章展示了同一模型家族经过针对性微调后，在算法编程与数学推理两个高难度领域同时达到顶尖水平，验证了模型泛化能力与微调策略的有效性，为竞赛级 AI 推理提供了可复现的实践路径。",
+  "highlights": [
+    "同一 Nemotron 模型家族在 IOI 和 IMO 两项竞赛中均达到金牌级表现",
+    "通过针对性微调实现算法编程与数学推理能力的双重突破",
+    "验证了模型家族在多领域高难度推理任务上的泛化潜力",
+    "为竞赛级 AI 推理提供了可复现的微调实践方案"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-Tuning",
+    "Reasoning",
+    "Nemotron",
+    "Math"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "NVIDIA 官方博客展示同一模型家族在两大顶级竞赛中夺金，微调策略与推理能力提升具有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

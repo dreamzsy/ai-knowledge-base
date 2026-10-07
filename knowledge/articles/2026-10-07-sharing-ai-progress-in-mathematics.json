@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-sharing-ai-progress-in-mathematics",
+  "title": "Sharing AI progress in mathematics",
+  "source": "rss",
+  "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+  "author": "openai_blog",
+  "published_at": "Tue, 06 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-07T14:57:20.306339+00:00",
+  "summary": "OpenAI 发布内部前沿模型在数学开放问题上的新成果，并公开 Lean 形式化证明及研究细节至 GitHub。这展示了 AI 在高级数学推理方面的能力，通过形式化验证确保正确性，为数学研究提供新工具，推动 AI 与数学交叉领域发展。",
+  "highlights": [
+    "OpenAI 内部前沿模型解决数学开放问题",
+    "公开 Lean 形式化证明，确保可验证性",
+    "研究细节和代码在 GitHub 上共享",
+    "展示 AI 在高级数学推理的潜力"
+  ],
+  "tags": [
+    "LLM",
+    "Mathematics",
+    "FormalProof",
+    "Lean",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该成果展示了 AI 在数学推理的前沿进展，并公开形式化证明，具有高研究价值和可复现性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

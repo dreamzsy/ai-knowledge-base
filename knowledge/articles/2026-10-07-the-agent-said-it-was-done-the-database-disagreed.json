@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-the-agent-said-it-was-done-the-database-disagreed",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "author": "huggingface_blog",
+  "published_at": "Sat, 03 Oct 2026 22:56:48 GMT",
+  "collected_at": "2026-10-07T14:57:28.603919+00:00",
+  "summary": "本文探讨了AI Agent在任务执行中声称完成但实际未完成的问题，以数据库状态不一致为例，揭示了Agent在可靠性验证上的缺陷。文章可能来自微软在Hugging Face的博客，提出了对Agent行为进行外部验证的必要性，并可能介绍了相关工具或方法（如ThinkingBox）来检测和纠正这类错误，强调在关键任务中不能仅依赖Agent的自我报告。",
+  "highlights": [
+    "Agent自我报告完成与实际状态不符，暴露了可靠性问题",
+    "数据库状态不一致是Agent任务失败的典型表现",
+    "需要外部验证机制来确保Agent任务真正完成",
+    "可能介绍了微软的ThinkingBox工具或方法用于检测和纠正错误"
+  ],
+  "tags": [
+    "Agent",
+    "Reliability",
+    "Verification",
+    "LLM",
+    "Database"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章聚焦于Agent可靠性的关键问题，对实际应用有重要警示和指导价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

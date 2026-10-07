@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-07-advancing-computer-use-with-ironclad",
+  "title": "Advancing computer use with Ironclad",
+  "source": "rss",
+  "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "author": "openai_blog",
+  "published_at": "Tue, 06 Oct 2026 10:00:00 GMT",
+  "collected_at": "2026-10-07T14:57:22.461465+00:00",
+  "summary": "OpenAI 与 Ironclad 合作，针对复杂合同工作流训练和评估 AI 代理，以推进计算机使用能力在专业工作中的应用。该合作旨在提升 AI 代理在真实业务场景中的操作能力，为法律和合同管理等专业领域提供更高效的自动化解决方案。",
+  "highlights": [
+    "OpenAI 与 Ironclad 联合训练和评估 AI 代理在复杂合同工作流中的表现",
+    "合作聚焦于推进计算机使用（computer use）能力在专业工作场景的落地",
+    "通过真实合同管理任务提升 AI 代理的自动化操作水平",
+    "为法律科技等专业领域的 AI 应用提供实践参考"
+  ],
+  "tags": [
+    "AI Agent",
+    "Computer Use",
+    "Contract Workflow",
+    "Legal Tech",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该合作展示了 AI 代理在专业合同工作流中的实际应用，对推动计算机使用技术落地具有参考价值，但具体技术细节和成果尚未完全公开。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
