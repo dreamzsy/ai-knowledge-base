@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-08-clojure-in-the-age-of-language-models",
+  "title": "Clojure in the Age of Language Models",
+  "source": "rss",
+  "source_url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 08 Oct 2026 00:55:50 -0500",
+  "collected_at": "2026-10-08T15:05:46.947387+00:00",
+  "summary": "本文探讨在语言模型时代 Clojure 语言的价值与定位。作者认为 LLM 擅长生成主流语言代码，但 Clojure 的简洁语法、REPL 驱动开发和不可变数据结构使其在 AI 辅助编程中仍具优势。文章分析了 LLM 对编程语言生态的影响，并讨论 Clojure 社区如何适应这一趋势。",
+  "highlights": [
+    "LLM 更擅长生成 Python、JavaScript 等主流语言代码，对 Clojure 等小众语言支持较弱",
+    "Clojure 的简洁语法和同像性使其代码更易被 LLM 理解和生成",
+    "REPL 驱动开发与 LLM 交互式编程模式高度契合",
+    "Clojure 社区需积极构建 LLM 工具链以保持竞争力"
+  ],
+  "tags": [
+    "Clojure",
+    "LLM",
+    "Programming Languages",
+    "AI-assisted Coding"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "文章对特定语言在 LLM 时代的定位有启发，但受众较窄且缺乏实证数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

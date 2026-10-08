@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 356 # Comments: 367",
+    "published_at": "Wed, 07 Oct 2026 18:49:40 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 276 # Comments: 126",
+    "published_at": "Wed, 07 Oct 2026 17:48:38 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "author": "hacker_news_best",
+    "summary_raw": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1301 # Comments: 1478",
+    "published_at": "Tue, 06 Oct 2026 22:17:21 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "url": "https://penguin-mail.com/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 235 # Comments: 184",
+    "published_at": "Tue, 06 Oct 2026 21:59:43 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Thinking will become a hobby",
+    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mosbat/thinking_will_become_hobby\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 08 Oct 2026 07:23:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Clojure in the Age of Language Models",
+    "url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xtgwsd/clojure_age_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 08 Oct 2026 00:55:50 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML. Ideally a resource like &lt;a href=\"https://teachyourselfcs.com/\" rel=\"ugc\"&gt;TeachYourselfCS&lt;/a&gt; that can give structure and roadmap to navigate all the progress/knowledge on the domain would really help.&lt;/p&gt; &lt;p&gt;Do we have to take different approaches to understand LLMs vs other type of ML models which have been in large scale deployment/usage from pre-2022/21 time frame?&lt;/p&gt; &lt;p&gt;Thanks a lot in advance.&lt;/p&gt;",
+    "published_at": "Wed, 07 Oct 2026 09:12:02 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+    "url": "https://tracel.ai/blog/release-0.22.0/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 06 Oct 2026 18:57:25 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "author": "openai_blog",
+    "summary_raw": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "published_at": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "author": "openai_blog",
+    "summary_raw": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "author": "openai_blog",
+    "summary_raw": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "published_at": "Wed, 07 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "author": "openai_blog",
+    "summary_raw": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "published_at": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Multimodal open d1 decision models for the edge",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 07 Oct 2026 12:45:31 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "extra": {}
+  }
+]

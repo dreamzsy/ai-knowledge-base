@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-08-hillingar-mirageos-unikernels-on-nixos",
+  "title": "Hillingar - MirageOS Unikernels on NixOS",
+  "source": "rss",
+  "source_url": "https://ryan.freumh.org/hillingar.html",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+  "collected_at": "2026-10-08T15:05:58.854189+00:00",
+  "summary": "Hillingar 是一个在 NixOS 上运行 MirageOS unikernel 的项目。MirageOS 是用 OCaml 编写的库操作系统，可编译为独立的 unikernel，而 NixOS 提供声明式、可复现的系统配置。Hillingar 将两者结合，利用 Nix 的构建系统来编译和部署 MirageOS unikernel，简化了依赖管理和部署流程，使开发者能在 NixOS 环境中更便捷地使用 unikernel 技术。",
+  "highlights": [
+    "将 MirageOS unikernel 与 NixOS 的声明式配置和可复现构建相结合",
+    "利用 Nix 包管理器管理 OCaml 工具链和 unikernel 依赖，简化构建流程",
+    "为在 NixOS 上部署轻量级、高安全性的 unikernel 提供新途径",
+    "项目页面包含详细的技术说明和社区讨论链接"
+  ],
+  "tags": [
+    "Unikernel",
+    "NixOS",
+    "MirageOS",
+    "OCaml",
+    "Operating Systems"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该项目将 unikernel 与 NixOS 生态结合，对系统编程和云原生领域有实用价值，但受众相对小众。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-08-sharing-ai-progress-in-mathematics",
+  "title": "Sharing AI progress in mathematics",
+  "source": "rss",
+  "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 06 Oct 2026 22:17:21 +0000",
+  "collected_at": "2026-10-08T15:05:40.925411+00:00",
+  "summary": "OpenAI 发布了一篇关于 AI 在数学领域进展的分享，并同步在 GitHub 上开源了相关预印本（preprints）。该内容在 Hacker News 上引发广泛讨论，获得 1301 分和 1478 条评论，显示出社区对 AI 辅助数学研究的高度关注。此举可能涉及 AI 在定理证明、问题求解或数学发现方面的能力展示，旨在推动数学与 AI 交叉领域的开放合作。",
+  "highlights": [
+    "OpenAI 公开分享 AI 在数学领域的最新进展，并发布预印本",
+    "相关预印本已在 GitHub 开源，便于社区查阅与复现",
+    "Hacker News 讨论热度极高，评论数达 1478 条",
+    "可能涉及 AI 在数学定理证明或自动推理方面的突破"
+  ],
+  "tags": [
+    "AI",
+    "Mathematics",
+    "OpenAI",
+    "Preprints",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "OpenAI 官方发布且开源预印本，社区反响热烈，对 AI 数学研究有重要参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

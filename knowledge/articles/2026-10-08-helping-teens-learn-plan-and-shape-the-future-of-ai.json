@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-08-helping-teens-learn-plan-and-shape-the-future-of-ai",
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/teens-learn-and-plan",
+  "author": "openai_blog",
+  "published_at": "Wed, 07 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-08T15:06:00.798419+00:00",
+  "summary": "OpenAI 为 ChatGPT 青少年版推出 College Planner，帮助学生管理大学申请，并新增闪卡、测验功能，同时成立青少年 AI 委员会，让青少年参与塑造 AI 的未来。该举措旨在提升青少年的学习规划能力，并促进 AI 在青少年群体中的负责任使用。",
+  "highlights": [
+    "推出 College Planner 功能，帮助青少年管理大学申请流程",
+    "新增闪卡和测验等学习工具，增强学习体验",
+    "成立青少年 AI 委员会，让青少年参与 AI 未来发展的讨论",
+    "面向青少年群体，强调 AI 的教育应用与责任"
+  ],
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Education",
+    "AI Ethics",
+    "Teens"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该举措拓展了 ChatGPT 在教育场景的应用，并关注青少年参与 AI 治理，具有社会价值，但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

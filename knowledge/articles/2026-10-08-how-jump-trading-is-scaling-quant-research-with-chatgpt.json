@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-08-how-jump-trading-is-scaling-quant-research-with-chatgpt",
+  "title": "How Jump Trading is scaling quant research with ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/jump-trading",
+  "author": "openai_blog",
+  "published_at": "Tue, 06 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-08T15:06:07.001733+00:00",
+  "summary": "Jump Trading 利用 OpenAI 的 ChatGPT 扩展量化研究，通过长时间运行的 AI 工作流整合多源数据，并结合人工审核，提升研究效率与准确性。该案例展示了 AI 在金融量化领域的实际应用，强调了人机协作的重要性。",
+  "highlights": [
+    "Jump Trading 使用 ChatGPT 扩展量化研究，处理复杂金融数据",
+    "AI 工作流可长时间运行，整合多个数据源",
+    "人工审核环节确保研究质量与合规性",
+    "展示了 OpenAI 技术在金融量化领域的落地案例"
+  ],
+  "tags": [
+    "LLM",
+    "Quantitative Research",
+    "AI Workflow",
+    "Finance",
+    "Human-in-the-loop"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该案例展示了 LLM 在金融量化研究中的实际应用，具有行业参考价值，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

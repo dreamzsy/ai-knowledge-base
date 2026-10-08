@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-08-gpt-6-and-intelligent-ui-for-everyone",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-6-for-everyone",
+  "author": "openai_blog",
+  "published_at": "Wed, 07 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-08T15:06:05.228309+00:00",
+  "summary": "OpenAI 发布 GPT-6 并在 ChatGPT 中全球推出，同时引入 Intelligent UI。该界面能根据用户需求动态生成可视化内容和交互式体验，用户可直接在对话中探索和使用，无需跳转外部工具。GPT-6 在响应速度上也有显著提升，标志着大模型从纯文本交互向多模态、可操作界面的演进。",
+  "highlights": [
+    "GPT-6 在全球 ChatGPT 中上线，响应速度更快",
+    "Intelligent UI 支持动态生成可视化与交互式体验",
+    "用户可直接在对话中探索和使用生成内容，无需外部工具",
+    "标志着大模型交互从纯文本向多模态、可操作界面演进"
+  ],
+  "tags": [
+    "LLM",
+    "Multimodal",
+    "UI",
+    "ChatGPT",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "GPT-6 与 Intelligent UI 的结合代表了 LLM 交互范式的重大升级，具有高行业影响力和应用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

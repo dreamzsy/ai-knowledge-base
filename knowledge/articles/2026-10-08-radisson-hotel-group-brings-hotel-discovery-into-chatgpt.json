@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-08-radisson-hotel-group-brings-hotel-discovery-into-chatgpt",
+  "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/radisson",
+  "author": "openai_blog",
+  "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-08T15:06:03.355604+00:00",
+  "summary": "Radisson Hotel Group与Accenture合作，基于OpenAI技术开发了一款ChatGPT插件，让旅行者能在ChatGPT对话中直接发现、比较和预订酒店。该插件将酒店搜索与行程规划结合，用户无需离开聊天界面即可完成从灵感激发到预订的全流程。这标志着酒店业首次将核心预订服务深度集成到AI助手，展示了对话式商务在旅游领域的落地潜力，为行业提供了AI驱动客户体验的新范式。",
+  "highlights": [
+    "Radisson与Accenture合作，利用OpenAI技术构建ChatGPT插件，实现酒店搜索、比较和预订功能。",
+    "用户可在ChatGPT对话中直接完成从行程规划到酒店预订的全流程，无需跳转外部平台。",
+    "这是酒店行业将核心预订服务深度集成到AI助手的早期案例，展示了对话式商务的可行性。",
+    "该合作体现了传统酒店集团通过AI技术提升客户体验和直接预订渠道的战略方向。"
+  ],
+  "tags": [
+    "ChatGPT",
+    "Plugin",
+    "Travel",
+    "Conversational Commerce",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该案例展示了ChatGPT插件在垂直行业的实际落地，对旅游和对话式商务有参考价值，但技术深度有限，属于应用集成而非底层创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
