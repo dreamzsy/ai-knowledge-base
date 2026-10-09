@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-09-pollo-ai-turns-creative-ideas-into-campaigns-with-openai",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/pollo-ai",
+  "author": "openai_blog",
+  "published_at": "Thu, 08 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-09T14:49:52.075320+00:00",
+  "summary": "Pollo AI 基于 OpenAI 的 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5 模型，帮助创作者将创意想法转化为详细图像和电影级视频广告。该工具面向营销与内容创作场景，实现从概念到完整广告活动的自动化生成，降低创意制作门槛，提升生产效率。",
+  "highlights": [
+    "集成 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5 多模型能力",
+    "支持从创意想法到详细图像和电影级视频广告的端到端生成",
+    "面向营销活动场景，实现创意概念到广告活动的自动化转化",
+    "降低创意制作门槛，提升内容生产效率"
+  ],
+  "tags": [
+    "LLM",
+    "AIGC",
+    "VideoGeneration",
+    "Marketing",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了多模型协同在营销创意生成中的实际应用，但缺乏技术细节与开源信息，实用价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-09-introducing-falcon-asr",
+  "title": "Introducing Falcon ASR",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 07 Oct 2026 13:21:03 GMT",
+  "collected_at": "2026-10-09T14:49:59.660213+00:00",
+  "summary": "Falcon ASR 是 TII（阿联酋技术创新研究院）在 Hugging Face 上发布的开源自动语音识别模型，延续 Falcon 系列的开源路线。该模型支持多语言语音转文本，在识别准确率和推理效率上进行了优化，可直接通过 Transformers 库调用，适用于语音助手、会议转录、字幕生成等场景，为开发者提供了商业级 ASR 的开放替代方案。",
+  "highlights": [
+    "TII 发布 Falcon 系列首个开源自动语音识别模型 Falcon ASR",
+    "支持多语言语音转文本，可通过 Hugging Face Transformers 直接调用",
+    "在识别准确率与推理效率上做了优化，适合实时转录场景",
+    "为开发者提供可替代商业 ASR 服务的开源方案"
+  ],
+  "tags": [
+    "ASR",
+    "Speech Recognition",
+    "Open Source",
+    "Hugging Face",
+    "Multilingual"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "Falcon 品牌背书且开源可商用，对语音识别生态有实际推动价值，但缺乏具体基准数据支撑更高评分。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

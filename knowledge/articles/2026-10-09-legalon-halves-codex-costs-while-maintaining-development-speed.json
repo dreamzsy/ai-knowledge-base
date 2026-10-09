@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-09-legalon-halves-codex-costs-while-maintaining-development-speed",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "source": "rss",
+  "source_url": "https://openai.com/index/legalon-halves-codex-costs",
+  "author": "openai_blog",
+  "published_at": "Thu, 08 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-09T14:49:54.058262+00:00",
+  "summary": "LegalOn 通过将 Codex 模型（Astra、Sol、Luna）与具体任务匹配并实施战略性预算管理，在保持开发速度的同时将每日 Codex 成本削减了 65%。该案例展示了如何通过模型路由和成本控制策略，在不牺牲效率的前提下显著降低 AI 编码助手的运营开销，为团队规模化使用 LLM 提供可复用的成本优化思路。",
+  "highlights": [
+    "将 Codex 每日预估成本降低 65%，同时维持开发速度不变",
+    "根据任务类型匹配 Astra、Sol、Luna 等不同模型，实现按需调用",
+    "采用战略性预算管理，控制整体 AI 使用开销",
+    "为团队规模化使用 AI 编码助手提供成本优化范例"
+  ],
+  "tags": [
+    "LLM",
+    "Codex",
+    "CostOptimization",
+    "ModelRouting",
+    "DevTools"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该案例提供了可复用的 LLM 成本优化策略，对使用 AI 编码助手的团队有直接参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
