@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-10-burn-0-22-0-faster-builds-easier-extensions-and-smarter-autotuning",
+  "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+  "source": "rss",
+  "source_url": "https://tracel.ai/blog/release-0.22.0/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 06 Oct 2026 18:57:25 -0500",
+  "collected_at": "2026-10-10T14:07:31.183200+00:00",
+  "summary": "Burn 0.22.0 是 Rust 深度学习框架 Burn 的新版本，重点优化了构建速度、扩展性和自动调优。该版本通过改进编译流程和缓存机制显著缩短构建时间，同时简化了自定义内核与后端的扩展方式，并增强了自动调优能力以提升运行时性能。这些改进降低了开发门槛，使 Burn 在 Rust 生态中更具竞争力，适合需要高性能推理与训练的开发者。",
+  "highlights": [
+    "构建速度大幅提升，优化编译流程与缓存机制",
+    "扩展性增强，简化自定义内核和后端的集成",
+    "自动调优更智能，提升运行时性能与资源利用率",
+    "面向 Rust 生态，强化深度学习框架的工程化能力"
+  ],
+  "tags": [
+    "Rust",
+    "Deep Learning",
+    "Framework",
+    "Autotuning",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该版本在构建效率、扩展性和自动调优上有实质改进，对 Rust 深度学习开发者价值较高，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

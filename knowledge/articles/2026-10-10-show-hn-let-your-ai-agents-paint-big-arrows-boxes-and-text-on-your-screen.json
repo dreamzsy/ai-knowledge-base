@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-10-show-hn-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen",
+  "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+  "source": "rss",
+  "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 09 Oct 2026 11:03:48 +0000",
+  "collected_at": "2026-10-10T14:07:23.640113+00:00",
+  "summary": "该项目是一个开源工具，允许 AI 代理在屏幕上绘制大箭头、方框和文字，用于可视化指引或演示。它通过简单接口让代理控制屏幕标注，适合教学、调试或人机协作场景。在 Hacker News 上获得 401 分和 181 条评论，表明社区对其交互方式有较高兴趣。",
+  "highlights": [
+    "让 AI 代理直接在屏幕上绘制箭头、方框和文字，实现可视化指引",
+    "适用于教学演示、调试辅助和人机协作等场景",
+    "在 Hacker News 上获得 401 分和 181 条评论，社区关注度高",
+    "开源项目，便于开发者集成和扩展"
+  ],
+  "tags": [
+    "AI",
+    "Agent",
+    "Visualization",
+    "OpenSource",
+    "Tool"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目创意实用且社区反响积极，但功能相对单一，价值取决于具体集成场景。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-10-voxlocal-a-minimal-voice-agent-written-in-rust",
+  "title": "Voxlocal: a minimal voice agent written in Rust",
+  "source": "rss",
+  "source_url": "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 10 Oct 2026 03:42:06 -0500",
+  "collected_at": "2026-10-10T14:07:25.554285+00:00",
+  "summary": "Voxlocal 是一个用 Rust 编写的极简语音代理项目，作者在博客中分享了其设计思路与实现细节。该项目强调轻量级、本地化运行，可能集成了语音识别、语言模型推理与语音合成等核心模块，旨在为开发者提供一个可快速上手和定制的语音交互基础框架。文章讨论了架构选择、依赖管理及性能考量，适合对 Rust 系统编程和语音 AI 应用感兴趣的读者参考。",
+  "highlights": [
+    "使用 Rust 实现极简语音代理，强调轻量级与本地化运行",
+    "涵盖语音识别、LLM 推理与语音合成等完整交互链路",
+    "提供可定制的基础框架，便于开发者快速搭建语音应用",
+    "适合关注 Rust 系统编程与边缘 AI 部署的技术读者"
+  ],
+  "tags": [
+    "Rust",
+    "VoiceAgent",
+    "LLM",
+    "Speech",
+    "EdgeAI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "项目展示了 Rust 在语音代理领域的轻量级实践，具有参考价值，但创新性和生态影响力有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
