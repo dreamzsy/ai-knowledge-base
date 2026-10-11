@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-11-a-study-of-sequence-weighting-at-scale",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+  "collected_at": "2026-10-11T14:32:01.189196+00:00",
+  "summary": "本文是 Jane Street 关于大规模序列加权的研究，探讨在训练序列模型时如何对不同位置的 token 分配权重。文章通过实验比较了多种加权方案（如线性衰减、指数衰减、均匀权重等）对模型性能的影响，并分析了序列长度、数据规模等因素的作用。研究旨在为长序列建模和训练效率提供实践指导，适合关注 LLM 训练细节的读者。",
+  "highlights": [
+    "系统比较了多种序列加权方案（均匀、线性、指数等）在大规模训练中的效果",
+    "分析了序列长度与加权策略的交互影响，揭示长序列建模的关键权衡",
+    "提供了基于实验的实践建议，帮助优化训练效率和模型性能",
+    "来自 Jane Street 的工程实践，强调可复现性和大规模场景"
+  ],
+  "tags": [
+    "Sequence Modeling",
+    "Training",
+    "LLM",
+    "Weighting",
+    "Scaling"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容聚焦大规模序列加权的实证研究，对 LLM 训练有直接参考价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

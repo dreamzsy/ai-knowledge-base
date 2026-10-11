@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-11-impactful-scheduling-for-gpu-clusters",
+  "title": "Impactful scheduling for GPU clusters",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 09 Oct 2026 15:20:29 GMT",
+  "collected_at": "2026-10-11T14:32:15.717299+00:00",
+  "summary": "本文探讨了GPU集群调度对AI训练效率的影响，以AllenAI的实践为例，分析了如何通过优化调度策略提升资源利用率和任务吞吐量。文章指出传统调度器在异构GPU和动态负载下的不足，并介绍了基于优先级、抢占和拓扑感知的调度方法，以及如何平衡公平性与效率。最后总结了在大型语言模型训练场景中，调度优化带来的显著性能提升和成本节约。",
+  "highlights": [
+    "GPU集群调度是影响大规模AI训练效率的关键因素，优化调度可显著提升资源利用率。",
+    "传统调度器难以应对异构GPU和动态负载，需要优先级、抢占和拓扑感知等策略。",
+    "AllenAI分享了实际调度优化经验，展示了在LLM训练中的性能提升和成本节约。",
+    "调度需平衡公平性与效率，避免资源碎片化和任务饥饿。"
+  ],
+  "tags": [
+    "GPU",
+    "Scheduling",
+    "Cluster",
+    "LLM",
+    "Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "内容来自一线AI实验室的实践总结，对大规模GPU集群调度有直接指导价值，但偏重经验分享而非技术创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

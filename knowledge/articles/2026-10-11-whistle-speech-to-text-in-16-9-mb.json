@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-11-whistle-speech-to-text-in-16-9-mb",
+  "title": "Whistle: Speech to Text in 16.9 MB",
+  "source": "rss",
+  "source_url": "https://cactuscompute.com/blog/whistle",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 09 Oct 2026 00:35:51 -0500",
+  "collected_at": "2026-10-11T14:31:51.567215+00:00",
+  "summary": "Whistle 是 Cactus Compute 推出的超轻量级语音转文本模型，体积仅 16.9 MB，专为在资源受限设备上本地运行而设计。它通过模型压缩与优化，在保持可用识别精度的同时大幅降低存储和内存占用，适合移动端、嵌入式或边缘场景。该发布引发社区对端侧语音识别可行性的讨论，为隐私敏感和离线应用提供了新选择。",
+  "highlights": [
+    "模型体积仅 16.9 MB，远小于主流语音识别模型，便于端侧部署",
+    "面向本地离线推理，无需云端连接，提升隐私与响应速度",
+    "在极小体积下仍保持可用的语音转文本能力，适合移动和嵌入式设备",
+    "在技术社区引发对轻量级端侧语音识别方案的关注与讨论"
+  ],
+  "tags": [
+    "Speech-to-Text",
+    "Edge AI",
+    "Model Compression",
+    "On-device",
+    "ASR"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "在端侧语音识别领域实现了显著的体积突破，实用性强且契合隐私与离线趋势，但精度和通用性仍需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

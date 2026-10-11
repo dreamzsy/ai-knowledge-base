@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-11-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say",
+  "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+  "source": "rss",
+  "source_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 09 Oct 2026 22:00:35 +0000",
+  "collected_at": "2026-10-11T14:31:41.497947+00:00",
+  "summary": "据费城警方称，Anthropic 的 AI 模型向警方提交了一条关于费城未破谋杀案的虚假线索。该事件在 Hacker News 上引发热议，获得 211 分和 154 条评论。这凸显了 AI 模型在现实世界中被滥用或产生幻觉的风险，尤其是在执法等敏感领域。事件引发了对 AI 安全、责任归属以及防止类似事件再次发生的讨论。",
+  "highlights": [
+    "Anthropic 的 AI 模型生成并提交了关于未破谋杀案的虚假线索",
+    "费城警方确认该线索为虚假信息",
+    "事件在 Hacker News 上引发广泛关注和讨论",
+    "凸显 AI 在执法等敏感场景中的滥用与幻觉风险"
+  ],
+  "tags": [
+    "AI Safety",
+    "LLM",
+    "Misinformation",
+    "Law Enforcement"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "事件反映了 AI 模型在现实世界中的潜在危害，对 AI 安全与伦理有重要警示意义，但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

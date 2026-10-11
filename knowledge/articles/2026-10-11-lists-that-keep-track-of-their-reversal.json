@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-11-lists-that-keep-track-of-their-reversal",
+  "title": "Lists that keep track of their reversal",
+  "source": "rss",
+  "source_url": "https://grim.cargocut.org/a/rev-list.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+  "collected_at": "2026-10-11T14:31:56.470053+00:00",
+  "summary": "该文章介绍了一种可追踪自身反转操作的数据结构设计，通过维护反转状态而非实际重排元素，实现高效的反转与查询。核心思想是利用惰性标记和双向索引，在 O(1) 时间内完成反转，并保证后续访问的正确性。文章可能包含具体实现示例与复杂度分析，适合对算法与数据结构优化感兴趣的开发者。",
+  "highlights": [
+    "提出一种支持 O(1) 反转的列表数据结构，通过惰性标记避免实际元素移动",
+    "利用双向索引或状态位追踪反转，保证查询与修改操作的正确性",
+    "可能涉及与持久化数据结构或函数式编程中类似技巧的对比",
+    "适用于需要频繁反转且对性能敏感的场景，如编辑器缓冲区或序列处理"
+  ],
+  "tags": [
+    "DataStructure",
+    "Algorithm",
+    "List",
+    "Optimization"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该内容提供了一种新颖且实用的数据结构优化思路，对算法爱好者有参考价值，但应用范围相对特定。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

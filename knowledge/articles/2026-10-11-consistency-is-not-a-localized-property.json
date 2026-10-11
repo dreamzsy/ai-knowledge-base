@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-11-consistency-is-not-a-localized-property",
+  "title": "Consistency is not a localized property",
+  "source": "rss",
+  "source_url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 10 Oct 2026 19:51:28 -0500",
+  "collected_at": "2026-10-11T14:31:46.124174+00:00",
+  "summary": "文章探讨分布式系统中的一致性问题，指出一致性并非局部属性，而是系统整体特性。作者通过分析局部一致性假设的局限性，说明节点间交互和全局状态对一致性的影响，强调设计分布式系统时需从全局视角考虑一致性模型，避免因局部优化导致整体不一致。",
+  "highlights": [
+    "一致性是系统级属性，无法通过局部节点独立保证",
+    "局部一致性假设在分布式系统中常导致错误结论",
+    "全局状态和节点间通信对一致性有决定性影响",
+    "设计分布式系统需从整体视角选择一致性模型"
+  ],
+  "tags": [
+    "Distributed Systems",
+    "Consistency",
+    "System Design",
+    "CAP Theorem"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章对分布式系统一致性理论有清晰阐述，但内容偏概念性，缺乏具体案例或新见解。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

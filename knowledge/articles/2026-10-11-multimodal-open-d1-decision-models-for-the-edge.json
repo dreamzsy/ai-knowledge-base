@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-11-multimodal-open-d1-decision-models-for-the-edge",
+  "title": "Multimodal open d1 decision models for the edge",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 07 Oct 2026 16:54:33 GMT",
+  "collected_at": "2026-10-11T14:32:20.505785+00:00",
+  "summary": "LiquidAI 在 Hugging Face 博客发布 Multimodal open d1 decision models for the edge，推出面向边缘设备的多模态开源决策模型。该模型结合视觉与文本输入，在资源受限环境下实现高效推理与决策，强调低延迟、低功耗和本地部署能力，适合机器人、自动驾驶和智能终端等场景。",
+  "highlights": [
+    "面向边缘计算的多模态决策模型，兼顾视觉与文本输入",
+    "开源发布，可在 Hugging Face 获取模型与文档",
+    "强调低延迟、低功耗，适合资源受限设备",
+    "潜在应用于机器人、自动驾驶和智能终端等实时决策场景"
+  ],
+  "tags": [
+    "Multimodal",
+    "Edge AI",
+    "Decision Models",
+    "Open Source",
+    "LiquidAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "开源多模态边缘决策模型具有实用价值，但缺乏具体性能数据与详细描述，评分适中。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

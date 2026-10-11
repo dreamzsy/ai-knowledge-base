@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-11-sophos-cuts-threat-investigation-time-by-96-with-openai-daybreak",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "source": "rss",
+  "source_url": "https://openai.com/index/sophos",
+  "author": "openai_blog",
+  "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-11T14:32:06.102613+00:00",
+  "summary": "OpenAI 发布案例，展示安全公司 Sophos 如何利用 OpenAI Daybreak 将网络威胁调查时间缩短 96%，并自动处理 52% 的 MDR（托管检测与响应）案件，同时保留人工监督。该方案通过 AI 自动化威胁分析流程，显著提升安全运营效率，降低人工负担，为 AI 在网络安全领域的落地提供了可量化的成功范例。",
+  "highlights": [
+    "Sophos 借助 OpenAI Daybreak 将威胁调查时间削减 96%",
+    "自动化处理 52% 的 MDR 案件，大幅减少人工介入",
+    "在自动化流程中保留人工监督，平衡效率与安全",
+    "为 AI 在网络安全运营中的实际应用提供量化案例"
+  ],
+  "tags": [
+    "OpenAI",
+    "Cybersecurity",
+    "MDR",
+    "Automation",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该案例展示了 AI 在网络安全领域的显著效率提升，具有明确的量化成果和行业参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
