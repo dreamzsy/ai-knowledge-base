@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-12-byte-language-models-scaling-emergent-abstractions-and-information-allocation",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/html/2610.05978v1",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 10 Oct 2026 17:25:14 -0500",
+  "collected_at": "2026-10-12T17:10:44.644167+00:00",
+  "summary": "该论文挑战语言模型必须依赖分词器的传统假设，证明标准扁平 Transformer 可直接处理原始字节序列，并在参数规模扩大时优于子词模型。作者通过 token-superposition 训练和哈希嵌入，使字节模型在相同参数量下达到更低最优损失。字节 Transformer 能自发形成局部抽象结构，逐字节损失分布差异巨大，为投机解码带来约 3.4 倍加速，并在 CUTE 和 OCRBench 等细粒度任务上显著提升。",
+  "highlights": [
+    "扁平 Transformer 直接处理原始字节序列，在匹配参数量下优于传统子词模型，挑战分词器必要性假设",
+    "字节模型无需分层架构即可自发涌现局部抽象结构，冻结部分中间层仍保持下游性能",
+    "逐字节损失分布高度不均，大量位置近乎零损失，使字节级草稿模型在投机解码中接受 token 数约为子词模型的 3.4 倍",
+    "在 CUTE 词操作任务上相对提升约 40%，OCRBench 提升约 20%，并更契合多模态细粒度视觉特征"
+  ],
+  "tags": [
+    "Byte-level LM",
+    "Transformer",
+    "Tokenizer-free",
+    "Speculative Decoding",
+    "Emergent Abstractions"
+  ],
+  "language": "zh",
+  "score": 0.88,
+  "score_reason": "该工作从架构层面挑战分词器范式，兼具理论洞见与投机解码、多模态等实际收益，对语言模型设计方向有较强启发价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

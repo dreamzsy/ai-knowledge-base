@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-12-typeclasses-vs-modules",
+  "title": "Typeclasses vs Modules",
+  "source": "rss",
+  "source_url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+  "collected_at": "2026-10-12T17:10:54.023592+00:00",
+  "summary": "本文对比了类型类（Typeclasses）与模块（Modules）两种编程语言抽象机制，探讨它们在表达力、可扩展性、类型安全等方面的差异。作者通过具体示例分析各自适用场景，帮助开发者理解如何在不同语言（如 Haskell 与 OCaml）中做出选择。文章强调类型类支持临时多态和自动推导，而模块提供更灵活的封装与参数化，两者各有优劣。",
+  "highlights": [
+    "对比类型类与模块在抽象机制上的核心差异",
+    "分析类型类在临时多态和类型推导上的优势",
+    "讨论模块在封装、参数化和可扩展性上的特点",
+    "通过示例说明不同语言中的实际应用与选择考量"
+  ],
+  "tags": [
+    "Typeclasses",
+    "Modules",
+    "Programming Languages",
+    "Abstraction"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章深入探讨了编程语言核心抽象机制，对函数式编程和类型系统研究者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-12-the-model-that-didn-apos-t-exist-so-you-made-it-yourself",
+  "title": "The model that didn&apos;t exist, so you made it yourself",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/building-with-ml-intern",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 08 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-12T17:11:11.338728+00:00",
+  "summary": "本文是 Hugging Face 博客的一篇教程，介绍如何利用 ML Intern 从零构建一个自定义机器学习模型。文章强调当现有模型无法满足特定需求时，开发者可以自行创建模型。内容涵盖数据准备、模型架构设计、训练与评估等关键步骤，并展示了如何借助 Hugging Face 生态工具（如 Transformers、Datasets）高效实现。适合希望深入理解模型构建流程并动手实践的开发者。",
+  "highlights": [
+    "以‘不存在的模型’为切入点，鼓励开发者根据需求自建模型",
+    "提供从数据准备到模型训练、评估的完整实践流程",
+    "结合 Hugging Face 生态工具（Transformers、Datasets 等）简化开发",
+    "适合有一定机器学习基础、希望提升动手能力的开发者"
+  ],
+  "tags": [
+    "Hugging Face",
+    "Machine Learning",
+    "Model Building",
+    "Tutorial",
+    "ML Intern"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容实用且面向开发者，但缺乏具体技术细节和创新性，适合作为入门教程参考。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

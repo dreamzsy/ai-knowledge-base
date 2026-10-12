@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-12-multimodal-open-d1-decision-models-for-the-edge",
+  "title": "Multimodal open d1 decision models for the edge",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 07 Oct 2026 16:54:33 GMT",
+  "collected_at": "2026-10-12T17:11:13.586619+00:00",
+  "summary": "Liquid AI 发布面向边缘设备的多模态开源决策模型系列 open-d1，基于其液态神经网络（LNN）架构，专为资源受限环境设计。模型支持文本、图像等多模态输入，并直接输出决策或动作，适用于机器人、自动驾驶、智能终端等边缘场景。该系列强调低延迟、低功耗与高效推理，在保持较小参数量的同时实现较强决策能力，为边缘 AI 部署提供了新的开源选择。",
+  "highlights": [
+    "基于液态神经网络（LNN）架构，专为边缘设备优化，兼顾低延迟与低功耗",
+    "支持多模态输入（文本、图像等），可直接输出决策或动作",
+    "开源模型系列，降低边缘 AI 决策系统的开发与部署门槛",
+    "适用于机器人、自动驾驶、智能终端等资源受限的实时场景"
+  ],
+  "tags": [
+    "Multimodal",
+    "Edge AI",
+    "Decision Model",
+    "Liquid Neural Networks",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "面向边缘场景的多模态决策模型具有明确应用价值，且开源可推动边缘 AI 生态发展，但具体性能与生态成熟度仍需验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

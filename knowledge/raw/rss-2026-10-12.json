@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 10 Oct 2026 19:51:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale. The prevailing thought in the field has been that processing raw bytes is computationally inefficient because the sequences are substantially longer. A typical subword contains around four bytes. The authors argue that this extra sequence length is actually a feature that provides useful additional computation under the same parameter budget. By implementing token-superposition training and hash embeddings, the byte models consistently hit lower optimal loss than subword models at matched parameter counts.&lt;/p&gt; &lt;p&gt;It's also interesting to see how the byte model handles the lack of explicit text abstractions. We usually rely on tokenizers to group characters into meaningful chunks, but it turns out that byte Transformers implicitly develop their own local abstractions without needing specialized hierarchical architectures. When tested on a copying task, the model attention concentrated heavily on a small set of specific segmentation positions rather than attending uniformly across the text. The researchers proved the strength of these internal structures by freezing up to a quarter of the intermediate layers and forcing them to process only these locally aggregated representations. The model maintained its downstream performance without any additional training, proving that the hierarchy of local abstraction and global reasoning emerges naturally within a standard Transformer.&lt;/p&gt; &lt;p&gt;Also, per-byte loss distribution showed massive variance compared to subword models. A huge number of byte positions have near-zero loss showing that the model is highly confident about most bytes in a word and only struggles near the boundaries of its learned local structures where the actual information density lies. This creates a massive opportunity for speculative decoding. Because so many bytes are predictable continuations, a small drafting model can accurately guess large chunks of the sequence. The authors found that a byte-level drafting model gets roughly 3.4 times more accepted tokens per target forward pass than a subword equivalent which easily offsets the sequential overhead of processing individual bytes.&lt;/p&gt; &lt;p&gt;In empirical tests, byte Transformers showed massive improvements in tasks requiring fine-grained perception. They achieved around a 40% relative improvement on CUTE word manipulation scores and a 20% boost on OCRBench compared to subword models. The implications for future language model design is that we might be nearing the end of rigid subword vocabularies. Sequence length, learned abstractions, and compute allocation are now closely connected dimensions for future architectures. Instead of building complex hierarchical networks to compress bytes, designers can use flat Transformers with sparse mixture of experts to reduce activated computation while letting the model allocate its compute dynamically to the hardest parts of a text. This could also drastically improve multimodal models because byte-level representations align much better with fine-grained visual features than arbitrary subword tokens do.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 10 Oct 2026 17:25:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lpomuo/whistle_speech_text_16_9_mb\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 09 Oct 2026 00:35:51 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML. Ideally a resource like &lt;a href=\"https://teachyourselfcs.com/\" rel=\"ugc\"&gt;TeachYourselfCS&lt;/a&gt; that can give structure and roadmap to navigate all the progress/knowledge on the domain would really help.&lt;/p&gt; &lt;p&gt;Do we have to take different approaches to understand LLMs vs other type of ML models which have been in large scale deployment/usage from pre-2022/21 time frame?&lt;/p&gt; &lt;p&gt;Thanks a lot in advance.&lt;/p&gt;",
+    "published_at": "Wed, 07 Oct 2026 09:12:02 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 04 Sep 2026 04:17:21 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "author": "openai_blog",
+    "summary_raw": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "author": "openai_blog",
+    "summary_raw": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "url": "https://openai.com/index/oracle",
+    "author": "openai_blog",
+    "summary_raw": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "published_at": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "author": "openai_blog",
+    "summary_raw": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "published_at": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Impactful scheduling for GPU clusters",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 09 Oct 2026 15:20:29 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The model that didn&apos;t exist, so you made it yourself",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Multimodal open d1 decision models for the edge",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "extra": {}
+  }
+]
