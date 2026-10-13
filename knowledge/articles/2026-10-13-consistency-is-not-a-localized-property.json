@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-13-consistency-is-not-a-localized-property",
+  "title": "Consistency is not a localized property",
+  "source": "rss",
+  "source_url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 10 Oct 2026 19:51:28 -0500",
+  "collected_at": "2026-10-13T15:27:22.933096+00:00",
+  "summary": "本文探讨了分布式系统中一致性并非局部属性的观点，指出一致性无法通过仅检查单个节点或局部操作来保证，而需要全局视角。文章可能结合具体案例说明局部一致性假设的局限性，并讨论对系统设计的影响。",
+  "highlights": [
+    "一致性是全局属性，不能通过局部观察或单节点验证来保证",
+    "局部一致性假设可能导致分布式系统设计缺陷",
+    "需要从系统整体角度重新审视一致性模型",
+    "对分布式数据库和共识算法的设计有启示意义"
+  ],
+  "tags": [
+    "Distributed Systems",
+    "Consistency",
+    "System Design",
+    "CAP Theorem"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章对分布式系统一致性理论有深入探讨，但缺乏具体实现细节，适合理论研究者参考。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

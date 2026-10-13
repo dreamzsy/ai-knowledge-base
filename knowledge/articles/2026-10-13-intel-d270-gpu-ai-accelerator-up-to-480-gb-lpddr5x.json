@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-13-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x",
+  "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+  "source": "rss",
+  "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 12 Oct 2026 21:35:35 +0000",
+  "collected_at": "2026-10-13T15:27:13.483390+00:00",
+  "summary": "英特尔发布数据中心GPU D系列新品D270，定位AI加速器，最高配备480GB LPDDR5X显存，面向大模型推理与训练场景。该产品在Hacker News引发热议，获得281点与156条评论，讨论焦点集中在显存容量优势、与英伟达竞品的对比以及软件生态成熟度。",
+  "highlights": [
+    "D270最高支持480GB LPDDR5X显存，容量远超同代主流数据中心GPU",
+    "定位AI加速器，瞄准大模型推理与训练等显存密集型负载",
+    "Hacker News热度较高（281点、156评论），社区关注度显著",
+    "讨论集中于性价比、能效比及对CUDA生态的替代可行性"
+  ],
+  "tags": [
+    "GPU",
+    "AI-Accelerator",
+    "Intel",
+    "LPDDR5X",
+    "Data-Center"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "大显存AI加速器具备差异化竞争力，但软件生态与实测性能尚待验证，社区讨论价值高于产品本身确定性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

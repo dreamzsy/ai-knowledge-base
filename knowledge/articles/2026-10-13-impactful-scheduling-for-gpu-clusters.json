@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-13-impactful-scheduling-for-gpu-clusters",
+  "title": "Impactful scheduling for GPU clusters",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 09 Oct 2026 15:20:29 GMT",
+  "collected_at": "2026-10-13T15:27:48.016031+00:00",
+  "summary": "本文探讨了GPU集群调度对AI训练效率的影响，以AllenAI的实践为例，分析了传统调度策略的不足，并提出基于任务优先级和资源利用率的改进方案。文章强调调度优化能显著减少空闲时间、提升吞吐量，并分享了在Hugging Face博客中公开的具体实现与经验，为大规模模型训练的基础设施管理提供了可借鉴的参考。",
+  "highlights": [
+    "传统GPU调度常导致资源碎片化和任务等待，影响大规模训练效率。",
+    "提出基于任务优先级和动态资源分配的调度策略，减少空闲时间。",
+    "通过实际案例展示调度优化可提升集群吞吐量和任务完成速度。",
+    "强调调度器需与训练框架协同设计，以最大化GPU利用率。"
+  ],
+  "tags": [
+    "GPU",
+    "Scheduling",
+    "Cluster",
+    "AI-Infrastructure",
+    "Training"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章来自AllenAI的实践分享，对大规模AI训练的GPU调度优化有直接指导价值，但受众偏基础设施工程师。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-13-how-oracle-turns-days-of-work-into-minutes-with-chatgpt-and-codex",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/oracle",
+  "author": "openai_blog",
+  "published_at": "Thu, 08 Oct 2026 16:00:00 GMT",
+  "collected_at": "2026-10-13T15:27:43.456641+00:00",
+  "summary": "OpenAI 发布案例研究，介绍 Oracle 如何利用 ChatGPT Work 和 Codex 将招聘、工程和运营领域的专家知识转化为快速可重复的工作流，把原本需要数天的工作缩短至几分钟。这展示了企业级 AI 工具在提升跨部门效率方面的实际价值，为其他组织采用生成式 AI 提供了参考。",
+  "highlights": [
+    "Oracle 在招聘、工程和运营三大场景中部署 ChatGPT Work 和 Codex",
+    "将专家知识固化为可重复的自动化工作流，大幅缩短任务耗时",
+    "实现从数天到分钟级的效率跃升，体现企业级 AI 的落地价值",
+    "OpenAI 官方案例，为其他企业提供生成式 AI 应用参考"
+  ],
+  "tags": [
+    "LLM",
+    "Codex",
+    "Enterprise",
+    "Workflow",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "OpenAI 官方企业案例，展示 LLM 在真实业务中的效率提升，具有参考价值但缺乏技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

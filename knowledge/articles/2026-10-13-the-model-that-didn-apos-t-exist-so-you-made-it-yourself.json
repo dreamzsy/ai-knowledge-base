@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-13-the-model-that-didn-apos-t-exist-so-you-made-it-yourself",
+  "title": "The model that didn&apos;t exist, so you made it yourself",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/building-with-ml-intern",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 08 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-13T15:27:49.844707+00:00",
+  "summary": "本文介绍了 Hugging Face 的 ML Intern 项目，该项目旨在让用户通过自然语言描述来构建自定义机器学习模型。文章可能展示了如何利用 LLM 和 Agent 技术，将用户需求转化为可执行的模型训练流程，从而降低 ML 开发门槛。核心在于自动化模型构建，使非专家也能创建模型。",
+  "highlights": [
+    "ML Intern 允许用户通过自然语言描述构建自定义 ML 模型",
+    "结合 LLM 和 Agent 技术自动化模型训练流程",
+    "降低机器学习开发门槛，使非专家也能创建模型",
+    "项目由 Hugging Face 发布，可能提供开源工具和示例"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "AutoML",
+    "HuggingFace",
+    "ModelBuilding"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该项目展示了 LLM 在自动化 ML 工作流中的创新应用，具有实用价值，但具体实现细节和效果尚不明确。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

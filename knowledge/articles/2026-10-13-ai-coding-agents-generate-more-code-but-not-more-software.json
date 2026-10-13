@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-13-ai-coding-agents-generate-more-code-but-not-more-software",
+  "title": "AI coding agents generate more code, but not more software",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 12 Oct 2026 17:14:01 +0000",
+  "collected_at": "2026-10-13T15:27:18.879937+00:00",
+  "summary": "Ars Technica 文章指出，AI 编程智能体虽能大幅提升代码生成量，却未带来等量的软件价值。作者认为，代码只是软件的一小部分，真正的软件还需需求理解、架构设计、测试、维护与团队协作。AI 生成的代码往往缺乏上下文、可维护性差，导致审查与修复成本上升。文章在 Hacker News 引发热议，反映出业界对 AI 编程效率的理性反思。",
+  "highlights": [
+    "AI 编程智能体显著增加代码产出，但软件交付价值并未同步提升",
+    "代码量不等于软件质量，需求、架构、测试与维护才是关键",
+    "AI 生成代码常缺乏上下文，增加审查与修复的隐性成本",
+    "HN 热议反映业界对 AI 编程效率的理性反思与质疑"
+  ],
+  "tags": [
+    "AI Coding",
+    "Agents",
+    "Software Engineering",
+    "LLM",
+    "Developer Productivity"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章切中 AI 编程落地的核心矛盾，引发广泛讨论，对工程实践有反思价值，但缺乏具体数据与解决方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

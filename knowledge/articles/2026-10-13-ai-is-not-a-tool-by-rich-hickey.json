@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-13-ai-is-not-a-tool-by-rich-hickey",
+  "title": "'AI' Is Not a Tool by Rich Hickey",
+  "source": "rss",
+  "source_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 12 Oct 2026 18:00:25 +0000",
+  "collected_at": "2026-10-13T15:27:16.330954+00:00",
+  "summary": "Rich Hickey（Clojure 创始人）在演讲中提出核心观点：'AI' 不是工具，而是一种具有自主性的代理（agent）。他区分了工具与代理的本质差异——工具是被动、可预测、由人完全掌控的延伸，而 AI 系统具备目标导向、自主决策和不可完全预测的行为特征。因此将 AI 简单视为工具会导致责任归属、控制权和设计伦理上的误判。该观点在 Hacker News 引发 156 条讨论，涉及 AI 安全、人机关系与软件设计哲学。",
+  "highlights": [
+    "Rich Hickey 主张 AI 不是被动工具，而是具备自主性的代理，二者在控制权与可预测性上有本质区别",
+    "将 AI 视为工具会掩盖责任归属、目标对齐与系统可控性等关键问题",
+    "该观点对 AI 系统设计、安全治理与人机协作模式具有哲学与实践双重启发",
+    "Hacker News 292 分、156 条评论，显示社区对 AI 本质定义存在高度关注与分歧"
+  ],
+  "tags": [
+    "AI",
+    "Agent",
+    "Philosophy",
+    "AI-Safety",
+    "Design"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "来自知名技术思想家的原创性概念辨析，对 AI 系统设计与治理有启发价值，但偏哲学讨论、缺乏可直接落地的工程方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-13-ollama",
+  "title": "ollama/ollama",
+  "source": "github_trending",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "published_at": "2023-06-26T19:39:32Z",
+  "collected_at": "2026-10-13T15:26:53.676121+00:00",
+  "summary": "Ollama 是一个开源的大语言模型本地运行与部署工具，旨在让用户以极简方式在本地启动和管理 Kimi、GLM、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等多种主流模型。它提供统一的命令行接口和模型仓库，自动处理模型下载、量化、推理后端配置，大幅降低本地 LLM 使用门槛，适合开发者快速实验、隐私敏感场景和离线部署。",
+  "highlights": [
+    "支持 Kimi、GLM、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等众多主流开源模型",
+    "提供一键式本地模型下载、运行和管理，简化部署流程",
+    "跨平台支持 macOS、Linux 和 Windows，并兼容 CPU/GPU 推理",
+    "拥有活跃社区和丰富的 API 接口，便于集成到应用与工作流中"
+  ],
+  "tags": [
+    "LLM",
+    "Local Inference",
+    "Model Deployment",
+    "Open Source",
+    "CLI"
+  ],
+  "language": "zh",
+  "score": 0.92,
+  "score_reason": "Ollama 极大降低了本地运行大模型的门槛，生态活跃且模型覆盖广，是 LLM 落地的重要基础设施。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 183012,
+    "language": "Go"
+  }
+}

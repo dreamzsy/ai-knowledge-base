@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-13-nextflow-frontier-posts-4-new-top-results-on-bioml-bench",
+  "title": "Nextflow Frontier posts 4 new top results on BioML-bench",
+  "source": "rss",
+  "source_url": "https://nextflow.com/blog/introducing-nextflow-frontier/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 13 Oct 2026 09:52:00 -0500",
+  "collected_at": "2026-10-13T15:27:20.789225+00:00",
+  "summary": "Nextflow Frontier 在 BioML-bench 基准测试中刷新了 4 项最佳结果，展示了其在生物医学机器学习任务上的性能优势。该进展可能涉及模型架构、训练策略或数据处理的优化，为生物信息学与 AI 交叉领域的研究者提供了新的参考基线。",
+  "highlights": [
+    "在 BioML-bench 上取得 4 项新的最优结果",
+    "Nextflow Frontier 是面向生物医学 ML 的模型或框架",
+    "成果可能推动生物信息学与 AI 结合的研究",
+    "相关讨论已在 lobste.rs 上引发关注"
+  ],
+  "tags": [
+    "BioML",
+    "Benchmark",
+    "Nextflow",
+    "MachineLearning"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "在生物医学 ML 基准上取得领先结果，对领域内有参考价值，但具体技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
