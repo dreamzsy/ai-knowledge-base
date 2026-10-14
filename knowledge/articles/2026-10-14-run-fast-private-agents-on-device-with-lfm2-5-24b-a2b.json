@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-14-run-fast-private-agents-on-device-with-lfm2-5-24b-a2b",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 13 Oct 2026 17:05:48 GMT",
+  "collected_at": "2026-10-14T13:13:42.868016+00:00",
+  "summary": "LiquidAI 发布 LFM2.5-24B-A2B，一款面向端侧部署的混合专家（MoE）大模型，总参数 24B、激活参数约 2B，主打在本地设备上运行快速且私密的 AI Agent。该模型通过稀疏激活降低推理成本，兼顾性能与效率，适合隐私敏感、低延迟的智能体应用场景，如个人助理、本地自动化等，为端侧 Agent 落地提供了新的开源选择。",
+  "highlights": [
+    "采用 MoE 架构，总参数 24B 但仅激活约 2B，显著降低端侧推理开销",
+    "强调 on-device 运行，数据不出本地，满足隐私与低延迟需求",
+    "面向 Agent 场景优化，支持本地智能体任务编排与工具调用",
+    "由 LiquidAI 发布在 Hugging Face，便于开发者获取与集成"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "MoE",
+    "On-Device",
+    "Edge AI"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "端侧 MoE Agent 模型切中隐私与效率痛点，架构设计实用，具备较高落地价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

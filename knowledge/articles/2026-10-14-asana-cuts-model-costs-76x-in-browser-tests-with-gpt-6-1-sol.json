@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-14-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "source": "rss",
+  "source_url": "https://openai.com/index/asana-browser-agent",
+  "author": "openai_blog",
+  "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-14T13:13:40.177229+00:00",
+  "summary": "Asana 利用 OpenAI 的 GPT-6.1 Sol（文中提及 GPT-6 Astra 在 Codex 中）优化其浏览器代理，在测试中实现模型成本降低 76 倍、速度提升 5 倍，从而能为客户提供更强大的模型。该案例展示了通过模型选择与工程优化，在浏览器自动化场景中大幅提升性价比的可行性。",
+  "highlights": [
+    "Asana 浏览器代理在测试中成本降低 76 倍，速度提升 5 倍",
+    "使用 GPT-6.1 Sol（或 GPT-6 Astra）在 Codex 中完成优化",
+    "优化后可为客户提供更强大的模型能力",
+    "案例来自 OpenAI 官方，展示浏览器代理的降本增效路径"
+  ],
+  "tags": [
+    "Browser Agent",
+    "LLM",
+    "Cost Optimization",
+    "OpenAI",
+    "Codex"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该案例提供了浏览器代理降本增效的量化成果，对 LLM 应用工程化有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

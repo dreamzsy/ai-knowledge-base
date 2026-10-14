@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-14-lists-that-keep-track-of-their-reversal",
+  "title": "Lists that keep track of their reversal",
+  "source": "rss",
+  "source_url": "https://grim.cargocut.org/a/rev-list.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+  "collected_at": "2026-10-14T13:13:23.431344+00:00",
+  "summary": "本文介绍了一种可追踪自身反转操作的数据结构——反转列表。它通过维护一个方向标志位，使得反转操作只需 O(1) 时间，同时保持元素的逻辑顺序。文章详细阐述了其设计原理、实现方式，并对比了传统列表反转的 O(n) 开销。该结构适用于需要频繁反转且对性能敏感的场景，如函数式编程中的序列操作。",
+  "highlights": [
+    "提出一种支持 O(1) 反转的列表数据结构，通过惰性方向标志实现",
+    "保持所有其他操作（如索引、迭代）的语义不变，且不影响性能",
+    "适用于函数式编程和需要高效反转的序列处理场景",
+    "对比了传统反转的 O(n) 开销，展示了该结构的优势"
+  ],
+  "tags": [
+    "DataStructure",
+    "Algorithm",
+    "FunctionalProgramming",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该数据结构设计巧妙，能有效优化频繁反转场景的性能，但应用范围相对特定，对通用开发者的直接价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-14-higgsfield-takes-ai-video-from-1-minute-to-over-10",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "source": "rss",
+  "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "author": "openai_blog",
+  "published_at": "Tue, 13 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-14T13:13:35.961851+00:00",
+  "summary": "Higgsfield 利用 OpenAI 的 GPT-6 Astra、GPT-Image-2.5 和 GPT-Live 模型，将 AI 视频生成时长从 1 分钟提升至 10 分钟以上，同时增强视觉精确度，并开辟语音驱动电影制作的新路径。该进展显著扩展了 AI 视频创作的边界，为创作者提供更长的叙事空间和更丰富的表达方式。",
+  "highlights": [
+    "AI 视频生成时长从 1 分钟突破至 10 分钟以上，大幅提升叙事能力",
+    "集成 GPT-6 Astra 实现长视频生成，GPT-Image-2.5 保证视觉精确度",
+    "GPT-Live 支持语音驱动电影制作，开辟全新交互创作模式",
+    "由 Higgsfield 与 OpenAI 合作实现，推动 AI 视频创作工具升级"
+  ],
+  "tags": [
+    "AI Video",
+    "GPT-6",
+    "Multimodal",
+    "Voice Generation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该进展显著提升了 AI 视频生成的时长和质量，并引入语音驱动创作，对内容创作领域有重要价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
