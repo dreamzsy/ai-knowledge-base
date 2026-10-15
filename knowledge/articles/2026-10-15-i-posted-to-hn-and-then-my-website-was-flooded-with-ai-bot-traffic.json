@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-15-i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "source": "rss",
+  "source_url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 13 Oct 2026 15:25:50 +0000",
+  "collected_at": "2026-10-15T12:59:18.661500+00:00",
+  "summary": "作者在 Hacker News 发布文章后，网站遭遇大量 AI 爬虫流量，远超真实用户访问。文章记录了流量来源、爬虫特征及对个人站点的冲击，并讨论了 AI 训练数据抓取对开放网络的负面影响。HN 讨论获得 345 分和 185 条评论，引发对 AI 爬虫治理、robots.txt 有效性及内容创作者权益的广泛争论。",
+  "highlights": [
+    "HN 发布后网站被 AI 爬虫流量淹没，真实用户访问被稀释",
+    "文章揭示 AI 训练数据抓取对个人网站和开放网络的冲击",
+    "HN 社区围绕爬虫治理、robots.txt 有效性和内容创作者权益展开热议",
+    "该事件反映 AI 时代网络流量生态的结构性变化"
+  ],
+  "tags": [
+    "AI Crawler",
+    "Web Traffic",
+    "Open Web",
+    "Content Scraping",
+    "Hacker News"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "真实案例揭示 AI 爬虫对开放网络的冲击，引发社区广泛讨论，对内容创作者和 AI 治理有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

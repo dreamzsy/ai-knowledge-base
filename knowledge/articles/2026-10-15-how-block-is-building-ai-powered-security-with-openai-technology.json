@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-15-how-block-is-building-ai-powered-security-with-openai-technology",
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "source": "rss",
+  "source_url": "https://openai.com/index/block-ai-powered-security",
+  "author": "openai_blog",
+  "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-15T12:59:47.377750+00:00",
+  "summary": "Block 利用 OpenAI 技术构建 AI 驱动的安全体系，其安全团队能够更快地调查威胁，并在几分钟内提出补丁建议。该案例展示了 AI 在安全运营中的实际应用，通过自动化威胁分析和修复方案生成，显著提升响应速度与效率。",
+  "highlights": [
+    "Block 安全团队借助 OpenAI 技术加速威胁调查流程",
+    "AI 能在几分钟内生成补丁建议，大幅缩短修复时间",
+    "展示了 AI 在安全运营中心（SOC）中的落地实践",
+    "OpenAI 技术被用于自动化分析与响应，提升安全效率"
+  ],
+  "tags": [
+    "AI",
+    "Security",
+    "OpenAI",
+    "ThreatDetection",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该案例展示了 AI 在安全领域的实际应用价值，但技术细节有限，创新性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

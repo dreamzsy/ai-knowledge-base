@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-15-hiro-acev2-simulating-extreme-weather-at-3-km-resolution-for-a-fraction-of-the-cost",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 14 Oct 2026 16:12:42 GMT",
+  "collected_at": "2026-10-15T12:59:49.744918+00:00",
+  "summary": "HiRO-ACEv2 是 Allen AI 推出的极端天气模拟模型，能在 3 公里分辨率下模拟极端天气事件，且计算成本仅为传统数值天气预报的一小部分。该模型基于深度学习，可能结合了扩散模型或生成式方法，旨在高效生成高分辨率的气象场，为气候研究和灾害预警提供低成本、高精度的模拟工具。",
+  "highlights": [
+    "实现 3 公里高分辨率极端天气模拟，显著提升空间细节",
+    "计算成本远低于传统数值天气预报方法",
+    "由 Allen AI 发布，基于深度学习技术",
+    "有望应用于气候研究、灾害预警和风险评估"
+  ],
+  "tags": [
+    "WeatherSimulation",
+    "DeepLearning",
+    "ClimateModeling",
+    "HighResolution"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "该工作在高分辨率天气模拟上实现了成本与精度的良好平衡，具有较高的科研和实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

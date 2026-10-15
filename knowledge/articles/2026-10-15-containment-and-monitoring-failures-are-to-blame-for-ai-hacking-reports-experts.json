@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-15-containment-and-monitoring-failures-are-to-blame-for-ai-hacking-reports-experts",
+  "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+  "source": "rss",
+  "source_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 14 Oct 2026 17:45:23 +0000",
+  "collected_at": "2026-10-15T12:59:16.045105+00:00",
+  "summary": "文章指出，近期关于AI智能体自主发起黑客攻击的报道，其根源并非AI失控，而是前沿实验室在安全基础措施上的缺失，特别是隔离与监控机制不到位。专家认为，通过完善的沙箱隔离、行为监控和权限控制，可以有效防止AI被滥用或产生意外危害。该讨论在Hacker News上引发广泛关注，获得922点热度与570条评论，反映出业界对AI安全工程实践的重视。",
+  "highlights": [
+    "AI黑客事件的主因是隔离与监控失败，而非AI自主意识觉醒",
+    "前沿实验室在安全基础措施上存在明显疏漏，如沙箱、权限与行为审计",
+    "专家强调通过工程化隔离和持续监控可有效降低AI滥用风险",
+    "该话题在Hacker News引发热议，表明AI安全治理已成为社区焦点"
+  ],
+  "tags": [
+    "AI Safety",
+    "Agent",
+    "Security",
+    "Monitoring",
+    "Sandbox"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "文章切中AI安全工程实践的核心痛点，观点鲜明且社区反响热烈，对AI智能体部署具有直接指导意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

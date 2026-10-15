@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-15-openfatigue-open-is-the-new-closed",
+  "title": "OpenFatigue™ — Open is the new closed",
+  "source": "rss",
+  "source_url": "https://openfatigue.ai/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 14 Oct 2026 06:24:24 -0500",
+  "collected_at": "2026-10-15T12:59:21.260793+00:00",
+  "summary": "OpenFatigue™ 是一个以「Open is the new closed」为口号的讽刺性网站，旨在批判开源生态中日益泛滥的「开放」标签。它指出许多项目打着开源旗号，实则通过许可证限制、商业捆绑或治理不透明等方式形成新的封闭。该站点通过黑色幽默揭示开源疲劳现象，引发开发者对开源可持续性与真实开放性的反思。",
+  "highlights": [
+    "以讽刺手法批判开源项目名不副实的「开放」宣传",
+    "提出「Open is the new closed」观点，揭示开源疲劳现象",
+    "引发对开源许可证、治理与商业模式的反思",
+    "在 Lobsters 等技术社区引发讨论"
+  ],
+  "tags": [
+    "OpenSource",
+    "Community",
+    "Licensing",
+    "Critique"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "观点具有话题性和反思价值，但内容偏讽刺调侃，缺乏实质性技术方案或数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

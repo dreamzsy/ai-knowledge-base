@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-15-superpowers",
+  "title": "obra/superpowers",
+  "source": "github_trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "author": "obra",
+  "published_at": "2025-10-09T19:45:18Z",
+  "collected_at": "2026-10-15T12:58:28.674807+00:00",
+  "summary": "obra/superpowers 是一个面向 AI Agent 的技能框架与软件开发方法论，旨在让智能体具备可复用、可组合的能力模块，从而更可靠地完成实际工程任务。项目强调以技能（skills）为核心组织 Agent 行为，将开发流程标准化，使 Agent 能像工程师一样规划、执行与验证。它融合了提示工程、工具调用与工作流编排思想，为构建可落地的自主编码与自动化开发系统提供了一套结构化方案，适合探索 Agent 工程化与 AI 辅助软件开发的开发者参考。",
+  "highlights": [
+    "提出以 skills 为核心的 Agent 能力组织方式，支持复用与组合",
+    "将软件开发方法论与 Agent 框架结合，强调工程化落地",
+    "面向自主编码与自动化开发场景，提供结构化工作流",
+    "开源项目，便于开发者直接参考与二次扩展"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Framework",
+    "Skills",
+    "DevTools"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "将 Agent 技能框架与软件开发方法论结合，工程化思路清晰且开源可复用，但生态成熟度与影响力仍需观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 299504,
+    "language": "Shell"
+  }
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 373 # Comments: 261",
+    "published_at": "Wed, 14 Oct 2026 18:32:52 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 922 # Comments: 570",
+    "published_at": "Wed, 14 Oct 2026 17:45:23 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 345 # Comments: 185",
+    "published_at": "Tue, 13 Oct 2026 15:25:50 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenFatigue™ — Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 14 Oct 2026 06:24:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 13 Oct 2026 10:56:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 10 Oct 2026 19:51:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale. The prevailing thought in the field has been that processing raw bytes is computationally inefficient because the sequences are substantially longer. A typical subword contains around four bytes. The authors argue that this extra sequence length is actually a feature that provides useful additional computation under the same parameter budget. By implementing token-superposition training and hash embeddings, the byte models consistently hit lower optimal loss than subword models at matched parameter counts.&lt;/p&gt; &lt;p&gt;It's also interesting to see how the byte model handles the lack of explicit text abstractions. We usually rely on tokenizers to group characters into meaningful chunks, but it turns out that byte Transformers implicitly develop their own local abstractions without needing specialized hierarchical architectures. When tested on a copying task, the model attention concentrated heavily on a small set of specific segmentation positions rather than attending uniformly across the text. The researchers proved the strength of these internal structures by freezing up to a quarter of the intermediate layers and forcing them to process only these locally aggregated representations. The model maintained its downstream performance without any additional training, proving that the hierarchy of local abstraction and global reasoning emerges naturally within a standard Transformer.&lt;/p&gt; &lt;p&gt;Also, per-byte loss distribution showed massive variance compared to subword models. A huge number of byte positions have near-zero loss showing that the model is highly confident about most bytes in a word and only struggles near the boundaries of its learned local structures where the actual information density lies. This creates a massive opportunity for speculative decoding. Because so many bytes are predictable continuations, a small drafting model can accurately guess large chunks of the sequence. The authors found that a byte-level drafting model gets roughly 3.4 times more accepted tokens per target forward pass than a subword equivalent which easily offsets the sequential overhead of processing individual bytes.&lt;/p&gt; &lt;p&gt;In empirical tests, byte Transformers showed massive improvements in tasks requiring fine-grained perception. They achieved around a 40% relative improvement on CUTE word manipulation scores and a 20% boost on OCRBench compared to subword models. The implications for future language model design is that we might be nearing the end of rigid subword vocabularies. Sequence length, learned abstractions, and compute allocation are now closely connected dimensions for future architectures. Instead of building complex hierarchical networks to compress bytes, designers can use flat Transformers with sparse mixture of experts to reduce activated computation while letting the model allocate its compute dynamically to the hardest parts of a text. This could also drastically improve multimodal models because byte-level representations align much better with fine-grained visual features than arbitrary subword tokens do.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 10 Oct 2026 17:25:14 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "author": "openai_blog",
+    "summary_raw": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "author": "openai_blog",
+    "summary_raw": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "author": "openai_blog",
+    "summary_raw": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "author": "openai_blog",
+    "summary_raw": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 14 Oct 2026 16:12:42 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 13 Oct 2026 17:05:48 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The model that didn&apos;t exist, so you made it yourself",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 07 Oct 2026 13:21:03 GMT",
+    "extra": {}
+  }
+]
