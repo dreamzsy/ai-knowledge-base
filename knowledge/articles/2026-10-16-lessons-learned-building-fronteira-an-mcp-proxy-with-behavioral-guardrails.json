@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-16-lessons-learned-building-fronteira-an-mcp-proxy-with-behavioral-guardrails",
+  "title": "Lessons learned building Fronteira, an MCP proxy with behavioral guardrails",
+  "source": "rss",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 16 Oct 2026 07:39:23 -0500",
+  "collected_at": "2026-10-16T12:54:18.896771+00:00",
+  "summary": "本文分享了构建 Fronteira 的经验教训，Fronteira 是一个带有行为护栏的 MCP（模型上下文协议）代理。作者详细介绍了在实现代理过程中遇到的技术挑战、设计决策以及如何通过行为护栏来约束和引导 AI 模型的行为，确保其安全可靠地运行。文章涵盖了架构选择、错误处理、性能优化等方面的实践总结，为开发者构建类似 MCP 代理提供了宝贵的参考。",
+  "highlights": [
+    "Fronteira 是一个基于 MCP 协议的代理，重点在于添加行为护栏以控制 AI 行为",
+    "文章总结了构建过程中在架构设计、错误处理和性能方面的经验教训",
+    "行为护栏的实现方式及其对 AI 安全性和可靠性的影响是核心讨论内容",
+    "为开发者构建类似 MCP 代理提供了可复用的实践指导和避坑建议"
+  ],
+  "tags": [
+    "MCP",
+    "Proxy",
+    "Guardrails",
+    "AI Safety",
+    "Agent"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "文章提供了构建 MCP 代理的实战经验，对 AI 代理安全性和行为控制有参考价值，但受众相对特定。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

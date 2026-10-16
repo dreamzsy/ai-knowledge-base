@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-16-welcome-flux-3-image-klein-in-diffusers",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/flux-3",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-16T12:54:59.098483+00:00",
+  "summary": "Hugging Face Diffusers 库正式集成 FLUX.3 Image Klein 模型，这是 Black Forest Labs 推出的新一代文生图模型。该模型在图像生成质量、提示词遵循度和细节表现上均有提升，并针对 Diffusers 生态优化了推理流程，支持低显存部署和量化加载。用户可通过简单的 Python API 调用，快速生成高分辨率图像，进一步降低了高质量 AI 绘画的使用门槛。",
+  "highlights": [
+    "FLUX.3 Image Klein 正式加入 Diffusers 库，支持开箱即用",
+    "模型在图像质量、提示词对齐和细节生成上显著提升",
+    "针对 Diffusers 优化推理，支持低显存和量化部署",
+    "提供简洁 Python API，便于快速集成到现有工作流"
+  ],
+  "tags": [
+    "Diffusers",
+    "Text-to-Image",
+    "FLUX",
+    "Generative-AI"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "FLUX.3 是主流文生图模型的重要更新，集成 Diffusers 后大幅提升易用性和部署效率，对 AI 绘画社区具有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

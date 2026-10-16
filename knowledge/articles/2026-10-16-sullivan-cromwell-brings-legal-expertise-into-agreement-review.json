@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-16-sullivan-cromwell-brings-legal-expertise-into-agreement-review",
+  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "source": "rss",
+  "source_url": "https://openai.com/index/sullivan-cromwell",
+  "author": "openai_blog",
+  "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-16T12:54:45.976143+00:00",
+  "summary": "Sullivan & Cromwell 与 OpenAI 合作开发了 Agreement Analyzer，这是一款利用 AI 技术识别合同草案中问题的工具。该工具将法律专业知识与 AI 能力结合，旨在提升协议审查的效率和准确性，帮助律师快速发现潜在风险点。这标志着 AI 在法律专业服务领域的进一步落地，展示了定制化 AI 解决方案在垂直行业的应用潜力。",
+  "highlights": [
+    "Sullivan & Cromwell 与 OpenAI 合作开发 Agreement Analyzer，专注于合同审查",
+    "工具利用 AI 自动识别协议草案中的问题，提升法律审查效率",
+    "体现了 AI 在专业法律服务领域的垂直应用趋势",
+    "结合法律专业知识与 AI 技术，增强审查准确性和一致性"
+  ],
+  "tags": [
+    "LegalTech",
+    "AI",
+    "ContractReview",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "该合作展示了 AI 在专业法律领域的实际应用，具有行业示范价值，但技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

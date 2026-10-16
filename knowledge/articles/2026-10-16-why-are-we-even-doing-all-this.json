@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-16-why-are-we-even-doing-all-this",
+  "title": "Why are we even doing all this?",
+  "source": "rss",
+  "source_url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 16 Oct 2026 00:28:29 -0500",
+  "collected_at": "2026-10-16T12:54:21.862701+00:00",
+  "summary": "这是数学家陶哲轩（Terry Tao）在其个人博客上发表的一篇反思性文章，标题为《Why are we even doing all this?》。文章从数学研究者的视角出发，探讨在AI技术高速发展的背景下，学术研究、尤其是数学研究的动机与意义。陶哲轩结合自身使用AI工具的经验，讨论了自动化证明、AI辅助研究对人类学者价值定位的冲击，以及为何在机器可能超越人类的领域继续投入仍然值得。文章引发了对科研本质、人类好奇心与AI协作关系的广泛讨论。",
+  "highlights": [
+    "陶哲轩以数学家身份反思AI时代学术研究的根本动机与意义",
+    "探讨AI辅助证明与自动化研究对人类学者价值定位的冲击",
+    "讨论在机器可能超越人类的领域继续投入的合理性与价值",
+    "引发关于科研本质、人类好奇心与AI协作关系的广泛讨论"
+  ],
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Research",
+    "Philosophy",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "作者为顶级数学家，文章对AI时代科研意义有深刻反思，但偏哲学思辨，技术实操价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

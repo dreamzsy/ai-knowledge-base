@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-16-amp-puts-ai-agents-to-work-beyond-code-with-openai-models",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "source": "rss",
+  "source_url": "https://openai.com/index/amp-beyond-coding",
+  "author": "openai_blog",
+  "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-16T12:54:48.257340+00:00",
+  "summary": "Amp 利用 OpenAI 的 GPT-6 Astra、Ultrafast、GPT-Live-1 等模型以及 Sign in with ChatGPT 功能，将 AI 智能体的应用从代码生成拓展到更广泛的领域。该案例展示了智能体在非编程任务中的潜力，标志着 AI 从辅助编程向通用任务自动化的演进。",
+  "highlights": [
+    "Amp 集成 OpenAI 多个先进模型（GPT-6 Astra、Ultrafast、GPT-Live-1）",
+    "通过 Sign in with ChatGPT 实现便捷身份验证与集成",
+    "将 AI 智能体从代码生成扩展到非编程任务场景",
+    "展示了智能体在通用自动化领域的应用潜力"
+  ],
+  "tags": [
+    "Agent",
+    "OpenAI",
+    "LLM",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "展示了 AI 智能体超越代码生成的实用案例，但缺乏具体技术细节和性能数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

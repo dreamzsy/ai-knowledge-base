@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Lessons learned building Fronteira, an MCP proxy with behavioral guardrails",
+    "url": "https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gtev9y/lessons_learned_building_fronteira_mcp\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 16 Oct 2026 07:39:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why are we even doing all this?",
+    "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 16 Oct 2026 00:28:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 17:25:03 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenFatigue™ — Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 14 Oct 2026 06:24:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "author": "openai_blog",
+    "summary_raw": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "published_at": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "author": "openai_blog",
+    "summary_raw": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "published_at": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "author": "openai_blog",
+    "summary_raw": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "author": "openai_blog",
+    "summary_raw": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 16 Oct 2026 01:44:47 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 15 Oct 2026 20:34:01 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "url": "https://huggingface.co/blog/flux-3",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

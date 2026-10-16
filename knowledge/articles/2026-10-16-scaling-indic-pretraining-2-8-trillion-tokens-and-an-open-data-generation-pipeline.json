@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-16-scaling-indic-pretraining-2-8-trillion-tokens-and-an-open-data-generation-pipeline",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 16 Oct 2026 01:44:47 GMT",
+  "collected_at": "2026-10-16T12:54:50.834476+00:00",
+  "summary": "NVIDIA 发布博客，介绍其针对印度语言的大规模预训练工作：使用 2.8 万亿 token 的语料，并开源了一套数据生成流水线。该工作旨在解决印度语言预训练数据稀缺的问题，通过自动化流程构建高质量多语言数据集，为低资源语言的大模型训练提供可复用的方案，推动了多语言 AI 的包容性发展。",
+  "highlights": [
+    "构建了 2.8 万亿 token 的印度语言预训练语料，规模显著",
+    "开源了完整的数据生成流水线，支持可复现和扩展",
+    "针对低资源语言，缓解了印度语言数据稀缺问题",
+    "由 NVIDIA 主导，可能结合了其硬件与算法优化经验"
+  ],
+  "tags": [
+    "LLM",
+    "Pretraining",
+    "Multilingual",
+    "DataPipeline",
+    "LowResource"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "大规模多语言预训练数据与开源流水线对低资源语言研究具有高实用价值，但具体技术细节需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
