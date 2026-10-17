@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 520 # Comments: 441",
+    "published_at": "Fri, 16 Oct 2026 17:08:38 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why We're Banning AI",
+    "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 255 # Comments: 201",
+    "published_at": "Thu, 15 Oct 2026 18:32:29 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Why Math Dumped OpenAI",
+    "url": "https://raymyers.org/post/math-dumped-openai/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/uj7pqu/why_math_dumped_openai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 16 Oct 2026 11:38:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 17:25:03 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenFatigue™ — Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 14 Oct 2026 06:24:24 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 13 Oct 2026 10:56:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 00:13:31 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "author": "openai_blog",
+    "summary_raw": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "author": "openai_blog",
+    "summary_raw": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "author": "openai_blog",
+    "summary_raw": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "author": "openai_blog",
+    "summary_raw": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "published_at": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 16 Oct 2026 01:44:47 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 15 Oct 2026 20:34:01 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

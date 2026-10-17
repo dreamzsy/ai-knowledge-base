@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-17-a-study-of-sequence-weighting-at-scale",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+  "collected_at": "2026-10-17T11:53:58.015614+00:00",
+  "summary": "Jane Street 博客发布大规模序列加权研究，探讨在超大规模数据场景下如何对序列样本进行加权，以优化模型训练效果。文章结合金融交易数据特点，分析不同加权策略对模型收敛与泛化的影响，并给出工程实践建议。",
+  "highlights": [
+    "聚焦大规模数据下的序列加权方法",
+    "结合金融场景分析加权策略对训练的影响",
+    "对比不同加权方案的收敛与泛化表现",
+    "提供可落地的工程实践建议"
+  ],
+  "tags": [
+    "SequenceWeighting",
+    "MachineLearning",
+    "DataSampling",
+    "FinTech"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "来自一线量化机构的实战经验，对大规模训练中的数据加权有参考价值，但偏工程细节、通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

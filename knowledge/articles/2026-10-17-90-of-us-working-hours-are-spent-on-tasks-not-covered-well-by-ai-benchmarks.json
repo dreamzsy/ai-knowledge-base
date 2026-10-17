@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-17-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-by-ai-benchmarks",
+  "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+  "source": "rss",
+  "source_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 16 Oct 2026 17:08:38 +0000",
+  "collected_at": "2026-10-17T11:53:39.786150+00:00",
+  "summary": "Mercor 研究发布“劳动指数基准映射”，将美国实际工作时间的任务分布与主流 AI 基准覆盖范围对比，发现约 90% 的工作时长花在 AI 基准未充分覆盖的任务上。文章指出当前基准多集中于编程、数学等可验证领域，而真实经济活动中大量任务缺乏对应评测，导致基准分数与实际生产力提升之间存在显著错位。",
+  "highlights": [
+    "约 90% 的美国工作时间用于 AI 基准覆盖不足的任务",
+    "现有基准偏向编程、数学等易验证、易评分的领域",
+    "基准表现与经济生产力提升之间存在明显错位",
+    "呼吁建立更贴近真实职业任务分布的评测体系"
+  ],
+  "tags": [
+    "Benchmark",
+    "Evaluation",
+    "LaborMarket",
+    "AIProductivity"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "以劳动时间分布量化基准覆盖缺口，视角新颖且对评测方向有实际参考价值，但偏分析性、缺少可落地方法。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

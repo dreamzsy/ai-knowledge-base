@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-17-why-math-dumped-openai",
+  "title": "Why Math Dumped OpenAI",
+  "source": "rss",
+  "source_url": "https://raymyers.org/post/math-dumped-openai/",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 16 Oct 2026 11:38:47 -0500",
+  "collected_at": "2026-10-17T11:53:43.913939+00:00",
+  "summary": "文章以拟人化标题讨论 OpenAI 在数学推理能力上的表现与争议，结合社区讨论分析其模型在数学基准上的进展、局限及外界质疑，涉及基准可信度、推理能力真实性与宣传落差等话题，属于对前沿模型能力的批判性观察。",
+  "highlights": [
+    "以拟人化叙事批评 OpenAI 在数学推理领域的表现与宣传",
+    "讨论数学基准测试的可信度与模型真实推理能力",
+    "反映社区对前沿模型能力声明的质疑与审视",
+    "涉及推理模型在形式化数学任务上的局限"
+  ],
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Math",
+    "Benchmark",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "话题有讨论价值但属评论性文章，缺乏系统性技术细节与新方法。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
