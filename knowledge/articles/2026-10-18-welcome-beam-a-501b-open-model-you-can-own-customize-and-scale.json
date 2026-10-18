@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-18-welcome-beam-a-501b-open-model-you-can-own-customize-and-scale",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/reflection-beam",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-18T12:19:44.314215+00:00",
+  "summary": "Reflection 发布 Beam，一个 501B 参数的开源大模型，主打可完全拥有、定制与扩展。文章介绍其开放权重与部署方式，强调用户可自行微调、私有化部署并按需扩容，面向希望摆脱闭源 API 依赖、掌控模型与数据的团队。",
+  "highlights": [
+    "501B 参数规模的开源模型，权重开放可自持",
+    "支持用户自行定制微调与私有化部署",
+    "强调可扩展性，适配规模化推理场景",
+    "面向希望摆脱闭源 API 依赖的团队"
+  ],
+  "tags": [
+    "LLM",
+    "OpenSource",
+    "FineTuning",
+    "Deployment",
+    "Scaling"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "超大参数开源模型具备自持与定制价值，但缺乏具体评测与落地细节，实用性待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
