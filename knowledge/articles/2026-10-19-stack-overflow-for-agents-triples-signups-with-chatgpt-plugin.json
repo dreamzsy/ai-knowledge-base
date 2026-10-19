@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19-stack-overflow-for-agents-triples-signups-with-chatgpt-plugin",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "source": "rss",
+  "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "author": "openai_blog",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-19T15:10:32.640136+00:00",
+  "summary": "两名工程师借助 Codex 在数周内构建了面向 AI Agent 的 Stack Overflow 平台，并通过 ChatGPT 插件实现注册量三倍增长、Agent 创建量最高达 10 倍。该案例展示了低代码开发工具与 ChatGPT 生态分发的结合如何快速放大产品增长，体现了插件作为获客渠道的潜力。",
+  "highlights": [
+    "两名工程师用 Codex 数周内完成产品开发",
+    "ChatGPT 插件带来注册量三倍增长",
+    "Agent 创建量最高提升至 10 倍",
+    "验证了插件生态作为增长渠道的有效性"
+  ],
+  "tags": [
+    "Agent",
+    "ChatGPT",
+    "Plugin",
+    "Codex",
+    "Growth"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了 AI 插件分发与快速开发的真实增长案例，具参考价值但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

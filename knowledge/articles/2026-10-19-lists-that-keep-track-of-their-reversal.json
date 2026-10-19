@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-19-lists-that-keep-track-of-their-reversal",
+  "title": "Lists that keep track of their reversal",
+  "source": "rss",
+  "source_url": "https://grim.cargocut.org/a/rev-list.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+  "collected_at": "2026-10-19T15:10:22.766988+00:00",
+  "summary": "文章介绍一种可追踪自身反转操作的数据结构（rev-list），通过维护反转标记与惰性求值，使列表在 O(1) 时间内完成整体反转，并在访问时按需还原顺序，兼顾性能与实现简洁性。",
+  "highlights": [
+    "提出支持 O(1) 整体反转的列表结构，避免逐元素翻转",
+    "利用惰性标记在读取时按需还原元素顺序",
+    "讨论该结构在函数式编程与持久化数据场景下的适用性",
+    "附带 Lobsters 社区讨论，涉及实现细节与复杂度权衡"
+  ],
+  "tags": [
+    "DataStructure",
+    "FunctionalProgramming",
+    "LazyEvaluation",
+    "Algorithm"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "数据结构技巧有启发性，但应用面较窄，属于小众算法实践分享。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

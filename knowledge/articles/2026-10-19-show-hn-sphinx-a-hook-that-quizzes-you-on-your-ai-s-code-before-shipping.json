@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-before-shipping",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source": "rss",
+  "source_url": "https://sphinx-six-theta.vercel.app/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 18 Oct 2026 04:33:49 +0000",
+  "collected_at": "2026-10-19T15:10:10.205211+00:00",
+  "summary": "Sphinx 是一个开源工具，可接入现有编码代理工作流，在每次推送生产环境前弹出问卷，检验开发者是否真正理解所提交代码的工作原理，旨在防止对 AI 生成代码的盲目部署。",
+  "highlights": [
+    "作为 Git 钩子集成到现有编码代理工作流，推送生产前自动触发问卷",
+    "通过提问检验开发者对 AI 生成代码逻辑的理解程度",
+    "开源免费（FOSS），降低团队采用门槛",
+    "HN 获 248 分、88 条评论，引发对 AI 代码审查与责任归属的讨论"
+  ],
+  "tags": [
+    "AI Coding",
+    "Code Review",
+    "DevTools",
+    "Git Hook",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "切中 AI 辅助编程中开发者理解缺位的真实痛点，轻量易集成且开源，但问卷效果依赖题目质量，实际价值待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

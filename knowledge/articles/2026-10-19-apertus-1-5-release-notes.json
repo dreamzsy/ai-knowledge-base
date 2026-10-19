@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19-apertus-1-5-release-notes",
+  "title": "Apertus 1.5 Release Notes",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 15 Oct 2026 09:08:45 GMT",
+  "collected_at": "2026-10-19T15:10:42.772798+00:00",
+  "summary": "瑞士 AI 团队发布 Apertus 1.5 版本更新说明，介绍该开源模型在能力、训练数据与推理效率方面的改进。作为面向欧洲多语言与合规需求的开放模型，本次更新聚焦性能提升与部署便利性，并同步公开权重与使用文档，方便研究者和开发者复现与二次开发。",
+  "highlights": [
+    "Apertus 模型发布 1.5 版本，带来能力与效率的迭代升级",
+    "强调开放权重与可复现性，面向研究与商业应用",
+    "关注多语言与合规友好设计，契合欧洲 AI 生态需求",
+    "提供 Hugging Face 上的模型与文档，降低使用门槛"
+  ],
+  "tags": [
+    "LLM",
+    "OpenSource",
+    "ModelRelease",
+    "Multilingual",
+    "HuggingFace"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "属于开源模型常规版本迭代，对关注开放权重与多语言模型的开发者有一定参考价值，但缺乏突破性技术亮点。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

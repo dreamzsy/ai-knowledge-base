@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19-hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.18861",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 18 Oct 2026 20:48:14 +0000",
+  "collected_at": "2026-10-19T15:10:08.119825+00:00",
+  "summary": "该论文提出混合推理智能体（Hybrid Reasoning Agents），让LLM智能体在潜在空间中进行推理，并通过文本执行动作。项目由Together Computer开源，包含GitHub代码库和Hugging Face模型集合，并在论文中提供了详细评估。在Hacker News上获得471分和225条评论，引发广泛讨论。该方法旨在结合潜在空间推理的高效性与文本动作的可解释性，为智能体架构提供新思路。",
+  "highlights": [
+    "提出在潜在空间推理、通过文本动作的混合智能体架构",
+    "Together Computer开源代码与模型，提供可复现实现",
+    "论文包含详细评估，Hacker News社区讨论热烈（471分/225评论）",
+    "探索LLM推理效率与可解释性的新平衡点"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Latent Reasoning",
+    "Hybrid Architecture",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "创新性地结合潜在空间推理与文本动作，开源实现完整，社区关注度高，对智能体架构研究有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

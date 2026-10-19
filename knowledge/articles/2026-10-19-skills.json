@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-19-skills",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "author": "mattpocock",
+  "published_at": "2026-02-03T11:15:53Z",
+  "collected_at": "2026-10-19T15:09:29.486756+00:00",
+  "summary": "mattpocock/skills 是 TypeScript 专家 Matt Pocock 公开的个人 .agents 目录，汇集面向真实工程师的 AI Agent 技能（skills）配置。项目以可直接复用的提示词、工作流与工具定义为主，展示如何把 Claude Code 等编码 Agent 调校成高效开发助手，强调实用、简洁、贴近日常工程实践，而非玩具式演示。",
+  "highlights": [
+    "来自作者真实 .agents 目录，可直接复用的 Agent 技能配置",
+    "聚焦真实工程场景的提示词与工作流设计",
+    "体现 Claude Code 等编码 Agent 的实用调优范式",
+    "作者为知名 TypeScript 教育者，内容质量与可读性较高"
+  ],
+  "tags": [
+    "Agent",
+    "Prompt Engineering",
+    "Claude Code",
+    "Developer Tools",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "真实可复用的 Agent 技能配置对编码助手实践有参考价值，但内容偏个人化、体系化程度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 297085,
+    "language": "Shell"
+  }
+}

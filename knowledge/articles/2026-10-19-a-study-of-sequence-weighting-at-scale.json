@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-19-a-study-of-sequence-weighting-at-scale",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "author": "lobsters_ml",
+  "published_at": "Sun, 20 Sep 2026 20:18:47 -0500",
+  "collected_at": "2026-10-19T15:10:26.718202+00:00",
+  "summary": "Jane Street 博客发布大规模序列加权研究，探讨在超大规模数据下如何对序列样本进行加权以优化模型训练效果。文章结合金融场景的实践，分析不同加权策略对训练稳定性与最终性能的影响，并给出工程实现层面的权衡建议。",
+  "highlights": [
+    "聚焦大规模训练中的序列加权策略",
+    "结合金融数据场景给出实践经验",
+    "分析加权对训练稳定性与性能的影响",
+    "提供工程实现层面的权衡建议"
+  ],
+  "tags": [
+    "Sequence Weighting",
+    "Large-Scale Training",
+    "Machine Learning",
+    "Data Engineering"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "主题偏细分但具工程参考价值，适合关注大规模训练数据策略的读者。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

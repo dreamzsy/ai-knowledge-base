@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19-how-ita-is-building-generative-ai-for-its-entire-customer-base",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "source": "rss",
+  "source_url": "https://openai.com/index/itau-generative-ai",
+  "author": "openai_blog",
+  "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
+  "collected_at": "2026-10-19T15:10:28.930625+00:00",
+  "summary": "巴西最大银行Itaú推出面向全体客户的生成式AI产品ia.i对话式界面，并配套IARA治理平台，将AI First战略同时落地于客户服务与内部员工场景。在巴西高度监管的金融行业中，该案例展示了大型银行如何通过统一治理框架平衡生成式AI的规模化应用与合规风险，是金融业生成式AI落地的代表性实践。",
+  "highlights": [
+    "推出ia.i对话式界面，将生成式AI直接开放给全部客户群体",
+    "构建IARA治理平台，为AI应用提供合规与风险管控支撑",
+    "AI First战略同时覆盖客户服务与员工内部工作流",
+    "在巴西高度监管的金融行业中实现规模化AI落地"
+  ],
+  "tags": [
+    "GenAI",
+    "FinTech",
+    "Governance",
+    "ConversationalAI",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "大型银行在强监管行业规模化落地生成式AI并配套治理平台，具备较强行业参考价值，但技术细节披露有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

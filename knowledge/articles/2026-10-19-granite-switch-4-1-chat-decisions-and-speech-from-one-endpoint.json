@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-19-granite-switch-4-1-chat-decisions-and-speech-from-one-endpoint",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 15 Oct 2026 20:34:01 GMT",
+  "collected_at": "2026-10-19T15:10:40.526323+00:00",
+  "summary": "IBM 在 Hugging Face 发布 Granite Switch 4.1，通过单一 API 端点统一提供对话、决策与语音能力。该设计将多模态任务收敛到一个入口，减少模型路由与集成复杂度，便于开发者构建同时需要文本交互、结构化决策和语音处理的智能体应用，体现企业级模型向一体化服务演进的趋势。",
+  "highlights": [
+    "单一端点同时支持 Chat、决策与语音三类任务",
+    "降低多模型编排与路由的工程复杂度",
+    "面向企业级智能体与多模态应用场景",
+    "体现 IBM Granite 系列向统一服务化演进"
+  ],
+  "tags": [
+    "LLM",
+    "Multimodal",
+    "Speech",
+    "API",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "统一端点整合对话、决策与语音，工程实用性强，但创新度属渐进式集成而非架构突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
