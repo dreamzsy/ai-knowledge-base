@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-20-ousted-savannah-police-officer-gave-ice-agent-husband-access-to-flock-system",
+  "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+  "source": "rss",
+  "source_url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 19 Oct 2026 10:45:14 +0000",
+  "collected_at": "2026-10-20T13:10:25.484646+00:00",
+  "summary": "报道称美国萨凡纳一名被解职的警察让其在美国移民与海关执法局（ICE）任职的丈夫访问了 Flock 车牌识别系统。Flock 是警方广泛使用的自动车牌识别（ALPR）平台，事件引发对执法数据访问权限、账号共享与隐私监控的担忧，并在 Hacker News 上获得大量讨论。",
+  "highlights": [
+    "被解职警员涉嫌让 ICE 探员配偶访问警方 Flock 车牌识别系统",
+    "Flock 为警方常用的自动车牌识别（ALPR）监控平台",
+    "事件凸显执法数据访问控制与账号共享的安全隐患",
+    "在 Hacker News 引发关于监控与隐私的高热度讨论"
+  ],
+  "tags": [
+    "Surveillance",
+    "Privacy",
+    "ALPR",
+    "Security",
+    "Policy"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属执法监控与隐私治理的社会性新闻，与 AI 技术关联较弱，但对数据访问安全有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

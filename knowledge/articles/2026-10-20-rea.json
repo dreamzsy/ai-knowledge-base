@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-20-rea",
+  "title": "morluto/rea",
+  "source": "github_trending",
+  "source_url": "https://github.com/morluto/rea",
+  "author": "morluto",
+  "published_at": "2026-04-14T00:51:32Z",
+  "collected_at": "2026-10-20T13:09:41.957816+00:00",
+  "summary": "morluto/rea 是一个基于智能体（Agent）的开源逆向工程工具，宣称可对任意目标进行逆向分析，覆盖从应用层行为到原生二进制文件的多个层面。项目通过编排 AI Agent 自动完成探测、分析与推理，降低传统逆向工程的门槛。当前信息仅含标题与一句话描述，缺少实现细节、支持平台与实测效果，实际能力有待验证。",
+  "highlights": [
+    "以 Agent 驱动逆向工程，覆盖应用行为到原生二进制多个层次",
+    "定位为通用型逆向工具，宣称可 reverse engineer anything",
+    "将 AI 自动化引入传统逆向分析流程，降低人工分析成本",
+    "仓库信息较少，技术栈、支持平台与实测效果尚不明确"
+  ],
+  "tags": [
+    "Agent",
+    "ReverseEngineering",
+    "BinaryAnalysis",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "AI Agent 与逆向工程结合的方向有实用价值，但项目公开信息过少，成熟度与效果难以评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 343554,
+    "language": "TypeScript"
+  }
+}

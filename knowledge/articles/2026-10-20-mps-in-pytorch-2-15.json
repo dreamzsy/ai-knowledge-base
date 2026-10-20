@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-20-mps-in-pytorch-2-15",
+  "title": "MPS in PyTorch 2.15",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-20T13:10:56.215586+00:00",
+  "summary": "该博客介绍 PyTorch 2.15 对 Apple Metal Performance Shaders（MPS）后端的更新，涵盖在 Apple Silicon 上运行 PyTorch 的改进，包括算子覆盖范围扩大、性能优化与兼容性提升，帮助开发者在 Mac 上更高效地进行模型训练与推理。",
+  "highlights": [
+    "PyTorch 2.15 增强 MPS 后端对 Apple Silicon 的支持",
+    "扩大 MPS 支持的算子覆盖范围，减少回退到 CPU",
+    "提升 Mac 本地训练与推理性能",
+    "改善与 Hugging Face 生态的兼容性"
+  ],
+  "tags": [
+    "PyTorch",
+    "MPS",
+    "AppleSilicon",
+    "DeepLearning",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对 Mac 平台 PyTorch 用户有实用价值，但属于增量更新而非范式级突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

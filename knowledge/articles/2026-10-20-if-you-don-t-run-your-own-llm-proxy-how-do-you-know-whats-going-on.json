@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-20-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-going-on",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "source": "rss",
+  "source_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 18 Oct 2026 21:09:12 +0000",
+  "collected_at": "2026-10-20T13:10:27.622399+00:00",
+  "summary": "文章主张开发者应自建 LLM 代理，以掌握请求路由、成本、延迟和日志等关键信息。作者认为依赖第三方代理会失去可观测性，难以排查问题或优化性能。HN 讨论热烈，涉及自建代理的运维成本、安全与合规权衡，以及可观测性对生产环境的重要性。",
+  "highlights": [
+    "强调自建 LLM 代理是获得请求级可观测性的前提，否则无法定位延迟、错误和成本异常。",
+    "HN 评论围绕自建代理的运维负担与第三方服务的便利性展开辩论。",
+    "讨论涉及日志、审计、限流和密钥管理等生产级代理功能。",
+    "文章标题风格引发关注，但核心是工程可观测性与控制权问题。"
+  ],
+  "tags": [
+    "LLM",
+    "Proxy",
+    "Observability",
+    "Infrastructure",
+    "DevOps"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文章切中 LLM 应用可观测性痛点，HN 高热度讨论反映实践价值，但偏观点性且缺乏具体实现细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-20-advancing-coding-in-low-resource-programming-languages",
+  "title": "Advancing coding in low‑resource programming languages",
+  "source": "rss",
+  "source_url": "https://openai.com/index/low-resource-programming-languages",
+  "author": "openai_blog",
+  "published_at": "Mon, 19 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-20T13:10:45.735709+00:00",
+  "summary": "OpenAI 发布博客介绍其在低资源编程语言上改进 ChatGPT 的工作，并推出面向软件工程、SQLite 与 COBOL 迁移的新评测。内容聚焦模型在训练数据稀缺语言上的编码能力提升，通过针对性评测衡量代码生成与迁移表现，帮助开发者评估模型在传统企业语言和冷门语言场景下的可用性。",
+  "highlights": [
+    "针对低资源编程语言改进 ChatGPT 的编码能力",
+    "新增软件工程、SQLite 与 COBOL 迁移三类评测",
+    "关注训练数据稀缺语言上的模型表现与可用性",
+    "面向企业遗留系统迁移等实际开发场景"
+  ],
+  "tags": [
+    "LLM",
+    "Code Generation",
+    "Evaluation",
+    "COBOL",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "为低资源语言编码能力提供官方评测与改进方向，对遗留系统迁移有实用价值，但属博客性说明而非开源成果。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

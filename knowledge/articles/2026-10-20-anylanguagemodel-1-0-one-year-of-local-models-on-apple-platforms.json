@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-20-anylanguagemodel-1-0-one-year-of-local-models-on-apple-platforms",
+  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-20T13:10:54.304087+00:00",
+  "summary": "AnyLanguageModel 1.0 是面向 Apple 平台（iOS/macOS）的本地大模型运行框架，发布一周年版本。它统一封装 MLX、llama.cpp 等后端，让开发者以一致 API 在设备端加载、推理多种开源语言模型，支持流式输出、多模态与工具调用，并针对 Apple Silicon 与神经引擎做性能优化，降低端侧 AI 应用开发门槛。",
+  "highlights": [
+    "统一 API 抽象 MLX、llama.cpp 等多种本地推理后端",
+    "面向 iOS/macOS 的端侧模型加载与流式推理",
+    "针对 Apple Silicon 与神经引擎的性能优化",
+    "支持工具调用与多模态等现代 LLM 能力"
+  ],
+  "tags": [
+    "On-Device AI",
+    "Apple",
+    "LLM",
+    "Inference",
+    "Framework"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "为 Apple 平台端侧 LLM 提供统一易用的工程化方案，实用性强但影响范围限于苹果生态。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

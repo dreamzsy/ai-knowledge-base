@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-20-ask-hn-how-to-deal-with-shipping-ai-written-code-you-don-t-understand",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50151036",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 19 Oct 2026 11:24:34 +0000",
+  "collected_at": "2026-10-20T13:10:23.337145+00:00",
+  "summary": "该 HN 讨论源于 Meta 工程师的 LinkedIn 帖子，反映工程师对交付 AI 生成但自身不完全理解的代码感到不安。核心矛盾是：逐行审查 AI 代码耗时过长，导致系统成为黑盒，违背传统软件工程理解每一行代码的直觉。讨论引发广泛共鸣，评论数达 634，探讨如何平衡效率与代码理解、审查策略及团队规范。",
+  "highlights": [
+    "Meta 工程师坦言交付 AI 生成代码时感到不适，担心系统成为黑盒",
+    "逐行审查 AI 代码成本过高，与快速交付的新标准冲突",
+    "讨论聚焦工程师应理解代码到何种程度才能安心推进",
+    "高热度讨论（515 分、634 评论）显示这是行业普遍痛点"
+  ],
+  "tags": [
+    "AI Coding",
+    "Software Engineering",
+    "Code Review",
+    "Developer Productivity"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "话题切中 AI 辅助编程时代的核心工程实践痛点，讨论热度高且具行业普遍性，但偏重经验交流而非技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

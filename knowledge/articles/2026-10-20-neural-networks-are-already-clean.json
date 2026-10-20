@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-20-neural-networks-are-already-clean",
+  "title": "Neural Networks Are Already Clean",
+  "source": "rss",
+  "source_url": "https://already-clean.goodfire.com/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 15 Oct 2026 17:25:03 -0500",
+  "collected_at": "2026-10-20T13:10:31.543685+00:00",
+  "summary": "该链接指向 Goodfire 的一篇题为《Neural Networks Are Already Clean》的文章，讨论神经网络内部表示的可解释性，主张网络并非黑箱，其内部特征与电路本身已具备可读结构，无需额外“清洗”。文章配合 Lobsters 讨论，涉及机制可解释性、特征可视化与模型透明度等议题。",
+  "highlights": [
+    "探讨神经网络内部表示的可解释性，主张模型并非不可读的黑箱",
+    "涉及机制可解释性（mechanistic interpretability）与特征/电路分析",
+    "与 Goodfire 的模型可解释性研究方向相关",
+    "提供 Lobsters 社区讨论入口，便于查看多方观点"
+  ],
+  "tags": [
+    "Interpretability",
+    "Neural Networks",
+    "Mechanistic Interpretability",
+    "Representation Learning"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "主题涉及模型可解释性这一重要方向，但内容为观点性文章，缺乏具体方法或实验细节，实用价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
