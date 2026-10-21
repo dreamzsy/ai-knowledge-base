@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-openai-acquires-orchestra-bio",
+  "title": "OpenAI acquires Orchestra Bio",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "author": "openai_blog",
+  "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-21T13:20:57.310980+00:00",
+  "summary": "OpenAI 宣布收购 Orchestra Bio，旨在将 AI 驱动的运营能力引入生命科学研发领域，帮助生物制药团队加速药物开发并推进新疗法。此举标志着 OpenAI 从通用 AI 向垂直行业解决方案的进一步拓展，可能整合 AI 代理与自动化工具以优化研发流程。",
+  "highlights": [
+    "OpenAI 收购 Orchestra Bio，正式进军生命科学研发领域",
+    "目标是通过 AI 驱动的运营加速药物开发和新疗法推进",
+    "为生物制药团队提供垂直行业 AI 解决方案",
+    "体现 OpenAI 从通用模型向行业应用扩展的战略"
+  ],
+  "tags": [
+    "OpenAI",
+    "LifeSciences",
+    "DrugDiscovery",
+    "AI4Science",
+    "Acquisition"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "收购体现 AI 在生命科学领域的落地趋势，对行业有积极影响，但具体技术细节和整合效果尚不明确。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

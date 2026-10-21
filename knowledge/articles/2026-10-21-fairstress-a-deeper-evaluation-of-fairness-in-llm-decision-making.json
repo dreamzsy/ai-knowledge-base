@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-making",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/fairstress",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 20 Oct 2026 16:09:19 GMT",
+  "collected_at": "2026-10-21T13:21:01.109003+00:00",
+  "summary": "FairStress 是 AllenAI 在 Hugging Face 博客上提出的 LLM 公平性评估方法，旨在更深入地检验大模型在决策场景中的公平性表现。该方法通过压力测试式设计，系统性地改变与受保护属性相关的上下文线索，观察模型决策是否随人口统计特征变化而产生偏差，从而揭示传统静态基准难以捕捉的隐性偏见。",
+  "highlights": [
+    "提出 FairStress 压力测试框架，用于评估 LLM 决策中的公平性",
+    "通过扰动受保护属性相关线索，检测模型决策的隐性偏见",
+    "弥补传统静态公平性基准覆盖不足的问题",
+    "由 AllenAI 发布，面向实际部署中的模型公平性审查"
+  ],
+  "tags": [
+    "LLM",
+    "Fairness",
+    "Evaluation",
+    "Bias",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "提供了可操作的 LLM 公平性压力测试思路，对模型安全与负责任部署有实用价值，但属于评估方法层面的增量贡献。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

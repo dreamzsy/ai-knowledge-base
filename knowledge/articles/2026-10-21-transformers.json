@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-21-transformers",
+  "title": "huggingface/transformers",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/transformers",
+  "author": "huggingface",
+  "published_at": "2018-10-29T13:56:00Z",
+  "collected_at": "2026-10-21T13:20:25.738363+00:00",
+  "summary": "Hugging Face Transformers 是当前最主流的开源模型定义框架，统一支持文本、视觉、音频和多模态的 SOTA 模型，覆盖推理与训练全流程。它提供数千个预训练模型的加载接口，并与 PyTorch、TensorFlow、JAX 等后端兼容，是 NLP 及多模态应用开发的事实标准基础设施。",
+  "highlights": [
+    "统一支持文本、视觉、音频与多模态模型的推理和训练",
+    "提供数千个预训练模型的标准化加载与使用接口",
+    "兼容 PyTorch、TensorFlow、JAX 等多种深度学习后端",
+    "是 NLP 与多模态领域事实上的模型开发基础设施"
+  ],
+  "tags": [
+    "Transformers",
+    "Multimodal",
+    "PyTorch",
+    "ModelHub",
+    "NLP"
+  ],
+  "language": "zh",
+  "score": 0.95,
+  "score_reason": "生态覆盖广、社区活跃度极高，是 AI 模型开发的核心基础设施，实用价值突出。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 167945,
+    "language": "Python"
+  }
+}

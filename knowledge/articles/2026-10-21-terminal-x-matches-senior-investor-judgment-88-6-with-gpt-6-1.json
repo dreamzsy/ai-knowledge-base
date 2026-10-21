@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-1",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "source": "rss",
+  "source_url": "https://openai.com/index/terminal-x",
+  "author": "openai_blog",
+  "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-21T13:20:55.285637+00:00",
+  "summary": "Terminal X 推出基于 GPT-6.1 Sol 的 Eval Agent，通过 54 项标准评分体系对输出进行自动评估，用于判断投资标的是否符合基金投资授权（mandate）。官方称该系统与资深投资人判断的一致率达到 88.6%，并能比原有方式多捕捉 25% 的偏离授权行为，展示了 LLM 在金融合规与投研评估场景中的落地能力。",
+  "highlights": [
+    "Eval Agent 采用 54 项评分标准（rubric）对投资输出进行结构化打分",
+    "与资深投资人判断的一致率达 88.6%，接近人类专家水平",
+    "相比基线方案多识别 25% 的偏离基金 mandate 的情况",
+    "基于 GPT-6.1 Sol 模型，体现 LLM 在金融合规审查中的应用"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Evaluation",
+    "FinTech",
+    "Compliance"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "展示了 LLM 评估代理在金融合规场景中可量化、接近专家判断的实用价值，但依赖厂商自述数据，独立验证有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

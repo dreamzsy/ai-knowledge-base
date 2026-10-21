@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-altk-evolve-how-learned-memory-tops-the-bench-leaderboard-on-customer-service-tasks-without-a-frontier-model",
+  "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 20 Oct 2026 15:19:48 GMT",
+  "collected_at": "2026-10-21T13:21:03.084340+00:00",
+  "summary": "IBM Research 发布 ALTK-Evolve，一种基于学习记忆的智能体框架，在 τ²-bench 客服任务榜单上超越依赖前沿模型的方案。它通过从交互经验中提炼并复用可迁移记忆，而非单纯扩大模型规模，显著提升任务成功率与效率，展示了记忆机制在复杂多轮对话场景中的关键价值。",
+  "highlights": [
+    "以学习式记忆替代前沿大模型，在 τ²-bench 客服任务上登顶",
+    "从交互经验中自动提炼、存储并复用可迁移的任务记忆",
+    "验证记忆机制对多轮对话智能体性能的提升优于单纯模型扩容",
+    "为资源受限场景提供低成本高性能的智能体落地路径"
+  ],
+  "tags": [
+    "Agent",
+    "Memory",
+    "Benchmark",
+    "Customer Service",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "提出可复用的记忆增强智能体方法并在权威榜单验证，工程与研究方向均有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

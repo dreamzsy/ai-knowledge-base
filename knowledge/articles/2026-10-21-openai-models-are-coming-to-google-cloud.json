@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-openai-models-are-coming-to-google-cloud",
+  "title": "OpenAI models are coming to Google Cloud",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-models-google-cloud",
+  "author": "openai_blog",
+  "published_at": "Wed, 21 Oct 2026 12:00:00 GMT",
+  "collected_at": "2026-10-21T13:20:51.389215+00:00",
+  "summary": "OpenAI 与 Google Cloud 宣布合作，将 OpenAI 的前沿模型及 Codex 工作流引入 Gemini 的 Model Garden，并通过 Google Cloud Marketplace 提供。这意味着企业客户可在 Google Cloud 生态内直接调用 OpenAI 模型，简化采购与集成流程，降低多云管理成本。此举反映 AI 模型分发渠道加速融合，云厂商与模型厂商从竞争转向竞合，为企业提供更灵活的模型选择与统一计费体验。",
+  "highlights": [
+    "OpenAI 前沿模型与 Codex 工作流接入 Gemini Model Garden",
+    "通过 Google Cloud Marketplace 提供，简化企业采购与计费",
+    "云厂商与模型厂商由竞争转向竞合，模型分发渠道加速融合",
+    "企业可在 Google Cloud 生态内统一调用多厂商模型"
+  ],
+  "tags": [
+    "OpenAI",
+    "Google Cloud",
+    "Model Garden",
+    "Codex",
+    "Cloud Marketplace"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "头部模型厂商与主流云平台互通，对企业采购与多云集成有实际影响，但属渠道合作而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

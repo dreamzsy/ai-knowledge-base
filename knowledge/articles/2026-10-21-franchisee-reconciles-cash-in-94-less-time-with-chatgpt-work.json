@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work",
+  "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ted-taylor-restaurant",
+  "author": "openai_blog",
+  "published_at": "Tue, 20 Oct 2026 10:00:00 GMT",
+  "collected_at": "2026-10-21T13:20:53.188977+00:00",
+  "summary": "OpenAI 发布案例：一位独立经营 Schlotzsky’s 与 Cinnabon 的加盟商借助 ChatGPT Work 重构门店运营流程，将现金对账时间缩短 94%，菜单调价耗时下降 95%，并搭建出可释放约 10 万美元现金流的工作流。案例展示了通用大模型工具在中小餐饮加盟场景中处理重复性财务与运营任务的实际收益。",
+  "highlights": [
+    "现金对账耗时减少 94%，菜单重新定价时间下降 95%",
+    "构建自动化工作流，预计释放约 10 万美元现金流",
+    "面向独立加盟商的中小餐饮场景，落地门槛低",
+    "体现 ChatGPT Work 在财务对账、定价等重复性运营任务中的价值"
+  ],
+  "tags": [
+    "ChatGPT",
+    "Workflow Automation",
+    "Enterprise Adoption",
+    "Finance Ops",
+    "Case Study"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "真实企业落地案例且量化收益明确，但属于单一加盟商场景，技术深度与可复制性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

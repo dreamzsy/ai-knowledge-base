@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-hugging-face-torchtpu-tpus-natively",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/hf-torchtpu",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-21T13:21:05.182975+00:00",
+  "summary": "Hugging Face 发布博客介绍与 TorchTPU 的集成，使 PyTorch 生态能够原生运行在 Google TPU 上。文章说明该方案如何打通 Hugging Face 模型与 TPU 硬件，降低迁移成本，让开发者无需大幅改动代码即可利用 TPU 算力进行训练和推理，进一步完善了开源模型在多硬件后端上的可移植性。",
+  "highlights": [
+    "Hugging Face 与 TorchTPU 合作，实现 PyTorch 模型在 TPU 上的原生支持",
+    "降低从 GPU 迁移到 TPU 的改造成本，提升模型硬件可移植性",
+    "覆盖 Hugging Face 生态模型的训练与推理场景",
+    "推动开源 AI 栈对多元硬件后端的兼容"
+  ],
+  "tags": [
+    "PyTorch",
+    "TPU",
+    "Hugging Face",
+    "Hardware Acceleration",
+    "Model Training"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "打通 PyTorch 与 TPU 原生链路对多硬件部署有实用价值，但属于生态集成类进展而非算法突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

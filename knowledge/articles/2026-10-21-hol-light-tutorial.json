@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-21-hol-light-tutorial",
+  "title": "HOL Light Tutorial",
+  "source": "rss",
+  "source_url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+  "collected_at": "2026-10-21T13:20:47.458081+00:00",
+  "summary": "HOL Light 是一个轻量级交互式定理证明器，其官方教程系统介绍了该工具的基础使用方法。内容涵盖形式化数学证明的构建流程、系统交互方式与核心概念，适合希望入门形式化验证与定理证明的研究者和开发者作为学习材料。",
+  "highlights": [
+    "HOL Light 交互式定理证明器的官方入门教程",
+    "讲解形式化数学证明的构建与验证流程",
+    "面向形式化验证与定理证明初学者",
+    "提供系统交互与核心概念的实践指导"
+  ],
+  "tags": [
+    "Theorem Proving",
+    "Formal Verification",
+    "HOL Light",
+    "Interactive Prover"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "权威官方教程，对形式化验证领域有学习价值，但受众较窄、非通用AI技术。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

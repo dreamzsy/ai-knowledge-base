@@ -1,0 +1,155 @@
+[
+  {
+    "source": "rss",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 731 # Comments: 210",
+    "published_at": "Mon, 19 Oct 2026 23:22:18 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 19 Oct 2026 06:47:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 17:25:03 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Running RAG with a (small) language model in the browser",
+    "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 13 Oct 2026 10:56:29 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Consistency is not a localized property",
+    "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 10 Oct 2026 19:51:28 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "published_at": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "author": "openai_blog",
+    "summary_raw": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "published_at": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "author": "openai_blog",
+    "summary_raw": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 21 Oct 2026 12:51:24 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 20 Oct 2026 15:19:48 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "url": "https://huggingface.co/blog/hf-torchtpu",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

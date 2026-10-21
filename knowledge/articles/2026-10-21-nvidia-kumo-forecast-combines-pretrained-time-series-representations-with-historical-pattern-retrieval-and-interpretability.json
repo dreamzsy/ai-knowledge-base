@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-21-nvidia-kumo-forecast-combines-pretrained-time-series-representations-with-historical-pattern-retrieval-and-interpretability",
+  "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 21 Oct 2026 12:51:24 GMT",
+  "collected_at": "2026-10-21T13:20:59.092862+00:00",
+  "summary": "NVIDIA 在 Hugging Face 发布 Kumo Forecast，将预训练时间序列表示与历史模式检索相结合，用于时间序列预测。模型利用预训练表示捕捉通用时序特征，并通过检索历史相似模式增强预测精度，同时提供可解释性，帮助理解预测依据。该方案面向企业级预测场景，强调开箱即用与结果可解释。",
+  "highlights": [
+    "结合预训练时间序列表示与历史模式检索的混合预测架构",
+    "内置可解释性，可追溯预测所依赖的历史模式",
+    "基于 NVIDIA 在 Hugging Face 发布的模型与博客资源",
+    "面向企业级时间序列预测的开箱即用方案"
+  ],
+  "tags": [
+    "Time-Series",
+    "Forecasting",
+    "Pretrained Model",
+    "Retrieval",
+    "Interpretability"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "预训练加检索的时序预测思路实用且带可解释性，但尚属模型发布阶段，实际效果与生态影响有待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-21-consistency-is-not-a-localized-property",
+  "title": "Consistency is not a localized property",
+  "source": "rss",
+  "source_url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 10 Oct 2026 19:51:28 -0500",
+  "collected_at": "2026-10-21T13:20:41.649921+00:00",
+  "summary": "该博客文章探讨分布式系统中的一致性问题，核心论点是「一致性并非局部属性」，即无法仅凭单个节点或局部组件的状态判断整个系统是否一致，一致性是涉及全局交互与并发行为的系统级性质。文章从理论层面剖析局部验证一致性的局限，对分布式数据库与共识协议的设计与验证具有启发意义。",
+  "highlights": [
+    "指出一致性是系统级全局属性，无法通过局部节点状态单独判定",
+    "分析局部验证一致性假设在并发与网络分区场景下的失效",
+    "对分布式数据库、共识协议的设计与形式化验证提出启示",
+    "属于分布式系统理论类深度讨论，非工程实践教程"
+  ],
+  "tags": [
+    "Distributed Systems",
+    "Consistency",
+    "Consensus",
+    "System Design"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "主题有价值且观点清晰，但偏理论讨论、缺乏具体工程案例，受众较窄。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
