@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22-patch-the-planet-global-response-coordination-as-agents-uncover-critical-vulnerabilities",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "source": "rss",
+  "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "author": "openai_blog",
+  "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-22T13:21:29.304488+00:00",
+  "summary": "OpenAI 发布 Patch the Planet 项目，旨在连接安全研究员、开源维护者与事件响应人员，形成全球协作网络，以加速发现和修复开源软件中的关键漏洞。该机制强调协调披露流程，让各方在漏洞被恶意利用前完成修补，降低开源生态的供应链安全风险。",
+  "highlights": [
+    "连接安全研究员、开源维护者与事件响应者三方协作",
+    "聚焦开源软件关键漏洞的发现与修复",
+    "采用协调披露机制降低漏洞被利用风险",
+    "体现 AI 参与安全漏洞挖掘与全球响应协调"
+  ],
+  "tags": [
+    "Security",
+    "OpenSource",
+    "VulnerabilityDisclosure",
+    "Coordination",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对开源供应链安全有实际价值，但偏重流程协调而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

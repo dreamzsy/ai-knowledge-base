@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22-broad-access-through-consistent-standards",
+  "title": "Broad access through consistent standards",
+  "source": "rss",
+  "source_url": "https://openai.com/index/broad-access-through-consistent-standards",
+  "author": "openai_blog",
+  "published_at": "Wed, 21 Oct 2026 21:00:00 GMT",
+  "collected_at": "2026-10-22T13:21:25.267758+00:00",
+  "summary": "OpenAI 发布文章说明其如何与分发合作伙伴协作，通过一致的标准维护安全防护措施、支持负责任地访问其服务，并明确使用政策中的期望。内容聚焦于访问治理与合规框架，而非新模型或技术发布。",
+  "highlights": [
+    "阐述 OpenAI 与分发渠道伙伴协作维护一致安全标准的方式",
+    "强调负责任地扩大服务访问范围的政策取向",
+    "明确 Usage Policies 中对合作伙伴的期望与边界",
+    "属于治理与合规类内容，不涉及模型能力或技术细节"
+  ],
+  "tags": [
+    "Policy",
+    "Safety",
+    "Governance",
+    "OpenAI",
+    "Compliance"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于政策与合规说明，对理解 OpenAI 分发治理有参考价值，但缺乏技术或产品层面的实质信息。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

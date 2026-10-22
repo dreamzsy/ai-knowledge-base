@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22-running-rag-with-a-small-language-model-in-the-browser",
+  "title": "Running RAG with a (small) language model in the browser",
+  "source": "rss",
+  "source_url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 13 Oct 2026 10:56:29 -0500",
+  "collected_at": "2026-10-22T13:21:12.162197+00:00",
+  "summary": "文章介绍如何在浏览器中运行基于小型语言模型的 RAG 系统，利用 Web 技术实现本地检索增强生成，无需服务器端推理。作者演示了模型加载、向量检索与生成流程，强调隐私、低延迟和离线可用性，并讨论了小模型在浏览器环境下的性能与局限。",
+  "highlights": [
+    "在浏览器端完整实现 RAG 流程，无需后端推理服务",
+    "使用小型语言模型配合本地向量检索，兼顾隐私与离线能力",
+    "演示模型加载、嵌入计算与生成的具体实现方式",
+    "讨论小模型在浏览器中的性能瓶颈与适用场景"
+  ],
+  "tags": [
+    "RAG",
+    "LLM",
+    "Browser",
+    "WebAssembly",
+    "Vector Search"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了浏览器端 RAG 的可行实现，对隐私敏感和离线场景有参考价值，但受限于小模型能力。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

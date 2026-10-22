@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22-hol-light-tutorial",
+  "title": "HOL Light Tutorial",
+  "source": "rss",
+  "source_url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+  "collected_at": "2026-10-22T13:21:19.272865+00:00",
+  "summary": "HOL Light Tutorial 是 HOL Light 定理证明器的官方入门教程，系统介绍这一基于 OCaml 的交互式定理证明环境。内容涵盖逻辑基础、类型系统、项与公式的表示、推理规则以及 tactic 证明方法，指导用户完成从基本定义到形式化数学证明的实践。该教程面向形式化验证、交互式定理证明和程序正确性研究，是学习 HOL Light 的核心参考资料。",
+  "highlights": [
+    "系统讲解 HOL Light 交互式定理证明器的使用方法与核心概念",
+    "涵盖逻辑基础、类型系统、项与公式表示及推理规则",
+    "介绍 tactic 证明策略与形式化数学证明的实践流程",
+    "面向形式化验证与程序正确性研究，是官方核心学习资料"
+  ],
+  "tags": [
+    "Theorem Proving",
+    "Formal Verification",
+    "OCaml",
+    "Interactive Proof",
+    "Logic"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "官方权威教程，对形式化验证与定理证明领域有明确学习价值，但受众较窄、偏学术。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

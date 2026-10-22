@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-22-neural-networks-are-already-clean",
+  "title": "Neural Networks Are Already Clean",
+  "source": "rss",
+  "source_url": "https://already-clean.goodfire.com/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 15 Oct 2026 17:25:03 -0500",
+  "collected_at": "2026-10-22T13:21:10.418697+00:00",
+  "summary": "该链接指向 Goodfire 发布的一个交互式网页项目《Neural Networks Are Already Clean》，讨论神经网络内部表征的可解释性与“清洁度”问题，配套 Lobsters 社区讨论。内容偏向概念演示与观点阐述，而非工程实现或模型发布，适合关注机制可解释性方向的读者参考。",
+  "highlights": [
+    "围绕神经网络内部表征是否已具备可解释的“清洁”结构展开讨论",
+    "以交互式网页形式呈现概念，而非论文或代码库",
+    "配套 Lobsters 社区讨论，可获取多方观点",
+    "涉及机制可解释性与模型内部表示分析方向"
+  ],
+  "tags": [
+    "Interpretability",
+    "NeuralNetworks",
+    "MechanisticInterpretability",
+    "RepresentationLearning"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "主题涉及神经网络可解释性这一重要方向，但内容为概念性网页演示，缺乏可直接复用的技术细节或代码。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

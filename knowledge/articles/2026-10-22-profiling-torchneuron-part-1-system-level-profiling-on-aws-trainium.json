@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-22-profiling-torchneuron-part-1-system-level-profiling-on-aws-trainium",
+  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 21 Oct 2026 16:04:43 GMT",
+  "collected_at": "2026-10-22T13:21:37.516048+00:00",
+  "summary": "本文是 Profiling TorchNeuron 系列的第一部分，介绍如何在 AWS Trainium 上进行系统级性能分析。文章详细说明了使用 Neuron 工具链（如 neuron-profiler）采集系统级指标的方法，涵盖 CPU、内存、设备利用率等维度，帮助开发者定位 PyTorch 模型在 Trainium 加速器上的性能瓶颈，为后续优化提供数据支撑。",
+  "highlights": [
+    "介绍 AWS Trainium 上 TorchNeuron 的系统级性能分析方法",
+    "演示使用 Neuron Profiler 采集 CPU、内存和设备利用率指标",
+    "帮助开发者定位 PyTorch 模型在 Trainium 上的性能瓶颈",
+    "为后续模型优化和调优提供数据基础"
+  ],
+  "tags": [
+    "PyTorch",
+    "AWS Trainium",
+    "Profiling",
+    "Neuron",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容聚焦 AWS Trainium 上的系统级性能分析，对使用该硬件的开发者有实用价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
