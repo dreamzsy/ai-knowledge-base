@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-23-olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole-planet",
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 22 Oct 2026 16:11:31 GMT",
+  "collected_at": "2026-10-23T12:59:41.899400+00:00",
+  "summary": "AllenAI 发布 OlmoEarth v1.3，这是一套面向全球尺度的地球观测嵌入模型，可为任意地表区域生成高质量向量表示。该版本在多项遥感与地理空间任务上达到领先水平，支持土地覆盖分类、变化检测等下游应用，并开放权重与使用示例，降低地球科学领域使用基础模型的门槛。",
+  "highlights": [
+    "面向全球地表覆盖的通用地球观测嵌入模型，支持任意区域推理",
+    "在多项遥感下游任务（分类、变化检测等）上取得领先性能",
+    "由 AllenAI 开源发布，提供权重与 Hugging Face 使用示例",
+    "降低地球科学领域应用基础模型的门槛，便于二次开发"
+  ],
+  "tags": [
+    "Embedding",
+    "Remote Sensing",
+    "Geospatial",
+    "Foundation Model",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "开源且性能领先的地球观测嵌入模型，对遥感与地理空间下游任务有实用价值，但应用领域相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

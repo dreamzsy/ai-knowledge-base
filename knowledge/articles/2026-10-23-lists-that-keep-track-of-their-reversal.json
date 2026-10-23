@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-23-lists-that-keep-track-of-their-reversal",
+  "title": "Lists that keep track of their reversal",
+  "source": "rss",
+  "source_url": "https://grim.cargocut.org/a/rev-list.html",
+  "author": "lobsters_ml",
+  "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+  "collected_at": "2026-10-23T12:59:28.045164+00:00",
+  "summary": "文章介绍一种能记录自身反转操作的数据结构设计，属于编程技巧与数据结构探讨，源自 Lobste.rs 社区讨论。内容偏底层实现与算法思维，适合对函数式数据结构或持久化数据感兴趣的开发者参考，但不涉及 AI 或大模型技术。",
+  "highlights": [
+    "探讨可追踪反转历史的列表数据结构",
+    "属于编程语言与算法层面的技术分享",
+    "源自 Lobste.rs 技术社区讨论",
+    "与 AI/LLM 领域无直接关联"
+  ],
+  "tags": [
+    "DataStructure",
+    "Programming",
+    "Algorithm",
+    "FunctionalProgramming"
+  ],
+  "language": "zh",
+  "score": 0.25,
+  "score_reason": "属于通用编程数据结构技巧，与 AI 技术栈关联度低，仅对特定开发者有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

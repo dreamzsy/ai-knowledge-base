@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-23-what-fde-means-at-openai",
+  "title": "What FDE means at OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/forward-deployed-engineering-means",
+  "author": "openai_blog",
+  "published_at": "Thu, 22 Oct 2026 06:00:00 GMT",
+  "collected_at": "2026-10-23T12:59:35.015768+00:00",
+  "summary": "OpenAI 官方博客介绍其「前向部署工程」（Forward Deployed Engineering, FDE）的含义与运作方式。FDE 指工程师直接嵌入客户现场，与客户团队共同定义问题、快速构建并迭代基于 OpenAI 模型的定制化 AI 解决方案，把模型能力转化为可落地的生产系统。文章阐述了该角色的定位、与销售和产品团队的协作模式，以及其在推动企业级 AI 落地中的作用。",
+  "highlights": [
+    "FDE 工程师驻场客户侧，深度参与问题定义与方案交付",
+    "强调快速原型与迭代，将模型能力转化为生产级应用",
+    "与销售、产品及客户团队紧密协作，形成落地闭环",
+    "体现 OpenAI 面向企业市场的服务模式演进"
+  ],
+  "tags": [
+    "OpenAI",
+    "Enterprise AI",
+    "Solution Engineering",
+    "Deployment",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "有助于理解 OpenAI 企业落地服务模式，但偏组织与流程介绍，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

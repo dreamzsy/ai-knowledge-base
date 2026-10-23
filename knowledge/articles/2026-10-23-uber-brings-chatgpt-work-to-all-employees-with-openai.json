@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-23-uber-brings-chatgpt-work-to-all-employees-with-openai",
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "author": "openai_blog",
+  "published_at": "Thu, 22 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-23T12:59:37.348579+00:00",
+  "summary": "Uber 与 OpenAI 合作，将 ChatGPT Work 推广至超过 3 万名员工，用于研究、数据分析、制作演示文稿及完成复杂工作流。这是大型企业规模化部署生成式 AI 办公工具的典型案例，体现 ChatGPT 从消费级向企业级生产力平台的延伸，也反映 AI 助手深度嵌入企业日常运营的趋势。",
+  "highlights": [
+    "Uber 向 3 万余名员工全面部署 ChatGPT Work",
+    "覆盖研究、数据分析、演示文稿制作与复杂工作流",
+    "OpenAI 企业级产品在大型公司规模化落地的标杆案例",
+    "体现生成式 AI 从个人工具向企业生产力基础设施演进"
+  ],
+  "tags": [
+    "Enterprise",
+    "ChatGPT",
+    "Productivity",
+    "AI Adoption",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "大型企业规模化部署 AI 办公工具具参考价值，但属应用落地新闻，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
