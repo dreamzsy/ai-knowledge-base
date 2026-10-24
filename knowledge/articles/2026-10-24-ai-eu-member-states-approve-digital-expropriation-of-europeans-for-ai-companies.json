@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-24-ai-eu-member-states-approve-digital-expropriation-of-europeans-for-ai-companies",
+  "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+  "source": "rss",
+  "source_url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 23 Oct 2026 08:04:23 -0500",
+  "collected_at": "2026-10-24T12:22:38.143530+00:00",
+  "summary": "欧洲隐私维权组织 noyb 指出，欧盟成员国批准了一项被其称为对欧洲人「数字征收」的 AI 相关决定，允许 AI 公司大规模使用欧洲公民的个人数据。noyb 认为该做法削弱了 GDPR 对个人数据的保护，将公民数据实质上无偿转移给 AI 企业用于模型训练，引发对隐私权、数据主权与 AI 监管平衡的争议。",
+  "highlights": [
+    "noyb 批评欧盟成员国批准对欧洲人数据的「数字征收」，供 AI 公司使用",
+    "争议核心是 GDPR 隐私保护与 AI 训练数据需求之间的冲突",
+    "涉及个人数据被大规模用于 AI 模型训练的合法性与补偿问题",
+    "反映欧盟 AI 监管政策在产业利益与公民权利间的博弈"
+  ],
+  "tags": [
+    "Privacy",
+    "GDPR",
+    "AI Regulation",
+    "Data Governance",
+    "EU Policy"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "涉及欧盟 AI 数据监管与隐私政策的重要动向，对关注合规与数据主权的从业者有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

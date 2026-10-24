@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "What's wrong with AI?",
+    "url": "https://homepage.farm/ai.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vh8l3t/what_s_wrong_with_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 24 Oct 2026 07:09:40 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Listening to Nina Simone in 2036",
+    "url": "https://punkx.org/jackdoe/nina.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;Last night I thought about this world and quickly wrote a short story. Made me feel quite eerie as I was writing. Maybe it will turn into a nice video game.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/gc5cd7/listening_nina_simone_2036\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 24 Oct 2026 05:02:51 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 23 Oct 2026 12:25:34 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 01 Oct 2026 11:29:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "author": "openai_blog",
+    "summary_raw": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "published_at": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "published_at": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "author": "openai_blog",
+    "summary_raw": "Fast, focused, low-cost decisions for any application.",
+    "published_at": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 22 Oct 2026 07:51:31 GMT",
+    "extra": {}
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-24-next-concept-modeling-fast-parallel-coarse-to-fine-text-generation",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.14162",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 23 Oct 2026 12:25:34 -0500",
+  "collected_at": "2026-10-24T12:22:35.349690+00:00",
+  "summary": "该论文提出 Next-Concept Modeling（下一概念建模），一种从粗到细的并行文本生成范式，旨在突破传统自回归逐 token 生成的串行瓶颈。方法先并行生成较粗粒度的概念单元，再逐步细化到具体 token，从而在保持生成质量的同时显著提升推理速度。论文从建模思路、训练目标与解码策略层面给出方案，属于对主流 next-token prediction 范式的结构性改进，对高吞吐文本生成场景具有参考价值。",
+  "highlights": [
+    "提出从粗到细的概念级并行生成框架，替代逐 token 串行解码",
+    "通过概念单元并行化提升生成速度，兼顾文本质量",
+    "对 next-token prediction 范式做结构性改造，而非仅优化推理工程",
+    "面向高吞吐文本生成场景，具备落地潜力"
+  ],
+  "tags": [
+    "Text Generation",
+    "Parallel Decoding",
+    "LLM",
+    "Inference Acceleration"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对自回归生成范式提出有实质意义的并行化改进，思路清晰且具加速价值，但尚缺大规模实证与生态验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

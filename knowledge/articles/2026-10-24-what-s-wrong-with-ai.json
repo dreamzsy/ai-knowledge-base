@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-24-what-s-wrong-with-ai",
+  "title": "What's wrong with AI?",
+  "source": "rss",
+  "source_url": "https://homepage.farm/ai.html",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 24 Oct 2026 07:09:40 -0500",
+  "collected_at": "2026-10-24T12:22:30.000625+00:00",
+  "summary": "该文章是作者对当前 AI 发展现状的批判性思考，从技术、社会与认知角度讨论生成式 AI 存在的问题，如过度炒作、可靠性不足、对就业与信息生态的冲击等，并引发社区在 Lobsters 上的讨论。内容偏观点评论而非技术实现。",
+  "highlights": [
+    "对当前 AI 热潮与宣传话术提出质疑",
+    "讨论生成式 AI 在可靠性与实际价值上的局限",
+    "关注 AI 对社会、就业与信息真实性的影响",
+    "在 Lobsters 社区引发观点性讨论"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "Critique",
+    "Society"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于观点评论类文章，缺乏具体技术方案，但对 AI 局限性的反思有一定参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-24-securing-our-frontier-model-training-environment",
+  "title": "Securing our frontier model training environment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "author": "openai_blog",
+  "published_at": "Fri, 23 Oct 2026 10:00:00 GMT",
+  "collected_at": "2026-10-24T12:22:53.510347+00:00",
+  "summary": "OpenAI 发布文章，介绍其为前沿模型训练与评估环境所做的安全加固工作，重点在于强化隔离与遏制措施，包括构建离线训练环境、限制网络与外部依赖，以及针对高算力场景开展红队测试。文章从工程与安全治理角度说明如何在追求大规模训练效率的同时降低模型失控、数据泄露和内部滥用风险，为前沿 AI 实验室的基础设施安全实践提供参考。",
+  "highlights": [
+    "强化前沿模型训练与评估环境的隔离与遏制机制",
+    "采用离线环境减少外部攻击面与数据外泄风险",
+    "针对高算力训练场景开展红队测试与安全验证",
+    "体现前沿 AI 实验室在基础设施层面的安全治理思路"
+  ],
+  "tags": [
+    "AI Safety",
+    "Security",
+    "Red Teaming",
+    "Infrastructure",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容聚焦前沿模型训练环境的安全实践，具参考价值但偏工程治理、缺少具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
