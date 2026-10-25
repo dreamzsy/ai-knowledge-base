@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-25-build-more-responsive-apps-with-the-decisions-api",
+  "title": "Build more responsive apps with the Decisions API",
+  "source": "rss",
+  "source_url": "https://openai.com/index/decisions-api",
+  "author": "openai_blog",
+  "published_at": "Thu, 22 Oct 2026 19:00:00 GMT",
+  "collected_at": "2026-10-25T12:53:14.816042+00:00",
+  "summary": "OpenAI 发布 Decisions API，面向应用提供快速、聚焦且低成本的小型决策能力，让开发者无需自建复杂模型即可在应用内完成分类、路由或判定等轻量决策，从而提升应用响应速度并降低推理成本。该 API 强调低延迟与按需调用，适合嵌入实时交互流程。",
+  "highlights": [
+    "提供快速、聚焦、低成本的决策类 API 能力",
+    "面向应用内分类、路由、判定等轻量决策场景",
+    "强调低延迟，适合实时交互与响应式应用",
+    "降低开发者自建决策模型的门槛与推理成本"
+  ],
+  "tags": [
+    "OpenAI",
+    "API",
+    "Inference",
+    "Latency",
+    "Application"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "官方推出的实用型推理 API，能显著简化应用内轻量决策并降低成本，但能力范围相对聚焦，非通用大模型突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

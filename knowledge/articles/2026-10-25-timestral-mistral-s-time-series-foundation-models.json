@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-25-timestral-mistral-s-time-series-foundation-models",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/timestral/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 19 Oct 2026 06:47:04 -0500",
+  "collected_at": "2026-10-25T12:52:55.669396+00:00",
+  "summary": "Mistral 发布名为 Timestral 的时间序列基础模型，将大模型范式引入时序预测领域。该模型旨在通过预训练方式统一处理多种时间序列任务，减少针对单一数据集或场景的定制建模工作，并借助 Mistral 的模型工程能力提供可迁移的时序表征。发布内容主要介绍模型定位与能力方向，具体架构细节、基准成绩与开放程度需结合官方页面进一步确认。",
+  "highlights": [
+    "Mistral 将基础模型思路扩展到时间序列领域，推出 Timestral",
+    "面向多场景时序任务，强调预训练表征的可迁移性",
+    "有望减少逐数据集定制建模的成本",
+    "具体架构、评测与开放方式需查阅官方原文确认"
+  ],
+  "tags": [
+    "TimeSeries",
+    "FoundationModel",
+    "Mistral",
+    "Forecasting",
+    "Pretraining"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "头部厂商将基础模型范式引入时序领域具有方向性意义，但实际价值取决于模型开放程度与基准表现。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

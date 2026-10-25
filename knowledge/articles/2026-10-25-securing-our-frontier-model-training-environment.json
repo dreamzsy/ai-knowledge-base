@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-25-securing-our-frontier-model-training-environment",
+  "title": "Securing our frontier model training environment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "author": "openai_blog",
+  "published_at": "Fri, 23 Oct 2026 10:00:00 GMT",
+  "collected_at": "2026-10-25T12:53:10.482620+00:00",
+  "summary": "OpenAI 发布文章，介绍其在前沿模型训练与评估环境中强化隔离与防护的措施，重点包括离线训练环境、高算力红队测试以及防止模型权重与训练数据外泄的工程实践。文章从基础设施安全角度说明如何在追求大规模算力的同时维持严格的访问控制与边界隔离。",
+  "highlights": [
+    "强化前沿模型训练环境的隔离与访问控制，降低权重与数据泄露风险",
+    "采用离线训练与评估环境，切断训练集群与外部网络的直接连通",
+    "开展高算力红队测试，验证防护边界在极端场景下的有效性",
+    "体现前沿实验室在算力规模扩张下的安全工程与合规实践"
+  ],
+  "tags": [
+    "AI Safety",
+    "Security",
+    "Model Training",
+    "Red Teaming",
+    "Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容偏工程实践与安全治理，对关注前沿模型训练安全与隔离设计的团队有参考价值，但缺少具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
