@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-26-trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models",
+  "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.00414",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 19 Oct 2026 07:15:11 -0500",
+  "collected_at": "2026-10-26T14:42:37.240131+00:00",
+  "summary": "该论文提出一种统一框架，将决策树与扩散模型相互关联，实现「树到流、流到树」的双向转换。作者从理论上揭示决策树的分裂结构可视为扩散生成过程的离散化形式，反之扩散模型的连续流也可离散化为树结构。这一统一视角有助于理解两类模型的归纳偏置差异，并为混合建模、可解释生成模型及高效推理提供新思路。",
+  "highlights": [
+    "建立决策树与扩散模型之间的双向理论映射",
+    "将树的分裂路径解释为扩散过程的离散化",
+    "为可解释生成模型与混合架构提供理论基础",
+    "可能推动高效推理与模型压缩的新方法"
+  ],
+  "tags": [
+    "Diffusion Models",
+    "Decision Trees",
+    "Generative Models",
+    "Interpretability",
+    "Theory"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "理论统一视角新颖且具启发性，但尚处早期，实际应用价值有待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

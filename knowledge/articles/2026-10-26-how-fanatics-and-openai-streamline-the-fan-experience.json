@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-26-how-fanatics-and-openai-streamline-the-fan-experience",
+  "title": "How Fanatics and OpenAI streamline the fan experience",
+  "source": "rss",
+  "source_url": "https://openai.com/index/fanatics-streamline-fan-experience",
+  "author": "openai_blog",
+  "published_at": "Mon, 26 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-26T14:42:50.069250+00:00",
+  "summary": "OpenAI 官方博客介绍了体育电商平台 Fanatics 如何借助 OpenAI 技术打造 Shop the Look 功能，帮助球迷搭配比赛日穿搭。该功能在约 3 万件 MLB 商品上测试，互动率提升 10%，展示了生成式 AI 在电商个性化推荐与视觉搭配场景中的落地价值。",
+  "highlights": [
+    "Fanatics 使用 OpenAI 技术构建 Shop the Look 穿搭推荐功能",
+    "测试覆盖约 30,000 件 MLB 官方商品",
+    "测试结果显示用户互动率提升约 10%",
+    "体现生成式 AI 在电商个性化购物体验中的实际业务收益"
+  ],
+  "tags": [
+    "OpenAI",
+    "E-commerce",
+    "Personalization",
+    "Recommendation",
+    "Case Study"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于厂商案例宣传，缺乏技术细节，但提供了可量化的电商 AI 落地效果参考。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

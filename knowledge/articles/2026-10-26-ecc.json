@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-26-ecc",
+  "title": "affaan-m/ECC",
+  "source": "github_trending",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "author": "affaan-m",
+  "published_at": "2026-01-18T00:51:51Z",
+  "collected_at": "2026-10-26T14:41:53.523768+00:00",
+  "summary": "ECC 是一个面向 AI 编码代理的“性能优化系统”，为 Claude Code、Codex、Opencode、Cursor 等代理工具提供技能、本能、记忆、安全与“研究优先”开发能力。它把代理运行时拆成可复用的能力层，试图通过统一 harness 提升代理在真实开发任务中的稳定性与效率，属于代理工程化基础设施方向的开源尝试。",
+  "highlights": [
+    "定位为 agent harness 性能优化系统，而非单一代理产品",
+    "覆盖技能、本能、记忆、安全与研究优先开发五类能力",
+    "兼容 Claude Code、Codex、Opencode、Cursor 等多种代理宿主",
+    "强调跨工具复用，属于代理工程化基础设施层"
+  ],
+  "tags": [
+    "Agent",
+    "Coding Agent",
+    "Memory",
+    "Security",
+    "Harness"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "方向切中代理工程化痛点且跨工具兼容，但项目成熟度与实测效果尚待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 289366,
+    "language": "JavaScript"
+  }
+}
