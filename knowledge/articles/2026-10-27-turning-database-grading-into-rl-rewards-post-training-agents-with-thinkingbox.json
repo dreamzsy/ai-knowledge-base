@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-27-turning-database-grading-into-rl-rewards-post-training-agents-with-thinkingbox",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 22 Oct 2026 22:24:34 GMT",
+  "collected_at": "2026-10-27T13:49:28.965052+00:00",
+  "summary": "微软在 Hugging Face 博客介绍 ThinkingBox，将数据库任务评分转化为强化学习奖励，用于后训练智能体。该方法把数据库操作结果的可验证评分作为 RL 信号，替代人工标注或模型评判，使 Agent 在真实数据环境中通过试错优化决策。文章覆盖训练流程、奖励设计与实验效果，展示了以环境反馈驱动 Agent 能力提升的可行路径。",
+  "highlights": [
+    "将数据库评分结果直接转化为强化学习奖励信号",
+    "面向 Agent 的后训练流程，强调可验证的环境反馈",
+    "减少对人工标注和模型评判奖励的依赖",
+    "在 Hugging Face 博客公开方法与实践细节"
+  ],
+  "tags": [
+    "Agent",
+    "Reinforcement Learning",
+    "Post-Training",
+    "Database",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "提出可验证奖励驱动的 Agent 后训练范式，思路清晰且具可复现性，但应用范围仍偏特定任务。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

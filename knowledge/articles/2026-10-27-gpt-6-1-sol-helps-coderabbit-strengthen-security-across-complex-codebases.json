@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-27-gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases",
+  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+  "author": "openai_blog",
+  "published_at": "Mon, 26 Oct 2026 13:45:00 GMT",
+  "collected_at": "2026-10-27T13:49:19.712554+00:00",
+  "summary": "OpenAI 发布案例，介绍代码审查平台 CodeRabbit 采用 GPT-6.1 Sol 模型构建安全智能体，用于在复杂代码库中排查安全风险。该智能体可自动调查潜在漏洞，并向开发者呈现审查发现与建议修复方案，辅助人工复核，从而提升代码安全审查效率与覆盖面。",
+  "highlights": [
+    "CodeRabbit 基于 GPT-6.1 Sol 构建安全审查智能体",
+    "面向复杂大型代码库进行安全风险调查",
+    "自动生成漏洞发现与修复建议供开发者复核",
+    "体现大模型在代码安全审查场景的落地应用"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "CodeSecurity",
+    "CodeReview",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了前沿模型在代码安全智能体中的实际落地，但属于厂商案例宣传，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

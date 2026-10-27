@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-27-chatgpt-s-expanding-world-of-work",
+  "title": "ChatGPT’s expanding world of work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "author": "openai_blog",
+  "published_at": "Mon, 26 Oct 2026 10:00:00 GMT",
+  "collected_at": "2026-10-27T13:49:21.934002+00:00",
+  "summary": "OpenAI 发布基于 Signals 数据的研究，覆盖近 100 个国家、165 类工作活动，分析人们如何在工作场景中使用 ChatGPT 以及使用模式随时间的变化。该研究从任务与职业维度刻画 AI 在工作中的实际渗透，为理解生成式 AI 对岗位的影响提供数据支撑，属于官方数据洞察而非产品发布。",
+  "highlights": [
+    "覆盖近 100 个国家、165 类工作活动的跨国使用数据",
+    "聚焦 ChatGPT 在工作场景中的实际用途而非泛化讨论",
+    "揭示不同工作活动的使用模式随时间演变趋势",
+    "由 OpenAI 官方发布，具备一手数据参考价值"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "AI Adoption",
+    "Future of Work",
+    "Data Analysis"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "官方一手跨国使用数据对理解 AI 职场渗透有较高参考价值，但偏洞察报告，缺少可直接复用的技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

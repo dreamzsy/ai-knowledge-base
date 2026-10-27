@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-27-greptile-takes-bug-detection-beyond-code-review-with-gpt-6-astra",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "author": "openai_blog",
+  "published_at": "Mon, 26 Oct 2026 22:00:00 GMT",
+  "collected_at": "2026-10-27T13:49:15.538647+00:00",
+  "summary": "Greptile 借助 GPT-6 Astra 将缺陷检测从代码审查扩展到用户工作流测试，利用 Daybreak 强化安全审查，并通过 Codex 减少返工。该方案把 AI 能力嵌入开发流程的多个环节，从静态代码检查走向端到端行为验证，提升缺陷发现覆盖面与修复效率。",
+  "highlights": [
+    "将缺陷检测范围从代码审查扩展到用户工作流级别的测试",
+    "使用 GPT-6 Astra 驱动工作流测试，Daybreak 强化安全审查",
+    "结合 Codex 自动修复以减少返工",
+    "体现 AI 在开发流程中从审查到验证的端到端集成"
+  ],
+  "tags": [
+    "CodeReview",
+    "Agent",
+    "Testing",
+    "Security",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了 AI 代码审查向工作流测试与安全审查延伸的实用集成路径，但缺乏具体效果数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-27-litpivot-developing-research-ideas-through-dynamic-contextualization-within-the-literature-landscape",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/litpivot",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 23 Oct 2026 16:15:50 GMT",
+  "collected_at": "2026-10-27T13:49:24.367622+00:00",
+  "summary": "LitPivot 是 AllenAI 提出的研究方法，用于在文献全景中动态情境化研究想法。它通过将研究想法与相关文献动态关联，帮助研究者定位创新点、发现研究空白并评估想法的新颖性，从而辅助科研构思与文献综述。该方法强调上下文感知的文献定位，可提升研究选题与文献调研的效率。",
+  "highlights": [
+    "将研究想法动态置于文献全景中定位",
+    "辅助发现研究空白与评估新颖性",
+    "面向科研构思与文献综述场景",
+    "由 AllenAI 提出并发布于 Hugging Face 博客"
+  ],
+  "tags": [
+    "Literature",
+    "Research",
+    "NLP",
+    "Contextualization",
+    "AI4Science"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "方法思路对科研辅助有实用价值，但偏概念性介绍，落地效果与评测尚不明确。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

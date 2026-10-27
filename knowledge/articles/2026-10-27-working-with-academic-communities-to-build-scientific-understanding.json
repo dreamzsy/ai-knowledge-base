@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-27-working-with-academic-communities-to-build-scientific-understanding",
+  "title": "Working with academic communities to build scientific understanding",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "author": "openai_blog",
+  "published_at": "Mon, 26 Oct 2026 14:30:00 GMT",
+  "collected_at": "2026-10-27T13:49:17.890423+00:00",
+  "summary": "OpenAI 发布博文，介绍其与学术社区合作推进科学理解的工作，分享了模型在 Kakeya 猜想、指数时间假设（ETH）和量子色动力学（QCD）等前沿数学与物理问题上的结果，并说明研究人员如何验证这些结果并在此基础上继续研究。内容侧重 AI 辅助科学发现的协作模式与可验证性，而非发布新模型或基准。",
+  "highlights": [
+    "模型在 Kakeya 猜想、指数时间假设等纯数学难题上给出结果",
+    "涉及量子色动力学等物理领域，体现跨学科科学应用",
+    "强调研究人员可验证、可复现并在此基础上继续推进",
+    "定位为与学术社区合作推进科学理解，而非产品发布"
+  ],
+  "tags": [
+    "AI4Science",
+    "Mathematics",
+    "Physics",
+    "Research Collaboration"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示 AI 在前沿数学与物理问题上的探索及可验证协作机制，具科研参考价值，但偏方向性介绍、缺少具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
