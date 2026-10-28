@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-28-openai-expands-partnership-with-oracle-to-bring-its-apps-to-chatgpt",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "author": "openai_blog",
+  "published_at": "Tue, 27 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-28T14:44:23.984374+00:00",
+  "summary": "OpenAI 与 Oracle 扩大合作，将 Oracle 业务应用和 AI Agent 集成进 ChatGPT，同时为 Oracle 产品提供 AI 能力支持。此举把企业级应用与对话式 AI 结合，让用户可在 ChatGPT 内直接调用 Oracle 业务系统，并推动 Agent 在企业场景落地，反映 AI 平台与企业软件生态加速融合的趋势。",
+  "highlights": [
+    "Oracle 业务应用与 AI Agent 将接入 ChatGPT 界面",
+    "合作双向：既丰富 ChatGPT 企业能力，也为 Oracle 产品注入 AI",
+    "体现对话式 AI 平台与企业软件生态的深度整合",
+    "利好企业用户在统一入口调用业务系统与智能体"
+  ],
+  "tags": [
+    "Agent",
+    "Enterprise",
+    "Integration",
+    "ChatGPT",
+    "Oracle"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "企业级 AI Agent 与业务系统集成方向明确，但属生态合作公告，技术细节与落地效果尚待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

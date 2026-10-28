@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-28-the-benchmarking-crisis",
+  "title": "The Benchmarking Crisis",
+  "source": "rss",
+  "source_url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 28 Oct 2026 03:32:09 -0500",
+  "collected_at": "2026-10-28T14:44:00.951479+00:00",
+  "summary": "文章《The Benchmarking Crisis》探讨了当前基准测试体系面临的信任危机，指出基准结果常被选择性报告、调优甚至操纵，导致性能对比失真。作者分析了基准设计缺陷、厂商动机与社区复现困难等成因，并呼吁更透明、可复现的评测方法。",
+  "highlights": [
+    "揭示基准测试结果被选择性报告和针对性调优的普遍问题",
+    "分析基准设计缺陷与厂商激励如何共同导致评测失真",
+    "强调可复现性与透明报告对重建评测信任的重要性",
+    "讨论社区在独立验证基准结果方面的困难与应对方向"
+  ],
+  "tags": [
+    "Benchmarking",
+    "Performance",
+    "Reproducibility",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "选题切中评测可信度这一关键痛点，观点有讨论价值，但偏评论性、缺乏具体数据与方案细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

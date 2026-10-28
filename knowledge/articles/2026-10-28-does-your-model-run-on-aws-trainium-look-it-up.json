@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-28-does-your-model-run-on-aws-trainium-look-it-up",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-28T14:44:32.213919+00:00",
+  "summary": "Hugging Face 博客介绍如何查询模型是否支持 AWS Trainium，基于 torch-neuronx 生态。文章提供模型兼容性查询方式，帮助用户在 AWS 自研 AI 芯片上部署和运行模型，降低迁移与适配成本，提升推理性价比。",
+  "highlights": [
+    "提供模型对 AWS Trainium 支持情况的查询方法",
+    "基于 torch-neuronx 框架的适配信息",
+    "帮助用户评估在自研芯片上的部署可行性",
+    "降低模型迁移到 Trainium 的试错成本"
+  ],
+  "tags": [
+    "Trainium",
+    "AWS",
+    "torch-neuronx",
+    "Model Deployment",
+    "Inference"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "对关注 AWS 自研芯片部署的团队有实用参考价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

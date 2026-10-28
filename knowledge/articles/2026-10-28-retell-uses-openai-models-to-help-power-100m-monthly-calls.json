@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-28-retell-uses-openai-models-to-help-power-100m-monthly-calls",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "source": "rss",
+  "source_url": "https://openai.com/index/retell-ai",
+  "author": "openai_blog",
+  "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
+  "collected_at": "2026-10-28T14:44:21.493061+00:00",
+  "summary": "OpenAI 官方博客介绍语音 AI 平台 Retell 使用 OpenAI 模型支撑每月 1 亿次通话。文中称 GPT-6 Astra 在 Retell 的语音智能体基准测试中排名第一，同时 Codex 帮助其实现每位员工 160 万美元的年化营收。内容属于客户案例与产品宣传，展示了语音 Agent 在高并发场景下的工程实践与商业成效。",
+  "highlights": [
+    "Retell 基于 OpenAI 模型支撑每月 1 亿次通话的语音 Agent 服务",
+    "GPT-6 Astra 在 Retell 内部语音智能体基准测试中排名第一",
+    "Codex 辅助研发，使人均年化营收达到 160 万美元",
+    "属于 OpenAI 官方客户案例，偏营销性质，缺少技术细节与评测方法"
+  ],
+  "tags": [
+    "Voice Agent",
+    "OpenAI",
+    "LLM",
+    "Benchmark",
+    "Case Study"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "展示了语音 Agent 大规模落地的商业数据，但为厂商宣传案例，缺乏可复现的技术细节与基准说明。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-28-legora-is-building-the-agentic-operating-system-for-legal-work",
+  "title": "Legora is building the agentic operating system for legal work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+  "author": "openai_blog",
+  "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+  "collected_at": "2026-10-28T14:44:19.410931+00:00",
+  "summary": "Legora 基于 OpenAI 模型、ChatGPT 与 Codex 构建面向法律工作的智能体操作系统，用于加速法律工作流、扩展合同分析能力，并让律师将精力集中于更高价值的工作。该案例展示了通用大模型在垂直专业领域的落地方式，通过智能体编排把文档审阅、合同分析等重复性任务自动化，属于 AI 在专业服务行业的典型应用。",
+  "highlights": [
+    "基于 OpenAI 模型、ChatGPT 和 Codex 构建法律领域智能体操作系统",
+    "聚焦合同分析与法律工作流自动化，提升处理效率",
+    "将律师从重复性任务中解放，转向高价值工作",
+    "体现通用大模型在垂直专业服务场景的落地路径"
+  ],
+  "tags": [
+    "Agent",
+    "LegalTech",
+    "OpenAI",
+    "Workflow Automation",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了智能体在垂直专业领域的实际落地，但属于厂商案例介绍，技术细节与可复用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

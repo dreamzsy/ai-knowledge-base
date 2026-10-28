@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-28-can-we-trust-llms-to-judge-whether-a-research-idea-is-novel",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 27 Oct 2026 16:12:42 GMT",
+  "collected_at": "2026-10-28T14:44:30.371170+00:00",
+  "summary": "该博客介绍 Allen AI 的 Novelty Bench，探讨用 LLM 判断研究想法新颖性是否可靠。文章构建基准测试，对比 LLM 与人类专家在新颖性评估上的一致性和偏差，指出 LLM 存在偏好、校准和可复现性问题，并讨论其在科研评审辅助中的适用边界与风险。",
+  "highlights": [
+    "提出 Novelty Bench 基准，系统评估 LLM 判断研究想法新颖性的能力",
+    "对比 LLM 与人类专家评审结果，揭示模型在评分一致性和偏差上的差异",
+    "分析 LLM 作为科研评审辅助工具的适用边界与潜在风险",
+    "强调新颖性判断的主观性对自动评估带来的挑战"
+  ],
+  "tags": [
+    "LLM",
+    "Benchmark",
+    "Evaluation",
+    "Research",
+    "AI4Science"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "针对 LLM 科研评审可信度这一实际问题提供基准与实证分析，对 AI 辅助科研有参考价值，但应用范围相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

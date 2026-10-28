@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-28-build-specialized-multimodal-models-with-lfm3",
+  "title": "Build specialized multimodal models with LFM3",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 27 Oct 2026 17:16:52 GMT",
+  "collected_at": "2026-10-28T14:44:27.766871+00:00",
+  "summary": "LiquidAI 在 Hugging Face 博客发布 LFM3，介绍如何构建专业化的多模态模型。文章可能涵盖模型架构、训练方法、多模态融合技术及实际应用案例，旨在帮助开发者利用 LFM3 定制高效的多模态 AI 解决方案。",
+  "highlights": [
+    "LFM3 支持构建专业化的多模态模型",
+    "提供多模态融合与训练的技术细节",
+    "展示实际应用案例与最佳实践",
+    "基于 Hugging Face 生态，便于集成与部署"
+  ],
+  "tags": [
+    "Multimodal",
+    "LFM3",
+    "Hugging Face",
+    "Model Training",
+    "AI"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容来自知名平台且聚焦前沿多模态模型构建，具有较高技术参考价值，但缺乏具体描述，评分略保守。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
