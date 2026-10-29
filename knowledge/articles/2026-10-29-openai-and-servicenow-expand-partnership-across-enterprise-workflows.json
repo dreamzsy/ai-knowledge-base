@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-29-openai-and-servicenow-expand-partnership-across-enterprise-workflows",
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "author": "openai_blog",
+  "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
+  "collected_at": "2026-10-29T14:50:32.867256+00:00",
+  "summary": "OpenAI 与 ServiceNow 宣布扩大合作，将 OpenAI 的模型与智能体集成进 ServiceNow 平台及其企业工作流，同时把 ServiceNow 的工作流能力接入 ChatGPT 和 Codex。这一双向整合旨在让企业用户在熟悉的界面中调用 AI 能力，并在 AI 工具中直接触发业务流程，推动企业级 AI 智能体落地。",
+  "highlights": [
+    "OpenAI 模型与 Agent 嵌入 ServiceNow 平台及工作流",
+    "ServiceNow 工作流反向接入 ChatGPT 与 Codex",
+    "双向集成打通企业业务流程与 AI 交互界面",
+    "面向企业级场景的智能体落地合作"
+  ],
+  "tags": [
+    "Agent",
+    "Enterprise",
+    "Workflow",
+    "Integration",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "头部 AI 厂商与企业软件巨头的双向集成，对企业智能体落地有实际推动意义，但属商业合作公告，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

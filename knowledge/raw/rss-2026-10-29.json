@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Claude Code regularly sends each background agent’s transcript to its model",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 501 # Comments: 203",
+    "published_at": "Thu, 29 Oct 2026 03:33:42 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 248 # Comments: 159",
+    "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 473 # Comments: 509",
+    "published_at": "Wed, 28 Oct 2026 13:41:30 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 531 # Comments: 196",
+    "published_at": "Tue, 27 Oct 2026 19:55:06 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zftely/qwenputer_fully_functioning\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 29 Oct 2026 05:00:04 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 23 Oct 2026 12:25:34 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "author": "openai_blog",
+    "summary_raw": "How AI might enter the org chart—beneath, beside, and between us.",
+    "published_at": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora",
+    "author": "openai_blog",
+    "summary_raw": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "author": "openai_blog",
+    "summary_raw": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

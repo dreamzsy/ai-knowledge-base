@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-29-survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "source": "rss",
+  "source_url": "https://www.brangus.io/survival-llm",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 27 Oct 2026 19:55:06 +0000",
+  "collected_at": "2026-10-29T14:50:12.023351+00:00",
+  "summary": "Survival LLM 是一个可在个人电脑本地运行的 AI 助手与应急知识库项目，主打离线可用与自给自足场景。它把大模型推理与本地存储的生存、医疗、应急资料结合，在断网或基础设施失效时仍能提供问答与检索。项目在 Hacker News 获得 531 分、196 条评论，引发关于本地 LLM、离线知识库与应急准备价值的讨论。",
+  "highlights": [
+    "面向断网与灾难场景，强调完全本地化运行，不依赖云服务",
+    "将本地 LLM 推理与离线应急知识库检索结合，兼顾问答与资料查阅",
+    "在 Hacker News 热度较高（531 分、196 评论），社区关注本地 AI 与应急准备",
+    "体现小模型/量化模型在个人电脑上离线部署的可行性趋势"
+  ],
+  "tags": [
+    "Local LLM",
+    "Offline AI",
+    "RAG",
+    "Emergency Preparedness",
+    "Edge AI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "本地离线 LLM 加应急知识库的定位实用且有差异化，社区反响积极，但技术深度与通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

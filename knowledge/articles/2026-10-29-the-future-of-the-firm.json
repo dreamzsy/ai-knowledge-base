@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-29-the-future-of-the-firm",
+  "title": "The future of the firm",
+  "source": "rss",
+  "source_url": "https://openai.com/index/the-future-of-the-firm",
+  "author": "openai_blog",
+  "published_at": "Wed, 28 Oct 2026 10:00:00 GMT",
+  "collected_at": "2026-10-29T14:50:35.237203+00:00",
+  "summary": "OpenAI 发布文章《The future of the firm》，探讨 AI 如何进入组织架构：可能位于人类员工之下（执行具体任务）、旁边（作为协作伙伴）以及之间（连接协调不同角色与流程）。文章从组织设计视角讨论 AI 在企业中的定位与影响，而非发布具体产品或模型，属于面向企业决策者的前瞻性观点内容。",
+  "highlights": [
+    "提出 AI 进入组织架构的三种位置：beneath（下属执行层）、beside（同级协作）、between（跨角色连接与协调）",
+    "从组织设计而非纯技术角度讨论 AI 对企业结构与工作流程的影响",
+    "面向企业管理者与决策者，属于 OpenAI 的企业战略观点输出",
+    "未涉及具体产品或模型发布，偏概念性与前瞻性讨论"
+  ],
+  "tags": [
+    "Enterprise",
+    "OrgDesign",
+    "AIAdoption",
+    "FutureOfWork",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "提供了 AI 融入企业组织架构的有益概念框架，但偏观点性、缺乏具体数据与可操作方案，实用价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

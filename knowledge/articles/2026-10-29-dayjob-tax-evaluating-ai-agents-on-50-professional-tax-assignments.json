@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-29-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assignments",
+  "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "source": "rss",
+  "source_url": "https://surgehq.ai/blog/dayjob-tax",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
+  "collected_at": "2026-10-29T14:50:07.285528+00:00",
+  "summary": "Surge AI 发布 Dayjob: Tax 基准，用 50 个真实专业税务任务评估 AI 智能体在专业服务场景中的表现。该基准强调端到端完成复杂税务工作，而非单轮问答，覆盖资料检索、计算、合规判断与文档产出等环节。文章给出各模型/智能体得分与失败模式分析，并在 Hacker News 引发关于 AI 替代专业岗位、评测可靠性与基准饱和的讨论。",
+  "highlights": [
+    "构建 50 个真实税务专业任务，考察端到端交付而非单点问答",
+    "聚焦专业服务场景，检验检索、计算、合规推理与文档生成的组合能力",
+    "公开各 AI 智能体表现与典型失败模式，便于横向对比",
+    "在 HN 引发关于 AI 替代白领岗位与专业基准设计的热议"
+  ],
+  "tags": [
+    "Agent",
+    "Benchmark",
+    "Evaluation",
+    "ProfessionalServices",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "提供了面向真实专业服务的高难度智能体评测基准与失败模式洞察，对 Agent 能力评估有参考价值，但领域较窄且样本量有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

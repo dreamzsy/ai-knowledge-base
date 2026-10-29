@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-29-claude-code-regularly-sends-each-background-agent-s-transcript-to-its-model",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "source": "rss",
+  "source_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 29 Oct 2026 03:33:42 +0000",
+  "collected_at": "2026-10-29T14:50:04.692494+00:00",
+  "summary": "该内容披露 Claude Code 会定期将每个后台代理的完整对话记录（transcript）发送给其模型，引发对隐私、数据留存与代理架构透明度的讨论。HN 上获得 501 分、203 条评论，社区关注点集中在后台代理的上下文上传频率、用户知情权以及企业环境下的合规风险。",
+  "highlights": [
+    "Claude Code 会周期性上传后台代理的完整 transcript 至模型侧",
+    "HN 热度高（501 分/203 评论），反映开发者对代理数据流向的敏感",
+    "涉及后台 Agent 架构中上下文管理与隐私边界的透明度问题",
+    "对企业合规、敏感代码库使用场景提出数据外泄风险警示"
+  ],
+  "tags": [
+    "Agent",
+    "Claude",
+    "Privacy",
+    "LLM",
+    "DeveloperTools"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "揭示了主流编码代理的数据上传行为，对隐私与合规评估有实际参考价值，但属行为披露而非技术方案创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
