@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-30-how-we-detect-frontier-model-misalignment",
+  "title": "How we detect frontier model misalignment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "author": "openai_blog",
+  "published_at": "Thu, 29 Oct 2026 09:00:00 GMT",
+  "collected_at": "2026-10-30T14:43:42.428783+00:00",
+  "summary": "OpenAI 介绍了其用于检测前沿模型失准（misalignment）与未授权智能体行为的分层监控体系。该体系通过多层监测手段，在事件升级前为响应人员提供干预窗口，强调对前沿模型行为的持续可见性与早期预警能力，属于模型安全与对齐工程实践。",
+  "highlights": [
+    "采用分层监控架构检测前沿模型的失准行为",
+    "覆盖未授权智能体行为的识别与追踪",
+    "目标是在事件升级前实现及时人工干预",
+    "体现模型安全运营中的持续监控与响应机制"
+  ],
+  "tags": [
+    "AI Safety",
+    "Alignment",
+    "Monitoring",
+    "Agent",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "聚焦前沿模型失准检测的工程化监控实践，对 AI 安全运营有参考价值，但偏重方法论概述而非具体技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

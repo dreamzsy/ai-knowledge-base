@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-30-introducing-anyspeechrecognizer-and-anydecisionmodel-open-models-for-speech-and-decisions-on-apple-platforms",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/anydecisionmodel",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-30T14:43:55.279077+00:00",
+  "summary": "Hugging Face 博客介绍 AnySpeechRecognizer 与 AnyDecisionModel 两个开源模型，面向 Apple 平台（iOS/macOS）的语音识别与决策任务，强调本地运行与隐私保护，为 Apple 生态开发者提供可直接集成的开源方案。",
+  "highlights": [
+    "发布 AnySpeechRecognizer 与 AnyDecisionModel 两个开源模型",
+    "面向 Apple 平台，支持 iOS/macOS 本地推理",
+    "覆盖语音识别与决策两类任务",
+    "降低 Apple 开发者集成开源 AI 的门槛"
+  ],
+  "tags": [
+    "SpeechRecognition",
+    "OnDeviceAI",
+    "Apple",
+    "OpenSource",
+    "DecisionModel"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "填补 Apple 平台本地语音与决策开源模型的空白，实用性强但影响范围限于 Apple 生态。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

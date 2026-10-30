@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-30-concurrentml-improving-on-go-s-concurrency-model",
+  "title": "ConcurrentML: Improving on Go's concurrency model",
+  "source": "rss",
+  "source_url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+  "collected_at": "2026-10-30T14:43:35.794129+00:00",
+  "summary": "文章探讨 ConcurrentML（CML）如何改进 Go 的并发模型。CML 源自 Racket/Scheme 生态，以一等可组合事件（event）和同步通道抽象取代 Go 的 goroutine + channel 组合，强调并发原语的可组合性与结构化并发。作者对比两者在表达力、死锁与取消语义上的差异，认为 CML 的事件组合机制能更优雅地构建复杂同步逻辑。",
+  "highlights": [
+    "介绍 ConcurrentML 的一等事件（first-class event）与可组合同步原语",
+    "对比 Go 的 goroutine/channel 模型在组合性与取消语义上的局限",
+    "讨论 CML 在 Racket 中的实现及结构化并发优势",
+    "指出 Go 并发模型在复杂同步场景下的表达力不足"
+  ],
+  "tags": [
+    "Concurrency",
+    "Go",
+    "Racket",
+    "Programming Languages",
+    "Structured Concurrency"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "对并发模型设计有启发性的对比分析，但偏语言理论探讨，工程落地价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

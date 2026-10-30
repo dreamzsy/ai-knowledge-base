@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-30-llm-voice",
+  "title": "LLM Voice",
+  "source": "rss",
+  "source_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 29 Oct 2026 14:57:55 +0000",
+  "collected_at": "2026-10-30T14:43:17.182009+00:00",
+  "summary": "Martin Fowler 的 bliki 文章《LLM Voice》探讨大语言模型在软件设计与架构语境中的“声音”或表达风格问题，讨论 LLM 生成内容与人类作者风格之间的差异与影响。文章在 Hacker News 获得 537 分和 286 条评论，引发关于 AI 辅助写作、代码生成与架构表达方式的广泛讨论。",
+  "highlights": [
+    "Martin Fowler 从软件架构视角讨论 LLM 的表达风格与“声音”问题",
+    "文章在 Hacker News 引发高热度讨论（537 分、286 条评论）",
+    "涉及 AI 生成内容与人类作者风格差异及其对技术写作的影响",
+    "反映资深技术人对 LLM 在软件工程实践中角色的思考"
+  ],
+  "tags": [
+    "LLM",
+    "SoftwareArchitecture",
+    "AIWriting",
+    "TechEthics"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "来自权威技术作者且社区讨论热烈，但偏观点性文章，直接工程价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

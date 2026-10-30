@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-30-how-ropes-gray-is-developing-ai-for-transactional-diligence",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "author": "openai_blog",
+  "published_at": "Thu, 29 Oct 2026 07:00:00 GMT",
+  "collected_at": "2026-10-30T14:43:44.595523+00:00",
+  "summary": "Ropes & Gray 律师事务所与 OpenAI 合作开发面向交易尽职调查的 AI 工具。该系统对文件进行分组、生成摘要和报告，由律师审阅后再向客户提供法律建议，体现法律行业中 AI 辅助与人工复核结合的工作流模式。",
+  "highlights": [
+    "律所与 OpenAI 合作，将 AI 应用于交易尽职调查场景",
+    "AI 负责文件分组、摘要生成与报告输出，提升审阅效率",
+    "律师保留最终审阅与客户咨询环节，形成人机协作流程",
+    "反映生成式 AI 在专业法律服务中的落地路径"
+  ],
+  "tags": [
+    "LegalTech",
+    "LLM",
+    "Enterprise",
+    "Workflow",
+    "Summarization"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "展示了 LLM 在专业法律尽调中的实际落地与人工复核机制，但缺乏技术细节与量化效果。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

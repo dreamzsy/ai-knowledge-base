@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-30-claude-code-regularly-sends-each-background-agent-s-transcript-to-its-model",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "source": "rss",
+  "source_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 29 Oct 2026 03:33:42 +0000",
+  "collected_at": "2026-10-30T14:43:19.214691+00:00",
+  "summary": "该内容指向一份 Gist 与 Hacker News 讨论，指出 Claude Code 会定期将每个后台 agent 的完整对话记录（transcript）发送给其模型。讨论热度较高（569 分、232 条评论），关注点集中在后台 agent 的上下文上传频率、隐私与数据边界、token 消耗与成本，以及这种设计对 agent 编排与可观测性的影响。",
+  "highlights": [
+    "Claude Code 会周期性把每个后台 agent 的 transcript 上传给模型",
+    "HN 讨论热度高，反映开发者对隐私与数据边界的担忧",
+    "涉及后台 agent 的上下文管理、token 成本与可观测性",
+    "引发对 agent 编排设计中透明度和用户知情权的讨论"
+  ],
+  "tags": [
+    "Agent",
+    "Claude",
+    "Privacy",
+    "ContextManagement",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "揭示了主流编码 agent 的后台数据上传机制，对隐私与 agent 设计有实际参考价值，但属讨论性内容而非完整技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

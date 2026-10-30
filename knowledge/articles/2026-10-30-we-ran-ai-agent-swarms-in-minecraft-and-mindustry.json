@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-30-we-ran-ai-agent-swarms-in-minecraft-and-mindustry",
+  "title": "We ran AI agent swarms in Minecraft and Mindustry",
+  "source": "rss",
+  "source_url": "https://labs.ycombinator.com/projects/games/index.html",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 29 Oct 2026 21:40:28 +0000",
+  "collected_at": "2026-10-30T14:43:15.034443+00:00",
+  "summary": "YC 实验室在 Minecraft 和 Mindustry 两款游戏中运行 AI agent 群体（swarm），探索多智能体协作与游戏环境下的自主决策能力。项目在 Hacker News 获得 344 分、140 条评论，引发对 agent 群体行为、涌现协作及评测基准的讨论。",
+  "highlights": [
+    "在 Minecraft 与 Mindustry 两个开放游戏环境中部署 AI agent 群体",
+    "聚焦多智能体协作、任务分工与涌现行为",
+    "以游戏作为 agent 能力评测与压力测试平台",
+    "HN 高热度讨论，反映社区对 agent swarm 方向的关注"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "GameAI",
+    "Swarm",
+    "Benchmark"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "游戏环境下的多智能体群体实验具有评测与工程参考价值，但偏探索性、落地深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-30-compile-time-dependent-types",
+  "title": "Compile-Time Dependent Types",
+  "source": "rss",
+  "source_url": "https://thenumb.at/Syl-Intro/",
+  "author": "lobsters_ml",
+  "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+  "collected_at": "2026-10-30T14:43:30.946354+00:00",
+  "summary": "该文章介绍 Syl 语言中编译期依赖类型的实现思路，探讨如何在编译阶段利用依赖类型进行更强的静态检查与程序验证，属于编程语言理论与类型系统方向的技术分享，而非 AI 应用类内容。",
+  "highlights": [
+    "讨论编译期依赖类型（dependent types）的语言设计与实现",
+    "以 Syl 语言为示例展示类型系统能力",
+    "涉及静态检查与程序正确性验证",
+    "来自 Lobsters 社区的技术讨论与评论"
+  ],
+  "tags": [
+    "TypeSystems",
+    "ProgrammingLanguages",
+    "CompileTime",
+    "StaticAnalysis"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "属于编程语言类型理论内容，与 AI 技术关联较弱，但对类型系统研究者有一定参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
