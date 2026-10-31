@@ -1,0 +1,28 @@
+{
+  "id": "2026-10-31-llm-voice",
+  "title": "LLM Voice",
+  "source": "rss",
+  "source_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 29 Oct 2026 14:57:55 +0000",
+  "collected_at": "2026-10-31T14:06:25.202740+00:00",
+  "summary": "Martin Fowler 的 bliki 文章《LLM Voice》探讨大语言模型在软件系统中的“声音”或表达风格问题，讨论如何让 LLM 输出符合特定语境、角色与团队规范，而非千篇一律的通用腔调。文章结合工程实践视角，分析提示设计、风格约束与可维护性，引发 HN 上关于 AI 生成内容一致性与人机协作的广泛讨论。",
+  "highlights": [
+    "从软件工程视角讨论 LLM 输出的风格与语气控制",
+    "强调提示设计与风格约束对可维护性的影响",
+    "关注 AI 生成内容的一致性与团队规范契合",
+    "在 Hacker News 引发 331 条关于人机协作的讨论"
+  ],
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Software Design",
+    "AI Writing"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "来自知名工程思想领袖的实践性观点，对 LLM 应用设计有启发，但偏评论性而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

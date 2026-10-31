@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-31-ai-isn-t-replacing-sres-it-s-deskilling-them",
+  "title": "AI isn't replacing SREs, it's deskilling them",
+  "source": "rss",
+  "source_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 30 Oct 2026 15:52:18 +0000",
+  "collected_at": "2026-10-31T14:06:20.634380+00:00",
+  "summary": "本文探讨 AI 对站点可靠性工程（SRE）的影响，指出 AI 并未直接取代 SRE，而是通过自动化日常运维、告警分析和故障排查，逐步削弱工程师对系统底层原理的理解与手动排障能力，形成“去技能化”风险。文章结合 HN 高热度讨论，反思过度依赖 AI 工具对运维团队长期能力建设的隐患。",
+  "highlights": [
+    "AI 更多是替代 SRE 的日常操作而非岗位本身，导致技能退化",
+    "自动化告警与根因分析削弱工程师对系统底层的理解",
+    "HN 讨论热度高（611 分、459 评论），反映行业普遍关注",
+    "呼吁在采用 AI 工具时保留手动排障与深度学习机制"
+  ],
+  "tags": [
+    "SRE",
+    "AIOps",
+    "Observability",
+    "Automation",
+    "Engineering Culture"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "视角独特且讨论热度高，对运维团队引入 AI 工具的能力风险有现实警示价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

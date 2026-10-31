@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-31-announcing-project-protostar-making-publicly-funded-science-ai-ready",
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/announcing-project-protostar",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-31T14:06:58.672878+00:00",
+  "summary": "Hugging Face 发布 Project ProtoStar，旨在将公共资助的科研成果转化为 AI 可用数据。项目通过标准化格式、开放许可与元数据整理，让论文、数据集和实验记录更易被大模型检索与训练，从而提升科学领域 AI 的可复现性与开放度，推动公共科研资源在 AI 时代的再利用。",
+  "highlights": [
+    "将公共资助科研产出整理为 AI-Ready 结构化数据",
+    "强调开放许可与元数据标准化以支持模型训练",
+    "提升科学研究的可复现性与数据可发现性",
+    "由 Hugging Face 主导，面向开放科学社区协作"
+  ],
+  "tags": [
+    "OpenScience",
+    "Dataset",
+    "LLM",
+    "DataCuration",
+    "HuggingFace"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "聚焦开放科学数据基础设施，方向有价值但尚处项目启动阶段，实际影响待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

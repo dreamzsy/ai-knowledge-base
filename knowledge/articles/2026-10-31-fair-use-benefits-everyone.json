@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-31-fair-use-benefits-everyone",
+  "title": "Fair use benefits everyone",
+  "source": "rss",
+  "source_url": "https://openai.com/index/fair-use-benefits-everyone",
+  "author": "openai_blog",
+  "published_at": "Fri, 30 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-10-31T14:06:50.552238+00:00",
+  "summary": "OpenAI 发布文章，汇总创作者、学者、无障碍倡导者与法律专家在法庭简报中的观点，论证合理使用（fair use）原则如何支撑 AI 训练与创新。文章强调合理使用不仅利于 AI 开发者，也惠及创作者和公众，是 AI 生态发展的法律基础。内容属于政策与法律立场表达，未涉及具体技术方案或产品更新。",
+  "highlights": [
+    "汇总多方（创作者、学者、无障碍倡导者、法律专家）法庭简报观点",
+    "核心论点是合理使用原则支撑 AI 训练与创新",
+    "强调合理使用对创作者与公众同样有益",
+    "属于 OpenAI 的政策与法律立场宣示，非技术发布"
+  ],
+  "tags": [
+    "Policy",
+    "Copyright",
+    "FairUse",
+    "LLM",
+    "Regulation"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于法律政策立场宣示，对关注 AI 版权与合规的读者有参考价值，但无技术或产品增量信息。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
