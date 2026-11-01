@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-01-an-updated-model-spec-for-more-capable-and-beneficial-ai",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/updated-model-spec",
+  "author": "openai_blog",
+  "published_at": "Thu, 29 Oct 2026 17:00:00 GMT",
+  "collected_at": "2026-11-01T14:39:25.725287+00:00",
+  "summary": "OpenAI 发布更新版 Model Spec，提出五项核心价值，用于指导能力更强的 AI 模型形成合理判断、尊重人类自主性并忠实于人类意图。该规范属于模型行为准则层面的治理文档，为模型对齐、安全评估与产品行为设计提供原则性框架，而非具体技术实现或开源代码。",
+  "highlights": [
+    "提出五项核心价值，覆盖判断力、人类自主性与意图忠实度",
+    "面向能力更强的 AI 模型，强调行为准则而非能力提升",
+    "为模型对齐与安全评估提供原则性参考框架",
+    "属于治理与规范类文档，不含具体技术实现细节"
+  ],
+  "tags": [
+    "AI Safety",
+    "Alignment",
+    "Model Spec",
+    "Governance",
+    "Policy"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "对齐治理方向有参考价值，但属原则性规范文档，缺乏可直接落地的技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

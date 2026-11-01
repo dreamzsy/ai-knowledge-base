@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-01-welcome-le-chonk-mistral-large-4-on-hugging-face",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/mistral-large4",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+  "collected_at": "2026-11-01T14:39:34.764005+00:00",
+  "summary": "Hugging Face 发布博客欢迎 Mistral Large 4（代号 Le Chonk）上线，介绍该模型在 Hugging Face 平台上的可用性、部署方式与生态集成。作为 Mistral 新一代旗舰大模型，它面向通用推理、多语言与长上下文任务，可通过 Transformers、推理端点等方式调用，进一步丰富了开源与开放权重模型生态。",
+  "highlights": [
+    "Mistral Large 4（Le Chonk）正式登陆 Hugging Face 模型库",
+    "提供 Transformers 与推理端点等便捷调用方式",
+    "定位旗舰级通用大模型，强调推理与多语言能力",
+    "强化 Hugging Face 与 Mistral 的开放模型生态合作"
+  ],
+  "tags": [
+    "LLM",
+    "Mistral",
+    "Hugging Face",
+    "Model Release"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "旗舰级开放模型上线主流平台，对开发者选型与部署有实际参考价值，但属常规发布而非突破性技术。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

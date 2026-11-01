@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-01-nemotron-halloween",
+  "title": "nemotron-halloween",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 30 Oct 2026 17:57:24 GMT",
+  "collected_at": "2026-11-01T14:39:27.702375+00:00",
+  "summary": "NVIDIA 在 Hugging Face 博客发布 nemotron-halloween 项目，围绕 Nemotron 模型展开万圣节主题的创意演示。内容展示如何利用开源模型生成节日风格文本或互动体验，体现 Nemotron 在趣味场景中的可玩性与定制能力，为开发者提供模型微调与提示工程的参考示例。",
+  "highlights": [
+    "基于 NVIDIA Nemotron 开源模型的节日主题创意应用",
+    "展示模型在趣味内容生成与互动场景中的定制能力",
+    "为开发者提供提示工程与模型微调的实践参考"
+  ],
+  "tags": [
+    "LLM",
+    "Nemotron",
+    "NVIDIA",
+    "Prompt Engineering",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于趣味性演示内容，技术深度有限，但对了解 Nemotron 应用场景有一定参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

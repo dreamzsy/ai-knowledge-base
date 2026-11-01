@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-01-making-it-easier-for-websites-to-express-ai-training-preferences",
+  "title": "Making it easier for websites to express AI training preferences",
+  "source": "rss",
+  "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "author": "openai_blog",
+  "published_at": "Fri, 30 Oct 2026 09:30:00 GMT",
+  "collected_at": "2026-11-01T14:39:19.329474+00:00",
+  "summary": "OpenAI 宣布将遵循共享的 robots.txt 信号，使网站运营者能通过标准化方式向参与该机制的 AI 提供商表达其内容是否可用于 AI 训练。这一举措旨在为网站与 AI 公司之间建立更透明、可扩展的偏好沟通渠道，减少逐家协商的成本，并推动行业在数据使用与版权合规方面形成共识。",
+  "highlights": [
+    "OpenAI 承诺遵循共享的 robots.txt 信号表达 AI 训练偏好",
+    "为网站运营者提供标准化、可扩展的偏好声明方式",
+    "降低网站与多家 AI 提供商逐一协商的成本",
+    "推动 AI 训练数据使用的透明度与行业共识"
+  ],
+  "tags": [
+    "AI-Training",
+    "robots.txt",
+    "Data-Governance",
+    "Web-Standards",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "推动 AI 训练数据偏好标准化，具行业示范意义，但实际约束力依赖各提供商自愿参与。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

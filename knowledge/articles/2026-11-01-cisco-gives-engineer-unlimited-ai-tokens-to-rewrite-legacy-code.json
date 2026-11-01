@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-01-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code",
+  "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+  "source": "rss",
+  "source_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 30 Oct 2026 14:08:20 +0000",
+  "collected_at": "2026-11-01T14:38:59.363468+00:00",
+  "summary": "《财富》报道称，思科总裁 Jeetu Patel 向一名 27 岁的 Z 世代工程师提供不限量的 AI token，用于重写遗留代码，引发 Hacker News 上 310 分、382 条评论的热议。该案例展示了企业以“token 预算不设上限”的方式推动 AI 辅助现代化改造，同时折射出 AI 对入门级工程岗位、人才培养路径与遗留系统维护模式的冲击。",
+  "highlights": [
+    "思科以不限量 AI token 作为激励，让年轻工程师主导遗留代码重写",
+    "案例在 Hacker News 获 310 分、382 条评论，争议集中在入门岗位与 AI 替代",
+    "反映企业将 AI 编码成本视为可无限投入的生产要素，而非需精细核算的预算",
+    "讨论延伸至 Z 世代工程师成长路径、代码质量与遗留系统风险"
+  ],
+  "tags": [
+    "LLM",
+    "CodeGeneration",
+    "LegacyModernization",
+    "EnterpriseAI",
+    "DeveloperProductivity"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于行业现象与组织实践报道，对理解企业 AI 编码落地与岗位影响有参考价值，但缺乏技术细节与可复用方法。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
