@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-02-introducing-the-grid-protectors-program",
+  "title": "Introducing the Grid Protectors Program",
+  "source": "rss",
+  "source_url": "https://openai.com/index/grid-protectors-program",
+  "author": "openai_blog",
+  "published_at": "Mon, 02 Nov 2026 15:00:00 GMT",
+  "collected_at": "2026-11-02T17:37:10.167609+00:00",
+  "summary": "OpenAI 推出 Grid Protectors Program，计划与电力公司合作，使未来大规模 AI 算力园区在建设和运营中支持电网可靠性，并保护普通消费者的电费不被推高。该计划聚焦算力基础设施与能源系统的协同，回应 AI 数据中心用电激增带来的电网压力与成本转嫁争议，体现 OpenAI 在能源可持续与公共责任方面的布局。",
+  "highlights": [
+    "OpenAI 联合公用事业公司，保障未来算力园区不损害电网稳定性",
+    "明确以保护居民电费为目标的公共承诺",
+    "回应 AI 数据中心高能耗引发的电网压力与成本争议",
+    "为大规模 AI 基础设施的能源合规与社区关系铺路"
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Energy",
+    "Data Center",
+    "Sustainability",
+    "Policy"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "体现 AI 算力扩张与能源责任的结合，具行业示范意义，但缺乏具体执行细节与技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

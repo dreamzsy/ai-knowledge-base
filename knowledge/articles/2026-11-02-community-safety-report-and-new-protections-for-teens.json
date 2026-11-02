@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-02-community-safety-report-and-new-protections-for-teens",
+  "title": "Community safety report and new protections for teens",
+  "source": "rss",
+  "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "author": "openai_blog",
+  "published_at": "Fri, 30 Oct 2026 09:00:00 GMT",
+  "collected_at": "2026-11-02T17:37:14.239860+00:00",
+  "summary": "OpenAI 发布社区安全报告，并宣布针对青少年的新保护措施。核心是加强 ChatGPT 的暴力预防能力：扩展安全防护机制、提前干预潜在风险对话，并承诺定期公开安全报告。这体现 OpenAI 在模型安全与青少年保护上的持续投入，属于政策与产品安全层面的更新，而非模型能力发布。",
+  "highlights": [
+    "扩展 ChatGPT 暴力预防安全防护机制",
+    "对高风险对话实施更早干预",
+    "新增面向青少年的专门保护措施",
+    "承诺持续发布公共安全报告"
+  ],
+  "tags": [
+    "AI Safety",
+    "Content Moderation",
+    "ChatGPT",
+    "Trust and Safety"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于 AI 安全治理与青少年保护的重要政策更新，但无技术细节或模型能力突破，实用参考价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

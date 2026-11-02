@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-02-the-ai-cost-of-javascript-frameworks",
+  "title": "The AI cost of JavaScript frameworks",
+  "source": "rss",
+  "source_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "author": "hacker_news_best",
+  "published_at": "Sun, 01 Nov 2026 06:06:19 +0000",
+  "collected_at": "2026-11-02T17:36:50.802522+00:00",
+  "summary": "Nolan Lawson 的文章探讨 JavaScript 框架在 AI 时代的隐性成本：框架特有的抽象与约定会消耗更多 LLM token，并降低代码生成与理解准确率。文章结合 HN 热议，讨论框架选择对 AI 辅助开发效率、上下文窗口占用和工具链兼容性的影响，主张在 AI 编码普及背景下重新评估框架复杂度与可预测性。",
+  "highlights": [
+    "框架特有抽象和约定会增加 LLM 生成与理解代码时的 token 消耗",
+    "代码可预测性和简洁性直接影响 AI 辅助开发的准确率",
+    "框架复杂度成为 AI 编码时代新的选型考量维度",
+    "引发 HN 社区对前端框架生态与 AI 工具链适配的广泛讨论"
+  ],
+  "tags": [
+    "JavaScript",
+    "LLM",
+    "Frontend",
+    "DeveloperExperience",
+    "CodeGeneration"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "选题新颖且具实践参考价值，将前端框架选型与 AI 编码成本联系起来，但偏观点讨论、缺乏系统量化数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

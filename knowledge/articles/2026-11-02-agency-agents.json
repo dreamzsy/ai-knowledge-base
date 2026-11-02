@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-02-agency-agents",
+  "title": "msitarzewski/agency-agents",
+  "source": "github_trending",
+  "source_url": "https://github.com/msitarzewski/agency-agents",
+  "author": "msitarzewski",
+  "published_at": "2025-10-13T12:12:29Z",
+  "collected_at": "2026-11-02T17:36:41.642082+00:00",
+  "summary": "agency-agents 是一个开源的多智能体集合项目，将 AI 能力按角色拆分为前端专家、社区运营、创意注入、现实校验等专职 Agent，每个 Agent 都具备独立人格设定、工作流程和可交付成果模板，目标是让用户像使用一家完整 AI 代理机构一样按需调用不同专家角色完成任务。",
+  "highlights": [
+    "以角色化方式组织多个专职 Agent，覆盖前端开发、社区运营、创意生成与方案校验等场景",
+    "每个 Agent 均定义人格、流程与可交付物，强调产出导向而非单纯对话",
+    "定位为“一站式 AI 代理机构”，便于按任务类型选择对应专家",
+    "属于多智能体角色编排类开源实践，可参考其角色设计思路"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "Prompt-Engineering",
+    "Open-Source"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "角色化多智能体设计思路有参考价值，但项目偏提示词与角色模板集合，技术深度和工程完备性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 166081,
+    "language": "Shell"
+  }
+}

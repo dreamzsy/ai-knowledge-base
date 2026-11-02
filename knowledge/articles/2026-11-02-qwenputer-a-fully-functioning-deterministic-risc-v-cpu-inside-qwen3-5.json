@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-02-qwenputer-a-fully-functioning-deterministic-risc-v-cpu-inside-qwen3-5",
+  "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "source": "rss",
+  "source_url": "https://divagr.com/blog/qwenputer",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 29 Oct 2026 05:00:04 -0500",
+  "collected_at": "2026-11-02T17:36:57.058762+00:00",
+  "summary": "该项目展示了一个名为 Qwenputer 的实验：在 Qwen3.5 大模型内部实现一个完整、确定性的 RISC-V CPU 模拟。作者通过让模型以确定性方式执行指令级模拟，使 CPU 行为可复现，而非依赖随机采样。这一尝试探索了 LLM 作为计算基底的可行性，以及用模型内部状态承载传统计算逻辑的边界，对理解 LLM 推理能力与确定性执行有启发意义。",
+  "highlights": [
+    "在 Qwen3.5 模型内部实现完整可运行的 RISC-V CPU 模拟",
+    "强调确定性执行，指令级行为可复现而非随机采样",
+    "探索 LLM 作为通用计算基底的可行性与边界",
+    "属于趣味性/研究性实验，非生产级方案"
+  ],
+  "tags": [
+    "LLM",
+    "RISC-V",
+    "Emulation",
+    "Determinism",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "创意新颖且具研究趣味，但偏实验性演示，实际工程价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

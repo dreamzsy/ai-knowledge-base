@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-02-building-fine-grained-version-control-for-agents-with-rust-and-durable-objects",
+  "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+  "source": "rss",
+  "source_url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 30 Oct 2026 11:50:44 -0500",
+  "collected_at": "2026-11-02T17:36:55.005716+00:00",
+  "summary": "Delta 团队介绍如何用 Rust 与 Cloudflare Durable Objects 为 AI Agent 构建细粒度版本控制，记录 Agent 每一步状态变更，支持回溯、对比与回滚，解决长任务中不可预测修改难以审计的问题。",
+  "highlights": [
+    "用 Rust 实现高性能版本控制核心逻辑",
+    "基于 Durable Objects 提供强一致的状态存储与协调",
+    "面向 Agent 的细粒度变更追踪，支持回溯与回滚",
+    "解决长时任务中 Agent 行为难以审计与复现的痛点"
+  ],
+  "tags": [
+    "Agent",
+    "VersionControl",
+    "Rust",
+    "DurableObjects",
+    "Cloudflare"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "切入 Agent 可观测与可回滚的真实工程痛点，方案具体且可复用，但属早期实践分享，生态影响待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

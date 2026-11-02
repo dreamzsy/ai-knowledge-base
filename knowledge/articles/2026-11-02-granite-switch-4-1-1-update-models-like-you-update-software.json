@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-02-granite-switch-4-1-1-update-models-like-you-update-software",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 29 Oct 2026 13:37:07 GMT",
+  "collected_at": "2026-11-02T17:37:20.010802+00:00",
+  "summary": "IBM Granite 团队发布 Granite Switch 4.1.1，提出将模型更新类比软件更新的理念，强调模型版本应像软件补丁一样可追踪、可替换、可回滚。该方案面向企业级 Granite 模型部署，提供更规范的模型生命周期管理方式，降低升级风险并提升可维护性。",
+  "highlights": [
+    "提出“像更新软件一样更新模型”的模型生命周期管理理念",
+    "强调模型版本的可追踪、可替换与可回滚能力",
+    "面向 IBM Granite 企业级模型部署场景",
+    "降低模型升级带来的运维风险与迁移成本"
+  ],
+  "tags": [
+    "Model Management",
+    "LLM",
+    "MLOps",
+    "IBM Granite",
+    "Model Lifecycle"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "模型版本化与生命周期管理理念对企业 LLM 落地有实用价值，但属于工程实践更新而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
