@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-transformers-model-integration-contracts",
+  "title": "Transformers Model Integration Contracts",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/transformers-mic",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-03T15:39:48.659456+00:00",
+  "summary": "Hugging Face 发布 Transformers Model Integration Contracts，为第三方模型接入 Transformers 库定义标准化契约，明确模型实现需满足的接口、配置与测试要求，降低社区贡献模型的集成门槛并提升兼容性与可维护性。",
+  "highlights": [
+    "为第三方模型接入 Transformers 定义标准化接口与配置契约",
+    "规范模型贡献流程，降低社区集成门槛",
+    "通过统一测试与兼容性要求提升可维护性",
+    "面向模型作者与库维护者的工程规范文档"
+  ],
+  "tags": [
+    "Transformers",
+    "Hugging Face",
+    "Model Integration",
+    "Open Source",
+    "NLP"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对参与 Transformers 生态的模型开发者有明确工程价值，但受众相对垂直、影响范围有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

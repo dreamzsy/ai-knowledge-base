@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-anthropic-s-internal-ai-use-at-retail-prices-now-exceeds-its-employee-pay",
+  "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+  "source": "rss",
+  "source_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "author": "hacker_news_best",
+  "published_at": "Mon, 02 Nov 2026 16:40:29 +0000",
+  "collected_at": "2026-11-03T15:39:17.884139+00:00",
+  "summary": "据 Business Insider 报道，Anthropic 内部使用自家 AI 模型 Claude 的规模按零售价格折算后，已超过公司支付给员工的薪酬总额。这一数据反映出 AI 原生公司内部对模型调用的巨大消耗，也引发关于 token 成本、内部算力定价与 AI 生产力真实回报的讨论。Hacker News 上相关讨论热度较高，评论聚焦于成本核算方式、内部计价是否合理以及对 AI 投资回报的质疑。",
+  "highlights": [
+    "Anthropic 内部 Claude 使用量按零售价折算超过员工薪酬总额",
+    "数据凸显 AI 原生公司对模型 token 的高强度消耗",
+    "社区讨论质疑内部计价方式与 AI 投入产出比",
+    "反映企业级 AI 成本核算与生产力评估的新议题"
+  ],
+  "tags": [
+    "LLM",
+    "Claude",
+    "AI-Economics",
+    "Token-Cost",
+    "Enterprise-AI"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "提供 AI 公司内部 token 消耗与成本的罕见视角，具参考价值但属新闻性报道而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-scaling-git-at-openai",
+  "title": "Scaling Git at OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/scaling-git-at-openai",
+  "author": "openai_blog",
+  "published_at": "Mon, 02 Nov 2026 15:30:00 GMT",
+  "collected_at": "2026-11-03T15:39:41.967903+00:00",
+  "summary": "OpenAI 介绍了其为支撑 Codex 带来的开发规模而构建的 Git 兼容后端 Pando。文章讲述在超大规模代码库与高频自动化提交场景下，传统 Git 托管方案遇到的瓶颈，以及 Pando 如何在保持 Git 协议兼容的同时实现可扩展的存储与分发，从而支撑 AI 编程代理产生的大量分支、提交与合并操作。",
+  "highlights": [
+    "推出 Git 兼容后端 Pando，专为 Codex 驱动的超大规模开发设计",
+    "解决传统 Git 托管在高频自动化提交与海量分支下的扩展瓶颈",
+    "保持 Git 协议兼容，降低现有工具链与工作流的迁移成本",
+    "反映 AI 编程代理对代码基础设施提出的新性能与规模要求"
+  ],
+  "tags": [
+    "Git",
+    "Infrastructure",
+    "Codex",
+    "Scalability",
+    "DevTools"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了 AI 编程代理倒逼代码托管基础设施演进的真实工程实践，对大规模研发平台建设有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

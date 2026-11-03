@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-an-easy-way-to-try-local-ai-with-braindead-local-intelligence",
+  "title": "An easy way to try local AI with braindead-local-intelligence",
+  "source": "rss",
+  "source_url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 01 Nov 2026 14:26:47 -0600",
+  "collected_at": "2026-11-03T15:39:24.694408+00:00",
+  "summary": "文章介绍了一个名为 braindead-local-intelligence 的简易工具，帮助用户在本地快速尝试 AI 模型，无需复杂配置。作者分享了在 OpenBSD 等系统上的使用体验，强调其轻量与易上手，适合想体验本地推理但不想折腾环境的用户。",
+  "highlights": [
+    "提供极简方式在本地运行 AI 模型，降低上手门槛",
+    "作者在 OpenBSD 环境下实测并分享配置经验",
+    "强调轻量、无依赖的本地推理体验",
+    "适合作为本地 AI 入门的试验性工具"
+  ],
+  "tags": [
+    "LocalAI",
+    "LLM",
+    "Inference",
+    "OpenBSD",
+    "Tooling"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "对想低成本体验本地 AI 的用户有实用参考价值，但工具本身较简单、影响范围有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

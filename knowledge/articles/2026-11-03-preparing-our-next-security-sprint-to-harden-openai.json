@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-03-preparing-our-next-security-sprint-to-harden-openai",
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+  "author": "openai_blog",
+  "published_at": "Mon, 02 Nov 2026 18:00:00 GMT",
+  "collected_at": "2026-11-03T15:39:46.572632+00:00",
+  "summary": "OpenAI 宣布将与 Cathedral Systems 合作开展下一轮内部安全冲刺，利用 AI 技术对自身防御体系进行测试与加固。该举措聚焦于以攻防演练方式发现系统漏洞、提升模型与基础设施的安全韧性，属于 OpenAI 在安全治理与红队测试方向的持续投入，而非新产品发布。",
+  "highlights": [
+    "OpenAI 筹备下一轮内部安全冲刺，与 Cathedral Systems 合作",
+    "利用 AI 技术测试并强化自身防御能力",
+    "侧重攻防演练与漏洞发现，提升系统安全韧性",
+    "延续 OpenAI 在安全治理与红队测试方向的投入"
+  ],
+  "tags": [
+    "Security",
+    "Red Teaming",
+    "AI Safety",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "反映头部 AI 实验室安全实践动向，具参考价值但缺乏具体技术细节与可复用成果。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

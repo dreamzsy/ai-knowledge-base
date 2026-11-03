@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-heimstaden-is-changing-residential-real-estate-management-with-ai",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/heimstaden",
+  "author": "openai_blog",
+  "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-03T15:39:39.691324+00:00",
+  "summary": "Heimstaden 是欧洲一家大型住宅房地产管理公司，本文介绍其如何借助 OpenAI 的 ChatGPT Enterprise 与 Codex 改造物业管理流程：通过 AI 辅助员工处理日常事务、自动化代码与文档工作，从而降低成本并提升跨欧洲团队的效率。内容属于 OpenAI 官方客户案例，侧重企业级 LLM 落地场景与组织赋能，而非技术细节或开源实现。",
+  "highlights": [
+    "展示 ChatGPT Enterprise 在房地产管理行业的规模化企业落地案例",
+    "使用 Codex 辅助内部开发与自动化，降低运营成本",
+    "强调 AI 对一线员工的赋能与跨欧洲团队协作效率提升",
+    "属于 OpenAI 官方客户故事，偏商业价值而非技术实现"
+  ],
+  "tags": [
+    "LLM",
+    "Enterprise",
+    "Codex",
+    "Automation",
+    "Case Study"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "真实企业级 LLM 落地案例有参考价值，但为厂商营销性质内容，缺乏技术细节与可复用方法论。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

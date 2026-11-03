@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 340 # Comments: 263",
+    "published_at": "Mon, 02 Nov 2026 16:40:29 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 244 # Comments: 254",
+    "published_at": "Sun, 01 Nov 2026 22:10:45 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 02 Nov 2026 13:24:33 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 01 Nov 2026 14:26:47 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Let’s Build a Brain",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bmmj1e/let_s_build_brain\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 31 Oct 2026 10:09:27 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cctbcu/building_fine_grained_version_control\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "author": "openai_blog",
+    "summary_raw": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "author": "openai_blog",
+    "summary_raw": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "published_at": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "published_at": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "published_at": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Transformers Model Integration Contracts",
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 30 Oct 2026 17:57:24 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

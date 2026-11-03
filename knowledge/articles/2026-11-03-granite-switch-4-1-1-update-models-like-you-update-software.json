@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-granite-switch-4-1-1-update-models-like-you-update-software",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 29 Oct 2026 13:37:07 GMT",
+  "collected_at": "2026-11-03T15:39:52.941441+00:00",
+  "summary": "IBM Granite 团队发布 Granite Switch 4.1.1，提出像更新软件一样更新模型的思路，通过可切换的模型更新机制简化大模型版本迭代与部署。文章介绍该版本在模型管理、兼容性与升级流程上的改进，让开发者无需重写应用即可平滑迁移到新模型，降低维护成本并提升生产环境中的可控性。",
+  "highlights": [
+    "提出“像更新软件一样更新模型”的版本管理理念",
+    "支持模型热切换，减少应用层改动与停机成本",
+    "强化版本兼容性与升级流程的可控性",
+    "面向企业级部署，降低模型迭代维护成本"
+  ],
+  "tags": [
+    "LLM",
+    "Model Management",
+    "IBM Granite",
+    "Deployment",
+    "MLOps"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "模型版本热切换与平滑升级对企业落地有实用价值，但属于工程实践改进而非范式突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-03-let-s-build-a-brain",
+  "title": "Let’s Build a Brain",
+  "source": "rss",
+  "source_url": "https://aatishb.com/myriad/lets-build-a-brain/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 31 Oct 2026 10:09:27 -0500",
+  "collected_at": "2026-11-03T15:39:26.818005+00:00",
+  "summary": "《Let's Build a Brain》是一篇交互式科普文章，通过可视化与分步引导，让读者从神经元等基本单元出发，逐步搭建出具备感知与学习能力的简化神经网络，直观展示大脑式智能的涌现过程。文章强调动手探索而非公式推导，适合对神经科学和机器学习感兴趣的初学者理解连接主义的核心思想。",
+  "highlights": [
+    "以交互式可视化方式从神经元逐步构建神经网络",
+    "用分步引导展示感知、学习等智能行为的涌现",
+    "降低神经科学与机器学习入门门槛，强调直觉理解",
+    "适合作为连接主义与人工神经网络的科普教学材料"
+  ],
+  "tags": [
+    "NeuralNetwork",
+    "Neuroscience",
+    "Interactive",
+    "Education",
+    "Visualization"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "交互式科普对理解神经网络原理有较好教学价值，但偏入门科普，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
