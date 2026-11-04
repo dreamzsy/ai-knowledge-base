@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-04-how-cisco-defends-at-machine-speed-with-openai",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/cisco-cyber",
+  "author": "openai_blog",
+  "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-04T15:53:30.329822+00:00",
+  "summary": "思科将网络智能与 OpenAI 模型结合，用于强化企业安全防护。文章介绍其如何构建更具自适应性的防御体系，以机器速度应对安全威胁，体现大模型在企业网络安全运营中的落地实践。",
+  "highlights": [
+    "思科把网络智能数据与 OpenAI 模型结合，提升企业安全防护能力",
+    "强调以机器速度进行防御，应对自动化、高速化的攻击",
+    "构建自适应防御体系，减少对人工研判的依赖",
+    "属于大模型在企业安全运营场景的落地案例"
+  ],
+  "tags": [
+    "LLM",
+    "Security",
+    "Enterprise",
+    "OpenAI",
+    "Anomaly Detection"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "大模型与企业网络安全结合的典型案例，具备参考价值，但偏厂商实践分享，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-04-openai-to-acquire-pierre-computer-company-inc",
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-to-acquire-pierre",
+  "author": "openai_blog",
+  "published_at": "Wed, 04 Nov 2026 14:30:00 GMT",
+  "collected_at": "2026-11-04T15:53:23.338234+00:00",
+  "summary": "OpenAI 宣布收购 Pierre Computer Company，旨在扩展 Codex 在代码构建、理解与审查方面的工具能力。此次收购表明 OpenAI 正持续加码 AI 编程助手赛道，通过整合外部团队与技术来强化 Codex 的代码智能功能，提升其在开发者工具市场的竞争力。",
+  "highlights": [
+    "OpenAI 收购 Pierre Computer Company，交易细节未披露",
+    "收购目的是扩展 Codex 的代码构建、理解与审查工具",
+    "反映 OpenAI 在 AI 编程助手领域的持续投入",
+    "有望增强 Codex 对开发者工作流的覆盖能力"
+  ],
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "Acquisition",
+    "CodingAssistant",
+    "DeveloperTools"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "收购强化 Codex 代码智能能力，对 AI 编程工具生态有实质影响，但具体产品整合效果尚待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

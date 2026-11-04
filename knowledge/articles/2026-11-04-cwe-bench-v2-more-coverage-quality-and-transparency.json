@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-04-cwe-bench-v2-more-coverage-quality-and-transparency",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/cwe-bench",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-04T15:53:37.745777+00:00",
+  "summary": "Hugging Face 发布 CWE-bench v2，这是针对代码安全漏洞检测的基准测试更新版本。新版本扩大了覆盖范围，涵盖更多 CWE 类型和真实代码样本，提升了数据质量与标注可靠性，并增强了评测透明度，包括公开构建流程与评分方法。该基准可用于评估 LLM 及静态分析工具在真实漏洞识别任务上的表现，为安全领域的模型评测提供更可信的标准化依据。",
+  "highlights": [
+    "扩大 CWE 类型与样本覆盖范围，提升基准代表性",
+    "改进数据质量与标注流程，减少噪声与偏差",
+    "增强透明度，公开构建与评测方法",
+    "面向 LLM 与安全分析工具的漏洞检测能力评估"
+  ],
+  "tags": [
+    "Benchmark",
+    "Security",
+    "LLM",
+    "CodeAnalysis",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "提供了更全面透明的代码安全评测基准，对 LLM 安全能力评估有实用价值，但应用场景相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

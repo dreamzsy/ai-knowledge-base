@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-04-accelerating-engineering-for-the-physical-world",
+  "title": "Accelerating engineering for the physical world",
+  "source": "rss",
+  "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "author": "openai_blog",
+  "published_at": "Tue, 03 Nov 2026 12:00:00 GMT",
+  "collected_at": "2026-11-04T15:53:28.032801+00:00",
+  "summary": "OpenAI 官方博客介绍 ChatGPT 与 Codex 如何帮助工程师加速物理世界的工程工作流，涵盖 CAD 建模、PCB 设计、仿真分析等场景。文章展示了通用大模型与代码智能体在硬件与制造工程中的实际应用方式，强调从设计到验证环节的效率提升，体现 AI 从纯软件向物理工程领域延伸的趋势。",
+  "highlights": [
+    "聚焦 CAD、PCB 设计与仿真等物理工程工作流",
+    "ChatGPT 用于工程知识问答与设计辅助",
+    "Codex 承担脚本生成与自动化任务",
+    "体现 AI 从软件工程向硬件与制造领域扩展"
+  ],
+  "tags": [
+    "Codex",
+    "ChatGPT",
+    "CAD",
+    "Engineering",
+    "Simulation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "官方来源且展示 AI 在硬件工程落地的具体方向，但偏宣传性内容，缺少技术细节与量化数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
