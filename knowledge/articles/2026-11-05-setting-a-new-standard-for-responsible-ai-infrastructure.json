@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-05-setting-a-new-standard-for-responsible-ai-infrastructure",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "source": "rss",
+  "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "author": "openai_blog",
+  "published_at": "Thu, 05 Nov 2026 02:00:00 GMT",
+  "collected_at": "2026-11-05T15:58:23.596571+00:00",
+  "summary": "OpenAI 发布《国家社区契约》与《算力校园政策蓝图》，旨在为 AI 基础设施建设建立负责任标准。文件提出保护当地资源、创造就业岗位，并为 AI 算力设施的规划与开发提供政策指引，强调在扩张算力的同时兼顾社区利益与可持续发展。",
+  "highlights": [
+    "发布 National Community Compact 与 Compute Campus Policy Blueprint 两份政策文件",
+    "聚焦 AI 基础设施对当地资源的影响与保护",
+    "强调通过算力建设创造就业岗位",
+    "为负责任 AI 基础设施开发提供政策指引框架"
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Policy",
+    "Governance",
+    "Compute"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "属于政策与治理层面的框架性文件，对 AI 基础设施的社区与资源影响有指导意义，但缺乏具体技术实现细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-05-full-stack-verification-is-the-new-trend",
+  "title": "Full-stack verification is the new trend",
+  "source": "rss",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/full-stack-verification-is-the-new-trend/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 05 Nov 2026 06:24:36 -0600",
+  "collected_at": "2026-11-05T15:58:05.342348+00:00",
+  "summary": "文章讨论全栈验证（full-stack verification）正成为新趋势，主张将形式化验证从底层代码扩展到系统各层，覆盖前端、后端与基础设施，以提升整体正确性与安全性。作者结合案例说明分层验证的必要性，并探讨工具链与工程实践上的挑战。",
+  "highlights": [
+    "提出全栈验证概念，将形式化方法贯穿系统各层",
+    "强调单层验证不足，需端到端保证正确性",
+    "讨论工具链与工程落地的现实挑战",
+    "结合实例说明分层验证的实践价值"
+  ],
+  "tags": [
+    "FormalVerification",
+    "SoftwareEngineering",
+    "StaticAnalysis",
+    "Correctness"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "主题有前瞻性但偏理念探讨，对形式化验证实践者有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

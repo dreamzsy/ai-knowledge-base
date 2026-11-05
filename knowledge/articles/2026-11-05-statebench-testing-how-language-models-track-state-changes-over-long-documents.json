@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-05-statebench-testing-how-language-models-track-state-changes-over-long-documents",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/statebench",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 03 Nov 2026 17:15:21 GMT",
+  "collected_at": "2026-11-05T15:58:36.211366+00:00",
+  "summary": "StateBench 是 AllenAI 在 Hugging Face 博客上发布的基准测试，专门评估语言模型在长文档中跟踪状态变化的能力。该基准关注模型能否在长上下文里正确维护和更新实体状态，例如人物属性、事件进展等随时间变化的信息，从而检验模型在长文档理解与状态追踪方面的真实表现，弥补现有长上下文评测偏重检索而忽视动态状态更新的不足。",
+  "highlights": [
+    "聚焦长文档中的状态变化跟踪能力，而非简单的信息检索",
+    "由 AllenAI 发布，面向长上下文语言模型评测",
+    "揭示模型在动态状态更新场景下的能力短板",
+    "为长上下文理解与多跳推理研究提供新的评测维度"
+  ],
+  "tags": [
+    "Benchmark",
+    "LongContext",
+    "LLM",
+    "Evaluation",
+    "StateTracking"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "该基准切中长上下文评测中被忽视的状态追踪维度，对模型能力评估有实际参考价值，但应用范围相对聚焦。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

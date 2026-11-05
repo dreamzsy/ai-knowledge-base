@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-05-palette-teaching-a-small-model-to-build-decks-in-your-design-language",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 03 Nov 2026 16:35:36 GMT",
+  "collected_at": "2026-11-05T15:58:38.240819+00:00",
+  "summary": "IBM Research 在 Hugging Face 博客介绍 Palette：通过微调小型模型，让它按指定设计语言（配色、字体、版式规范）自动生成演示文稿（deck）。方案强调用少量高质量样本与结构化约束，把品牌设计规则注入模型，使小模型在受限创作任务上接近大模型效果，同时降低推理成本并便于私有化部署。",
+  "highlights": [
+    "面向演示文稿生成的垂直场景小模型微调方案",
+    "将品牌设计语言（配色/字体/版式）作为约束注入生成流程",
+    "强调小模型在受限创作任务上可替代大模型，降低推理成本",
+    "提供可复用的数据构造与训练流程，便于企业私有化定制"
+  ],
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Small Language Model",
+    "Content Generation",
+    "Design Automation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "小模型+设计规范约束的落地路径清晰、成本友好，但应用场景较垂直，通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

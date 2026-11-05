@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-05-let-s-build-a-brain",
+  "title": "Let’s Build a Brain",
+  "source": "rss",
+  "source_url": "https://aatishb.com/myriad/lets-build-a-brain/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 31 Oct 2026 10:09:27 -0500",
+  "collected_at": "2026-11-05T15:58:11.587542+00:00",
+  "summary": "这是一篇交互式科普文章《Let’s Build a Brain》，通过可视化与动手操作的方式，引导读者理解大脑（或神经网络）如何由简单单元逐步构建出复杂认知功能。文章以渐进式搭建为主线，将神经科学概念与计算模型结合，适合对大脑机制和类脑计算感兴趣的读者入门。",
+  "highlights": [
+    "以交互式、渐进搭建的方式讲解大脑/神经网络的工作原理",
+    "将神经科学概念与计算模型结合，降低理解门槛",
+    "强调从简单单元到复杂认知功能的涌现过程",
+    "适合作为类脑计算与神经网络入门的科普材料"
+  ],
+  "tags": [
+    "Neuroscience",
+    "NeuralNetwork",
+    "Interactive",
+    "Education",
+    "CognitiveScience"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "交互式科普对理解神经网络与大脑机制有启发价值，但偏教育性质、技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-05-daybreak-red-is-now-available-in-aws-govcloud-us-east",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "source": "rss",
+  "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "author": "openai_blog",
+  "published_at": "Wed, 04 Nov 2026 07:00:00 GMT",
+  "collected_at": "2026-11-05T15:58:27.023355+00:00",
+  "summary": "OpenAI 宣布 Daybreak Red 在 AWS GovCloud（美国东部）上线，通过 Amazon Bedrock 向获批客户提供 GPT-5.6 Cyber 模型，用于授权的网络安全工作。该发布面向政府与受监管行业，强调合规环境下的安全能力交付，而非公开可用。",
+  "highlights": [
+    "Daybreak Red 通过 Amazon Bedrock 在 AWS GovCloud 美国东部区域提供",
+    "面向获批客户，聚焦授权网络安全用途",
+    "底层模型为 GPT-5.6 Cyber",
+    "体现政府云与受监管场景下的模型合规交付路径"
+  ],
+  "tags": [
+    "AWS",
+    "Bedrock",
+    "Cybersecurity",
+    "GovCloud",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "对政府与受监管网络安全场景有实际落地价值，但受众受限、技术细节披露有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

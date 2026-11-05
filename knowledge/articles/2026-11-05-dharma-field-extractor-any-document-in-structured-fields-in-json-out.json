@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-05-dharma-field-extractor-any-document-in-structured-fields-in-json-out",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 04 Nov 2026 17:50:10 GMT",
+  "collected_at": "2026-11-05T15:58:33.582894+00:00",
+  "summary": "Dharma AI 在 Hugging Face 博客发布 Dharma Field Extractor，一款面向任意文档的字段抽取工具，可将非结构化文档直接转换为结构化 JSON 字段。该方案主打“任意文档输入、JSON 结构化输出”，降低文档信息抽取的接入门槛，适用于票据、合同、表单等场景的自动化数据提取与下游系统集成。",
+  "highlights": [
+    "支持任意类型文档输入，统一输出结构化 JSON 字段",
+    "面向信息抽取（IE）场景，可直接对接下游业务系统",
+    "以博客形式发布在 Hugging Face，便于社区试用与集成",
+    "降低文档结构化处理门槛，适合票据、合同、表单等自动化场景"
+  ],
+  "tags": [
+    "Information Extraction",
+    "Document AI",
+    "Structured Output",
+    "JSON",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "文档到结构化 JSON 的抽取能力实用且通用，但缺乏模型细节与基准数据，价值需实测验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
