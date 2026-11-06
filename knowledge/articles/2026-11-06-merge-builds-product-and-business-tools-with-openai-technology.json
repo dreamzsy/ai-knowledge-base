@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-06-merge-builds-product-and-business-tools-with-openai-technology",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "source": "rss",
+  "source_url": "https://openai.com/index/merge-builds-with-openai",
+  "author": "openai_blog",
+  "published_at": "Thu, 05 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-06T15:31:02.593165+00:00",
+  "summary": "Merge 公司利用 OpenAI 的 GPT-6 Astra、ChatGPT 与 Codex 构建产品与业务工具，覆盖产品代码审查、营销支持、高管晚宴策划及销售更新准备等场景，展示了 AI 在企业内部跨职能协作中的落地方式。",
+  "highlights": [
+    "使用 GPT-6 Astra、ChatGPT 和 Codex 三类 OpenAI 技术",
+    "AI 用于产品代码审查与营销内容支持",
+    "AI 辅助策划高管晚宴等运营事务",
+    "AI 参与销售更新材料的准备"
+  ],
+  "tags": [
+    "LLM",
+    "Codex",
+    "Enterprise",
+    "Productivity",
+    "Marketing"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "展示了多模型在企业产品与业务场景的实用组合，但属案例宣传，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

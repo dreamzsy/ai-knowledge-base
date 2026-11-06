@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-06-let-s-build-a-brain",
+  "title": "Let’s Build a Brain",
+  "source": "rss",
+  "source_url": "https://aatishb.com/myriad/lets-build-a-brain/",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 31 Oct 2026 10:09:27 -0500",
+  "collected_at": "2026-11-06T15:30:42.831630+00:00",
+  "summary": "这是 Aatish Bhatia 制作的交互式科普项目《Let's Build a Brain》，通过可视化与动手操作的方式，引导读者理解神经网络的基本原理：从单个神经元、权重与激活函数出发，逐步搭建出能够完成简单任务的网络，并直观展示训练与误差下降的过程。内容偏教学与直觉建立，而非工程实现，适合初学者和科普爱好者。",
+  "highlights": [
+    "以交互式可视化方式讲解神经元、权重、激活函数等核心概念",
+    "引导读者从零逐步搭建一个可工作的简单神经网络",
+    "直观呈现训练过程中误差下降与参数调整的机制",
+    "定位为科普与教学，而非生产级工程实现"
+  ],
+  "tags": [
+    "Neural Network",
+    "Visualization",
+    "Education",
+    "Interactive"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "交互式可视化对神经网络入门教学有较高科普价值，但缺乏工程深度与可直接复用的技术产出。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

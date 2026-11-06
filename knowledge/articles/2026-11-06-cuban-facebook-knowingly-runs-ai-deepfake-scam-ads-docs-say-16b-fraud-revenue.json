@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-06-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue",
+  "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+  "source": "rss",
+  "source_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 05 Nov 2026 23:09:57 +0000",
+  "collected_at": "2026-11-06T15:30:29.923179+00:00",
+  "summary": "马克·库班指控 Facebook 明知平台存在 AI 深度伪造诈骗广告仍放任不管，并援引文件称相关欺诈收入高达 160 亿美元。该报道在 Hacker News 引发热议，讨论聚焦平台广告审核责任、AI 生成虚假内容的滥用风险，以及大型科技公司在治理与商业利益之间的权衡。",
+  "highlights": [
+    "马克·库班公开指控 Facebook 明知 AI 深度伪造诈骗广告存在却未有效拦截",
+    "援引文件称相关欺诈广告带来约 160 亿美元收入",
+    "事件在 Hacker News 获得 454 分、210 条评论，引发广泛讨论",
+    "反映生成式 AI 被滥用于广告诈骗及平台审核责任的争议"
+  ],
+  "tags": [
+    "AI Safety",
+    "Deepfake",
+    "Ad Fraud",
+    "Platform Governance",
+    "Content Moderation"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "涉及 AI 深度伪造滥用与平台治理的重要公共议题，但属新闻报道而非技术方案，技术参考价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

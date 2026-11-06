@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-06-ask-hn-what-s-your-current-ai-agentic-setup",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=50366117",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 04 Nov 2026 14:37:22 +0000",
+  "collected_at": "2026-11-06T15:30:32.815251+00:00",
+  "summary": "Hacker News 上一条高热度讨论帖，作者询问社区成员当前日常使用 AI 代理的配置，涵盖付费订阅、模型来源、编码工具、代理编排与平台等五个方面。帖子获得 534 分和 662 条评论，反映了开发者对 AI 代理工具链的广泛关注和多样化实践。",
+  "highlights": [
+    "讨论覆盖 AI 订阅（Claude、ChatGPT、Cursor 等）、API/本地模型、编码工具（CLI/IDE/替代品）、代理编排与平台五大维度",
+    "662 条评论显示社区对 AI 代理工作流的高度参与，可从中提炼真实用户偏好与工具选型趋势",
+    "问题设计细致，包括多订阅、切换工具原因、自定义编排等，有助于理解从默认工具到定制化方案的演进",
+    "帖子本身是社区调研，而非技术发布，价值在于聚合一线开发者的实践经验与痛点"
+  ],
+  "tags": [
+    "AI",
+    "Agent",
+    "Developer Tools",
+    "Workflow",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "高热度社区讨论提供了丰富的真实用户实践快照，对了解 AI 代理工具生态有参考价值，但缺乏系统性数据或技术深度。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

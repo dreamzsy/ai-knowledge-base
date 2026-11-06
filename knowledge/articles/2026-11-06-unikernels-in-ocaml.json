@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-06-unikernels-in-ocaml",
+  "title": "Unikernels in OCaml",
+  "source": "rss",
+  "source_url": "https://uniker.nl/",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+  "collected_at": "2026-11-06T15:30:48.073749+00:00",
+  "summary": "该项目介绍用 OCaml 构建 unikernel 的实践与工具链，探讨如何借助 OCaml 的类型安全与编译期优化，将应用直接编译为可在 hypervisor 上运行的单地址空间镜像，从而减少传统操作系统层的开销、缩小攻击面并提升启动速度。内容涉及 unikernel 的基本原理、OCaml 生态中的实现方式以及适用场景与局限。",
+  "highlights": [
+    "用 OCaml 构建 unikernel，将应用与最小运行时直接编译为单一镜像",
+    "省去通用操作系统层，带来更小体积、更快启动和更小攻击面",
+    "讨论 OCaml 类型系统与编译期优化在系统级编程中的优势",
+    "涉及 unikernel 的适用场景、部署方式与生态局限"
+  ],
+  "tags": [
+    "Unikernel",
+    "OCaml",
+    "Systems Programming",
+    "Virtualization"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "选题小众但有技术深度，适合关注系统编程与轻量虚拟化的开发者参考。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
