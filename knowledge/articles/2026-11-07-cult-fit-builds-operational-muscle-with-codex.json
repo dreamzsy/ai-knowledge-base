@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-07-cult-fit-builds-operational-muscle-with-codex",
+  "title": "Cult.fit builds operational muscle with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/cultfit-builds-with-codex",
+  "author": "openai_blog",
+  "published_at": "Thu, 05 Nov 2026 20:00:00 GMT",
+  "collected_at": "2026-11-07T14:32:58.849029+00:00",
+  "summary": "OpenAI 发布案例，介绍印度健身与健康平台 Cult.fit 如何在全公司范围内使用 Codex 辅助开发。非工程团队也能借助 Codex 构建内部工具、加快交付节奏，并改变原有工作方式，体现了 AI 编程助手从工程师向业务职能扩散的趋势。",
+  "highlights": [
+    "Cult.fit 将 Codex 推广至跨职能团队，而非仅限工程部门",
+    "用于快速构建内部工具，缩短从需求到交付的周期",
+    "案例强调 Codex 改变了团队协作与完成任务的方式",
+    "属于 OpenAI 官方客户案例，偏营销叙事，缺少量化指标"
+  ],
+  "tags": [
+    "Codex",
+    "AI Coding",
+    "Enterprise Adoption",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "展示了 AI 编程助手在非工程团队落地的实践方向，但内容以宣传为主，缺乏具体数据与技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

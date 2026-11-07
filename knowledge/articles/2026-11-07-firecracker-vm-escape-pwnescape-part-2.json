@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-07-firecracker-vm-escape-pwnescape-part-2",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "rss",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 07 Nov 2026 02:44:02 -0600",
+  "collected_at": "2026-11-07T14:32:30.818460+00:00",
+  "summary": "该文章是 PwnEscape 系列第二部分，详细披露了针对 AWS Firecracker 微虚拟机的逃逸利用链。作者从攻击面分析入手，展示如何突破 Firecracker 基于 KVM 的轻量级隔离边界，在宿主机上实现代码执行，并讨论了该漏洞对多租户云函数与容器沙箱安全模型的现实影响及缓解思路。",
+  "highlights": [
+    "完整披露 Firecracker 微虚拟机逃逸的利用链与攻击面",
+    "展示从 guest 内部突破 KVM 隔离到达宿主机的具体路径",
+    "分析该逃逸对多租户 Serverless 与容器沙箱的威胁",
+    "讨论 Firecracker 安全边界假设及相应加固与缓解措施"
+  ],
+  "tags": [
+    "Firecracker",
+    "Virtualization",
+    "Exploit",
+    "CloudSecurity",
+    "KVM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对主流云沙箱底层隔离的高质量实战逃逸研究，对云原生安全与多租户隔离设计有较高参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

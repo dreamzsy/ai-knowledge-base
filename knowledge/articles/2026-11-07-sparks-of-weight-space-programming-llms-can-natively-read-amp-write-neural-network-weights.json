@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-07-sparks-of-weight-space-programming-llms-can-natively-read-amp-write-neural-network-weights",
+  "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+  "source": "rss",
+  "source_url": "https://rikiyat.github.io/blog/weight-space-programming/",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 02 Nov 2026 13:24:33 -0600",
+  "collected_at": "2026-11-07T14:32:36.534398+00:00",
+  "summary": "该博客探讨大语言模型能否原生地读取和写入神经网络权重，即所谓“权重空间编程”。作者提出初步证据表明，LLM 或许能直接在参数空间中操作，而非仅处理文本 token，这可能为模型编辑、权重生成与跨模型知识迁移开辟新路径。文章属于探索性研究，给出概念框架与实验观察，但尚未形成成熟方法。",
+  "highlights": [
+    "提出“权重空间编程”概念，探索 LLM 直接读写神经网络权重的可能性",
+    "区别于传统文本级 prompt 与微调，指向参数空间的原生操作",
+    "可能应用于模型编辑、权重生成与知识迁移等场景",
+    "目前为探索性观察，方法成熟度与可复现性有待验证"
+  ],
+  "tags": [
+    "LLM",
+    "Model Editing",
+    "Weight Space",
+    "Neural Networks",
+    "Research"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "选题新颖且具潜在影响力，但尚处早期探索阶段，缺乏系统性验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

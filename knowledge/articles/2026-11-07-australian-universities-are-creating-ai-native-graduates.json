@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-07-australian-universities-are-creating-ai-native-graduates",
+  "title": "Australian universities are creating AI-native graduates",
+  "source": "rss",
+  "source_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "author": "openai_blog",
+  "published_at": "Thu, 05 Nov 2026 17:00:00 GMT",
+  "collected_at": "2026-11-07T14:32:56.679534+00:00",
+  "summary": "OpenAI 官方博客介绍澳大利亚多所高校扩大 ChatGPT 使用权限，将 AI 工具融入教学与学习环节，目标是培养具备 AI 素养的毕业生，使其适应 AI 赋能的工作环境。内容属于教育应用案例宣传，侧重机构合作与普及推广，未披露具体技术方案或量化成效。",
+  "highlights": [
+    "澳大利亚高校扩大师生对 ChatGPT 的访问权限",
+    "AI 被纳入课程设计与日常教学环节",
+    "目标是对接 AI 赋能就业市场，培养 AI 原生毕业生",
+    "属于 OpenAI 教育合作案例，偏宣传性质"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "Education",
+    "AI Literacy"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "反映高校 AI 普及趋势的官方案例，但缺乏技术细节与实证数据，参考价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

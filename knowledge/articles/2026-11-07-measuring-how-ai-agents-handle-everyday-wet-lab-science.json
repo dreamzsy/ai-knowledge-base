@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-07-measuring-how-ai-agents-handle-everyday-wet-lab-science",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "source": "rss",
+  "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "author": "openai_blog",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-07T14:32:54.255851+00:00",
+  "summary": "OpenAI 发布 BioBasicsBench，这是一个包含 100 项任务的基准，用于衡量 AI 智能体解读原始实验数据以及处理日常湿实验室科学工作的能力。该基准聚焦真实科研场景中的基础操作，而非仅考察知识问答，旨在为 AI 在生命科学实验环境中的实用性提供可量化的评估标准，推动智能体从文本推理走向实验数据处理。",
+  "highlights": [
+    "OpenAI 推出 BioBasicsBench，包含 100 项湿实验室日常任务",
+    "评估重点是 AI 智能体对原始实验数据的解读能力",
+    "填补了 AI 在真实实验场景中实用性评测的空白",
+    "为生命科学领域的 AI 智能体提供可量化基准"
+  ],
+  "tags": [
+    "Benchmark",
+    "AI Agent",
+    "Life Science",
+    "Evaluation",
+    "Wet Lab"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "首个面向湿实验室日常科研任务的智能体基准，对 AI 在生命科学落地具有较强参考价值，但任务规模与领域覆盖仍有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
