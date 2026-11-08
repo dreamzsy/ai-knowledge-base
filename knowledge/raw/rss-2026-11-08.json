@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "url": "https://hunch.net/?p=13764006",
+    "author": "hacker_news_best",
+    "summary_raw": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 477 # Comments: 290",
+    "published_at": "Sat, 07 Nov 2026 18:02:17 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 370 # Comments: 349",
+    "published_at": "Fri, 06 Nov 2026 20:27:23 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 07 Nov 2026 13:34:01 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 07 Nov 2026 02:44:02 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Reflections on Rust in the LLM Age",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yomksa/reflections_on_rust_llm_age\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 05 Nov 2026 11:32:18 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 02 Nov 2026 13:24:33 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "published_at": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Australian universities are creating AI-native graduates",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "author": "openai_blog",
+    "summary_raw": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "published_at": "Thu, 05 Nov 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "author": "openai_blog",
+    "summary_raw": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "published_at": "Thu, 05 Nov 2026 20:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 06 Nov 2026 14:00:48 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 05 Nov 2026 19:35:16 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

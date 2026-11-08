@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-08-a-closer-look-at-phonon-tts-launching-high-quality-on-device-speech-that-tops-the-benchmarks",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/phonon-tts",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-08T14:41:04.665174+00:00",
+  "summary": "Hugging Face 博客介绍 Phonon TTS，一款面向端侧部署的高质量语音合成模型。文章称其在多项基准测试中取得领先成绩，强调在设备本地运行即可获得接近云端水平的自然度与稳定性，兼顾低延迟与隐私保护。内容涵盖模型架构设计、推理优化策略、基准对比结果及实际部署考量，为希望在本地集成 TTS 能力的开发者提供参考。",
+  "highlights": [
+    "面向端侧（on-device）部署的高质量 TTS 模型，强调低延迟与数据隐私",
+    "宣称在多项语音合成基准测试中达到领先水平",
+    "介绍模型架构与推理优化手段，以适配本地算力约束",
+    "提供与现有方案的基准对比及实际部署建议"
+  ],
+  "tags": [
+    "TTS",
+    "On-Device",
+    "Speech Synthesis",
+    "Benchmark",
+    "Model Deployment"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "端侧高质量 TTS 且有基准背书，对本地语音应用有实用价值，但属模型发布类内容，创新性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

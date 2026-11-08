@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-08-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": "2024-04-15T21:02:29Z",
+  "collected_at": "2026-11-08T14:39:51.047596+00:00",
+  "summary": "Firecrawl 是一个开源项目，旨在为 AI 代理提供网络及其他来源的数据，以增强其能力。它可能提供网页抓取、数据提取和转换功能，将非结构化网络数据转化为适合 AI 使用的结构化格式。项目定位为构建超级智能的库，强调数据对 AI 代理的重要性。",
+  "highlights": [
+    "为 AI 代理提供网络数据支持",
+    "可能包含网页抓取与数据提取功能",
+    "定位为构建超级智能的库",
+    "开源项目，社区驱动"
+  ],
+  "tags": [
+    "Web Scraping",
+    "AI Agents",
+    "Data Extraction",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "项目填补了 AI 代理与网络数据之间的空白，具有实用价值，但具体功能细节尚不明确。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 199684,
+    "language": "TypeScript"
+  }
+}
