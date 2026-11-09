@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-09-catching-prompt-injections-hidden-in-pdfs",
+  "title": "Catching prompt injections hidden in PDFs",
+  "source": "rss",
+  "source_url": "https://tomclancy.info/joshua-judges-ruth.html",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 07 Nov 2026 13:34:01 -0600",
+  "collected_at": "2026-11-09T18:03:21.589301+00:00",
+  "summary": "文章探讨了隐藏在 PDF 文件中的提示注入攻击，说明攻击者如何利用 PDF 的文本层或不可见内容向 LLM 应用注入恶意指令，并给出检测与防御思路，提醒 RAG 与文档处理管线需对解析后的文本做信任边界检查。",
+  "highlights": [
+    "揭示 PDF 中隐藏文本（如白色字体、元数据、注释层）可携带提示注入指令",
+    "指出文档解析管线是 LLM 应用被间接注入的常见入口",
+    "讨论检测思路：解析后文本审计、可见性校验与指令隔离",
+    "强调 RAG 场景下需对不可信文档内容做信任分级"
+  ],
+  "tags": [
+    "Prompt Injection",
+    "LLM Security",
+    "RAG",
+    "PDF Parsing"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "聚焦 LLM 文档管线的真实安全风险，实用性强但偏案例讨论、缺少系统化防御方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-09-firecracker-vm-escape-pwnescape-part-2",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "rss",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 07 Nov 2026 02:44:02 -0600",
+  "collected_at": "2026-11-09T18:03:24.495827+00:00",
+  "summary": "该文章是 PwnEscape 系列第二部分，详细披露了针对 AWS Firecracker 微虚拟机的逃逸利用链。作者从客户机内部出发，结合设备模拟与 virtio 相关缺陷，逐步突破隔离边界，最终在宿主机侧获得代码执行。文中给出了漏洞成因、利用原语与完整 PoC 思路，对理解轻量级 VMM 的攻击面和安全加固具有较高参考价值。",
+  "highlights": [
+    "完整展示从 Firecracker 客户机到宿主机的逃逸利用链",
+    "分析设备模拟与 virtio 接口中的攻击面与漏洞成因",
+    "给出可复现的利用原语和 PoC 构建思路",
+    "对云原生多租户隔离的安全加固提出启示"
+  ],
+  "tags": [
+    "Firecracker",
+    "Virtualization",
+    "Exploit",
+    "Security",
+    "VMM"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "内容为高质量的真实漏洞利用研究，对虚拟化安全与云隔离防护有直接参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

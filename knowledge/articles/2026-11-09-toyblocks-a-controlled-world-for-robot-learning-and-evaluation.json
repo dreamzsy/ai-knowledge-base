@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-09-toyblocks-a-controlled-world-for-robot-learning-and-evaluation",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/toyblocks",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 06 Nov 2026 14:00:48 GMT",
+  "collected_at": "2026-11-09T18:04:01.378979+00:00",
+  "summary": "ToyBlocks 是 AllenAI 推出的受控机器人学习与评估环境，基于 Hugging Face 平台。它提供模块化积木世界，用于系统研究机器人操作、泛化与评估，支持标准化基准测试，帮助研究者隔离变量、复现实验，推动机器人学习从仿真到现实的可靠迁移。",
+  "highlights": [
+    "提供可控的积木世界环境，便于隔离变量研究机器人学习",
+    "支持标准化评估与基准测试，提升实验可复现性",
+    "基于 Hugging Face 生态，易于集成与使用",
+    "面向机器人操作与泛化能力研究，助力 sim-to-real 迁移"
+  ],
+  "tags": [
+    "Robotics",
+    "Benchmark",
+    "Simulation",
+    "Robot Learning",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "为机器人学习提供可控评估基准，实用性强但影响范围偏学术。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

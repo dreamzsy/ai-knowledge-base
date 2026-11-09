@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-09-your-experts-have-partners-there-apos-s-hope-for-keeping-them-together",
+  "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 09 Nov 2026 12:34:29 GMT",
+  "collected_at": "2026-11-09T18:03:58.719885+00:00",
+  "summary": "该文介绍亚马逊在 Hugging Face 博客发布的研究：针对混合专家（MoE）模型，提出高阶剪枝方法 HOPE，用于在压缩模型时保持专家之间的协同关系。传统剪枝往往独立评估专家重要性，忽略专家组合效应；HOPE 通过建模专家间的交互/伙伴关系，识别并保留互补的专家对，从而在减少参数量的同时维持模型性能。文章阐述了方法动机、剪枝策略与实验结果，展示了在 MoE 架构上兼顾效率与效果的可行性。",
+  "highlights": [
+    "提出 HOPE 高阶剪枝方法，关注 MoE 中专家之间的协同伙伴关系而非独立重要性",
+    "针对混合专家模型压缩，在减少专家数量的同时尽量保留互补专家组合",
+    "强调传统单专家剪枝会破坏专家协作，导致性能下降",
+    "给出实验验证，展示剪枝后模型在效率与效果间的平衡"
+  ],
+  "tags": [
+    "MoE",
+    "Model Compression",
+    "Pruning",
+    "LLM",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "面向 MoE 大模型压缩的实用剪枝思路，兼顾效率与性能，但属增量改进且应用范围相对专门。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
