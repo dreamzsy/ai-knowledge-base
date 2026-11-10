@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-10-reflections-on-rust-in-the-llm-age",
+  "title": "Reflections on Rust in the LLM Age",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 05 Nov 2026 11:32:18 -0600",
+  "collected_at": "2026-11-10T15:58:25.814732+00:00",
+  "summary": "该视频围绕“LLM 时代的 Rust”展开反思，讨论在大语言模型辅助编程日益普及的背景下，Rust 语言的优势、学习曲线与生态挑战。讲者探讨了 AI 代码生成对系统编程语言选型的影响，以及 Rust 在安全性、性能与开发效率之间的权衡，并展望 LLM 工具如何改变 Rust 开发者的工作流与语言采用路径。",
+  "highlights": [
+    "探讨 LLM 辅助编程对 Rust 学习门槛与开发效率的影响",
+    "分析 Rust 在安全性、性能与生态成熟度上的权衡",
+    "讨论 AI 代码生成时代系统编程语言的选型趋势",
+    "展望 LLM 工具如何重塑 Rust 开发者工作流"
+  ],
+  "tags": [
+    "Rust",
+    "LLM",
+    "Programming Languages",
+    "AI Coding",
+    "Systems Programming"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "话题兼具语言生态与 AI 编程趋势视角，有讨论价值但偏观点性、缺少可直接落地的技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

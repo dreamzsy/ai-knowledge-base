@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-10-closing-the-ai-guidance-gap-in-education",
+  "title": "Closing the AI guidance gap in education",
+  "source": "rss",
+  "source_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "author": "openai_blog",
+  "published_at": "Tue, 10 Nov 2026 09:00:00 GMT",
+  "collected_at": "2026-11-10T15:58:41.983931+00:00",
+  "summary": "OpenAI 发布 ThinkYoung 研究报告，并总结其在 EMEA 地区教育合作中的经验，聚焦如何缩小教育领域 AI 指导缺口。内容围绕支持教师、提升 AI 素养与促进独立学习展开，强调学校需要明确的使用指南与培训体系，而非单纯引入工具。该文属于政策与实践层面的倡议，为教育机构制定 AI 规范提供参考，但未涉及具体模型或技术细节。",
+  "highlights": [
+    "发布 ThinkYoung 研究报告，揭示教育场景中 AI 使用指导的缺口",
+    "总结 OpenAI 在 EMEA 地区教育合作中的实践经验",
+    "强调教师支持、AI 素养培养与独立学习三大方向",
+    "为学校与教育机构制定 AI 使用规范提供实践参考"
+  ],
+  "tags": [
+    "AI Literacy",
+    "Education",
+    "Policy",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "提供教育 AI 治理与素养建设的实践视角，但偏政策倡议，技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-10-work-at-the-frontier-ai-s-effect-on-freelance-work",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ai-effect-on-freelance-work",
+  "author": "openai_blog",
+  "published_at": "Tue, 10 Nov 2026 07:00:00 GMT",
+  "collected_at": "2026-11-10T15:58:44.261029+00:00",
+  "summary": "OpenAI 与 Upwork 联合研究发现，AI 正在改变自由职业市场的需求结构：AI 相关项目的预算更高、工时更长，并催生出新的技能组合。研究显示，市场对单纯执行类任务的需求下降，而对能够整合 AI 工具、具备复合能力的人才需求上升，反映出 AI 对劳动力市场的实际影响已从理论讨论进入可量化的平台数据层面。",
+  "highlights": [
+    "AI 相关自由职业项目的预算与工时显著高于传统项目",
+    "市场对技能组合的需求发生变化，复合型 AI 技能更受青睐",
+    "部分常规执行类任务的需求出现结构性下降",
+    "基于 Upwork 平台真实交易数据，提供了可量化的劳动力市场证据"
+  ],
+  "tags": [
+    "LLM",
+    "Labor Market",
+    "Future of Work",
+    "AI Adoption"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "提供了来自真实平台数据的 AI 就业影响实证，对理解 AI 经济效应有参考价值，但偏行业观察而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "source": "rss",
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 07 Nov 2026 13:34:01 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 07 Nov 2026 02:44:02 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Reflections on Rust in the LLM Age",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yomksa/reflections_on_rust_llm_age\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 05 Nov 2026 11:32:18 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Mon, 02 Nov 2026 13:24:33 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "published_at": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "author": "openai_blog",
+    "summary_raw": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "published_at": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "author": "openai_blog",
+    "summary_raw": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "published_at": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "author": "openai_blog",
+    "summary_raw": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "published_at": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 09 Nov 2026 15:05:57 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 09 Nov 2026 12:34:29 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 06 Nov 2026 14:00:48 GMT",
+    "extra": {}
+  }
+]

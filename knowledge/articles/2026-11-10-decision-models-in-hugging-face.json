@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-10-decision-models-in-hugging-face",
+  "title": "Decision Models in Hugging Face",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/decision",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-10T15:58:48.755168+00:00",
+  "summary": "Hugging Face 博客文章介绍了决策模型（Decision Models）的概念，这是一种结合语言模型与决策理论的新范式，旨在让 AI 系统在不确定环境中做出更优选择。文章可能探讨了如何利用预训练语言模型进行序列决策，并展示了在 Hugging Face 生态系统中的实现方式，为开发者提供了构建智能决策代理的工具和思路。",
+  "highlights": [
+    "提出决策模型新范式，融合语言模型与决策理论",
+    "展示在 Hugging Face 平台上的实现与工具支持",
+    "为构建智能决策代理提供新思路",
+    "可能涉及序列决策与不确定性处理"
+  ],
+  "tags": [
+    "Decision Models",
+    "LLM",
+    "Hugging Face",
+    "AI Agents"
+  ],
+  "language": "zh",
+  "score": 0.75,
+  "score_reason": "内容具有前瞻性，为 AI 决策领域提供新方向，但缺乏具体细节和实证，价值中等偏上。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
