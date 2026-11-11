@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-decision-models-in-hugging-face",
+  "title": "Decision Models in Hugging Face",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/decision",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-11T15:44:55.486922+00:00",
+  "summary": "Hugging Face 发布博客介绍 Decision Models（决策模型），即在 LeRobot 框架下将视觉语言模型与动作专家结合、通过流匹配生成机器人动作的策略模型。文章说明 SmolVLA 等模型的架构、训练数据与推理流程，并展示如何在 Hub 上加载、微调与部署，推动开源机器人学习生态。",
+  "highlights": [
+    "介绍基于 VLM + 动作专家的决策模型架构，用流匹配生成连续动作",
+    "以 SmolVLA 为例展示模型在 Hugging Face Hub 上的加载与使用方式",
+    "说明训练数据格式、微调流程与推理部署路径",
+    "体现 Hugging Face 向具身智能与机器人学习领域的扩展"
+  ],
+  "tags": [
+    "VLA",
+    "Robotics",
+    "LeRobot",
+    "Hugging Face",
+    "Fine-tuning"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对关注具身智能与开源机器人策略的开发者有实用价值，但偏教程介绍、技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

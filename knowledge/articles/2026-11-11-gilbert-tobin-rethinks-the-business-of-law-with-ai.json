@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-gilbert-tobin-rethinks-the-business-of-law-with-ai",
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "author": "openai_blog",
+  "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-11T15:44:40.596618+00:00",
+  "summary": "本文是 OpenAI 对澳大利亚律所 Gilbert + Tobin 合伙人兼 CEO Sam Nickless 的访谈，介绍该律所如何借助 AI 重塑法律业务模式。内容涉及将生成式 AI 嵌入法律研究、合同审阅与知识管理等流程，提升律师效率并改变计费与交付方式，同时讨论数据安全、合规与人才培养等落地挑战，为专业服务行业的 AI 转型提供实践参考。",
+  "highlights": [
+    "律所管理层视角分享生成式 AI 在法律业务中的落地路径",
+    "AI 用于法律研究、合同审阅与知识管理以提升效率",
+    "探讨 AI 对计费模式、服务交付与组织人才的影响",
+    "关注数据安全、合规与专业责任等治理问题"
+  ],
+  "tags": [
+    "LLM",
+    "Enterprise",
+    "LegalTech",
+    "GenerativeAI",
+    "CaseStudy"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "提供专业服务行业 AI 落地的管理层实践视角，但为访谈性质，技术细节与可复用方法论有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

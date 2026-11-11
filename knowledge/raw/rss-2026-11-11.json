@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 511 # Comments: 200",
+    "published_at": "Wed, 11 Nov 2026 12:05:22 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 415 # Comments: 429",
+    "published_at": "Tue, 10 Nov 2026 21:25:03 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "author": "hacker_news_best",
+    "summary_raw": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0])Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge.200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves. (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1]I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your context window. (Or cedeing activation mechanics to MCP dynamic tool search). The skill description is minmaxed for activating on relevant frontend tasks. The RAG work I'm pretty proud of… originally a 500mb native stack down to a ~7MB pure-JS package, ~10ms search on your CPU.We just introduced a deterministic 'legacy-scan' (trained on 30k github repos) to identify old 'n dusted patterns that your agent can modernize. (92% avg precision on held-out repos.)People make a lot of claims about what coding agents are good/bad at. We wanted receipts, so we invested heavily in eval infra [2] to help us hill-climb, but also to identify when knowledge is common enough we can prune our guides. (Ofc, some of the things we thought AI didn't know turned out to be wrong :) We run codex/claude/agy against 200 tasks without the skill and then with.. In total ~1,700 playwright/AST-based assertions. Agents go from 55% pass unguided to 92% guided.Try it out: DISABLE_TELEMETRY=1 npx modern-web-guidance@latest install DISABLE_TELEMETRY=1 npx modern-web-guidance@latest search \"animate dialog modal\" DISABLE_TELEMETRY=1 npx modern-web-guidance@latest legacy-scan ./src If you spot something wrong or weird, give us a holler!Longer write-up on the 1.0: https://developer.chrome.com/blog/modern-web-guidance-v1---0: https://news.ycombinator.com/item?id=504164561: https://developer.chrome.com/docs/modern-web-guidance/guides2: https://googlechrome.github.io/modern-web-guidance-src/ Comments URL: https://news.ycombinator.com/item?id=50443812 Points: 414 # Comments: 137",
+    "published_at": "Tue, 10 Nov 2026 18:01:15 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI usage generates a fragile codebase",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 614 # Comments: 576",
+    "published_at": "Tue, 10 Nov 2026 10:25:58 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "What are some \"No AI\" apps/companies/resources you know of?",
+    "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid it) that you know of?&lt;/p&gt; &lt;p&gt;I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.&lt;/p&gt; &lt;p&gt;For example, &lt;a href=\"https://www.rebeltechalliance.org\" rel=\"ugc\"&gt;https://www.rebeltechalliance.org&lt;/a&gt; would be one of those resources.&lt;/p&gt; &lt;p&gt;Thank you!&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 07:13:51 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tj73bq/online_learning_on_programmable\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 10 Nov 2026 14:22:46 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 07 Nov 2026 13:34:01 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sat, 07 Nov 2026 02:44:02 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 15 Oct 2026 05:53:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "author": "openai_blog",
+    "summary_raw": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "author": "openai_blog",
+    "summary_raw": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "published_at": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "published_at": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "author": "openai_blog",
+    "summary_raw": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "published_at": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

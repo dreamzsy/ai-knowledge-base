@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-introducing-businesses-in-chatgpt",
+  "title": "Introducing Businesses in ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "author": "openai_blog",
+  "published_at": "Tue, 10 Nov 2026 10:00:00 GMT",
+  "collected_at": "2026-11-11T15:44:47.314541+00:00",
+  "summary": "OpenAI 发布“Businesses in ChatGPT”功能，允许企业在 ChatGPT 中管理自身业务信息、查看业务在平台上的展示情况与洞察，并将用户兴趣转化为实际动作（如咨询、购买或到店）。该功能将 ChatGPT 从对话助手扩展为连接商家与用户的商业入口，为本地商家和品牌提供新的曝光与转化渠道，也意味着 OpenAI 在搜索与广告式商业模式上的进一步探索。",
+  "highlights": [
+    "企业可在 ChatGPT 内维护和更新业务信息，类似商家资料页",
+    "提供业务展示效果洞察，帮助商家了解在 ChatGPT 中的曝光情况",
+    "支持将用户兴趣转化为行动，打通从发现到转化的链路",
+    "标志 ChatGPT 向商业化平台演进，可能影响本地搜索与商家营销生态"
+  ],
+  "tags": [
+    "ChatGPT",
+    "OpenAI",
+    "Business",
+    "Search",
+    "Commerce"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对商家营销和 ChatGPT 商业化方向有实质影响，但技术细节有限，更多是产品与生态层面的更新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

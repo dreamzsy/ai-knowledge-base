@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-show-hn-get-your-coding-agent-off-2019-javascript-onto-modern-web-primitives",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "source": "rss",
+  "source_url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 10 Nov 2026 18:01:15 +0000",
+  "collected_at": "2026-11-11T15:44:18.587116+00:00",
+  "summary": "Chrome 团队联合 Firefox、MDN 和 Edge 推出开源项目 modern-web-guidance，为编码代理补充现代 Web 平台知识，避免其默认使用过时的 JS 方案。项目包含 200+ 篇精选指南（约 1.7MB），以 Agent Skill 和 Agentic RAG CLI 形式提供，搜索仅需约 10ms。还引入基于 3 万 GitHub 仓库训练的 legacy-scan 检测旧模式。评估显示代理任务通过率从 55% 提升至 92%。",
+  "highlights": [
+    "提供 200+ 篇现代 Web 实现最佳实践指南，覆盖 CSS.highlights、dialog 元素、field-sizing 等原生能力",
+    "以 Agent Skill 和轻量级 Agentic RAG CLI 交付，纯 JS 包约 7MB，搜索延迟约 10ms",
+    "引入 legacy-scan 确定性检测器，识别过时模式，在留出仓库上平均精度达 92%",
+    "基于约 1700 条 Playwright/AST 断言的评估显示，代理任务通过率从 55% 提升至 92%"
+  ],
+  "tags": [
+    "Agent",
+    "RAG",
+    "Web",
+    "CLI",
+    "OpenSource"
+  ],
+  "language": "zh",
+  "score": 0.88,
+  "score_reason": "项目由 Chrome 主导并联合多家浏览器厂商，提供可量化提升编码代理现代 Web 能力的开源工具，实用性和生态价值高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

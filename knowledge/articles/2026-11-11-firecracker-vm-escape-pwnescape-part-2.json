@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-firecracker-vm-escape-pwnescape-part-2",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "rss",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "author": "lobsters_ai",
+  "published_at": "Sat, 07 Nov 2026 02:44:02 -0600",
+  "collected_at": "2026-11-11T15:44:30.229297+00:00",
+  "summary": "该文章是 PwnEscape 系列第二部分，详细分析 Firecracker 微虚拟机（AWS Lambda 与 Fargate 的底层隔离技术）中的虚拟机逃逸漏洞。作者从攻击者视角展示如何突破 Firecracker 的轻量级 VMM 边界，获取宿主机权限，涉及设备模拟、内存管理与 virtio 接口等攻击面，对云多租户安全具有重要参考价值。",
+  "highlights": [
+    "聚焦 Firecracker 微虚拟机 VMM 的逃逸攻击链与漏洞成因",
+    "覆盖设备模拟、virtio 与内存管理等关键攻击面",
+    "揭示 AWS Lambda/Fargate 等多租户云环境的隔离风险",
+    "提供从 Guest 到 Host 的完整利用思路与防御启示"
+  ],
+  "tags": [
+    "Security",
+    "Virtualization",
+    "Firecracker",
+    "Exploit",
+    "Cloud"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "针对主流云隔离技术的深度逃逸研究，实战与防御参考价值高，但受众偏安全研究领域。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

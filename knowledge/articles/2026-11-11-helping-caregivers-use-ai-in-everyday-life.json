@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-helping-caregivers-use-ai-in-everyday-life",
+  "title": "Helping caregivers use AI in everyday life",
+  "source": "rss",
+  "source_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "author": "openai_blog",
+  "published_at": "Tue, 10 Nov 2026 12:00:00 GMT",
+  "collected_at": "2026-11-11T15:44:44.834428+00:00",
+  "summary": "OpenAI 通过 OpenAI Academy 在美国五座城市为照护者提供免费的 ChatGPT 实操工作坊，帮助他们掌握日常可用的 AI 技能。该举措属于 AI 素养与公益教育项目，重点面向非技术人群，降低使用门槛，提升照护场景中的实际应用能力，而非发布新模型或技术产品。",
+  "highlights": [
+    "OpenAI Academy 在五座美国城市开展免费线下 ChatGPT 工作坊",
+    "目标人群为照护者，聚焦日常生活与照护场景的实用 AI 技能",
+    "属于 AI 素养普及与公益教育项目，而非模型或产品发布",
+    "体现 AI 厂商面向非技术用户推动应用落地的社区策略"
+  ],
+  "tags": [
+    "AI Literacy",
+    "ChatGPT",
+    "Education",
+    "Community",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于 AI 素养公益推广活动，社会价值明确但技术含量与行业影响有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

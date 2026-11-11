@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
+  "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+  "source": "rss",
+  "source_url": "https://pietromiotti.com/latest/maya-site/?maya",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 11 Nov 2026 12:05:22 +0000",
+  "collected_at": "2026-11-11T15:44:13.833780+00:00",
+  "summary": "文章介绍 Google SWE 团队将 48 个 AI 智能体用于 NASA 激光雷达（LiDAR）数据的自动分析，在 72 小时内发现了一座此前未被测绘的玛雅金字塔。该案例展示了多智能体协作在遥感考古中的高效性，引发 Hacker News 上关于 AI 科研自动化、结果可验证性与考古方法论的广泛讨论。",
+  "highlights": [
+    "48 个 AI 智能体并行处理 NASA LiDAR 数据，72 小时内定位未测绘的玛雅金字塔",
+    "体现多智能体系统在遥感数据自动筛查与考古发现中的落地能力",
+    "HN 讨论聚焦结果可验证性、误报风险及 AI 辅助科研的边界",
+    "展示 AI 从代码任务向跨领域科学发现迁移的潜力"
+  ],
+  "tags": [
+    "Multi-Agent",
+    "LiDAR",
+    "Remote Sensing",
+    "AI for Science",
+    "Archaeology"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "多智能体在真实科学数据上取得可验证发现，具示范意义，但单案例证据与可复现性仍待检验。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

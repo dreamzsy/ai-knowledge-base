@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-11-pay-for-hugging-face-hub-with-your-google-cloud-account",
+  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-11T15:44:53.149290+00:00",
+  "summary": "Hugging Face 宣布 Hub 支持通过 Google Cloud 账户付费，用户可在 GCP Marketplace 中订阅 Hugging Face Hub 的付费方案，费用计入现有 Google Cloud 账单，简化企业采购与结算流程，降低团队采用门槛。",
+  "highlights": [
+    "Hugging Face Hub 付费方案可通过 Google Cloud 账户结算",
+    "已上架 GCP Marketplace，支持企业统一采购",
+    "费用并入现有 GCP 账单，简化财务与合规流程",
+    "降低企业团队采用 Hugging Face 服务的门槛"
+  ],
+  "tags": [
+    "Hugging Face",
+    "Google Cloud",
+    "Marketplace",
+    "Billing",
+    "Enterprise"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "属于商业计费与采购渠道整合，对使用 GCP 的企业用户有实际便利，但技术含量有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
