@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-12-my-ai-agents-found-an-unmapped-maya-site",
+  "title": "My AI agents found an unmapped Maya site?",
+  "source": "rss",
+  "source_url": "https://pietromiotti.com/latest/maya-site",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 11 Nov 2026 12:05:22 +0000",
+  "collected_at": "2026-11-12T16:28:26.483974+00:00",
+  "summary": "作者撰文讲述其搭建的 AI 智能体在卫星或地理数据中疑似发现一处未被测绘的玛雅遗址，文章在 Hacker News 获得 1022 分、380 条评论的热议。讨论聚焦于 AI 辅助考古发现的真实性与方法论：智能体如何筛选遥感影像、结果如何验证、是否存在误报，以及这类自动化探索对传统考古流程的意义与局限。",
+  "highlights": [
+    "AI 智能体被用于遥感影像筛查，疑似定位未记录的玛雅遗址",
+    "HN 高热帖（1022 分/380 评论），社区对结论可信度分歧明显",
+    "核心争议在于 AI 发现的验证流程与误报风险",
+    "展示了 LLM/Agent 在科学探索类任务中的实际应用范式"
+  ],
+  "tags": [
+    "Agent",
+    "LLM",
+    "Remote Sensing",
+    "Archaeology",
+    "AI4Science"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "AI 智能体用于真实科学发现的案例具启发性，但结论尚待专业考古验证，方法论价值高于结论本身。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

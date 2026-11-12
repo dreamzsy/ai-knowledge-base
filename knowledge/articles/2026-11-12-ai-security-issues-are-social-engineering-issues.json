@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-12-ai-security-issues-are-social-engineering-issues",
+  "title": "AI Security Issues Are Social Engineering Issues",
+  "source": "rss",
+  "source_url": "https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 12 Nov 2026 08:41:38 -0600",
+  "collected_at": "2026-11-12T16:28:34.696183+00:00",
+  "summary": "文章指出 AI 安全问题的本质并非纯技术漏洞，而是社会工程学问题的延伸。作者认为，攻击者利用 AI 系统时，往往通过欺骗、诱导和信任操纵等社会工程手段绕过防护，而非破解算法。因此，防御重点应从模型加固转向人员意识、流程设计与权限治理，把 AI 安全纳入传统信息安全的社会工程防护框架。",
+  "highlights": [
+    "AI 安全事件多源于信任操纵与欺骗，而非算法缺陷",
+    "防御重心应从模型加固转向人员意识与流程治理",
+    "建议将 AI 安全纳入传统社会工程防护框架",
+    "强调权限设计与人为环节是主要攻击面"
+  ],
+  "tags": [
+    "AI Security",
+    "Social Engineering",
+    "Security",
+    "Trust"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "视角有价值但偏观点性评论，缺乏具体技术方案与实证数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

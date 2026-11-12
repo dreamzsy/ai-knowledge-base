@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-12-united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "source": "rss",
+  "source_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 11 Nov 2026 21:24:35 +0000",
+  "collected_at": "2026-11-12T16:28:24.159595+00:00",
+  "summary": "美联航更新运输条款，禁止旅客使用第三方 AI 代理自动代订机票，引发 Hacker News 热议（635 分、659 条评论）。此举反映航司对自动化购票、爬虫与代理流量冲击定价与库存系统的担忧，也暴露 AI Agent 在真实商业场景落地时面临的服务条款、身份验证与责任归属障碍。",
+  "highlights": [
+    "美联航在运输合同中明确禁止 AI 代理代为订票，违规订单可能被取消",
+    "社区讨论聚焦于航司反爬与动态定价动机，而非单纯安全考量",
+    "暴露 AI Agent 在电商/票务场景的身份识别、授权与责任归属难题",
+    "预示企业将更多通过服务条款与技术手段限制自动化代理访问"
+  ],
+  "tags": [
+    "AI Agent",
+    "Automation",
+    "Policy",
+    "Web Scraping",
+    "Travel Tech"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "事件本身非技术突破，但清晰揭示 AI Agent 商业化落地的合规与平台对抗现实，对 Agent 产品设计有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

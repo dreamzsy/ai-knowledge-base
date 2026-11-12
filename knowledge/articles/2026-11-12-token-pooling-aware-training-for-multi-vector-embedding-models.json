@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-12-token-pooling-aware-training-for-multi-vector-embedding-models",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/token-pooling",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-12T16:29:01.704124+00:00",
+  "summary": "该文章介绍面向多向量嵌入模型的 Token Pooling-Aware 训练方法。多向量模型（如 ColBERT 式 late interaction）为每个 token 保留向量，存储与检索开销大。作者提出在训练阶段引入 token 池化感知机制，使模型在池化压缩后仍保持检索质量，从而在精度与效率间取得更好平衡，并给出在 Hugging Face 生态中的实现与实验。",
+  "highlights": [
+    "针对多向量嵌入模型的 token 级向量冗余问题，提出训练时感知池化的方案",
+    "将池化操作纳入训练流程，缓解推理阶段压缩导致的检索精度下降",
+    "在存储与计算效率和多向量检索质量之间取得更优权衡",
+    "基于 Hugging Face 生态给出实现与实验，便于复现和应用"
+  ],
+  "tags": [
+    "Embedding",
+    "Retrieval",
+    "ColBERT",
+    "Token Pooling",
+    "Training"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "面向多向量检索的效率痛点提出可落地的训练改进，实用性强但影响范围限于嵌入检索领域。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

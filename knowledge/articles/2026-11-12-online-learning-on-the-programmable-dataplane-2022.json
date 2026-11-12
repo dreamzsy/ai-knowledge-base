@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-12-online-learning-on-the-programmable-dataplane-2022",
+  "title": "Online learning on the programmable dataplane (2022)",
+  "source": "rss",
+  "source_url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 10 Nov 2026 14:22:46 -0600",
+  "collected_at": "2026-11-12T16:28:38.947587+00:00",
+  "summary": "该内容为 2022 年格拉斯哥大学博士论文，研究在可编程数据平面（如 P4 交换机）上实现在线学习。论文探讨如何在网络设备内部直接进行模型训练与推理，以降低延迟、减少控制器通信开销，并提升对流量变化的实时响应能力，属于网络内机器学习（In-Network ML）方向。",
+  "highlights": [
+    "研究在可编程数据平面（P4/交换机 ASIC）上实现在线学习算法",
+    "目标是在网络设备内完成模型训练与推理，降低延迟与控制器通信开销",
+    "涉及资源受限硬件上的模型更新与精度权衡",
+    "属于网络内机器学习（In-Network ML）与可编程网络交叉方向"
+  ],
+  "tags": [
+    "Programmable Dataplane",
+    "In-Network ML",
+    "P4",
+    "Online Learning",
+    "Networking"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "选题新颖且具工程价值，但为 2022 年博士论文，偏学术、落地与时效性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

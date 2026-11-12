@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 635 # Comments: 659",
+    "published_at": "Wed, 11 Nov 2026 21:24:35 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "My AI agents found an unmapped Maya site?",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1022 # Comments: 380",
+    "published_at": "Wed, 11 Nov 2026 12:05:22 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 545 # Comments: 547",
+    "published_at": "Tue, 10 Nov 2026 21:25:03 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "author": "hacker_news_best",
+    "summary_raw": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0])Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge.200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves. (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1]I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your context window. (Or cedeing activation mechanics to MCP dynamic tool search). The skill description is minmaxed for activating on relevant frontend tasks. The RAG work I'm pretty proud of… originally a 500mb native stack down to a ~7MB pure-JS package, ~10ms search on your CPU.We just introduced a deterministic 'legacy-scan' (trained on 30k github repos) to identify old 'n dusted patterns that your agent can modernize. (92% avg precision on held-out repos.)People make a lot of claims about what coding agents are good/bad at. We wanted receipts, so we invested heavily in eval infra [2] to help us hill-climb, but also to identify when knowledge is common enough we can prune our guides. (Ofc, some of the things we thought AI didn't know turned out to be wrong :) We run codex/claude/agy against 200 tasks without the skill and then with.. In total ~1,700 playwright/AST-based assertions. Agents go from 55% pass unguided to 92% guided.Try it out: DISABLE_TELEMETRY=1 npx modern-web-guidance@latest install DISABLE_TELEMETRY=1 npx modern-web-guidance@latest search \"animate dialog modal\" DISABLE_TELEMETRY=1 npx modern-web-guidance@latest legacy-scan ./src If you spot something wrong or weird, give us a holler!Longer write-up on the 1.0: https://developer.chrome.com/blog/modern-web-guidance-v1---0: https://news.ycombinator.com/item?id=504164561: https://developer.chrome.com/docs/modern-web-guidance/guides2: https://googlechrome.github.io/modern-web-guidance-src/ Comments URL: https://news.ycombinator.com/item?id=50443812 Points: 434 # Comments: 142",
+    "published_at": "Tue, 10 Nov 2026 18:01:15 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "libreagi - save OS models",
+    "url": "https://libreagi.com/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7c4iar/libreagi_save_os_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 12 Nov 2026 09:35:46 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI Security Issues Are Social Engineering Issues",
+    "url": "https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rehdv3/ai_security_issues_are_social\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 12 Nov 2026 08:41:38 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Writing a SIGGRAPH paper from scratch",
+    "url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:34:08 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tj73bq/online_learning_on_programmable\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 10 Nov 2026 14:22:46 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:27:51 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:38:00 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "author": "openai_blog",
+    "summary_raw": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "published_at": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "author": "openai_blog",
+    "summary_raw": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "author": "openai_blog",
+    "summary_raw": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "published_at": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]
