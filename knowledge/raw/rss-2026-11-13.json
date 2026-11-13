@@ -1,0 +1,173 @@
+[
+  {
+    "source": "rss",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 391 # Comments: 327",
+    "published_at": "Fri, 13 Nov 2026 10:18:13 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 329 # Comments: 133",
+    "published_at": "Thu, 12 Nov 2026 21:56:11 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 675 # Comments: 698",
+    "published_at": "Wed, 11 Nov 2026 21:24:35 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "e-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 02:37:31 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "libreagi - save OS models",
+    "url": "https://libreagi.com/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7c4iar/libreagi_save_os_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 12 Nov 2026 09:35:46 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Writing a SIGGRAPH paper from scratch",
+    "url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:34:08 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tj73bq/online_learning_on_programmable\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 10 Nov 2026 14:22:46 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ML Modules for Mere Mortals",
+    "url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 05:33:56 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:27:51 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "author": "openai_blog",
+    "summary_raw": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "author": "openai_blog",
+    "summary_raw": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "published_at": "Thu, 12 Nov 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "author": "openai_blog",
+    "summary_raw": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "published_at": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "author": "openai_blog",
+    "summary_raw": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 12 Nov 2026 19:07:35 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "extra": {}
+  }
+]

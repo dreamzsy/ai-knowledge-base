@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-13-ml-modules-for-mere-mortals",
+  "title": "ML Modules for Mere Mortals",
+  "source": "rss",
+  "source_url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 13 Nov 2026 05:33:56 -0600",
+  "collected_at": "2026-11-13T15:49:22.495621+00:00",
+  "summary": "该文章是面向普通开发者的 ML 模块入门讲解，介绍 ML 语言中模块系统的概念与用法，帮助读者理解模块化编程的基本机制。",
+  "highlights": [
+    "面向非专家的 ML 模块系统入门介绍",
+    "解释模块化编程在 ML 语言中的基本概念",
+    "帮助读者理解模块系统的实际用法"
+  ],
+  "tags": [
+    "ML",
+    "Module System",
+    "Functional Programming",
+    "Tutorial"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于编程语言理论的教学性内容，受众较窄，实用价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

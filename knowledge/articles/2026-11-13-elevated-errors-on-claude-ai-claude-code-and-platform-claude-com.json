@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-elevated-errors-on-claude-ai-claude-code-and-platform-claude-com",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "source": "rss",
+  "source_url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 13 Nov 2026 10:18:13 +0000",
+  "collected_at": "2026-11-13T15:49:05.623354+00:00",
+  "summary": "该内容为 Anthropic 官方状态页的一则故障通告，报告 claude.ai、Claude Code 以及 platform.claude.com 出现错误率升高。在 Hacker News 上获得 391 分和 327 条评论，说明开发者社区对 Claude 服务稳定性高度关注。通告本身信息量有限，主要价值在于反映主流 LLM 服务可用性事件及其对依赖其 API 和编码工具的开发者的影响。",
+  "highlights": [
+    "Anthropic 多个产品线（claude.ai、Claude Code、platform.claude.com）同时出现错误率升高",
+    "HN 热度高（391 分、327 评论），反映开发者对 LLM 服务稳定性的敏感度",
+    "Claude Code 作为编码 Agent 工具受影响，直接波及开发工作流",
+    "状态页通告通常缺少根因细节，需后续复盘才能评估影响范围"
+  ],
+  "tags": [
+    "LLM",
+    "Claude",
+    "Reliability",
+    "Incident",
+    "Agent"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "属于服务故障通告而非技术方案或工具发布，信息价值有限，但对依赖 Claude 的开发者有即时参考意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-13-libreagi-save-os-models",
+  "title": "libreagi - save OS models",
+  "source": "rss",
+  "source_url": "https://libreagi.com/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 12 Nov 2026 09:35:46 -0600",
+  "collected_at": "2026-11-13T15:49:15.854864+00:00",
+  "summary": "libreagi 是一个倡导保存开源操作系统模型的网站项目，讨论帖发布于 Lobsters。项目关注开源 AI 模型与操作系统模型的长期存档与可获取性，防止模型因平台下架或授权变更而丢失。目前信息以社区讨论和倡议为主，具体技术实现与模型清单尚不明确，价值更多体现在开源生态治理与模型可持续性议题上。",
+  "highlights": [
+    "聚焦开源操作系统模型的保存与长期可获取性",
+    "通过 Lobsters 社区讨论引发对模型下架风险的关注",
+    "属于开源 AI 生态治理与模型存档倡议类项目",
+    "当前公开信息有限，缺少具体技术实现细节"
+  ],
+  "tags": [
+    "OpenSource",
+    "ModelPreservation",
+    "AI-Governance",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "议题有价值但信息量有限，尚未形成可评估的技术方案或数据集。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

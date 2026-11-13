@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-gpus",
+  "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+  "source": "rss",
+  "source_url": "https://unemploymentlabs.com/checkpoint-forensics",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 12 Nov 2026 21:56:11 +0000",
+  "collected_at": "2026-11-13T15:49:08.250651+00:00",
+  "summary": "该文章通过检查点取证分析，声称中国前沿 AI 模型的权重中残留了受出口管制 GPU 的硬件指纹，可据此推断训练所用芯片来源。文章在 Hacker News 引发 329 分、133 条评论的热议，涉及模型溯源、出口管制执行与硬件取证方法，但结论依赖间接证据，需谨慎看待其技术可靠性。",
+  "highlights": [
+    "提出通过模型检查点中的数值痕迹识别训练所用 GPU 型号与来源",
+    "将硬件指纹与出口管制合规审查关联，具有政策与执法意义",
+    "HN 高热度讨论，社区对取证方法的可复现性和误判风险存在争议",
+    "涉及模型溯源与供应链透明度这一新兴研究方向"
+  ],
+  "tags": [
+    "Model Forensics",
+    "GPU",
+    "Export Control",
+    "AI Governance",
+    "Hardware Fingerprinting"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "选题新颖且具政策相关性，但取证方法证据链偏间接，结论可靠性有待同行验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

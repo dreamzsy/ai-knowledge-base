@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-gondola-doubles-revenue-as-its-team-builds-more-with-codex",
+  "title": "Gondola doubles revenue as its team builds more with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/gondola",
+  "author": "openai_blog",
+  "published_at": "Thu, 12 Nov 2026 12:00:00 GMT",
+  "collected_at": "2026-11-13T15:49:33.562354+00:00",
+  "summary": "OpenAI 发布 Gondola 客户案例：Gondola 帮助创意工作者获得署名与就业机会，其首席工程师借助 Codex 将产出提升 50%，并通过 ChatGPT 简化日常工作，最终实现营收翻倍。该案例展示了 AI 编程助手在小型团队中放大工程效能、推动业务增长的实践路径。",
+  "highlights": [
+    "Codex 使首席工程师个人产出提升约 50%",
+    "ChatGPT 用于简化团队日常事务性工作",
+    "AI 工具助力小团队以有限人力支撑业务扩张",
+    "公司实现营收翻倍，体现 AI 投入的商业回报"
+  ],
+  "tags": [
+    "Codex",
+    "ChatGPT",
+    "AI Coding",
+    "Productivity",
+    "Case Study"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "属于厂商客户案例，量化收益有参考价值但缺乏技术细节与可复现方法。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

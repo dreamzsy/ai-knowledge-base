@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-supporting-research-on-ai-and-children-s-safety",
+  "title": "Supporting research on AI and children’s safety",
+  "source": "rss",
+  "source_url": "https://openai.com/index/children-first-declaration",
+  "author": "openai_blog",
+  "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-13T15:49:38.331309+00:00",
+  "summary": "OpenAI 宣布投入 200 万美元支持 AI 与儿童安全研究，重点开发共享工具以衡量 AI 对青少年的风险与机会。该计划属于其儿童优先声明的一部分，旨在推动行业建立可复用的评估标准，帮助研究者和平台更系统地识别 AI 对未成年人的潜在危害与积极价值。",
+  "highlights": [
+    "OpenAI 承诺投入 200 万美元资助 AI 与儿童安全相关研究",
+    "重点开发共享测量工具，评估 AI 对青少年的风险与机会",
+    "项目隶属 OpenAI 的儿童优先声明框架",
+    "推动行业形成可复用的未成年人 AI 安全评估标准"
+  ],
+  "tags": [
+    "AI Safety",
+    "Child Safety",
+    "OpenAI",
+    "Risk Assessment",
+    "Responsible AI"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "聚焦未成年人 AI 安全这一高社会价值议题并提供资金与工具支持，但具体技术方案与落地细节尚不明确。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

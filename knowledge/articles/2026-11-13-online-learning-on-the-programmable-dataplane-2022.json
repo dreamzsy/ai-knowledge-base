@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-13-online-learning-on-the-programmable-dataplane-2022",
+  "title": "Online learning on the programmable dataplane (2022)",
+  "source": "rss",
+  "source_url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 10 Nov 2026 14:22:46 -0600",
+  "collected_at": "2026-11-13T15:49:20.677501+00:00",
+  "summary": "该论文探讨在可编程数据平面（如P4交换机）上实现在线学习。传统机器学习多在控制平面或端系统进行，但数据平面具有线速处理、低延迟优势。作者研究如何在数据平面有限资源下部署在线学习算法，可能涉及模型简化、增量更新和资源管理。论文为网络内机器学习提供新思路，对网络遥测、异常检测等应用有参考价值。",
+  "highlights": [
+    "研究在可编程数据平面（如P4）上实现在线学习，突破传统控制平面限制",
+    "利用数据平面线速处理与低延迟特性，支持实时网络应用",
+    "探讨资源受限环境下的模型简化与增量更新策略",
+    "为网络内机器学习（如异常检测、流量分类）提供新思路"
+  ],
+  "tags": [
+    "Programmable Dataplane",
+    "Online Learning",
+    "P4",
+    "In-Network Computing"
+  ],
+  "language": "zh",
+  "score": 0.7,
+  "score_reason": "论文探索数据平面在线学习这一前沿方向，具有创新性和潜在应用价值，但领域较专且资源限制带来挑战。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

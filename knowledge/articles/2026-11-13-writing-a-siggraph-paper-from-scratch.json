@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-writing-a-siggraph-paper-from-scratch",
+  "title": "Writing a SIGGRAPH paper from scratch",
+  "source": "rss",
+  "source_url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 11 Nov 2026 10:34:08 -0600",
+  "collected_at": "2026-11-13T15:49:18.342489+00:00",
+  "summary": "该文章由 Alexander Goslin 撰写，系统分享了从零开始撰写 SIGGRAPH 论文的完整流程与经验，涵盖选题定位、贡献点提炼、方法设计与实验安排、论文结构与写作技巧、图表制作以及投稿与 rebuttal 策略等环节，面向图形学研究者尤其是初次投稿的学生，提供可操作的方法论与实用建议，帮助提升论文质量与中稿概率。",
+  "highlights": [
+    "给出从选题到投稿的端到端写作流程与时间安排建议",
+    "强调贡献点提炼与论文叙事结构对录用率的影响",
+    "涵盖实验设计、图表可视化与写作表达的具体技巧",
+    "包含投稿、审稿意见回应与 rebuttal 的实战经验"
+  ],
+  "tags": [
+    "Academic Writing",
+    "SIGGRAPH",
+    "Computer Graphics",
+    "Research Methodology",
+    "Paper Submission"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "面向图形学论文写作的实用方法论，对初次投稿者有较高参考价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

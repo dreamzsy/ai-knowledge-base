@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-holiday-extras-is-rethinking-what-it-can-build-with-codex",
+  "title": "Holiday Extras is rethinking what it can build with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "author": "openai_blog",
+  "published_at": "Thu, 12 Nov 2026 09:30:00 GMT",
+  "collected_at": "2026-11-13T15:49:36.092193+00:00",
+  "summary": "OpenAI 发布 Holiday Extras 使用 Codex 的客户案例：这家旅行附加服务公司借助 Codex 将业务专家经验转化为应用开发能力，提升应用质量与预订转化率，并探索新的增长空间。案例展示了代码生成模型在企业内部落地、赋能非工程团队与业务增长的路径。",
+  "highlights": [
+    "Codex 帮助将业务专家知识转化为可用的应用功能",
+    "预订转化率提升，体现 AI 编码对核心业务指标的直接价值",
+    "非工程团队参与构建，扩大开发产能",
+    "为旅行行业探索新的增长场景"
+  ],
+  "tags": [
+    "Codex",
+    "Code Generation",
+    "Enterprise",
+    "Case Study",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "属于厂商客户案例，缺少量化细节与技术深度，但对 Codex 企业落地场景有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
