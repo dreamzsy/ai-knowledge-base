@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-14-shield-helps-technicians-hand-off-legacy-portal-work-with-openai",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/shield",
+  "author": "openai_blog",
+  "published_at": "Fri, 13 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-14T14:40:53.775126+00:00",
+  "summary": "OpenAI 发布客户案例，介绍 Shield 公司利用 OpenAI 模型构建 Forge 智能体，帮助 IT 技术人员在遗留门户系统中自动完成交接工作。Forge 智能体能够自主导航这些老旧系统，执行重复性操作，使技术人员得以专注于真正需要人工判断的问题。该案例展示了 AI 智能体在企业 IT 运维场景中处理遗留系统、提升工作效率的实际落地方式。",
+  "highlights": [
+    "Shield 基于 OpenAI 构建 Forge 智能体，用于自动化处理遗留门户系统中的 IT 交接任务",
+    "智能体可自主导航老旧系统界面，替代人工完成重复性操作",
+    "技术人员从繁琐操作中解放，聚焦需要专业判断的复杂问题",
+    "属于 OpenAI 官方企业客户案例，体现 Agent 在 IT 运维场景的落地"
+  ],
+  "tags": [
+    "Agent",
+    "Enterprise",
+    "ITOps",
+    "Automation",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "展示了智能体在遗留系统运维中的真实企业落地，但为营销性质客户案例，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

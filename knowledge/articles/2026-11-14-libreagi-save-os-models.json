@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-14-libreagi-save-os-models",
+  "title": "libreagi - save OS models",
+  "source": "rss",
+  "source_url": "https://libreagi.com/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 12 Nov 2026 09:35:46 -0600",
+  "collected_at": "2026-11-14T14:40:40.523397+00:00",
+  "summary": "libreagi 是一个面向开源模型保存与分享的网站，提供模型托管与下载入口，并附有 Lobsters 社区讨论链接。页面本身信息量有限，未披露具体技术架构、模型格式或授权细节，更像是一个聚合/索引型项目，适合关注开源模型生态与模型权重的用户参考。",
+  "highlights": [
+    "提供开源模型保存与分享的入口站点",
+    "附带 Lobsters 社区讨论，可了解社区反馈",
+    "页面信息较少，技术细节与授权未明确",
+    "定位偏向模型聚合/索引而非训练框架"
+  ],
+  "tags": [
+    "OpenSource",
+    "ModelHosting",
+    "ModelWeights",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "信息量有限且缺乏技术细节，仅对关注开源模型托管与社区讨论的用户有一定参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

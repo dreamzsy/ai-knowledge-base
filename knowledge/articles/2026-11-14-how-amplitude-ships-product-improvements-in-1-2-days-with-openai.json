@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-14-how-amplitude-ships-product-improvements-in-1-2-days-with-openai",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/amplitude",
+  "author": "openai_blog",
+  "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
+  "collected_at": "2026-11-14T14:40:56.335910+00:00",
+  "summary": "OpenAI 发布 Amplitude 客户案例：Amplitude 主要基于 OpenAI 模型构建主动式产品智能体 Wave，可自动识别应构建的功能、借助编码智能体帮助团队完成改动上线，并度量改动带来的影响，从而将产品改进周期缩短到 1–2 天。案例展示了 LLM 驱动的产品发现、开发执行与效果评估一体化闭环在企业实际生产中的落地方式。",
+  "highlights": [
+    "Wave 智能体基于 OpenAI 模型构建，覆盖产品发现、开发执行与效果度量全流程",
+    "编码智能体辅助团队快速落地改动，将产品迭代周期压缩至 1–2 天",
+    "体现 LLM 从辅助编码延伸到产品决策与影响评估的端到端闭环",
+    "属于厂商客户案例，展示企业级 AI 产品智能体的实际生产落地路径"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "Coding Agent",
+    "Product Analytics",
+    "Enterprise AI"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "展示了智能体驱动产品迭代闭环的真实企业案例，有参考价值但属厂商宣传材料，技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

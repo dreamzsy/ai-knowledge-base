@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-14-the-little-book-of-generative-ai-foundations-an-intuitive-mathematical-primer",
+  "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.29713",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 13 Nov 2026 22:51:14 -0600",
+  "collected_at": "2026-11-14T14:40:33.707634+00:00",
+  "summary": "《The Little Book of Generative AI Foundations》是一本面向生成式 AI 基础理论的直观数学入门读物，以 arXiv 预印本形式发布。该书旨在用通俗易懂的方式讲解生成式模型背后的核心数学原理，帮助读者建立从概率建模到现代生成模型的系统认知，适合作为学习生成式 AI 理论基础的入门材料。",
+  "highlights": [
+    "以直观方式讲解生成式 AI 的数学基础，降低理论门槛",
+    "系统覆盖生成式建模的核心概念与原理",
+    "以书籍/教程形式组织，适合作为入门学习材料",
+    "发布在 arXiv 上，可公开获取"
+  ],
+  "tags": [
+    "Generative AI",
+    "Mathematics",
+    "Tutorial",
+    "Book",
+    "Deep Learning"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "作为系统性的生成式 AI 数学入门读物具有教学价值，但属于综述/教程类内容，原创性与技术突破性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
