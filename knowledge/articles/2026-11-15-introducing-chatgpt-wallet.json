@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-15-introducing-chatgpt-wallet",
+  "title": "Introducing ChatGPT Wallet",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "author": "openai_blog",
+  "published_at": "Fri, 13 Nov 2026 15:00:00 GMT",
+  "collected_at": "2026-11-15T15:08:25.241493+00:00",
+  "summary": "OpenAI 发布 ChatGPT Wallet，为 ChatGPT Work、Codex 和 dots 中的智能体提供安全支付能力。用户可授权智能体完成购买，交易沿用现有银行卡保护机制，需用户逐笔批准。该功能将支付环节纳入智能体工作流，使 AI 从信息处理延伸到实际交易执行，是 Agent 商业化的重要基础设施。",
+  "highlights": [
+    "为 ChatGPT Work、Codex、dots 中的 Agent 提供受控支付能力",
+    "每笔交易需用户明确批准，保留现有银行卡保护",
+    "将支付能力嵌入 Agent 工作流，拓展自动化边界",
+    "标志 OpenAI 向 Agent 商业化与交易执行层延伸"
+  ],
+  "tags": [
+    "Agent",
+    "Payments",
+    "OpenAI",
+    "AI Commerce",
+    "Security"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "将支付能力引入 Agent 生态具有战略意义，但落地范围与风控效果仍待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

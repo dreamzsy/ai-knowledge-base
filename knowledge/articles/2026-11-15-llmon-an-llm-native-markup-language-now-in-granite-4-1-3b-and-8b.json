@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-15-llmon-an-llm-native-markup-language-now-in-granite-4-1-3b-and-8b",
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 12 Nov 2026 19:07:35 GMT",
+  "collected_at": "2026-11-15T15:08:40.511363+00:00",
+  "summary": "IBM 在 Granite 4.1 3B 与 8B 模型中引入 LLMON，一种面向大模型原生设计的标记语言。它旨在替代或补充 JSON、XML 等传统结构化格式，让模型以更自然、更高效的方式生成和解析结构化输出，减少转义与语法负担，提升指令遵循与工具调用可靠性，并已在 Hugging Face 发布相关模型与用法说明。",
+  "highlights": [
+    "提出 LLMON 这一 LLM 原生标记语言，针对结构化输出场景优化",
+    "已集成到 Granite 4.1 3B 和 8B 模型，可直接使用",
+    "目标是降低传统 JSON/XML 的语法负担与生成错误率",
+    "有助于提升工具调用、函数调用等 Agent 场景的稳定性"
+  ],
+  "tags": [
+    "LLM",
+    "Markup Language",
+    "Structured Output",
+    "Granite",
+    "Tool Calling"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "为结构化输出提供新格式思路并落地到开源模型，实用价值较高但生态 adoption 仍待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
