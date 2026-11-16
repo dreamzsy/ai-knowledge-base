@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16-hugging-face-and-openrouter-join-forces-to-make-open-weight-models-easy-to-run",
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/openrouter",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 16 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-16T17:43:14.933375+00:00",
+  "summary": "Hugging Face 与 OpenRouter 宣布合作，旨在降低开源权重模型的运行门槛。通过整合双方平台能力，开发者可以更便捷地调用和部署各类开放权重模型，无需自行搭建复杂推理基础设施。此举有望进一步推动开源模型生态的普及，让更多团队以更低成本接入多样化模型，并简化从模型发现到实际调用的流程。",
+  "highlights": [
+    "Hugging Face 与 OpenRouter 达成合作，聚焦开源权重模型的易用性",
+    "降低开发者运行开放权重模型的部署与调用门槛",
+    "整合模型发现与推理调用流程，简化使用体验",
+    "有望加速开源模型生态的普及与采用"
+  ],
+  "tags": [
+    "OpenSource",
+    "ModelDeployment",
+    "Inference",
+    "Ecosystem",
+    "API"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "两大平台合作降低开源模型使用门槛，对开发者生态有实际价值，但属于集成层面而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

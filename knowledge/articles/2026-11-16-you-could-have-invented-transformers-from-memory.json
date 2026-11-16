@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-16-you-could-have-invented-transformers-from-memory",
+  "title": "You could have invented transformers from memory",
+  "source": "rss",
+  "source_url": "https://alexwang.ai/posts/associative-memory/",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 13 Nov 2026 22:49:47 -0600",
+  "collected_at": "2026-11-16T17:42:51.803895+00:00",
+  "summary": "文章从联想记忆的视角出发，逐步推导出 Transformer 的核心机制，说明注意力本质上是一种可微的键值联想记忆，读者无需死记架构细节，就能从第一性原理重新发明 Transformer。作者用直观的类比串联起查询、键、值以及 softmax 加权检索，降低了理解门槛。",
+  "highlights": [
+    "以联想记忆为切入点，从第一性原理推导 Transformer 架构",
+    "将注意力机制解释为可微的键值检索与 softmax 加权",
+    "强调理解优先于记忆，帮助读者重建对架构的直觉",
+    "适合作为学习 Transformer 的补充性教学材料"
+  ],
+  "tags": [
+    "Transformer",
+    "Attention",
+    "Machine Learning",
+    "Education"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "提供了新颖且直观的 Transformer 推导视角，教学价值较高，但偏科普而非工程创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

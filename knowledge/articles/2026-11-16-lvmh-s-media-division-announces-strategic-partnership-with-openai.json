@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16-lvmh-s-media-division-announces-strategic-partnership-with-openai",
+  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/lvmh-media-division-partnership",
+  "author": "openai_blog",
+  "published_at": "Mon, 16 Nov 2026 09:00:00 GMT",
+  "collected_at": "2026-11-16T17:43:12.407594+00:00",
+  "summary": "LVMH 旗下媒体部门宣布与 OpenAI 建立战略合作，旨在利用 AI 技术支持新闻业，并让旗下出版物通过 ChatGPT 更易被访问。该合作体现奢侈品牌媒体业务与生成式 AI 平台的融合，重点在于内容分发渠道拓展与新闻生产辅助，而非底层模型技术突破。",
+  "highlights": [
+    "LVMH 媒体部门与 OpenAI 达成战略合作",
+    "合作目标之一是借助 AI 支持新闻业发展",
+    "旗下出版物将通过 ChatGPT 提升可访问性",
+    "属于内容分发与媒体应用层面的商业合作"
+  ],
+  "tags": [
+    "OpenAI",
+    "Media",
+    "Partnership",
+    "ChatGPT",
+    "Content Distribution"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于商业合作新闻，对 AI 技术演进参考价值有限，但对媒体内容分发模式有一定观察意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

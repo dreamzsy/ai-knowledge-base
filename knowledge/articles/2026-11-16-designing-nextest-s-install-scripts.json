@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16-designing-nextest-s-install-scripts",
+  "title": "Designing nextest's install scripts",
+  "source": "rss",
+  "source_url": "https://sunshowers.io/posts/nextest-install-scripts/",
+  "author": "lobsters_ai",
+  "published_at": "Sun, 15 Nov 2026 18:14:56 -0600",
+  "collected_at": "2026-11-16T17:42:46.830246+00:00",
+  "summary": "文章介绍 Rust 测试运行器 nextest 安装脚本的设计思路，讨论如何通过预编译二进制、平台检测与安装脚本降低用户安装成本，并权衡可维护性与安全性。",
+  "highlights": [
+    "介绍 nextest 安装脚本的整体设计目标与取舍",
+    "讨论预编译二进制分发与平台/架构检测策略",
+    "分析安装脚本在安全性与可维护性上的权衡",
+    "分享 Rust 工具链生态中分发体验的实践经验"
+  ],
+  "tags": [
+    "Rust",
+    "Testing",
+    "Installation",
+    "CLI",
+    "Tooling"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "对 Rust 工具分发与安装脚本设计有实用参考价值，但受众相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

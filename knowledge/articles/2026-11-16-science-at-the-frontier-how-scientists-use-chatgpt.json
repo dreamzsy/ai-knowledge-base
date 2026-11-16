@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16-science-at-the-frontier-how-scientists-use-chatgpt",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/science-at-the-frontier",
+  "author": "openai_blog",
+  "published_at": "Mon, 16 Nov 2026 12:00:00 GMT",
+  "collected_at": "2026-11-16T17:43:10.056593+00:00",
+  "summary": "OpenAI 基于对 1800 余名科学家的调研，发布报告《Science at the Frontier: How scientists use ChatGPT》，梳理科研人员如何在日常科研流程中使用 ChatGPT，包括文献调研、写作、编码与数据分析等场景，并统计其自报的生产力提升幅度，以及对 AI 加速科学发现的预期与担忧。报告旨在展示大模型在科研领域的真实采用现状与用户反馈。",
+  "highlights": [
+    "基于 1800+ 名科学家的调研数据，呈现 ChatGPT 在科研中的真实使用画像",
+    "覆盖日常科研工作流：文献检索、写作润色、编程与数据分析等",
+    "统计用户自报的生产力提升与时间节省情况",
+    "反映科学家对 AI 推动科学发现的预期及对可靠性的顾虑"
+  ],
+  "tags": [
+    "LLM",
+    "ChatGPT",
+    "Scientific Research",
+    "Productivity",
+    "Survey"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "提供了大模型在科研场景采用情况的一手调研数据，有参考价值，但以用户自报为主、缺乏严格量化验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

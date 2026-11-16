@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-16-e-means-10x-faster-k-means-at-equal-loss",
+  "title": "e-means: 10x faster k-means at equal loss",
+  "source": "rss",
+  "source_url": "https://e-means.github.io/",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 13 Nov 2026 02:37:31 -0600",
+  "collected_at": "2026-11-16T17:42:53.805735+00:00",
+  "summary": "e-means 提出一种加速 k-means 聚类的新方法，宣称在损失（聚类质量）与标准 k-means 相当的前提下实现约 10 倍速度提升，项目主页提供方法说明与结果展示，并在 Lobsters 上引发讨论。",
+  "highlights": [
+    "宣称在同等聚类损失下比标准 k-means 快约 10 倍",
+    "聚焦经典无监督聚类算法 k-means 的工程与算法优化",
+    "提供项目主页展示方法与实验结果",
+    "在 Lobsters 社区引发技术讨论"
+  ],
+  "tags": [
+    "k-means",
+    "Clustering",
+    "Algorithm",
+    "Performance",
+    "Machine Learning"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "若 10 倍加速在同等损失下可复现，对依赖 k-means 的大规模聚类场景有实用价值，但需进一步验证其通用性与实现细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

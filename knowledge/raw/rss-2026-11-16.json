@@ -1,0 +1,155 @@
+[
+  {
+    "source": "rss",
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1220 # Comments: 647",
+    "published_at": "Sun, 15 Nov 2026 14:46:58 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Designing nextest's install scripts",
+    "url": "https://sunshowers.io/posts/nextest-install-scripts/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Sun, 15 Nov 2026 18:14:56 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/0aungk/little_book_generative_ai_foundations\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 22:51:14 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u2h9as/you_could_have_invented_transformers\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 22:49:47 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "e-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 02:37:31 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ML Modules for Mere Mortals",
+    "url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 05:33:56 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:27:51 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "author": "openai_blog",
+    "summary_raw": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "author": "openai_blog",
+    "summary_raw": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "author": "openai_blog",
+    "summary_raw": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "published_at": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "author": "openai_blog",
+    "summary_raw": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "published_at": "Mon, 16 Nov 2026 09:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "XYBench: Helping with the problem behind the question",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 13 Nov 2026 17:02:35 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "extra": {}
+  }
+]
