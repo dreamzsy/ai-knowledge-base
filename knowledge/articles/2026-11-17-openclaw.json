@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-17-openclaw",
+  "title": "openclaw/openclaw",
+  "source": "github_trending",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "author": "openclaw",
+  "published_at": "2025-11-24T10:16:47Z",
+  "collected_at": "2026-11-17T17:14:19.348599+00:00",
+  "summary": "openclaw/openclaw 是一个跨操作系统、跨平台的开源 AI 项目，主打让 AI 真正执行任务而非仅对话，口号为“The lobster way”。仓库描述极简，未披露具体架构、模型或工具链细节，从定位看属于面向任务执行的通用 AI 助手/Agent 方向，适合关注跨平台 AI 自动化落地的开发者进一步考察。",
+  "highlights": [
+    "定位为能真正执行任务的 AI，而非纯对话式助手",
+    "宣称支持任意操作系统与任意平台，强调跨平台通用性",
+    "项目描述极简，具体技术栈与实现细节需查阅仓库代码",
+    "以“lobster”为品牌符号，风格鲜明，社区传播性较强"
+  ],
+  "tags": [
+    "Agent",
+    "Cross-Platform",
+    "Automation",
+    "Open-Source"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "跨平台任务型 AI 定位有吸引力，但公开信息过少，实际能力与成熟度有待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 394642,
+    "language": "TypeScript"
+  }
+}

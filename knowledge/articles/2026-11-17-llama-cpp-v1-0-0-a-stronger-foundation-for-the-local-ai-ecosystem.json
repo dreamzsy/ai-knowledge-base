@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-17-llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecosystem",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 13 Nov 2026 14:05:22 GMT",
+  "collected_at": "2026-11-17T17:15:31.409827+00:00",
+  "summary": "llama.cpp 发布 v1.0.0，标志着这一本地推理框架从实验性项目走向稳定基础。该版本整合了 GGML/GGUF 生态的长期积累，强化了跨平台 CPU/GPU 推理能力，为本地 AI 应用提供更可靠的底层支撑，并进一步巩固其在开源本地推理领域的核心地位。",
+  "highlights": [
+    "llama.cpp 正式发布 v1.0.0，进入稳定版本阶段",
+    "强化本地 AI 推理基础设施，覆盖多硬件后端",
+    "巩固 GGUF 模型格式与 GGML 生态的标准化地位",
+    "为下游本地 AI 应用与工具链提供更可靠基础"
+  ],
+  "tags": [
+    "llama.cpp",
+    "GGUF",
+    "Local Inference",
+    "GGML",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "本地推理核心项目迎来首个稳定大版本，对开源本地 AI 生态具有广泛而持久的基础性影响。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

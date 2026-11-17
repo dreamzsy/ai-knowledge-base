@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-17-xybench-helping-with-the-problem-behind-the-question",
+  "title": "XYBench: Helping with the problem behind the question",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/xybench",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 13 Nov 2026 17:02:35 GMT",
+  "collected_at": "2026-11-17T17:15:29.362423+00:00",
+  "summary": "XYBench 是 AllenAI 在 Hugging Face 博客上发布的基准，关注“问题背后的问题”，即评估模型能否识别用户提问中隐含的真实意图、前提或缺失信息，而非仅回答表面问题。它通过构造带有隐藏歧义或错误前提的任务，检验模型的澄清与推理能力，为对话式 AI 的可靠性评估提供新维度。",
+  "highlights": [
+    "聚焦用户提问背后的隐含意图与错误前提，而非表层问答准确率",
+    "由 AllenAI 发布，属于面向对话可靠性的评测基准",
+    "可用于衡量模型主动澄清、发现歧义的能力",
+    "为 Agent 与对话系统的评估提供新视角"
+  ],
+  "tags": [
+    "Benchmark",
+    "Evaluation",
+    "LLM",
+    "Dialogue",
+    "Reasoning"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "提出评估模型识别问题背后真实意图的新基准，对提升对话与 Agent 可靠性有实用价值，但影响范围限于评测领域。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

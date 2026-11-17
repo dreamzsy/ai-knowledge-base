@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-17-strengthening-the-fight-against-online-child-sexual-abuse-with-new-tools-and-support",
+  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "source": "rss",
+  "source_url": "https://openai.com/index/strengthening-online-child-safety",
+  "author": "openai_blog",
+  "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
+  "collected_at": "2026-11-17T17:15:22.474414+00:00",
+  "summary": "OpenAI 发布博客介绍其在打击网络儿童性剥削与性虐待（OCSEA）方面的新举措，包括面向平台与开发者的检测工具、实操指南以及多方合作，目标是覆盖预防、识别与响应三个环节，降低 AI 被滥用于生成或传播此类内容的可能。",
+  "highlights": [
+    "推出用于预防、检测和响应儿童性剥削与虐待内容的新工具",
+    "提供面向开发者与平台的实操指南，帮助落实安全防护",
+    "通过多方合作扩大治理覆盖面",
+    "强调 AI 安全治理中预防、识别、响应三个环节的闭环"
+  ],
+  "tags": [
+    "AI Safety",
+    "Content Moderation",
+    "Child Safety",
+    "Policy",
+    "Trust and Safety"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于 AI 安全治理的重要议题，但内容偏政策与倡议，缺乏可复用的技术细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

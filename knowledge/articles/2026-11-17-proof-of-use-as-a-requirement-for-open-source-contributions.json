@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-17-proof-of-use-as-a-requirement-for-open-source-contributions",
+  "title": "\"Proof of use\" as a requirement for open source contributions?",
+  "source": "rss",
+  "source_url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+  "author": "lobsters_ai",
+  "published_at": "Mon, 16 Nov 2026 16:25:45 -0600",
+  "collected_at": "2026-11-17T17:15:01.955572+00:00",
+  "summary": "一位开源维护者提出以「使用证明」作为接收贡献的前提，要求提交者展示其项目确实依赖该库（如开源项目导入记录或闭源生产环境描述），以过滤 AI 生成的低价值 PR 和刷贡献行为，并引发社区讨论。",
+  "highlights": [
+    "维护者收到大量 AI 生成的「slop PR」，多数只修复现实中几乎不会出现的边缘情况",
+    "要求提交者提供使用证明：开源项目导入的 git 历史，或闭源生产环境的具体问题描述",
+    "核心目标是优先处理真实依赖者的贡献，过滤刷 GitHub 绿格子和随手提交的 LLM 噪音",
+    "该提议在 lobste.rs 引发关于开源贡献门槛与社区包容性的讨论"
+  ],
+  "tags": [
+    "OpenSource",
+    "AI",
+    "Contribution",
+    "Maintainer",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "反映了 AI 时代开源维护者面临的真实治理痛点，提出的使用证明机制有实践参考价值，但属于社区讨论而非成熟方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

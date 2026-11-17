@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-17-introducing-openai-for-chile",
+  "title": "Introducing OpenAI for Chile",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-openai-for-chile",
+  "author": "openai_blog",
+  "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-17T17:15:18.147267+00:00",
+  "summary": "OpenAI 宣布与智利政府建立合作，共同推动负责任的人工智能应用。合作内容包括提升公共部门人员的 AI 技能、帮助本地初创企业开发 AI 应用，以及促进 AI 技术的规范使用。这是 OpenAI 在拉美地区拓展政府级合作的最新举措，旨在通过政企协作加速 AI 在公共服务和创业生态中的落地。",
+  "highlights": [
+    "OpenAI 与智利政府达成国家级 AI 合作",
+    "聚焦公共部门 AI 技能培训与能力建设",
+    "支持本地初创企业开发 AI 应用",
+    "强调负责任的人工智能采用与治理"
+  ],
+  "tags": [
+    "Policy",
+    "Government",
+    "AI Adoption",
+    "Startup",
+    "Partnership"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于政企合作公告，缺乏技术细节与开源内容，对技术从业者参考价值有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
