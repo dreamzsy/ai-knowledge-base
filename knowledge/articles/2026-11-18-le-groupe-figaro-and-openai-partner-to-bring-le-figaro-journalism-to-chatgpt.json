@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-18-le-groupe-figaro-and-openai-partner-to-bring-le-figaro-journalism-to-chatgpt",
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "source": "rss",
+  "source_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "author": "openai_blog",
+  "published_at": "Wed, 18 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-18T16:51:35.528282+00:00",
+  "summary": "OpenAI 与法国费加罗报业集团（Le Groupe Figaro）达成合作，将《费加罗报》的新闻内容引入 ChatGPT，通过摘要和节选形式呈现，并附原文链接。这是 OpenAI 继与多家媒体签约后的又一内容授权合作，旨在为 ChatGPT 提供可信新闻来源，同时为传统媒体带来流量与授权收入。",
+  "highlights": [
+    "OpenAI 与法国费加罗报业集团签署内容合作协议",
+    "ChatGPT 将以摘要和节选形式展示《费加罗报》新闻，并链接原文",
+    "延续 OpenAI 与新闻媒体内容授权的合作模式",
+    "兼顾 AI 内容可信度与媒体流量、授权收益"
+  ],
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "Media Partnership",
+    "Content Licensing",
+    "News"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于媒体内容授权类商业合作，对 AI 新闻生态有参考意义，但技术含量与行业变革性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

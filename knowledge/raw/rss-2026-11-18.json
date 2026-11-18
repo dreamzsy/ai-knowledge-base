@@ -1,0 +1,164 @@
+[
+  {
+    "source": "rss",
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 677 # Comments: 619",
+    "published_at": "Wed, 18 Nov 2026 06:47:26 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 642 # Comments: 488",
+    "published_at": "Wed, 18 Nov 2026 00:17:58 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "url": "https://energy-based-reasoners.github.io/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 18 Nov 2026 08:45:20 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "url": "https://arxiv.org/abs/2607.02512",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 17 Nov 2026 06:55:46 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/0aungk/little_book_generative_ai_foundations\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 22:51:14 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u2h9as/you_could_have_invented_transformers\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 22:49:47 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ML Modules for Mere Mortals",
+    "url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 05:33:56 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:27:51 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 27 Oct 2026 09:40:12 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 21 Oct 2026 02:51:20 -0500",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "author": "openai_blog",
+    "summary_raw": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "published_at": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "author": "openai_blog",
+    "summary_raw": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "published_at": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "author": "openai_blog",
+    "summary_raw": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "published_at": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "author": "openai_blog",
+    "summary_raw": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "published_at": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 18 Nov 2026 15:00:23 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "extra": {}
+  }
+]

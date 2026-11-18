@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-18-time-series-models-in-the-streamhouse-a-new-frontier-and-use-cases",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 18 Nov 2026 15:00:23 GMT",
+  "collected_at": "2026-11-18T16:51:44.275691+00:00",
+  "summary": "IBM Research 在 Hugging Face 博客介绍将时间序列模型引入 Streamhouse 架构的新方向。文章讨论流式数据仓库中时间序列预测与分析的集成方式，展示如何在同一平台统一处理实时流数据与历史时序数据，并给出典型应用场景，说明该组合在实时监控、异常检测和预测性维护等任务中的价值。",
+  "highlights": [
+    "提出将时间序列模型嵌入 Streamhouse 流式数据架构的思路",
+    "统一实时流处理与历史时序数据的分析与预测能力",
+    "给出实时监控、异常检测、预测性维护等落地用例",
+    "由 IBM Research 发布，兼具工程架构与模型应用视角"
+  ],
+  "tags": [
+    "TimeSeries",
+    "StreamProcessing",
+    "DataArchitecture",
+    "Forecasting",
+    "AnomalyDetection"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "架构思路清晰且用例具体，但偏概念性介绍，缺少量化基准与开源实现细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
