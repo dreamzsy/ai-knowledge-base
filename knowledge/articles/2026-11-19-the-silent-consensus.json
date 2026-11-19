@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19-the-silent-consensus",
+  "title": "The Silent Consensus",
+  "source": "rss",
+  "source_url": "https://openai.com/index/the-silent-consensus",
+  "author": "openai_blog",
+  "published_at": "Wed, 18 Nov 2026 10:00:00 GMT",
+  "collected_at": "2026-11-19T16:58:33.828357+00:00",
+  "summary": "OpenAI 战略未来负责人 Dean Ball 在《The Silent Consensus》一文中探讨了更强大的 AI 将如何重塑社会，以及人们如何保持对自身制度的控制。文章从治理与社会共识角度出发，讨论 AI 能力提升带来的制度性影响，强调在技术演进中维护人类对公共机构和决策过程的主导权，属于政策与战略层面的前瞻性思考，而非具体技术方案。",
+  "highlights": [
+    "由 OpenAI 战略未来负责人撰写，聚焦 AI 对社会制度的长期影响",
+    "核心议题是 AI 能力增强后人类如何保持对机构的控制",
+    "强调治理、共识与社会选择在 AI 发展中的作用",
+    "属于战略与政策层面的前瞻讨论，不涉及具体模型或工程实现"
+  ],
+  "tags": [
+    "AI Governance",
+    "Policy",
+    "Society",
+    "Institutions",
+    "Strategy"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "选题重要且视角宏观，但偏观点性战略讨论，缺乏可操作的技术或政策细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19-the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+  "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "source": "rss",
+  "source_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 18 Nov 2026 15:53:43 -0600",
+  "collected_at": "2026-11-19T16:58:16.797437+00:00",
+  "summary": "Google Research 提出 Sleep Framework，借鉴生物睡眠机制解决大模型持续学习中的灾难性遗忘问题。该方法在模型学习新知识后引入类似“睡眠”的离线巩固阶段，通过回放与整合已有知识，使模型在吸收新信息的同时保留旧知识。这一思路为持续学习提供了新的训练范式，有望降低对全量重训的依赖，提升模型长期知识更新的稳定性。",
+  "highlights": [
+    "借鉴生物睡眠的离线巩固机制，缓解持续学习中的灾难性遗忘",
+    "在模型学习新知识后引入巩固阶段，平衡新旧知识保留",
+    "为 LLM 长期知识更新提供低重训成本的训练范式",
+    "来自 Google Research 的持续学习方向探索"
+  ],
+  "tags": [
+    "Continual Learning",
+    "LLM",
+    "Catastrophic Forgetting",
+    "Knowledge Retention",
+    "Training"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "针对 LLM 持续学习核心痛点提出新颖且具实用潜力的训练范式，但尚处研究阶段。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

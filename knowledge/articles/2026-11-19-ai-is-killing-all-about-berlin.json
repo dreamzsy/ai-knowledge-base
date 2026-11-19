@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19-ai-is-killing-all-about-berlin",
+  "title": "AI is killing All About Berlin",
+  "source": "rss",
+  "source_url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "author": "hacker_news_best",
+  "published_at": "Wed, 18 Nov 2026 06:47:26 +0000",
+  "collected_at": "2026-11-19T16:58:10.006059+00:00",
+  "summary": "作者讲述个人运营的柏林生活指南网站 All About Berlin 因 AI 生成内容与搜索流量变化而难以为继。文章从独立内容创作者的视角，描述 AI 摘要、生成式搜索结果和爬虫抓取如何侵蚀原创站点流量与收入，引发 Hacker News 近 800 分、700 余条评论的热议，折射出 AI 时代内容生态与创作者经济的结构性冲击。",
+  "highlights": [
+    "独立内容站点在 AI 搜索摘要与生成式结果冲击下流量与收入锐减",
+    "AI 爬虫无偿抓取原创内容，加剧内容生产者的成本与收益失衡",
+    "文章在 HN 引发高热度讨论，反映创作者群体对 AI 内容生态的普遍焦虑",
+    "涉及搜索分发机制变化对中小型垂直内容网站的生存威胁"
+  ],
+  "tags": [
+    "AI",
+    "Search",
+    "Content",
+    "CreatorEconomy",
+    "Web"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "以第一手案例揭示 AI 对独立内容生态的实际冲击，话题热度高且具行业参考价值，但偏个案叙事、缺少系统数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

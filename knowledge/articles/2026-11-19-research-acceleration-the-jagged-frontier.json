@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19-research-acceleration-the-jagged-frontier",
+  "title": "Research acceleration: The jagged frontier",
+  "source": "rss",
+  "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "author": "openai_blog",
+  "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-19T16:58:35.878930+00:00",
+  "summary": "OpenAI 发布研究，量化编码智能体（coding agents）对 AI 研究本身的加速作用，并指出其能力呈现“锯齿状前沿”：在部分研究任务上显著提效，在另一些环节仍表现不均。文章进一步讨论这种不均衡对递归自我改进（recursive self-improvement）前景的启示，即自动化研究并非线性推进，而受任务类型与可验证性制约。",
+  "highlights": [
+    "量化评估编码智能体在 AI 研究流程中的加速效果",
+    "提出“锯齿状前沿”概念，描述能力在不同任务上的不均衡分布",
+    "分析自动化研究对递归自我改进路径的信号意义",
+    "强调可验证性与任务结构是决定智能体效能的关键因素"
+  ],
+  "tags": [
+    "Agent",
+    "Coding",
+    "AI Research",
+    "Automation",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "来自 OpenAI 的一手实证分析，对智能体能力边界与自动化研究趋势有参考价值，但偏观点性、缺少可复现细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

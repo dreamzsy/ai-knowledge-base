@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-19-rea",
+  "title": "morluto/rea",
+  "source": "github_trending",
+  "source_url": "https://github.com/morluto/rea",
+  "author": "morluto",
+  "published_at": "2026-04-14T00:51:32Z",
+  "collected_at": "2026-11-19T16:57:24.685408+00:00",
+  "summary": "morluto/rea 是一个基于智能体（Agent）的开源逆向工程工具，宣称可对任意目标进行逆向分析，覆盖从应用层行为到原生二进制文件的多个层次。项目通过编排 AI Agent 自动完成侦察、行为观察与二进制分析等任务，降低逆向工程门槛。当前信息有限，具体实现、支持的平台与准确率尚待验证，适合作为 AI 辅助安全研究的探索性项目关注。",
+  "highlights": [
+    "以 Agent 驱动逆向工程，覆盖应用行为到原生二进制多个抽象层",
+    "定位为通用型逆向工具，宣称可对任意目标开展分析",
+    "体现 LLM/Agent 在安全分析与逆向领域的应用探索",
+    "项目信息较少，成熟度与实际效果需进一步验证"
+  ],
+  "tags": [
+    "Agent",
+    "Reverse Engineering",
+    "Security",
+    "LLM",
+    "Binary Analysis"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "方向新颖且契合 AI 辅助安全分析趋势，但项目信息有限、成熟度与效果尚未验证，价值存在不确定性。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 469569,
+    "language": "TypeScript"
+  }
+}

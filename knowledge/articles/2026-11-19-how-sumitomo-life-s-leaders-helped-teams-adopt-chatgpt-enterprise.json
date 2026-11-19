@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19-how-sumitomo-life-s-leaders-helped-teams-adopt-chatgpt-enterprise",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "author": "openai_blog",
+  "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-19T16:58:37.909769+00:00",
+  "summary": "OpenAI 发布住友生命保险使用 ChatGPT Enterprise 的客户案例。该公司将其用于调研保险公司、准备提案以及为投资分析编写代码。高管层的早期亲自使用成为推动全员采用的关键因素，体现了自上而下的企业 AI 落地路径。",
+  "highlights": [
+    "应用场景覆盖保险同业调研、提案准备与投资分析代码草拟",
+    "高管率先使用并示范，显著加速组织内部推广",
+    "属于企业级 ChatGPT Enterprise 的典型落地案例",
+    "展示了非技术行业（保险）对生成式 AI 的实际采纳方式"
+  ],
+  "tags": [
+    "ChatGPT",
+    "Enterprise",
+    "Adoption",
+    "Insurance",
+    "Case Study"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "案例对理解企业 AI 推广策略有参考价值，但缺乏量化效果与可复用方法论细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

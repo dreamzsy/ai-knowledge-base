@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-19-inside-the-codex-sandbox",
+  "title": "Inside the Codex sandbox",
+  "source": "rss",
+  "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+  "author": "openai_blog",
+  "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-19T16:58:40.421610+00:00",
+  "summary": "OpenAI 官方博客介绍 Codex 沙箱机制：Codex 在用户机器上执行命令时，通过受控的文件系统与网络限制保障安全，并跨 macOS、Linux、Windows 三大平台统一实施。文章说明沙箱如何约束命令的读写范围与网络访问，让开发者既能利用 Codex 自动执行任务，又能保留对本地环境的控制权，降低 AI 代理直接操作系统的风险。",
+  "highlights": [
+    "Codex 在本地执行命令时强制实施文件系统与网络访问限制",
+    "沙箱策略由用户配置，覆盖 macOS、Linux、Windows 多平台",
+    "强调在赋予 AI 代理执行能力的同时保留环境控制权",
+    "为 AI 编码代理的安全落地提供官方工程实践参考"
+  ],
+  "tags": [
+    "Codex",
+    "Sandbox",
+    "Agent",
+    "Security",
+    "OpenAI"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "来自 OpenAI 官方的 AI 编码代理沙箱安全实践，对构建可执行代理的团队有直接参考价值，但偏产品机制说明而非通用技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
