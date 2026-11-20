@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-20-program-as-weights-a-programming-paradigm-for-fuzzy-functions",
+  "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2607.02512",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 17 Nov 2026 06:55:46 -0600",
+  "collected_at": "2026-11-20T16:31:31.359751+00:00",
+  "summary": "该论文提出“程序即权重”（Program-as-Weights）编程范式，将模糊函数（如自然语言处理、感知等难以用精确规则表达的任务）直接编译为模型权重，而非编写显式代码。作者探讨了如何用训练替代传统编程逻辑，使程序行为由数据驱动，并讨论了该范式对软件工程、可解释性与调试的影响。",
+  "highlights": [
+    "提出将模糊函数编译为模型权重的新编程范式",
+    "用训练数据替代显式规则代码实现程序逻辑",
+    "探讨对软件工程、可解释性与调试的挑战",
+    "面向自然语言、感知等难以精确建模的任务"
+  ],
+  "tags": [
+    "LLM",
+    "Programming Paradigm",
+    "Neural Compilation",
+    "Software Engineering"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "提出有启发性的编程范式转变，但尚处概念探索阶段，落地价值待验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

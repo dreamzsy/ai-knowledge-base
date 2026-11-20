@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-20-explore-the-codex-security-plugin",
+  "title": "Explore the Codex Security Plugin",
+  "source": "rss",
+  "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "author": "openai_blog",
+  "published_at": "Thu, 19 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-20T16:31:49.972842+00:00",
+  "summary": "该页面是 OpenAI 面向企业用户发布的 Codex Security Plugin 演示视频，展示从安装配置到实际运行安全审查工作流的完整过程，并呈现插件在录制中输出的审查结果。内容以演示为主，未提供插件架构、检测规则或技术实现细节，适合作为了解 Codex 安全能力落地形态的入门材料。",
+  "highlights": [
+    "以视频演示形式展示 Codex Security Plugin 的端到端使用流程",
+    "覆盖从初始配置到查看安全审查结果的完整工作流",
+    "面向企业（business）场景，强调代码安全审查的实用落地",
+    "页面为演示性质，未披露插件内部机制与检测规则"
+  ],
+  "tags": [
+    "Codex",
+    "Security",
+    "CodeReview",
+    "OpenAI",
+    "DevTool"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "演示内容直观但信息密度低，缺少技术细节，仅适合作为产品能力概览。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

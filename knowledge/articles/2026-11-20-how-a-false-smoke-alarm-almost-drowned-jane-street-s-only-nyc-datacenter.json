@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-20-how-a-false-smoke-alarm-almost-drowned-jane-street-s-only-nyc-datacenter",
+  "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+  "source": "rss",
+  "source_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 11 Nov 2026 10:27:51 -0600",
+  "collected_at": "2026-11-20T16:31:35.208717+00:00",
+  "summary": "文章讲述 Jane Street 纽约唯一数据中心因一次误报的烟雾报警触发灭火系统，险些被水淹的事故复盘。作者梳理了事件经过、报警与灭火联动机制失效的原因，以及高密度交易机房在消防设计上的脆弱点，并讨论了误报成本、冗余设计与应急响应流程的改进方向，属于典型的数据中心可靠性事故案例。",
+  "highlights": [
+    "误报烟雾报警直接触发灭火系统，导致机房面临水浸风险",
+    "暴露消防联动逻辑缺乏人工确认与二次校验环节",
+    "单一数据中心承载关键交易业务，冗余与容灾设计受质疑",
+    "提出误报成本评估与应急响应流程改进建议"
+  ],
+  "tags": [
+    "Datacenter",
+    "Reliability",
+    "IncidentPostmortem",
+    "Infrastructure"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "事故复盘对基础设施可靠性有参考价值，但属个案经验，技术普适性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

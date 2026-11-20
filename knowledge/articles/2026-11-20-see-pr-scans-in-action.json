@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-20-see-pr-scans-in-action",
+  "title": "See PR scans in action",
+  "source": "rss",
+  "source_url": "https://openai.com/business/learn/pr-scans-demo",
+  "author": "openai_blog",
+  "published_at": "Thu, 19 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-20T16:31:48.085167+00:00",
+  "summary": "该页面是 OpenAI 商业学习板块的演示视频，展示 PR scans 功能在拉取请求工作流中的实际使用。演示者逐步讲解如何查看扫描结果、在 PR 中定位问题并完成审查，帮助团队理解该功能如何嵌入代码评审流程。内容偏产品演示与入门引导，未涉及技术实现细节或定价信息。",
+  "highlights": [
+    "演示 PR scans 在拉取请求工作流中的完整操作流程",
+    "展示如何查看和解读扫描结果并完成代码审查",
+    "面向企业团队的产品功能入门演示，非技术文档",
+    "有助于评估该功能与现有代码评审流程的集成方式"
+  ],
+  "tags": [
+    "CodeReview",
+    "PullRequest",
+    "DevTools",
+    "OpenAI",
+    "Workflow"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于产品演示视频，对了解 PR 扫描功能有参考价值，但缺乏技术深度与可复用信息。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-20-introducing-harness-adapters-adapt-your-favorite-model-to-your-harness-to-improve-performance-and-cost",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-20T16:31:51.616216+00:00",
+  "summary": "Hugging Face 发布 harness adapters，用于将任意模型适配到特定评测/运行框架（harness），以提升性能并降低成本。该方案面向大规模场景，通过轻量适配层减少模型与框架间的耦合，使同一模型可在不同 harness 中高效运行，兼顾评测一致性与推理开销。",
+  "highlights": [
+    "提出 harness adapters 机制，解耦模型与评测/运行框架",
+    "面向大规模场景，强调性能提升与成本降低",
+    "支持将任意模型适配到目标 harness，提升兼容性",
+    "由 Hugging Face 发布，具备生态集成潜力"
+  ],
+  "tags": [
+    "LLM",
+    "Evaluation",
+    "Adapter",
+    "Inference",
+    "HuggingFace"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "解决模型与评测框架适配的实际痛点，具工程价值，但影响范围偏工具链层面。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
