@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-21-why-your-fine-tuning-job-takes-longer-than-the-flops-say",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 18 Nov 2026 18:53:43 GMT",
+  "collected_at": "2026-11-21T15:50:31.308252+00:00",
+  "summary": "该博客探讨了微调任务实际耗时远超理论 FLOPs 估算的原因，指出数据加载、通信开销、GPU 利用率不足、检查点保存等非计算因素才是主要瓶颈，并给出更贴近真实的耗时预测方法，帮助工程师合理规划训练资源与时间预期。",
+  "highlights": [
+    "揭示理论 FLOPs 与实际训练耗时之间的巨大差距",
+    "分析数据加载、通信、GPU 利用率等非计算开销来源",
+    "提出更准确的微调耗时预测思路",
+    "对训练资源规划与工程实践有直接指导意义"
+  ],
+  "tags": [
+    "Fine-tuning",
+    "Training Efficiency",
+    "GPU Utilization",
+    "Performance"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "内容实用且切中工程痛点，但偏经验性分析，技术深度与普适性中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

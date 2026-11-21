@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-21-welcome-inkling-2-mini-cutting-edge-performance-for-your-local-setup",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/inkling2mini",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-21T15:50:25.479580+00:00",
+  "summary": "该博客介绍 Hugging Face 上发布的 Inkling 2 Mini 模型，主打在本地环境中提供前沿性能。文章围绕小参数量模型在消费级硬件上的部署展开，强调推理能力与资源占用的平衡，适合个人开发者与边缘场景使用。内容涉及模型能力展示、本地运行方式及与同类小模型的对比，体现小模型本地化趋势。",
+  "highlights": [
+    "发布面向本地部署的小型模型 Inkling 2 Mini",
+    "强调在消费级硬件上实现前沿性能",
+    "兼顾推理质量与资源效率的平衡",
+    "提供 Hugging Face 平台上的获取与使用入口"
+  ],
+  "tags": [
+    "LLM",
+    "Local Deployment",
+    "Small Model",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "小模型本地化部署有实用价值，但信息以发布介绍为主，技术深度与创新性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

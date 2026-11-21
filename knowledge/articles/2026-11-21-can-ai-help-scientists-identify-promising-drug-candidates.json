@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-21-can-ai-help-scientists-identify-promising-drug-candidates",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-medchembench",
+  "author": "openai_blog",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-21T15:50:20.783155+00:00",
+  "summary": "OpenAI 发布 MedChemBench，用于评估 AI 模型在早期药物发现中的能力，包括解读分子结构、基于实验证据推理以及筛选候选化合物。该基准聚焦药物化学真实任务，衡量模型能否辅助科学家识别有潜力的候选药物，为 AI 在药物研发中的可靠性提供量化参考。",
+  "highlights": [
+    "OpenAI 推出面向药物化学的评测基准 MedChemBench",
+    "考察模型解读分子结构与化学信息的能力",
+    "要求模型基于实验证据进行推理并选择化合物",
+    "为 AI 辅助早期药物发现提供量化评估依据"
+  ],
+  "tags": [
+    "Benchmark",
+    "DrugDiscovery",
+    "Chemistry",
+    "LLM",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "由 OpenAI 发布的领域专用基准，对评估 AI 在药物发现中的实际能力有较高参考价值，但应用范围偏垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

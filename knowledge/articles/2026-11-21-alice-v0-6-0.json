@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-21-alice-v0-6-0",
+  "title": "Alice v0.6.0",
+  "source": "rss",
+  "source_url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 20 Nov 2026 10:44:09 -0600",
+  "collected_at": "2026-11-21T15:50:08.380751+00:00",
+  "summary": "Alice v0.6.0 是 OCaml 生态中 Alice 项目的新版本发布公告。Alice 是一个用于 OCaml 的静态站点生成器与 Web 框架工具，本次更新涉及版本迭代与功能改进。由于原始描述仅包含 Lobste.rs 评论链接，具体变更细节需查阅博客正文。该发布对使用 OCaml 构建静态网站或 Web 应用的开发者具有参考价值，属于小众语言生态的常规工具更新。",
+  "highlights": [
+    "Alice 项目发布 v0.6.0 版本，面向 OCaml 生态",
+    "Alice 是 OCaml 的静态站点生成器/Web 工具",
+    "原始描述仅含 Lobste.rs 讨论链接，细节需查原文",
+    "属于小众语言生态的常规版本迭代"
+  ],
+  "tags": [
+    "OCaml",
+    "Static Site Generator",
+    "Web Framework",
+    "Release"
+  ],
+  "language": "zh",
+  "score": 0.35,
+  "score_reason": "小众语言生态的常规版本更新，信息量有限，仅对 OCaml Web 开发者有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

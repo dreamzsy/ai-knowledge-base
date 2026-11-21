@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-21-how-openai-s-performance-factory-keeps-chatgpt-fast",
+  "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "author": "openai_blog",
+  "published_at": "Thu, 19 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-21T15:50:23.110989+00:00",
+  "summary": "OpenAI 介绍了其内部构建的 Performance Factory 系统，这是一套由 Codex 驱动的自动化工作流体系，用于持续发现并修复 ChatGPT 的性能问题，从而保障其响应速度。文章展示了如何借助 AI 编码代理将性能优化流程工程化、规模化，覆盖问题检测、定位与修复环节，体现了 AI 辅助研发运维在超大规模产品中的落地实践。",
+  "highlights": [
+    "基于 Codex 构建自动化性能优化工作流，实现问题发现与修复闭环",
+    "将 AI 编码代理用于生产级性能工程，而非仅代码生成",
+    "支撑 ChatGPT 超大规模服务的持续性能保障",
+    "展示了 AI 驱动研发运维（AIOps）的工程化落地路径"
+  ],
+  "tags": [
+    "Codex",
+    "Performance",
+    "Automation",
+    "AIOps",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "展示了 AI 编码代理在真实大规模性能工程中的系统化落地，对工程团队有较强借鉴价值，但偏内部实践分享、细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
