@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-22-ponytail",
+  "title": "DietrichGebert/ponytail",
+  "source": "github_trending",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "author": "DietrichGebert",
+  "published_at": "2026-06-12T00:52:37Z",
+  "collected_at": "2026-11-22T15:48:43.140747+00:00",
+  "summary": "ponytail 是一个面向 AI 编程代理的开源提示词与行为框架，核心理念是让代理像“最懒的资深开发者”一样思考：能不写代码就不写，优先复用现有实现、删除冗余逻辑、以最小改动解决问题。项目通过约束代理的生成倾向，减少过度工程与无谓代码量，从而降低维护成本与出错概率，适合追求简洁、务实的 AI 辅助开发流程。",
+  "highlights": [
+    "以“最好的代码是没写的代码”为核心原则，抑制 AI 过度生成",
+    "引导代理模仿资深开发者的偷懒式思维：复用、删减、最小改动",
+    "可作为提示词或行为约束层接入现有 AI 编程代理工作流",
+    "目标是减少过度工程，降低代码量与长期维护负担"
+  ],
+  "tags": [
+    "Agent",
+    "Prompt Engineering",
+    "Code Generation",
+    "Developer Tools"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "理念新颖且实用，对抑制 AI 过度编码有参考价值，但项目偏提示词层面、技术深度与可验证性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 196726,
+    "language": "JavaScript"
+  }
+}

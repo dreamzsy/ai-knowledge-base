@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-22-alice-v0-6-0",
+  "title": "Alice v0.6.0",
+  "source": "rss",
+  "source_url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 20 Nov 2026 10:44:09 -0600",
+  "collected_at": "2026-11-22T15:49:12.913571+00:00",
+  "summary": "Alice v0.6.0 是 OCaml 语言生态中 Alice 项目的新版本发布公告。Alice 为 OCaml 提供类似 Scala 的语法扩展与工具链，降低语言使用门槛。该版本更新涉及编译器前端、语法糖与构建集成等改进，具体变更需查阅官方博客。对 OCaml 开发者与函数式编程爱好者具有参考价值，但与 AI 技术栈关联较弱。",
+  "highlights": [
+    "Alice 项目发布 v0.6.0 版本，面向 OCaml 生态的语法扩展工具",
+    "提供更友好的类 Scala 语法，降低 OCaml 学习与使用门槛",
+    "版本更新涉及编译器前端与构建集成等改进",
+    "属于函数式编程语言工具链动态，与 AI 应用无直接关联"
+  ],
+  "tags": [
+    "OCaml",
+    "Compiler",
+    "Functional Programming",
+    "Language Tooling"
+  ],
+  "language": "zh",
+  "score": 0.25,
+  "score_reason": "属于编程语言工具链版本更新，与 AI 技术主题关联度低，仅对 OCaml 开发者有参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

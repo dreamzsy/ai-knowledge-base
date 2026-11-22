@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-22-welcome-inkling-2-mini-cutting-edge-performance-for-your-local-setup",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/inkling2mini",
+  "author": "huggingface_blog",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-22T15:49:29.730338+00:00",
+  "summary": "该博客宣布发布 Inkling 2 Mini 模型，主打在本地环境中提供前沿性能。作为轻量级模型，它面向个人设备或私有部署场景，强调在有限算力下兼顾推理质量与运行效率，降低使用门槛，便于开发者在本地完成推理、微调与原型验证，适合对数据隐私和离线运行有需求的用户。",
+  "highlights": [
+    "发布 Inkling 2 Mini 轻量级模型，面向本地部署场景",
+    "强调在本地硬件上实现前沿水平的性能表现",
+    "降低算力门槛，便于开发者进行本地推理与原型验证",
+    "契合隐私敏感与离线运行需求"
+  ],
+  "tags": [
+    "Local LLM",
+    "Edge AI",
+    "Model Release",
+    "Inference"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "本地轻量模型有实用价值，但信息有限且缺乏具体基准数据支撑性能声明。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

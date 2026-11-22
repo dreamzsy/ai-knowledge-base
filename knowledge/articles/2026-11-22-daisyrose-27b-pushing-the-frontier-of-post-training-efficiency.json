@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-22-daisyrose-27b-pushing-the-frontier-of-post-training-efficiency",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 18 Nov 2026 19:54:56 GMT",
+  "collected_at": "2026-11-22T15:49:33.542260+00:00",
+  "summary": "该博客介绍 DaisyRose-27B 模型，聚焦后训练效率的前沿探索。文章围绕如何在 27B 参数规模下降低后训练成本、提升训练与对齐效率展开，可能涉及数据配比、训练策略与算力优化等实践，为中小规模模型的高效后训练提供参考。",
+  "highlights": [
+    "聚焦 27B 参数模型的后训练效率优化",
+    "探讨降低后训练算力与数据成本的方法",
+    "为中小规模模型对齐与微调提供实践参考",
+    "发布于 Hugging Face 博客，附带模型资源"
+  ],
+  "tags": [
+    "Post-Training",
+    "LLM",
+    "Fine-Tuning",
+    "Model Efficiency"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "主题切中后训练效率这一实用方向，但缺乏描述细节，实际方法创新度需进一步验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

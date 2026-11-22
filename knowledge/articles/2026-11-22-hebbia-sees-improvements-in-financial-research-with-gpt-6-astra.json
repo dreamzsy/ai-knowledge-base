@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-22-hebbia-sees-improvements-in-financial-research-with-gpt-6-astra",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/hebbia",
+  "author": "openai_blog",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-22T15:49:23.734933+00:00",
+  "summary": "OpenAI 发布 Hebbia 客户案例：Hebbia 在财务研究场景中测试了预发布版 GPT-6 Astra，评估显示其在信息源覆盖度、引用相关性和结果呈现质量三方面均有提升。该案例属于企业级应用验证，说明新一代模型在需要高准确引用与多源检索的专业研究任务上具备实用价值，但公开信息仅为厂商侧结论，缺少量化基准与独立复现。",
+  "highlights": [
+    "Hebbia 在正式发布前对 GPT-6 Astra 进行了财务研究场景的预发布评估",
+    "改进集中在信息源覆盖范围、引用相关性与输出呈现质量三个维度",
+    "案例由 OpenAI 官方发布，属于企业客户故事而非独立第三方评测",
+    "未披露具体量化指标、对比基线模型与测试数据集细节"
+  ],
+  "tags": [
+    "LLM",
+    "RAG",
+    "Enterprise",
+    "Finance",
+    "Evaluation"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "展示了新一代模型在专业研究检索与引用场景的落地进展，但信息来自厂商客户案例，缺乏可复现的量化数据，参考价值中等。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
