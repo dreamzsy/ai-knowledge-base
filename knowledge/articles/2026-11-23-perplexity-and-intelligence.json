@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-23-perplexity-and-intelligence",
+  "title": "Perplexity and Intelligence",
+  "source": "rss",
+  "source_url": "https://openai.com/index/perplexity-and-intelligence",
+  "author": "openai_blog",
+  "published_at": "Sun, 22 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-23T19:42:16.723853+00:00",
+  "summary": "OpenAI 发布文章探讨困惑度（Perplexity）作为衡量 AI 模型进展的指标，分析其如何反映模型能力，并讨论开发者为何可借助这一指标建立评估新兴能力的共享方法。文章属于概念性科普与评估方法论讨论，而非新模型或工具发布。",
+  "highlights": [
+    "以困惑度作为衡量语言模型能力进展的核心指标进行解读",
+    "讨论困惑度在评估模型新兴能力方面的适用性与局限",
+    "提出开发者可基于困惑度建立统一的模型评估共识",
+    "内容偏向评估方法论与概念科普，无具体产品或代码发布"
+  ],
+  "tags": [
+    "Evaluation",
+    "Perplexity",
+    "LLM",
+    "Metrics"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "提供了模型评估指标的思路性讨论，对关注评测方法的开发者有一定参考价值，但缺乏可直接落地的技术细节或工具。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

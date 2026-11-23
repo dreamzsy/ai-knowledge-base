@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-23-connected-intelligence-for-in-house-legal",
+  "title": "Connected intelligence for in-house legal",
+  "source": "rss",
+  "source_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "author": "openai_blog",
+  "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
+  "collected_at": "2026-11-23T19:42:14.462352+00:00",
+  "summary": "OpenAI 官方发布一场面向企业法务团队的专题讨论，由 OpenAI 的 Stacey Wang、Craig Bruney，LECG 的 Mary O'Carroll 以及 Cooley 律所的 Richard Segal 共同探讨 AI 如何帮助内部法务团队整合业务上下文、构建可复用工作流，并更高效地利用外部律师资源。内容属于企业级 AI 应用案例分享，侧重法务场景的落地实践与协作模式，而非模型或产品技术细节。",
+  "highlights": [
+    "OpenAI 联合法律行业专家探讨 AI 在内部法务团队中的实际应用",
+    "强调将业务上下文与法务工作连接，提升决策质量",
+    "提出构建可复用工作流以规模化 AI 价值",
+    "关注如何借助 AI 更高效地管理与外部律所的合作"
+  ],
+  "tags": [
+    "Enterprise AI",
+    "Legal Tech",
+    "Workflow Automation",
+    "AI Adoption"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于企业法务场景的 AI 应用分享，有行业参考价值但缺乏技术深度与可复用方法细节。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

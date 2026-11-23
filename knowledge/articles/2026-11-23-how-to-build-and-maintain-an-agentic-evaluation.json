@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-23-how-to-build-and-maintain-an-agentic-evaluation",
+  "title": "How to build and maintain an agentic evaluation",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agentic-evals",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 23 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-23T19:42:23.907348+00:00",
+  "summary": "本文来自 Hugging Face 博客，系统讲解如何构建与维护面向智能体（Agent）的评测体系。内容围绕智能体评测的特殊挑战展开，包括多步任务分解、工具调用正确性、轨迹级评估、环境可复现性以及评测集随模型迭代的持续维护，强调评测需像产品一样长期运营而非一次性跑分。",
+  "highlights": [
+    "针对 Agent 多步执行与工具调用设计轨迹级评测，而非只看最终答案",
+    "强调评测环境的可复现性与稳定性，避免结果漂移",
+    "提出评测集需持续维护、随模型与任务演进迭代更新",
+    "给出从指标设计到长期运营的工程化实践建议"
+  ],
+  "tags": [
+    "Agent",
+    "Evaluation",
+    "LLM",
+    "Benchmark",
+    "ToolUse"
+  ],
+  "language": "zh",
+  "score": 0.82,
+  "score_reason": "Agent 评测是当前落地痛点，文章提供可操作的构建与维护方法论，实用性强但偏实践指南而非新方法。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
