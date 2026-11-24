@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-24-openai-and-cisco-introduce-shirudo",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-shirudo",
+  "author": "openai_blog",
+  "published_at": "Mon, 23 Nov 2026 21:20:00 GMT",
+  "collected_at": "2026-11-24T19:14:54.615948+00:00",
+  "summary": "OpenAI 与 Cisco 联合推出 Shirudo，一个面向 Linux 的开源运行时，帮助团队在滚动部署补丁期间保护正在运行的系统。其核心价值在于为补丁窗口期提供运行时防护，降低因漏洞未及时修复而暴露的风险，属于安全与运维交叉领域的基础设施工具。",
+  "highlights": [
+    "由 OpenAI 与 Cisco 联合发布，定位为 Linux 开源运行时",
+    "聚焦补丁滚动部署期间的运行系统保护",
+    "面向企业团队的安全运维场景",
+    "以开源形式提供，便于集成与审计"
+  ],
+  "tags": [
+    "Linux",
+    "Runtime",
+    "Security",
+    "OpenSource",
+    "Patching"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "解决补丁窗口期系统暴露的真实痛点，且有头部厂商背书与开源属性，但应用范围相对垂直。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-24-firecrawl",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "author": "firecrawl",
+  "published_at": "2024-04-15T21:02:29Z",
+  "collected_at": "2026-11-24T19:14:18.065100+00:00",
+  "summary": "Firecrawl 是一个为 AI 智能体提供知识基础设施的开源项目，通过统一 API 实现搜索、抓取和访问 550 多个数据提供商。它简化了智能体获取外部数据的过程，支持网页抓取、搜索和结构化数据提取，旨在让智能体更智能。该项目在 GitHub 上开源，提供 API 接口，便于集成到各种 AI 应用中。",
+  "highlights": [
+    "统一 API 访问 550+ 数据提供商，简化智能体数据获取",
+    "支持搜索、抓取和结构化数据提取，增强智能体知识",
+    "开源项目，便于集成和定制，提升 AI 应用能力"
+  ],
+  "tags": [
+    "Agent",
+    "API",
+    "Web Scraping",
+    "Knowledge Infrastructure",
+    "Data Access"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "项目提供统一 API 整合多数据源，显著简化智能体知识获取，具有较高实用价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 208730,
+    "language": "TypeScript"
+  }
+}

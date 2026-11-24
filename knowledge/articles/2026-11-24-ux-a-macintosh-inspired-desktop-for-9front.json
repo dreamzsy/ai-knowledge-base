@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-24-ux-a-macintosh-inspired-desktop-for-9front",
+  "title": "9/UX: a Macintosh-inspired desktop for 9front",
+  "source": "rss",
+  "source_url": "https://progrium.github.io/9ux/",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 24 Nov 2026 12:37:29 -0600",
+  "collected_at": "2026-11-24T19:14:37.779119+00:00",
+  "summary": "该项目为 9front 操作系统设计了一款受 Macintosh 启发的桌面环境，旨在提升其可用性。作者在 The Register 上撰文介绍了这一成果，认为这是一项惊人的努力，能显著改善 9front 的使用体验。然而，由于项目借助了机器人辅助开发，作者担心 9front 社区可能不会接受。项目在 Lobsters 上引发了讨论。",
+  "highlights": [
+    "为 9front 操作系统构建了 Macintosh 风格的桌面环境，大幅提升易用性。",
+    "作者认为该项目是惊人的努力，能显著改善 9front 的可用性。",
+    "项目开发过程中使用了机器人辅助，可能导致社区接受度存疑。",
+    "相关讨论在 Lobsters 社区展开，引发关注。"
+  ],
+  "tags": [
+    "Desktop Environment",
+    "9front",
+    "Macintosh",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.65,
+  "score_reason": "项目创意独特且能提升小众系统的可用性，但机器人辅助开发可能影响社区接纳，实际价值待观察。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

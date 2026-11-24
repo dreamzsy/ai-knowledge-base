@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-24-how-to-build-and-maintain-an-agentic-evaluation",
+  "title": "How to build and maintain an agentic evaluation",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agentic-evals",
+  "author": "huggingface_blog",
+  "published_at": "Mon, 23 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-24T19:15:05.764215+00:00",
+  "summary": "该 Hugging Face 博客文章系统讲解如何构建与维护面向智能体（Agent）的评估体系。内容涵盖评估目标定义、任务与环境设计、指标选择、自动化评测流水线搭建，以及随模型与工具演进持续维护评估集的方法，强调可复现性与防止评估集过时或污染，为 Agent 开发者提供工程化实践指南。",
+  "highlights": [
+    "给出 Agent 评估从目标定义到指标设计的完整流程",
+    "强调可复现的自动化评测流水线与环境搭建",
+    "讨论评估集随模型迭代的维护、更新与防污染",
+    "指出传统静态基准难以覆盖多步工具调用场景"
+  ],
+  "tags": [
+    "Agent",
+    "Evaluation",
+    "Benchmark",
+    "LLM",
+    "MLOps"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "面向 Agent 评估的工程化实践指南，实用性强但偏方法论、缺少具体代码实现。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-24-energy-based-reasoners-your-recurrent-reasoner-should-be-an-energy-based-model",
+  "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+  "source": "rss",
+  "source_url": "https://energy-based-reasoners.github.io/",
+  "author": "lobsters_ai",
+  "published_at": "Wed, 18 Nov 2026 08:45:20 -0600",
+  "collected_at": "2026-11-24T19:14:43.343070+00:00",
+  "summary": "该项目提出将循环推理器（recurrent reasoner）建模为基于能量的模型（Energy-Based Model, EBM），主张用能量函数刻画推理状态，通过能量最小化实现迭代推理与收敛，而非依赖传统前馈或纯循环网络。文章从理论角度论证 EBM 与循环推理结构的天然契合性，并讨论其在推理稳定性、不确定性表达和自适应计算方面的潜在优势，属于面向推理架构设计的研究性提案。",
+  "highlights": [
+    "主张循环推理器应建模为基于能量的模型，用能量最小化驱动迭代推理",
+    "从理论上论证 EBM 与循环推理结构在状态收敛和不确定性表达上的契合",
+    "探讨 EBM 在推理稳定性与自适应计算方面的潜在优势",
+    "属于推理架构设计方向的研究性提案，而非成熟工程实现"
+  ],
+  "tags": [
+    "Energy-Based Model",
+    "Recurrent Networks",
+    "Reasoning",
+    "Deep Learning"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "提出了有理论价值的推理架构新视角，但尚处概念论证阶段，缺乏实证与工程落地。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
