@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25-tidal-bans-ai-generated-music",
+  "title": "Tidal bans AI-generated music",
+  "source": "rss",
+  "source_url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 24 Nov 2026 16:12:38 +0000",
+  "collected_at": "2026-11-25T18:18:51.528757+00:00",
+  "summary": "音乐流媒体平台 Tidal 宣布禁止 AI 生成音乐，成为首批明确限制 AI 音乐内容的主流平台之一。该消息在 Hacker News 引发 334 分、324 条评论的热议，讨论集中在版权归属、平台审核机制、AI 创作与人类艺术边界等议题。此举反映出版权方与平台对生成式 AI 冲击内容生态的防御性策略，也预示 AI 生成内容治理将从文本、图像延伸至音频领域。",
+  "highlights": [
+    "Tidal 成为首批明确禁止 AI 生成音乐的主流流媒体平台",
+    "HN 讨论热度高（334 分/324 评论），争议集中在版权与创作伦理",
+    "平台审核 AI 音频内容的技术与执行难度成为关注焦点",
+    "反映生成式 AI 内容治理从文本图像向音乐领域扩展"
+  ],
+  "tags": [
+    "AI-Generated-Content",
+    "Music-Streaming",
+    "Copyright",
+    "Content-Moderation",
+    "Policy"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "属于 AI 内容治理的重要行业信号，但缺乏技术细节与可复用方案，价值偏资讯层面。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

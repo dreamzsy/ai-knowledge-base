@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25-microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac-lab-and-newton",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "author": "huggingface_blog",
+  "published_at": "Tue, 24 Nov 2026 16:34:13 GMT",
+  "collected_at": "2026-11-25T18:19:26.338229+00:00",
+  "summary": "该博客介绍 NVIDIA 基于 Isaac Lab 与 Newton 物理引擎构建的 Microduck 避障 Sim2Real 工作流，展示如何在高保真仿真中训练四足/轮式小型机器人避障策略，并通过域随机化与系统辨识缩小仿真到现实的差距，最终在真实硬件上部署验证，为机器人强化学习落地提供可复现的端到端范例。",
+  "highlights": [
+    "基于 Isaac Lab 与 Newton 物理引擎搭建高保真仿真训练环境",
+    "采用域随机化与系统辨识实现仿真到现实（Sim2Real）迁移",
+    "覆盖策略训练、仿真验证到真机部署的完整避障工作流",
+    "为机器人强化学习落地提供可复现的端到端参考范例"
+  ],
+  "tags": [
+    "Sim2Real",
+    "Isaac Lab",
+    "Reinforcement Learning",
+    "Robotics",
+    "Obstacle Avoidance"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "提供可复现的官方 Sim2Real 避障全流程实践，对机器人强化学习落地有较高参考价值，但偏工程教程而非方法创新。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25-hill-climbing-inkling-2-mini-inference-on-one-rtx-pro-6000",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 25 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-25T18:19:24.167524+00:00",
+  "summary": "该博客介绍在单张 NVIDIA RTX PRO 6000 显卡上对 Inkling 2 Mini 模型进行推理的爬山式优化实践，通过逐步调优显存管理、批处理策略与算子实现，在单卡条件下提升吞吐并降低延迟，展示了消费级/工作站级 GPU 部署中型模型的可行路径与工程细节。",
+  "highlights": [
+    "在单张 RTX PRO 6000 上完成 Inkling 2 Mini 的推理部署与性能调优",
+    "采用爬山式迭代方法逐步优化显存占用、批处理与算子效率",
+    "给出单卡场景下吞吐与延迟的实测对比与工程经验",
+    "验证工作站级 GPU 运行中型模型的可行性与性价比"
+  ],
+  "tags": [
+    "Inference",
+    "GPU",
+    "Optimization",
+    "LLM",
+    "Deployment"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "提供单卡推理优化的具体工程实践与实测数据，对资源受限部署有参考价值，但适用范围偏特定模型与硬件。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

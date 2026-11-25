@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25-an-indic-voice-agent-with-cuga",
+  "title": "An Indic Voice Agent with CUGA",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 25 Nov 2026 10:22:09 GMT",
+  "collected_at": "2026-11-25T18:19:22.181582+00:00",
+  "summary": "IBM Research 在 Hugging Face 博客发布文章，介绍基于 CUGA 构建的印度语语音 Agent。该方案面向印度多语言场景，将语音识别、语言理解与对话式 Agent 能力结合，支持用户以本地语言通过语音完成交互任务。文章展示了 CUGA 在低资源、多语种语音 Agent 场景中的工程实践与架构思路，为开发者构建区域性语音助手提供参考。",
+  "highlights": [
+    "基于 CUGA 构建面向印度多语言的语音 Agent",
+    "融合语音识别与对话式 Agent 完成端到端交互",
+    "聚焦低资源、多语种本地化语音场景",
+    "由 IBM Research 发布，具备工程实践参考价值"
+  ],
+  "tags": [
+    "Voice Agent",
+    "Multilingual",
+    "Speech",
+    "Agent",
+    "CUGA"
+  ],
+  "language": "zh",
+  "score": 0.68,
+  "score_reason": "提供了多语种语音 Agent 的落地实践，但偏向区域性场景，通用性与技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

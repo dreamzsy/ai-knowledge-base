@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-25-stable-diffusion-webui",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "author": "AUTOMATIC1111",
+  "published_at": "2022-08-22T14:05:26Z",
+  "collected_at": "2026-11-25T18:18:47.358490+00:00",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是基于 Gradio 的 Stable Diffusion 浏览器图形界面，支持文生图、图生图、局部重绘、外扩、放大与批量处理，并可通过扩展和脚本接入 ControlNet、LoRA 等生态插件，是本地部署扩散模型最主流的交互入口之一。",
+  "highlights": [
+    "提供文生图、图生图、Inpaint、Outpaint 等完整推理工作流",
+    "内置提示词、采样器、步数、CFG 等参数调节与批量生成",
+    "支持扩展与脚本机制，可接入 ControlNet、LoRA、自定义模型",
+    "跨平台本地部署，社区生态庞大、文档与教程丰富"
+  ],
+  "tags": [
+    "Stable Diffusion",
+    "WebUI",
+    "Gradio",
+    "Image Generation",
+    "Extension"
+  ],
+  "language": "zh",
+  "score": 0.9,
+  "score_reason": "作为扩散模型最主流的本地 Web 交互界面，生态成熟、扩展性强，对 AI 图像生成实践价值极高。",
+  "status": "draft",
+  "channels": [],
+  "extra": {
+    "stars": 165381,
+    "language": "Python"
+  }
+}

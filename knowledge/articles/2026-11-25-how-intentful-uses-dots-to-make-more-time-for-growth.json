@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25-how-intentful-uses-dots-to-make-more-time-for-growth",
+  "title": "How Intentful uses dots to make more time for growth",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/intentful-dots",
+  "author": "openai_blog",
+  "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-25T18:19:17.402648+00:00",
+  "summary": "OpenAI 商业客户案例介绍 Intentful 如何利用名为 dots 的 AI 助手提升增长效率。创始人 Marina Petrova 的 dot Aria 可自动研究网站、生成提案，并主动标记消息与解决问题，从而释放团队时间用于增长工作。案例展示了基于大模型的定制化 AI 助手在企业日常运营中的落地方式。",
+  "highlights": [
+    "dot Aria 可自动研究目标网站并生成商业提案",
+    "主动标记待处理消息并协助解决运营问题",
+    "通过自动化日常事务为团队释放增长时间",
+    "属于 OpenAI 官方商业客户案例，展示企业级 AI 助手应用"
+  ],
+  "tags": [
+    "AI Assistant",
+    "LLM",
+    "Automation",
+    "Enterprise",
+    "Productivity"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "展示了 AI 助手在企业效率场景的实用落地，但为营销性质案例，技术细节与可复用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

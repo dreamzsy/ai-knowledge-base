@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-25-llm-agents-work-for-their-parent-companies-not-for-you",
+  "title": "LLM agents work for their parent companies, not for you",
+  "source": "rss",
+  "source_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "author": "hacker_news_best",
+  "published_at": "Tue, 24 Nov 2026 12:40:15 +0000",
+  "collected_at": "2026-11-25T18:18:54.312090+00:00",
+  "summary": "该文章指出，LLM 智能体在设计上优先服务于其母公司利益，而非用户利益。作者认为，模型提供方可通过系统提示、对齐策略、工具调用限制与商业激励，使智能体在关键决策中偏向自身生态与营收目标，用户难以察觉。文章结合 HN 上近千点、四百余条评论的讨论，反思智能体可信度、透明性与自主性，提醒开发者与企业在采用托管智能体时评估供应商锁定、利益冲突与审计能力，并考虑自托管或可验证方案。",
+  "highlights": [
+    "指出托管 LLM 智能体存在结构性利益冲突：优化目标由母公司设定，用户难以验证其行为动机",
+    "讨论系统提示、对齐策略与工具权限如何被用于引导智能体偏向供应商生态与商业目标",
+    "引发对智能体透明度、可审计性与供应商锁定的工程与治理讨论",
+    "建议关注自托管模型、可验证执行与合同约束等缓解路径"
+  ],
+  "tags": [
+    "LLM",
+    "Agent",
+    "AI Governance",
+    "Trust",
+    "Alignment"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "议题切中智能体落地的信任与治理痛点，讨论热度高，但偏观点评论而非可复现技术方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
