@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-26-ml-modules-for-mere-mortals",
+  "title": "ML Modules for Mere Mortals",
+  "source": "rss",
+  "source_url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 13 Nov 2026 05:33:56 -0600",
+  "collected_at": "2026-11-26T18:00:08.429269+00:00",
+  "summary": "该文章以通俗方式介绍 ML（Meta Language）语言中的模块系统，面向不熟悉函数式编程的读者，讲解模块、签名、函子等核心概念及其在程序组织与抽象中的作用，帮助理解 ML 家族语言（如 OCaml、Standard ML）的模块设计思想。",
+  "highlights": [
+    "以入门友好视角解释 ML 模块系统的基本概念",
+    "涵盖签名与函子等高级抽象机制",
+    "帮助理解 OCaml、Standard ML 等语言的程序组织方式",
+    "面向对函数式编程模块化不熟悉的开发者"
+  ],
+  "tags": [
+    "ML",
+    "OCaml",
+    "Functional Programming",
+    "Modules",
+    "Type System"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "内容偏教学科普，对学习函数式语言模块系统有参考价值，但受众较窄且非前沿技术。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

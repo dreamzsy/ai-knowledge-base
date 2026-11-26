@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-26-alice-v0-6-0",
+  "title": "Alice v0.6.0",
+  "source": "rss",
+  "source_url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 20 Nov 2026 10:44:09 -0600",
+  "collected_at": "2026-11-26T18:00:06.403844+00:00",
+  "summary": "Alice v0.6.0 是 OCaml 生态中 Alice 项目的新版本发布公告，该页面为 Lobste.rs 社区讨论的聚合入口，正文内容主要为指向评论区的外部链接，未包含具体功能变更、性能数据或迁移说明等实质技术细节。",
+  "highlights": [
+    "Alice 项目发布 v0.6.0 版本，属于 OCaml 语言生态工具",
+    "原始内容仅为 Lobste.rs 讨论链接，缺少版本更新日志与功能说明",
+    "需访问评论区或项目仓库才能获取具体变更内容",
+    "对 OCaml 开发者有版本跟踪价值，但信息密度低"
+  ],
+  "tags": [
+    "OCaml",
+    "Release",
+    "Tooling",
+    "Community"
+  ],
+  "language": "zh",
+  "score": 0.25,
+  "score_reason": "仅为版本发布链接且无实质技术内容，参考价值有限，仅对 OCaml 生态跟踪者有一定意义。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

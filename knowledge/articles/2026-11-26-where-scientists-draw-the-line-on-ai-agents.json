@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-26-where-scientists-draw-the-line-on-ai-agents",
+  "title": "Where scientists draw the line on AI agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "author": "huggingface_blog",
+  "published_at": "Wed, 25 Nov 2026 18:52:55 GMT",
+  "collected_at": "2026-11-26T18:00:29.979797+00:00",
+  "summary": "该文基于 Hugging Face 博客，探讨科学家对 AI 智能体在科研中应用边界的看法。文章区分了可委托给智能体的自动化任务与必须由人类判断的环节，强调透明度、可复现性与责任归属，并讨论智能体在文献综述、实验设计、数据分析中的适用性与风险，为科研场景下的智能体部署提供原则性框架。",
+  "highlights": [
+    "明确科学家对 AI 智能体可介入科研环节的接受边界",
+    "强调科研中人类判断、责任归属与可复现性的不可替代",
+    "讨论智能体在文献综述、数据分析等任务中的适用与风险",
+    "提出科研场景下智能体部署的透明度与治理原则"
+  ],
+  "tags": [
+    "AI Agents",
+    "Scientific Research",
+    "Automation",
+    "Governance",
+    "Hugging Face"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "聚焦科研场景下智能体应用边界，具治理与落地参考价值，但偏观点性讨论。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-26-matrix-multiplication-is-n-2-25",
+  "title": "Matrix Multiplication is Θ(n^2.25)",
+  "source": "rss",
+  "source_url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "author": "lobsters_ai",
+  "published_at": "Tue, 24 Nov 2026 21:15:59 -0600",
+  "collected_at": "2026-11-26T17:59:56.119549+00:00",
+  "summary": "该预印本声称证明了矩阵乘法的时间复杂度下界为 Θ(n^2.25)，即矩阵乘法指数为 9/4，若成立将改写长期以来的理论认知。矩阵乘法指数 ω 的精确值一直是计算复杂性理论的核心开放问题，此前已知上界约为 2.37、平凡下界为 2。该工作由 OpenAI 相关仓库发布，引发社区讨论，但其证明正确性与严谨性尚待同行评审验证。",
+  "highlights": [
+    "声称证明矩阵乘法指数为 9/4，即 Θ(n^2.25) 的复杂度界",
+    "触及计算复杂性理论中长期开放的核心问题（ω 的精确值）",
+    "若成立将显著改变现有理论认知，但需严格同行评审验证",
+    "发布在 OpenAI 的 math 仓库预印本中，社区讨论活跃"
+  ],
+  "tags": [
+    "ComplexityTheory",
+    "MatrixMultiplication",
+    "Algorithms",
+    "Theory",
+    "Preprint"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "涉及重大理论开放问题且潜在影响深远，但结论尚未经同行评审验证，可信度存疑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

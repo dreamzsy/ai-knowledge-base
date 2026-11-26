@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-26-non-higher-order-construction-of-anf-via-mutable-holes",
+  "title": "Flat/non-higher-order construction of ANF via mutable holes",
+  "source": "rss",
+  "source_url": "https://blueberrywren.dev/blog/anf-mutable/",
+  "author": "lobsters_ml",
+  "published_at": "Wed, 25 Nov 2026 00:11:39 -0600",
+  "collected_at": "2026-11-26T18:00:04.352017+00:00",
+  "summary": "文章探讨如何在不使用高阶函数的前提下，通过可变空洞（mutable holes）以扁平方式构造 ANF（A-Normal Form，一种编译器中间表示）。作者给出具体实现思路，说明如何用可变占位符替代高阶递归构造，从而简化 ANF 的生成流程，并讨论该做法在编译器前端与函数式语言实现中的取舍。",
+  "highlights": [
+    "提出用可变空洞替代高阶函数来构造 ANF，降低抽象层级",
+    "面向编译器中间表示生成，属于函数式语言实现细节",
+    "强调扁平化构造带来的实现简洁性与可控性",
+    "附带社区讨论，涉及该方法的适用场景与权衡"
+  ],
+  "tags": [
+    "Compiler",
+    "ANF",
+    "FunctionalProgramming",
+    "IR"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "属于编译器实现层面的细分技巧，对相关领域开发者有参考价值，但受众较窄。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

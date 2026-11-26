@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-26-rebuilding-my-local-voice-assistant-pipeline",
+  "title": "Rebuilding my local voice assistant pipeline",
+  "source": "rss",
+  "source_url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 19 Nov 2026 13:50:25 -0600",
+  "collected_at": "2026-11-26T17:59:59.801632+00:00",
+  "summary": "作者重构了本地语音助手流水线，放弃原有方案，改用模块化架构整合语音唤醒、语音识别、意图理解和语音合成等环节，全部在本地设备运行以保护隐私并降低延迟。文章分享了架构选型、组件替换经验及踩坑教训，强调本地化语音助手在响应速度和数据隐私上的优势。",
+  "highlights": [
+    "重构本地语音助手流水线，全流程离线运行以保障隐私",
+    "采用模块化架构，便于替换 ASR、TTS 和意图理解组件",
+    "分享组件选型与工程实践中的踩坑经验",
+    "强调本地部署在延迟和隐私上的实际收益"
+  ],
+  "tags": [
+    "VoiceAssistant",
+    "LocalAI",
+    "ASR",
+    "TTS",
+    "Pipeline"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "提供了本地语音助手工程重构的实践经验，对隐私敏感场景有参考价值，但偏个人项目、通用性有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

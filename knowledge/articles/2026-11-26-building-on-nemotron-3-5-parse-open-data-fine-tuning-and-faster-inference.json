@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-26-building-on-nemotron-3-5-parse-open-data-fine-tuning-and-faster-inference",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 26 Nov 2026 05:05:36 GMT",
+  "collected_at": "2026-11-26T18:00:23.079591+00:00",
+  "summary": "NVIDIA 发布 Nemotron 3.5 Parse 的扩展实践，围绕开放数据、微调流程与推理加速展开。文章介绍如何利用开放数据集构建文档解析模型，给出微调方法与部署优化策略，帮助开发者在自有场景中复现并提升解析精度与吞吐，降低落地门槛。",
+  "highlights": [
+    "提供开放数据与微调方案，便于复现文档解析模型",
+    "给出推理加速与部署优化实践，提升吞吐",
+    "面向实际落地场景，降低定制化门槛"
+  ],
+  "tags": [
+    "Document Parsing",
+    "Fine-Tuning",
+    "Inference Optimization",
+    "Open Data",
+    "NVIDIA"
+  ],
+  "language": "zh",
+  "score": 0.78,
+  "score_reason": "开放数据加微调与推理优化组合实用，对文档解析落地有直接参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

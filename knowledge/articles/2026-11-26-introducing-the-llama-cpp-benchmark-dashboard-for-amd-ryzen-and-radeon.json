@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-26-introducing-the-llama-cpp-benchmark-dashboard-for-amd-ryzen-and-radeon",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "author": "huggingface_blog",
+  "published_at": "Thu, 26 Nov 2026 11:37:17 GMT",
+  "collected_at": "2026-11-26T18:00:21.255499+00:00",
+  "summary": "Hugging Face 博客发布 llama.cpp 在 AMD Ryzen 与 Radeon 平台上的基准测试仪表盘，汇总不同量化格式与模型规模下的推理性能数据，帮助用户在 AMD 硬件上选择配置并对比 CPU 与 GPU 后端表现。",
+  "highlights": [
+    "提供 llama.cpp 在 AMD Ryzen CPU 与 Radeon GPU 上的统一基准可视化",
+    "覆盖多种量化格式与模型规模，便于横向对比推理速度",
+    "降低 AMD 平台本地部署 LLM 的选型与调优门槛",
+    "数据来自 ggml-org 官方，具备较好参考价值"
+  ],
+  "tags": [
+    "llama.cpp",
+    "Benchmark",
+    "AMD",
+    "Inference",
+    "GGUF"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "对 AMD 平台本地推理选型有实用参考价值，但属于基准数据工具而非技术突破。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
