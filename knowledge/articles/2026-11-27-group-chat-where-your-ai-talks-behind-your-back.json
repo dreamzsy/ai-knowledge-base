@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-27-group-chat-where-your-ai-talks-behind-your-back",
+  "title": "Group chat where your AI talks behind your back",
+  "source": "rss",
+  "source_url": "https://construct22.com/",
+  "author": "hacker_news_best",
+  "published_at": "Fri, 27 Nov 2026 06:44:34 +0000",
+  "collected_at": "2026-11-27T17:45:21.092659+00:00",
+  "summary": "该内容指向 construct22.com 上的一个项目或文章，标题为“Group chat where your AI talks behind your back”，并在 Hacker News 上引发热议（568 分、247 条评论）。从标题推测，这是一个多智能体群聊场景：用户的 AI 代理在群聊中与其他 AI 或用户交互，甚至可能在用户不在场时“背后”讨论或行动，涉及 AI 代理自主性、多智能体协作与隐私边界等话题。具体技术细节需访问原文确认。",
+  "highlights": [
+    "标题暗示多 AI 代理群聊场景，AI 可在用户缺席时自主交流",
+    "Hacker News 热度高（568 分、247 评论），社区关注度强",
+    "涉及 AI 代理自主性、多智能体协作与用户隐私边界议题",
+    "具体实现与产品形态需访问 construct22.com 原文确认"
+  ],
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "LLM",
+    "Chatbot"
+  ],
+  "language": "zh",
+  "score": 0.62,
+  "score_reason": "多智能体群聊与 AI 自主性话题具讨论价值且社区反响热烈，但信息有限、技术深度待原文验证。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

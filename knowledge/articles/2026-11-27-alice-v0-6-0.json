@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-27-alice-v0-6-0",
+  "title": "Alice v0.6.0",
+  "source": "rss",
+  "source_url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+  "author": "lobsters_ml",
+  "published_at": "Fri, 20 Nov 2026 10:44:09 -0600",
+  "collected_at": "2026-11-27T17:45:37.210852+00:00",
+  "summary": "Alice ML 是 Standard ML 的衍生语言，v0.6.0 为其最新版本发布公告。该版本延续了 Alice 在函数式编程领域的探索，主要涉及编译器、运行时或标准库的更新与修复。由于原文描述仅包含 Lobsters 评论链接，具体变更细节有限，但该发布对关注 ML 系语言、函数式编程及编程语言研究的开发者具有一定参考价值。",
+  "highlights": [
+    "Alice ML 发布 v0.6.0 版本，属于 Standard ML 的衍生函数式语言",
+    "该版本为社区维护的编程语言实现更新，涉及编译器与运行时改进",
+    "发布信息通过 Lobsters 社区讨论传播，面向函数式编程爱好者",
+    "对 ML 系语言生态和编程语言研究具有参考意义"
+  ],
+  "tags": [
+    "Functional Programming",
+    "Standard ML",
+    "Programming Language",
+    "Compiler"
+  ],
+  "language": "zh",
+  "score": 0.45,
+  "score_reason": "属于小众函数式语言的常规版本更新，受众有限，但对编程语言研究者有一定参考价值。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

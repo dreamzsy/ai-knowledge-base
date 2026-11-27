@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-27-tracking-diseases-cured-by-ai",
+  "title": "Tracking Diseases Cured by AI",
+  "source": "rss",
+  "source_url": "https://diseasescuredbyai.com/",
+  "author": "hacker_news_best",
+  "published_at": "Thu, 26 Nov 2026 17:16:41 +0000",
+  "collected_at": "2026-11-27T17:45:24.633792+00:00",
+  "summary": "该内容介绍了一个名为 diseasescuredbyai.com 的网站，旨在追踪由 AI 技术辅助治愈的疾病案例，并在 Hacker News 上引发热议（315 分、191 条评论）。网站本身信息有限，讨论焦点集中在 AI 在药物研发与临床诊疗中的实际疗效证据、案例真实性与可验证性，以及如何界定“AI 治愈”的归因边界。",
+  "highlights": [
+    "以网站形式汇总 AI 辅助治愈疾病的案例，属于 AI 医疗应用的信息追踪项目",
+    "在 Hacker News 获得 315 分与 191 条评论，社区关注度高",
+    "讨论核心在于案例真实性、疗效归因与数据可验证性",
+    "反映公众对 AI 在生物医药与临床领域落地成效的期待与质疑"
+  ],
+  "tags": [
+    "AI for Science",
+    "Healthcare",
+    "Drug Discovery",
+    "Data Tracking"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "主题具有公共价值且社区反响热烈，但内容以案例汇总为主，缺乏系统方法与可验证数据支撑。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-27-how-ifood-scales-coding-agents-across-15-000-repositories",
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/ifood",
+  "author": "openai_blog",
+  "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+  "collected_at": "2026-11-27T17:45:47.571722+00:00",
+  "summary": "iFood 与 OpenAI 合作，将编码智能体（coding agents）规模化部署到 15,000 个代码仓库中，用于自动化代码维护、迁移与重构等工程任务。案例展示了大型工程组织如何借助大模型智能体处理跨仓库的重复性开发工作，提升研发效率并降低人工成本，为企业级 Agent 落地提供了参考范式。",
+  "highlights": [
+    "覆盖 15,000 个代码仓库的大规模编码智能体部署实践",
+    "聚焦代码维护、迁移、重构等重复性工程任务的自动化",
+    "体现企业级 AI Agent 在研发流程中的规模化落地路径",
+    "为大型工程组织评估编码智能体 ROI 提供参考案例"
+  ],
+  "tags": [
+    "Coding Agent",
+    "LLM",
+    "Enterprise",
+    "Software Engineering",
+    "Automation"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "大规模真实企业落地案例具有较高参考价值，但偏商业宣传、技术细节有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

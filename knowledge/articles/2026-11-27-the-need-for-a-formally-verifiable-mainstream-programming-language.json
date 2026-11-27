@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-27-the-need-for-a-formally-verifiable-mainstream-programming-language",
+  "title": "The need for a formally verifiable mainstream programming language",
+  "source": "rss",
+  "source_url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+  "author": "lobsters_ai",
+  "published_at": "Thu, 26 Nov 2026 14:06:50 -0600",
+  "collected_at": "2026-11-27T17:45:29.769982+00:00",
+  "summary": "文章主张主流编程语言应原生支持形式化验证，使开发者能在日常工程中低成本地证明程序正确性。作者认为现有语言与验证工具割裂，验证门槛高、难以规模化，呼吁设计兼顾可用性与可验证性的新语言，让形式化方法从学术走向工业实践。",
+  "highlights": [
+    "主张形式化验证应内建于主流语言而非作为外挂工具",
+    "指出现有验证工具门槛高、与日常开发流程割裂",
+    "强调可用性与可验证性需在设计层面统一",
+    "呼吁推动形式化方法从学术研究走向工业落地"
+  ],
+  "tags": [
+    "FormalVerification",
+    "ProgrammingLanguages",
+    "TypeSystems",
+    "SoftwareCorrectness"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "选题切中程序正确性痛点且论证清晰，但偏理念倡议，缺少具体语言设计与实现方案。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "source": "rss",
+    "title": "Group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 568 # Comments: 247",
+    "published_at": "Fri, 27 Nov 2026 06:44:34 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 981 # Comments: 464",
+    "published_at": "Thu, 26 Nov 2026 21:47:45 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Tracking Diseases Cured by AI",
+    "url": "https://diseasescuredbyai.com/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 315 # Comments: 191",
+    "published_at": "Thu, 26 Nov 2026 17:16:41 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "author": "hacker_news_best",
+    "summary_raw": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 403 # Comments: 326",
+    "published_at": "Thu, 26 Nov 2026 09:44:23 +0000",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+    "url": "https://www.draketo.de/software/curb-ai-impact",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lmxpfo/curb_impacts_ai_on_programming_maintain\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 27 Nov 2026 01:00:03 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Thu, 26 Nov 2026 14:06:50 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Matrix Multiplication is Θ(n^2.25)",
+    "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 24 Nov 2026 21:15:59 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "url": "https://progrium.github.io/9ux/",
+    "author": "lobsters_ai",
+    "summary_raw": "&lt;p&gt;I have written a story about this on the Register, but of course I can't post that here.&lt;/p&gt; &lt;p&gt;I think this is a quite astonishing effort and could make 9front &lt;em&gt;considerably&lt;/em&gt; more usable... but it's bot-assisted, so I don't think they'll take it.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Tue, 24 Nov 2026 12:37:29 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Flat/non-higher-order construction of ANF via mutable holes",
+    "url": "https://blueberrywren.dev/blog/anf-mutable/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 25 Nov 2026 00:11:39 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Alice v0.6.0",
+    "url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/18c0lq/alice_v0_6_0\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 20 Nov 2026 10:44:09 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "ML Modules for Mere Mortals",
+    "url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Fri, 13 Nov 2026 05:33:56 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "author": "lobsters_ml",
+    "summary_raw": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "published_at": "Wed, 11 Nov 2026 10:27:51 -0600",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "author": "openai_blog",
+    "summary_raw": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "published_at": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "author": "openai_blog",
+    "summary_raw": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "published_at": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "author": "openai_blog",
+    "summary_raw": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "author": "openai_blog",
+    "summary_raw": "",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Fri, 27 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 26 Nov 2026 05:05:36 GMT",
+    "extra": {}
+  },
+  {
+    "source": "rss",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "author": "huggingface_blog",
+    "summary_raw": "",
+    "published_at": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "extra": {}
+  }
+]

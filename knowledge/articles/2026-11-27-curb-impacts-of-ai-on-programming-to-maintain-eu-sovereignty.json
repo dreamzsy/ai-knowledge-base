@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-27-curb-impacts-of-ai-on-programming-to-maintain-eu-sovereignty",
+  "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+  "source": "rss",
+  "source_url": "https://www.draketo.de/software/curb-ai-impact",
+  "author": "lobsters_ai",
+  "published_at": "Fri, 27 Nov 2026 01:00:03 -0600",
+  "collected_at": "2026-11-27T17:45:28.058365+00:00",
+  "summary": "文章从欧洲数字主权角度出发，讨论如何限制 AI 对编程领域的冲击，主张通过政策与工程实践控制 AI 编程工具的过度渗透，以维护欧盟在软件基础设施上的自主性与开发者生态健康。",
+  "highlights": [
+    "以欧盟数字主权为出发点审视 AI 编程工具的普及",
+    "主张对 AI 在软件开发中的影响加以约束而非放任",
+    "关注开发者技能、开源生态与基础设施自主性",
+    "讨论政策与工程实践层面的应对路径"
+  ],
+  "tags": [
+    "AI Policy",
+    "Software Engineering",
+    "Digital Sovereignty",
+    "Open Source"
+  ],
+  "language": "zh",
+  "score": 0.55,
+  "score_reason": "议题具有政策与生态视角的讨论价值，但偏观点性论述，缺乏具体技术方案与实证数据。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-27-searching-for-distant-planets-with-astra",
+  "title": "Searching for distant planets with Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "author": "openai_blog",
+  "published_at": "Tue, 24 Nov 2026 11:00:00 GMT",
+  "collected_at": "2026-11-27T17:45:44.238719+00:00",
+  "summary": "OpenAI 发布案例，介绍两位业余天文学家借助 Codex 与 Astra 工具，分析 NASA 开普勒和 TESS 空间望远镜的公开数据，寻找潜在系外行星。该案例展示了 AI 编程助手在科学数据分析流程中的实际应用，体现大模型辅助科研数据挖掘的可行性，为业余科研爱好者利用 AI 工具参与天文发现提供了参考范例。",
+  "highlights": [
+    "展示 Codex 辅助编写数据分析代码，用于处理开普勒与 TESS 望远镜公开数据",
+    "两位业余天文学家借助 AI 工具完成潜在系外行星候选体的识别流程",
+    "体现大模型在科研数据处理与科学发现场景中的落地应用",
+    "为公众科学（citizen science）与 AI 结合提供可复用的实践案例"
+  ],
+  "tags": [
+    "Codex",
+    "AI4Science",
+    "DataAnalysis",
+    "Astronomy",
+    "LLM"
+  ],
+  "language": "zh",
+  "score": 0.72,
+  "score_reason": "真实科研场景中 AI 编程助手的落地案例，具参考价值但技术深度有限。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}

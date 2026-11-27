@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-27-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "author": "openai_blog",
+  "published_at": "Tue, 24 Nov 2026 13:00:00 GMT",
+  "collected_at": "2026-11-27T17:45:42.476712+00:00",
+  "summary": "OpenAI 发布研究称 GPT-6 模型展现出内在的蛋白质设计能力，能够通过推理与代码生成蛋白质结构与序列。实验室测试在五个靶点上发现了结合证据，表明通用大模型可跨界参与生物分子设计，为 AI 辅助药物发现与蛋白质工程提供了新路径，同时也引发对生物安全与模型能力边界的讨论。",
+  "highlights": [
+    "GPT-6 通过推理与代码生成完成蛋白质结构与序列设计",
+    "实验室验证在五个靶点上观察到结合证据",
+    "通用大模型展现跨领域科学设计能力，无需专用生物模型",
+    "为 AI 驱动药物发现与蛋白质工程提供新范式，并带来生物安全考量"
+  ],
+  "tags": [
+    "LLM",
+    "ProteinDesign",
+    "DrugDiscovery",
+    "AI4Science",
+    "Biosecurity"
+  ],
+  "language": "zh",
+  "score": 0.85,
+  "score_reason": "通用大模型在真实湿实验中获得蛋白质结合验证，属跨领域能力突破，但细节与可复现性仍待公开评估。",
+  "status": "draft",
+  "channels": [],
+  "extra": {}
+}
